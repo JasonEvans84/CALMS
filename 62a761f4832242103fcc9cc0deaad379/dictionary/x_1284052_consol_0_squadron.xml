@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="f61db9f083a242103fcc9cc0deaad33a" label="Squadron" max_length="40" name="x_1284052_consol_0_squadron" type="collection">
+        <element label="Wing" mandatory="true" max_length="32" name="wing" reference="x_1284052_consol_0_wing" type="reference"/>
+        <element label="Active" max_length="40" name="active" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element display="true" label="Squadron short name" max_length="40" name="squadron_short_name" type="string"/>
+        <element label="Squadron name" mandatory="true" max_length="100" name="squadron_name" type="string"/>
+        <index name="index">
+            <element name="wing"/>
+        </index>
+    </element>
+</database>

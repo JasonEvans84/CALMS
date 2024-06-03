@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="9fea65f8832242103fcc9cc0deaad3ee" sys_domain="global" table="x_1284052_consol_0_location" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-31 04:46:28</sys_created_on>
+            <sys_id>29360efc83a242103fcc9cc0deaad3af</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1284052_consol_0_location" sys_domain="global" view="Default view">9fea65f8832242103fcc9cc0deaad3ee</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-31 04:46:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>base.base_name</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-31 04:46:28</sys_created_on>
+            <sys_id>ad360efc83a242103fcc9cc0deaad3af</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1284052_consol_0_location" sys_domain="global" view="Default view">9fea65f8832242103fcc9cc0deaad3ee</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-31 04:46:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>wing.wing_short_name</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-31 04:46:28</sys_created_on>
+            <sys_id>25360efc83a242103fcc9cc0deaad3b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1284052_consol_0_location" sys_domain="global" view="Default view">9fea65f8832242103fcc9cc0deaad3ee</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-31 04:46:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>squadron.squadron_short_name</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-31 04:46:28</sys_created_on>
+            <sys_id>a9360efc83a242103fcc9cc0deaad3b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1284052_consol_0_location" sys_domain="global" view="Default view">9fea65f8832242103fcc9cc0deaad3ee</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-31 04:46:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>amu.amu_name</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-31 04:46:28</sys_created_on>
+            <sys_id>21360efc83a242103fcc9cc0deaad3b1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1284052_consol_0_location" sys_domain="global" view="Default view">9fea65f8832242103fcc9cc0deaad3ee</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-31 04:46:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>x_1284052_consol_0_location</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-31 02:47:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9fea65f8832242103fcc9cc0deaad3ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1284052_consol_0_location</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+            <sys_update_name>sys_ui_section_9fea65f8832242103fcc9cc0deaad3ee</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-31 02:47:15</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</application>
+        <file_path/>
+        <instance_id>08590c631ba5c29832182f8dee4bcb43</instance_id>
+        <instance_name>dev260572</instance_name>
+        <name>sys_ui_section_9fea65f8832242103fcc9cc0deaad3ee</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="9fea65f8832242103fcc9cc0deaad3ee" sys_domain="global" table="x_1284052_consol_0_location" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>number</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-05-31 04:46:28</sys_created_on><sys_id>29360efc83a242103fcc9cc0deaad3af</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1284052_consol_0_location" sys_domain="global" view="Default view">9fea65f8832242103fcc9cc0deaad3ee</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-05-31 04:46:28</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>base.base_name</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-05-31 04:46:28</sys_created_on><sys_id>ad360efc83a242103fcc9cc0deaad3af</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1284052_consol_0_location" sys_domain="global" view="Default view">9fea65f8832242103fcc9cc0deaad3ee</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-05-31 04:46:28</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>wing.wing_short_name</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-05-31 04:46:28</sys_created_on><sys_id>25360efc83a242103fcc9cc0deaad3b0</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1284052_consol_0_location" sys_domain="global" view="Default view">9fea65f8832242103fcc9cc0deaad3ee</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-05-31 04:46:28</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>squadron.squadron_short_name</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-05-31 04:46:28</sys_created_on><sys_id>a9360efc83a242103fcc9cc0deaad3b0</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1284052_consol_0_location" sys_domain="global" view="Default view">9fea65f8832242103fcc9cc0deaad3ee</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-05-31 04:46:28</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>amu.amu_name</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-05-31 04:46:28</sys_created_on><sys_id>21360efc83a242103fcc9cc0deaad3b1</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1284052_consol_0_location" sys_domain="global" view="Default view">9fea65f8832242103fcc9cc0deaad3ee</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-05-31 04:46:28</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_1284052_consol_0_location</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-05-31 02:47:15</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>9fea65f8832242103fcc9cc0deaad3ee</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1284052_consol_0_location</sys_name><sys_overrides/><sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package><sys_policy/><sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope><sys_update_name>sys_ui_section_9fea65f8832242103fcc9cc0deaad3ee</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-05-31 02:47:15</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>2051790661</payload_hash>
+        <record_name>Location</record_name>
+        <reverted_from/>
+        <source>e2a761f4832242103fcc9cc0deaad37d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-31 04:46:28</sys_created_on>
+        <sys_id>61360efc83a242103fcc9cc0deaad3b3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18fccf87db30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-31 04:46:28</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>29360efcb9a242101b4646e1bc3b29b2</update_guid>
+        <update_guid_history>29360efcb9a242101b4646e1bc3b29b2:2051790661,4d26cebc40a24210ef40c8b8182f4ff0:1134546816,72007db0e962421057da28b3fb16afea:1160537918,6fdf6d70176242107e85aa78adce6e7b:-1701155742,a60b29f836224210b3baf25df729d4ed:-2145747344,d3ea65f81822421078ac5670a37d94f3:1002048637,5bea65f852224210e3c4f40fb9a33df1:-2040669457</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-31 20:19:51</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>0e92fea523ec4850948b35998886fe84</sys_id>
+        <sys_metadata>9fea65f8832242103fcc9cc0deaad3ee</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1284052_consol_0_location</sys_name>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_parent display_value="">76ea6df8832242103fcc9cc0deaad3a2</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_scope_delete display_value="">52e6fb2b6ff440dcae7286a44d209be1</sys_scope_delete>
+        <sys_update_name>sys_ui_section_9fea65f8832242103fcc9cc0deaad3ee</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_9fea65f8832242103fcc9cc0deaad3ee">61360efc83a242103fcc9cc0deaad3b3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-31 20:19:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="cbc86938832242103fcc9cc0deaad376" label="Aircraft" max_length="40" name="x_1284052_consol_0_aircraft" type="collection">
+        <element label="Version" max_length="40" name="version" type="string"/>
+        <element label="Possessing wing" max_length="32" name="possessing_wing" reference="x_1284052_consol_0_wing" type="reference"/>
+        <element label="Active" max_length="40" name="active" type="boolean"/>
+        <element label="Assigned AMU" max_length="32" name="assigned_amu" reference="x_1284052_consol_0_amu" type="reference"/>
+        <element label="Owning wing" mandatory="true" max_length="32" name="owning_wing" reference="x_1284052_consol_0_wing" type="reference"/>
+        <element label="Serial number" mandatory="true" max_length="40" name="serial_number" type="string"/>
+        <element label="Assigned squadron" max_length="32" name="assigned_squadron" reference="x_1284052_consol_0_squadron" type="reference"/>
+        <element default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="sys_class_name" use_dynamic_default="true"/>
+        <element label="MDS" mandatory="true" max_length="32" name="mds" reference="x_1284052_consol_0_mds" type="reference"/>
+        <element label="Tail number" mandatory="true" max_length="40" name="tail_number" type="string"/>
+        <index name="index">
+            <element name="assigned_amu"/>
+        </index>
+        <index name="index2">
+            <element name="assigned_squadron"/>
+        </index>
+        <index name="index3">
+            <element name="mds"/>
+        </index>
+        <index name="index4">
+            <element name="owning_wing"/>
+        </index>
+        <index name="index5">
+            <element name="possessing_wing"/>
+        </index>
+        <index name="index6">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

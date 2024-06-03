@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_1284052_consol_0.ops_scheduler" name="x_1284052_consol_0.ops_scheduler">32a761f4832242103fcc9cc0deaad3db</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-31 02:33:02</sys_created_on>
+        <sys_id>3ea761f4832242103fcc9cc0deaad3db</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>32a761f4832242103fcc9cc0deaad3db</sys_name>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_update_name>sys_embedded_help_role_3ea761f4832242103fcc9cc0deaad3db</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-31 02:33:02</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

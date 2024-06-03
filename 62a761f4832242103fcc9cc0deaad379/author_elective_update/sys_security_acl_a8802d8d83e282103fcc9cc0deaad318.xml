@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>true</advanced>
+        <condition/>
+        <description/>
+        <local_or_existing>Local</local_or_existing>
+        <name>x_1284052_consol_0_technician</name>
+        <operation display_value="write">write</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-31 20:40:13</sys_created_on>
+        <sys_id>a8802d8d83e282103fcc9cc0deaad318</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1284052_consol_0_technician</sys_name>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_update_name>sys_security_acl_a8802d8d83e282103fcc9cc0deaad318</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-31 20:40:13</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</application>
+        <file_path/>
+        <instance_id>08590c631ba5c29832182f8dee4bcb43</instance_id>
+        <instance_name>dev260572</instance_name>
+        <name>sys_security_acl_a8802d8d83e282103fcc9cc0deaad318</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>true</advanced><condition/><description/><local_or_existing>Local</local_or_existing><name>x_1284052_consol_0_technician</name><operation display_value="write">write</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-05-31 20:40:13</sys_created_on><sys_id>a8802d8d83e282103fcc9cc0deaad318</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1284052_consol_0_technician</sys_name><sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package><sys_policy/><sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope><sys_update_name>sys_security_acl_a8802d8d83e282103fcc9cc0deaad318</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-05-31 20:40:13</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>-1210474311</payload_hash>
+        <record_name>x_1284052_consol_0_technician</record_name>
+        <reverted_from/>
+        <source>e2a761f4832242103fcc9cc0deaad37d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-31 20:40:13</sys_created_on>
+        <sys_id>60802d8d83e282103fcc9cc0deaad31b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18fd061af680000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-31 20:40:13</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>64802d8d79e282105b0651bf9fbf2b1a</update_guid>
+        <update_guid_history>64802d8d79e282105b0651bf9fbf2b1a:-1210474311</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-01 04:20:31</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>2e791db3a2a04c9e8f874411655fc524</sys_id>
+        <sys_metadata>a8802d8d83e282103fcc9cc0deaad318</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1284052_consol_0_technician</sys_name>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_parent display_value="">e570298d83e282103fcc9cc0deaad31c</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_scope_delete display_value="">52e6fb2b6ff440dcae7286a44d209be1</sys_scope_delete>
+        <sys_update_name>sys_security_acl_a8802d8d83e282103fcc9cc0deaad318</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_a8802d8d83e282103fcc9cc0deaad318">60802d8d83e282103fcc9cc0deaad31b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-01 04:20:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
