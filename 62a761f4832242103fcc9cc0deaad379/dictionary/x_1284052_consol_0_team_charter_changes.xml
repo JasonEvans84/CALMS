@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b6d4f35a832242103fcc9cc0deaad367" label="Team Charter Changes" max_length="40" name="x_1284052_consol_0_team_charter_changes" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Change notes" max_length="8000" name="change_notes" type="html"/>
+        <element label="Short description" mandatory="true" max_length="40" name="short_description" type="string"/>
+        <element label="Charter section" max_length="32" name="charter_section" reference="x_1284052_consol_0_team_charter" type="reference"/>
+        <index name="index">
+            <element name="charter_section"/>
+        </index>
+    </element>
+</database>
