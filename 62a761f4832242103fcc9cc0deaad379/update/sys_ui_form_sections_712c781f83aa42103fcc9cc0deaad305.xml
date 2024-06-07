@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="712c781f83aa42103fcc9cc0deaad305" sys_domain="global" table="x_1284052_consol_0_aircraft" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 17:47:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>422c781f83aa42103fcc9cc0deaad309</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1284052_consol_0_aircraft" name="x_1284052_consol_0_aircraft" sys_domain="global" view="Default view">712c781f83aa42103fcc9cc0deaad305</sys_ui_form>
+            <sys_ui_section caption="Basic Information" display_value="Basic Information" name="x_1284052_consol_0_aircraft" sys_domain="global" view="Default view">d7c8a574832242103fcc9cc0deaad302</sys_ui_section>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 17:47:44</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 17:47:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ce2c781f83aa42103fcc9cc0deaad309</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1284052_consol_0_aircraft" name="x_1284052_consol_0_aircraft" sys_domain="global" view="Default view">712c781f83aa42103fcc9cc0deaad305</sys_ui_form>
+            <sys_ui_section caption="Possession and Assignment Information" display_value="Possession and Assignment Information" name="x_1284052_consol_0_aircraft" sys_domain="global" view="Default view">352c781f83aa42103fcc9cc0deaad303</sys_ui_section>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 17:55:56</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 18:36:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a9374ddb83ea42103fcc9cc0deaad397</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1284052_consol_0_aircraft" name="x_1284052_consol_0_aircraft" sys_domain="global" view="Default view">712c781f83aa42103fcc9cc0deaad305</sys_ui_form>
+            <sys_ui_section caption="Aircraft Status Information" display_value="Aircraft Status Information" name="x_1284052_consol_0_aircraft" sys_domain="global" view="Default view">a1374ddb83ea42103fcc9cc0deaad395</sys_ui_section>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 18:36:02</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1284052_consol_0_aircraft</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 17:47:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>712c781f83aa42103fcc9cc0deaad305</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1284052_consol_0_aircraft</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+            <sys_update_name>sys_ui_form_sections_712c781f83aa42103fcc9cc0deaad305</sys_update_name>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 17:47:44</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

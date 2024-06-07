@@ -3,42 +3,70 @@
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>sys_created_on</element>
             <position>0</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-06-05 04:46:17</sys_created_on>
-            <sys_id>bf16ff9a832242103fcc9cc0deaad3ed</sys_id>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-05 04:50:43</sys_created_on>
+            <sys_id>2827fb1e832242103fcc9cc0deaad3af</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Author Info" display_value="Author Info" name="x_1284052_consol_0_team_charter" sys_domain="global" view="Default view">e316ff9a832242103fcc9cc0deaad3e5</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-06-05 04:46:17</sys_updated_on>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-05 04:50:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_on</element>
+            <position>1</position>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-05 04:50:43</sys_created_on>
+            <sys_id>a427fb1e832242103fcc9cc0deaad3b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Author Info" display_value="Author Info" name="x_1284052_consol_0_team_charter" sys_domain="global" view="Default view">e316ff9a832242103fcc9cc0deaad3e5</sys_ui_section>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-05 04:50:43</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>1</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-06-05 04:46:17</sys_created_on>
-            <sys_id>b716ff9a832242103fcc9cc0deaad3ee</sys_id>
+            <position>2</position>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-05 04:50:43</sys_created_on>
+            <sys_id>ac27fb1e832242103fcc9cc0deaad3b0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Author Info" display_value="Author Info" name="x_1284052_consol_0_team_charter" sys_domain="global" view="Default view">e316ff9a832242103fcc9cc0deaad3e5</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-06-05 04:46:17</sys_updated_on>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-05 04:50:43</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>sys_created_by</element>
-            <position>2</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-06-05 04:46:17</sys_created_on>
-            <sys_id>bf16ff9a832242103fcc9cc0deaad3ee</sys_id>
+            <position>3</position>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-05 04:50:43</sys_created_on>
+            <sys_id>a427fb1e832242103fcc9cc0deaad3b1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Author Info" display_value="Author Info" name="x_1284052_consol_0_team_charter" sys_domain="global" view="Default view">e316ff9a832242103fcc9cc0deaad3e5</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-06-05 04:46:17</sys_updated_on>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-05 04:50:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_by</element>
+            <position>4</position>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-05 04:50:43</sys_created_on>
+            <sys_id>ac27fb1e832242103fcc9cc0deaad3b1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Author Info" display_value="Author Info" name="x_1284052_consol_0_team_charter" sys_domain="global" view="Default view">e316ff9a832242103fcc9cc0deaad3e5</sys_ui_section>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-05 04:50:43</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

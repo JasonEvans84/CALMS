@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_section caption="" section_id="ffdca1bc832242103fcc9cc0deaad302" sys_domain="global" table="x_1284052_consol_0_majcom" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>command_name</element>
-            <position>1</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-05-31 02:56:07</sys_created_on>
-            <sys_id>09fc29bc832242103fcc9cc0deaad316</sys_id>
+            <element>command_code</element>
+            <position>0</position>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 18:52:58</sys_created_on>
+            <sys_id>ed1b8153832e42103fcc9cc0deaad3b5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1284052_consol_0_majcom" sys_domain="global" view="Default view">ffdca1bc832242103fcc9cc0deaad302</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-05-31 02:56:07</sys_updated_on>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 18:52:58</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>command_code</element>
-            <position>2</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-05-31 02:56:33</sys_created_on>
-            <sys_id>ab0d6dbc832242103fcc9cc0deaad329</sys_id>
+            <element>command_name</element>
+            <position>1</position>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 18:52:58</sys_created_on>
+            <sys_id>e51b8153832e42103fcc9cc0deaad3b6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1284052_consol_0_majcom" sys_domain="global" view="Default view">ffdca1bc832242103fcc9cc0deaad302</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-05-31 02:56:33</sys_updated_on>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 18:52:58</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>active</element>
-            <position>3</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-06-01 05:39:23</sys_created_on>
-            <sys_id>a2eb1b0583ae82103fcc9cc0deaad307</sys_id>
+            <position>2</position>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 18:52:58</sys_created_on>
+            <sys_id>ed1b8153832e42103fcc9cc0deaad3b6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1284052_consol_0_majcom" sys_domain="global" view="Default view">ffdca1bc832242103fcc9cc0deaad302</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-06-01 05:39:23</sys_updated_on>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 18:52:58</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

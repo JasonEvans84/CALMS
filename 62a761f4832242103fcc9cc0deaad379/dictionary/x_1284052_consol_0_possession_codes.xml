@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="1e79905f83e642103fcc9cc0deaad389" label="Possession Codes" max_length="40" name="x_1284052_consol_0_possession_codes" type="collection">
+        <element label="PPC name" max_length="400" name="ppc_name" type="string"/>
+    </element>
+</database>

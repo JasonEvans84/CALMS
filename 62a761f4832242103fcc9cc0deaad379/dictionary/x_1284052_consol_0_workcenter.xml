@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="b1a6463083e242103fcc9cc0deaad3c9" label="Workcenter" max_length="40" name="x_1284052_consol_0_workcenter" type="collection">
-        <element label="Active" max_length="40" name="active" type="boolean"/>
+        <element label="Unit" max_length="32" name="unit" reference="x_1284052_consol_0_unit" type="reference"/>
+        <element default="true" label="Active" max_length="40" name="active" type="boolean"/>
         <element display="true" label="Workcenter code" max_length="40" name="workcenter_code" type="string"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element label="Workcenter name" mandatory="true" max_length="40" name="workcenter_name" type="string"/>
-        <element label="AMU" max_length="32" name="amu" reference="x_1284052_consol_0_amu" type="reference"/>
         <index name="index">
-            <element name="amu"/>
+            <element name="unit"/>
         </index>
     </element>
 </database>

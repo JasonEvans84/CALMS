@@ -1,72 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_section caption="" section_id="571df5b8836242103fcc9cc0deaad35b" sys_domain="global" table="x_1284052_consol_0_squadron" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>number</element>
-            <position>0</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-05-31 04:06:44</sys_created_on>
-            <sys_id>d31df5b8836242103fcc9cc0deaad35f</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_1284052_consol_0_squadron" sys_domain="global" view="Default view">571df5b8836242103fcc9cc0deaad35b</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-05-31 04:06:44</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
             <element>squadron_name</element>
-            <position>1</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-05-31 04:07:15</sys_created_on>
-            <sys_id>433dbdf083a242103fcc9cc0deaad36f</sys_id>
+            <position>0</position>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 18:58:00</sys_created_on>
+            <sys_id>d33c41d3832e42103fcc9cc0deaad34d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1284052_consol_0_squadron" sys_domain="global" view="Default view">571df5b8836242103fcc9cc0deaad35b</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-05-31 04:07:15</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>squadron_short_name</element>
-            <position>2</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-05-31 04:07:29</sys_created_on>
-            <sys_id>d64d3df083a242103fcc9cc0deaad3b3</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_1284052_consol_0_squadron" sys_domain="global" view="Default view">571df5b8836242103fcc9cc0deaad35b</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-05-31 04:07:29</sys_updated_on>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 18:58:00</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>wing</element>
-            <position>3</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-05-31 04:08:08</sys_created_on>
-            <sys_id>407dfdf083a242103fcc9cc0deaad379</sys_id>
+            <position>1</position>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 18:58:00</sys_created_on>
+            <sys_id>db3c41d3832e42103fcc9cc0deaad34d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1284052_consol_0_squadron" sys_domain="global" view="Default view">571df5b8836242103fcc9cc0deaad35b</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-05-31 04:08:08</sys_updated_on>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 18:58:00</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>active</element>
-            <position>4</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-06-01 05:37:48</sys_created_on>
-            <sys_id>df8b170583ae82103fcc9cc0deaad38c</sys_id>
+            <position>2</position>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 18:58:00</sys_created_on>
+            <sys_id>d33c41d3832e42103fcc9cc0deaad34e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1284052_consol_0_squadron" sys_domain="global" view="Default view">571df5b8836242103fcc9cc0deaad35b</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-06-01 05:37:48</sys_updated_on>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 18:58:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 18:58:00</sys_created_on>
+            <sys_id>db3c41d3832e42103fcc9cc0deaad34e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1284052_consol_0_squadron" sys_domain="global" view="Default view">571df5b8836242103fcc9cc0deaad35b</sys_ui_section>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 18:58:00</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>squadron_short_name</element>
+            <position>4</position>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 18:58:00</sys_created_on>
+            <sys_id>d33c41d3832e42103fcc9cc0deaad34f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1284052_consol_0_squadron" sys_domain="global" view="Default view">571df5b8836242103fcc9cc0deaad35b</sys_ui_section>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 18:58:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>wing.wing_name</element>
+            <position>5</position>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 18:58:00</sys_created_on>
+            <sys_id>db3c41d3832e42103fcc9cc0deaad34f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1284052_consol_0_squadron" sys_domain="global" view="Default view">571df5b8836242103fcc9cc0deaad35b</sys_ui_section>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 18:58:00</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

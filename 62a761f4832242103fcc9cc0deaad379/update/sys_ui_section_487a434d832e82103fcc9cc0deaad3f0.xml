@@ -1,184 +1,100 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_section caption="Technician Information" section_id="487a434d832e82103fcc9cc0deaad3f0" sys_domain="global" table="x_1284052_consol_0_technician" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>number</element>
-            <position>0</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-06-01 06:57:33</sys_created_on>
-            <sys_id>efcd670d83ee82103fcc9cc0deaad37f</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Technician Information" display_value="Technician Information" name="x_1284052_consol_0_technician" sys_domain="global" view="Default view">487a434d832e82103fcc9cc0deaad3f0</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-06-01 06:57:33</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
             <element>tech_name</element>
-            <position>1</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-06-01 06:57:33</sys_created_on>
-            <sys_id>e7cd670d83ee82103fcc9cc0deaad380</sys_id>
+            <position>0</position>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 19:12:32</sys_created_on>
+            <sys_id>d89f49d7832e42103fcc9cc0deaad3e9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Technician Information" display_value="Technician Information" name="x_1284052_consol_0_technician" sys_domain="global" view="Default view">487a434d832e82103fcc9cc0deaad3f0</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-06-01 06:57:33</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>grade</element>
-            <position>2</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-06-01 06:57:33</sys_created_on>
-            <sys_id>efcd670d83ee82103fcc9cc0deaad380</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Technician Information" display_value="Technician Information" name="x_1284052_consol_0_technician" sys_domain="global" view="Default view">487a434d832e82103fcc9cc0deaad3f0</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-06-01 06:57:33</sys_updated_on>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 19:12:32</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>afsc</element>
-            <position>3</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-06-01 06:57:33</sys_created_on>
-            <sys_id>e7cd670d83ee82103fcc9cc0deaad381</sys_id>
+            <position>1</position>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 19:12:32</sys_created_on>
+            <sys_id>d09f49d7832e42103fcc9cc0deaad3ea</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Technician Information" display_value="Technician Information" name="x_1284052_consol_0_technician" sys_domain="global" view="Default view">487a434d832e82103fcc9cc0deaad3f0</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-06-01 06:57:33</sys_updated_on>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 19:12:32</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>skill_level</element>
-            <position>4</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-06-01 06:57:33</sys_created_on>
-            <sys_id>efcd670d83ee82103fcc9cc0deaad381</sys_id>
+            <position>2</position>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 19:12:32</sys_created_on>
+            <sys_id>d89f49d7832e42103fcc9cc0deaad3ea</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Technician Information" display_value="Technician Information" name="x_1284052_consol_0_technician" sys_domain="global" view="Default view">487a434d832e82103fcc9cc0deaad3f0</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-06-01 06:57:33</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>active</element>
-            <position>5</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-06-01 06:57:33</sys_created_on>
-            <sys_id>e7cd670d83ee82103fcc9cc0deaad382</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Technician Information" display_value="Technician Information" name="x_1284052_consol_0_technician" sys_domain="global" view="Default view">487a434d832e82103fcc9cc0deaad3f0</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-06-01 06:57:33</sys_updated_on>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 19:12:32</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>6</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-06-01 06:57:33</sys_created_on>
-            <sys_id>efcd670d83ee82103fcc9cc0deaad382</sys_id>
+            <position>3</position>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 19:12:32</sys_created_on>
+            <sys_id>d09f49d7832e42103fcc9cc0deaad3eb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Technician Information" display_value="Technician Information" name="x_1284052_consol_0_technician" sys_domain="global" view="Default view">487a434d832e82103fcc9cc0deaad3f0</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-06-01 06:57:33</sys_updated_on>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 19:12:32</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>majcom</element>
-            <position>7</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-06-01 06:57:33</sys_created_on>
-            <sys_id>e7cd670d83ee82103fcc9cc0deaad383</sys_id>
+            <element>grade</element>
+            <position>4</position>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 19:12:32</sys_created_on>
+            <sys_id>d89f49d7832e42103fcc9cc0deaad3eb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Technician Information" display_value="Technician Information" name="x_1284052_consol_0_technician" sys_domain="global" view="Default view">487a434d832e82103fcc9cc0deaad3f0</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-06-01 06:57:33</sys_updated_on>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 19:12:32</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>base</element>
-            <position>8</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-06-01 06:57:33</sys_created_on>
-            <sys_id>efcd670d83ee82103fcc9cc0deaad383</sys_id>
+            <element>afsc.afsc_name</element>
+            <position>5</position>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 19:12:32</sys_created_on>
+            <sys_id>d09f49d7832e42103fcc9cc0deaad3ec</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Technician Information" display_value="Technician Information" name="x_1284052_consol_0_technician" sys_domain="global" view="Default view">487a434d832e82103fcc9cc0deaad3f0</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-06-01 06:57:33</sys_updated_on>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 19:12:32</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>wing</element>
-            <position>9</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-06-01 06:57:33</sys_created_on>
-            <sys_id>e7cd670d83ee82103fcc9cc0deaad384</sys_id>
+            <element>active</element>
+            <position>6</position>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 19:12:32</sys_created_on>
+            <sys_id>d89f49d7832e42103fcc9cc0deaad3ec</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Technician Information" display_value="Technician Information" name="x_1284052_consol_0_technician" sys_domain="global" view="Default view">487a434d832e82103fcc9cc0deaad3f0</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-06-01 06:57:33</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>afsc.afsc</element>
-            <position>10</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-06-01 06:57:33</sys_created_on>
-            <sys_id>efcd670d83ee82103fcc9cc0deaad384</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Technician Information" display_value="Technician Information" name="x_1284052_consol_0_technician" sys_domain="global" view="Default view">487a434d832e82103fcc9cc0deaad3f0</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-06-01 06:57:33</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>squadron</element>
-            <position>11</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-06-01 06:57:33</sys_created_on>
-            <sys_id>e7cd670d83ee82103fcc9cc0deaad385</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Technician Information" display_value="Technician Information" name="x_1284052_consol_0_technician" sys_domain="global" view="Default view">487a434d832e82103fcc9cc0deaad3f0</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-06-01 06:57:33</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>amu</element>
-            <position>12</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-06-01 06:57:33</sys_created_on>
-            <sys_id>efcd670d83ee82103fcc9cc0deaad385</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Technician Information" display_value="Technician Information" name="x_1284052_consol_0_technician" sys_domain="global" view="Default view">487a434d832e82103fcc9cc0deaad3f0</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-06-01 06:57:33</sys_updated_on>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 19:12:32</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

@@ -1,88 +1,88 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_section caption="" section_id="554c657c832242103fcc9cc0deaad37b" sys_domain="global" table="x_1284052_consol_0_base" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>number</element>
+            <element>base_code</element>
             <position>0</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-05-31 02:53:08</sys_created_on>
-            <sys_id>194c657c832242103fcc9cc0deaad37e</sys_id>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 18:52:06</sys_created_on>
+            <sys_id>45ea4d13832e42103fcc9cc0deaad3c7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1284052_consol_0_base" sys_domain="global" view="Default view">554c657c832242103fcc9cc0deaad37b</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-05-31 02:53:08</sys_updated_on>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 18:52:06</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>base_name</element>
             <position>1</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-05-31 02:54:17</sys_created_on>
-            <sys_id>528c21bc832242103fcc9cc0deaad30b</sys_id>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 18:52:06</sys_created_on>
+            <sys_id>4dea4d13832e42103fcc9cc0deaad3c7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1284052_consol_0_base" sys_domain="global" view="Default view">554c657c832242103fcc9cc0deaad37b</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-05-31 02:54:17</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>majcom</element>
-            <position>2</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-05-31 02:59:54</sys_created_on>
-            <sys_id>24dda9fc832242103fcc9cc0deaad339</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_1284052_consol_0_base" sys_domain="global" view="Default view">554c657c832242103fcc9cc0deaad37b</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-05-31 02:59:54</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>base_code</element>
-            <position>3</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-05-31 03:00:55</sys_created_on>
-            <sys_id>6f0e6130836242103fcc9cc0deaad3d4</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_1284052_consol_0_base" sys_domain="global" view="Default view">554c657c832242103fcc9cc0deaad37b</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-05-31 03:00:55</sys_updated_on>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 18:52:06</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>country</element>
-            <position>4</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-05-31 03:12:51</sys_created_on>
-            <sys_id>c2c07df0836242103fcc9cc0deaad3ae</sys_id>
+            <position>2</position>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 18:52:06</sys_created_on>
+            <sys_id>4dea8d13832e42103fcc9cc0deaad32b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1284052_consol_0_base" sys_domain="global" view="Default view">554c657c832242103fcc9cc0deaad37b</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-05-31 03:12:51</sys_updated_on>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 18:52:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>majcom</element>
+            <position>3</position>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 18:52:06</sys_created_on>
+            <sys_id>45ea8d13832e42103fcc9cc0deaad32c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1284052_consol_0_base" sys_domain="global" view="Default view">554c657c832242103fcc9cc0deaad37b</sys_ui_section>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 18:52:06</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>active</element>
-            <position>5</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-06-01 05:39:45</sys_created_on>
-            <sys_id>f3fb5f0583ae82103fcc9cc0deaad329</sys_id>
+            <position>4</position>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 18:52:06</sys_created_on>
+            <sys_id>4dea8d13832e42103fcc9cc0deaad32c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1284052_consol_0_base" sys_domain="global" view="Default view">554c657c832242103fcc9cc0deaad37b</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-06-01 05:39:45</sys_updated_on>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 18:52:06</sys_updated_on>
             <sys_user/>
             <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 18:52:06</sys_created_on>
+            <sys_id>45ea8d13832e42103fcc9cc0deaad32d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1284052_consol_0_base" sys_domain="global" view="Default view">554c657c832242103fcc9cc0deaad37b</sys_ui_section>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 18:52:06</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption/>
