@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="tech_name" label="Tech name" language="en" table="x_1284052_consol_0_technician">
+    <sys_documentation element="lh_drogue" label="LH Drogue" language="en" table="x_1284052_consol_0_config_mc_130j">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>tech_name</element>
+            <element>lh_drogue</element>
             <help/>
             <hint/>
-            <label>Tech name</label>
+            <label>LH Drogue</label>
             <language>en</language>
-            <name>x_1284052_consol_0_technician</name>
+            <name>x_1284052_consol_0_config_mc_130j</name>
             <plural/>
             <sys_class_name>sys_documentation</sys_class_name>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-06-01 04:27:54</sys_created_on>
-            <sys_mod_count>7</sys_mod_count>
-            <sys_name>Tech name</sys_name>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 20:09:56</sys_created_on>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_name>LH Drogue</sys_name>
             <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
             <sys_policy/>
             <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
-            <sys_update_name>sys_documentation_x_1284052_consol_0_technician_tech_name_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_1284052_consol_0_config_mc_130j_lh_drogue_en</sys_update_name>
             <sys_updated_by>oscarfotz</sys_updated_by>
-            <sys_updated_on>2024-06-07 20:19:30</sys_updated_on>
+            <sys_updated_on>2024-06-07 20:25:20</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
