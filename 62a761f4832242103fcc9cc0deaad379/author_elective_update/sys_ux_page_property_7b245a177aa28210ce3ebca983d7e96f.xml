@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>chrome_header</name>
+        <page display_value="Consolidated Aircraft Logistics Management System">6f245a1783a282103fcc9cc0deaad349</page>
+        <required_translations>[]</required_translations>
+        <route display_value="">f3245a179fa282101e7a45998d48d190</route>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-06-08 00:12:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>7b245a177aa28210ce3ebca983d7e96f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_update_name>sys_ux_page_property_7b245a177aa28210ce3ebca983d7e96f</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-06-08 00:12:24</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1284052_consol_0.6f245a1783a282103fcc9cc0deaad349.route.chrome_header.f3245a179fa282101e7a45998d48d190</unique_name>
+        <value>{&#13;
+    "privatePage":{&#13;
+       "searchEnabled": false,&#13;
+       "userPrefsEnabled": false,&#13;
+       "menuEnabled": false&#13;
+    },&#13;
+    "publicPage":{&#13;
+       "searchEnabled": false,&#13;
+       "userPrefsEnabled": false,&#13;
+       "menuEnabled": false&#13;
+    }&#13;
+ }</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</application>
+        <file_path/>
+        <instance_id>08590c631ba5c29832182f8dee4bcb43</instance_id>
+        <instance_name>dev260572</instance_name>
+        <name>sys_ux_page_property_7b245a177aa28210ce3ebca983d7e96f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>chrome_header</name><page display_value="Consolidated Aircraft Logistics Management System">6f245a1783a282103fcc9cc0deaad349</page><required_translations>[]</required_translations><route display_value="">f3245a179fa282101e7a45998d48d190</route><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2024-06-08 00:12:24</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>7b245a177aa28210ce3ebca983d7e96f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>chrome_header</sys_name><sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package><sys_policy/><sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope><sys_update_name>sys_ux_page_property_7b245a177aa28210ce3ebca983d7e96f</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2024-06-08 00:12:24</sys_updated_on><type>json</type><unique_name>x_1284052_consol_0.6f245a1783a282103fcc9cc0deaad349.route.chrome_header.f3245a179fa282101e7a45998d48d190</unique_name><value>{&#13;
+    "privatePage":{&#13;
+       "searchEnabled": false,&#13;
+       "userPrefsEnabled": false,&#13;
+       "menuEnabled": false&#13;
+    },&#13;
+    "publicPage":{&#13;
+       "searchEnabled": false,&#13;
+       "userPrefsEnabled": false,&#13;
+       "menuEnabled": false&#13;
+    }&#13;
+ }</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>-374246371</payload_hash>
+        <record_name>chrome_header</record_name>
+        <reverted_from/>
+        <source>1c5f3b01832202103fcc9cc0deaad310</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2024-06-01 08:14:04</sys_created_on>
+        <sys_id>fce6d65b83a282103fcc9cc0deaad3ec</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18fd2dce8e00000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Page Property</type>
+        <update_guid>bce6d65be2a2821055fff8a7f9675cec</update_guid>
+        <update_guid_history>bce6d65be2a2821055fff8a7f9675cec:-374246371</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-06-08 00:24:08</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>4b483c6233fc48358d81bb465273bb69</sys_id>
+        <sys_metadata>7b245a177aa28210ce3ebca983d7e96f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_scope_delete display_value="">52e6fb2b6ff440dcae7286a44d209be1</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_7b245a177aa28210ce3ebca983d7e96f</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_7b245a177aa28210ce3ebca983d7e96f">fce6d65b83a282103fcc9cc0deaad3ec</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-06-08 00:24:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

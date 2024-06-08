@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="9662071783a682103fcc9cc0deaad31b" label="Supply Orders" max_length="40" name="x_1284052_consol_0_supply_orders" type="collection">
+        <element label="Part number" max_length="40" name="part_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>

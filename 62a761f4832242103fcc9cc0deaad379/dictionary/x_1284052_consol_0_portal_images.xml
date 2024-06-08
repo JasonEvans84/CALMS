@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="fa2bdadf83a282103fcc9cc0deaad390" label="Portal Images" max_length="40" name="x_1284052_consol_0_portal_images" type="collection">
+        <element label="Portal image" max_length="40" name="portal_image" type="user_image"/>
+        <element label="Short_description" mandatory="true" max_length="40" name="short_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>

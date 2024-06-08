@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b7804c0383a202103fcc9cc0deaad39c" extends="sys_import_set_row" label="Sub Systems Data Mapping" max_length="40" name="x_1284052_consol_0_ihub_import_5580c00383a202103fcc9cc0deaad350" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Subsystem code" label="Subsystem code" max_length="40" name="u_subsystem_code" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Subsystem name" label="Subsystem name" max_length="50" name="u_subsystem_name" type="string"/>
+    </element>
+</database>

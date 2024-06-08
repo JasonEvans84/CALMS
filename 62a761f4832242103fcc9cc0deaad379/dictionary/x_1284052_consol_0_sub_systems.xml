@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b02937f6836202103fcc9cc0deaad352" label="Sub Systems" max_length="40" name="x_1284052_consol_0_sub_systems" type="collection">
+        <element display="true" label="Subsystem code" max_length="40" name="subsystem_code" type="string"/>
+        <element label="Subsystem name" max_length="250" name="subsystem_name" type="string"/>
+    </element>
+</database>

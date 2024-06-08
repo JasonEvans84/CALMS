@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_search_context_config_search_source">
+    <m2m_search_context_config_search_source action="INSERT_OR_UPDATE">
+        <order>200</order>
+        <search_context_config display_value="Aircraft Page - Workspace Search">5aeea1d323ee42105a6eeab36eadfe0d</search_context_config>
+        <source display_value="Aircraft Page - x_1284052_consol_0_aircraft_status">18fe25d383ee42103fcc9cc0deaad3a4</source>
+        <sys_class_name>m2m_search_context_config_search_source</sys_class_name>
+        <sys_created_by>oscarfotz</sys_created_by>
+        <sys_created_on>2024-06-07 21:29:37</sys_created_on>
+        <sys_id>94fe25d383ee42103fcc9cc0deaad3b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_update_name>m2m_search_context_config_search_source_94fe25d383ee42103fcc9cc0deaad3b8</sys_update_name>
+        <sys_updated_by>oscarfotz</sys_updated_by>
+        <sys_updated_on>2024-06-07 21:29:37</sys_updated_on>
+    </m2m_search_context_config_search_source>
+</record_update>

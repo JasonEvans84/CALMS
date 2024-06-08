@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b91f07d783e682103fcc9cc0deaad309" label="Publication" max_length="40" name="x_1284052_consol_0_publication" type="collection">
+        <element label="Publication title" max_length="40" name="publication_title" type="string"/>
+        <element choice="1" label="Publication type" max_length="40" name="publication_type" type="choice">
+            <choice/>
+        </element>
+        <element display="true" label="Publication number" max_length="40" name="publication_number" type="string"/>
+    </element>
+</database>

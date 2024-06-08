@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="DELETE">
+        <active>true</active>
+        <admin_panel>deeea1d3dbee4210efbca95827667616</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes/>
+        <page/>
+        <parent_app display_value="Unified Navigation app shell">c86a62e2c7022010099a308dc7c26022</parent_app>
+        <path>aircraft-page</path>
+        <root_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>oscarfotz</sys_created_by>
+        <sys_created_on>2024-06-07 21:29:31</sys_created_on>
+        <sys_id>1eeea1d380ee421063ca510cd2cc3f16</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Aircraft Page</sys_name>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_update_name>sys_ux_page_registry_1eeea1d380ee421063ca510cd2cc3f16</sys_update_name>
+        <sys_updated_by>oscarfotz</sys_updated_by>
+        <sys_updated_on>2024-06-07 21:29:31</sys_updated_on>
+        <title>Aircraft Page</title>
+    </sys_ux_page_registry>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</application>
+        <file_path/>
+        <instance_id>08590c631ba5c29832182f8dee4bcb43</instance_id>
+        <instance_name>dev260572</instance_name>
+        <name>sys_ux_page_registry_1eeea1d380ee421063ca510cd2cc3f16</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry"><sys_ux_page_registry action="INSERT_OR_UPDATE"><active>true</active><admin_panel>deeea1d3dbee4210efbca95827667616</admin_panel><admin_panel_table>sys_ux_app_config</admin_panel_table><auth_routes/><page/><parent_app display_value="Unified Navigation app shell">c86a62e2c7022010099a308dc7c26022</parent_app><path>aircraft-page</path><root_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent><sys_class_name>sys_ux_page_registry</sys_class_name><sys_created_by>oscarfotz</sys_created_by><sys_created_on>2024-06-07 21:29:31</sys_created_on><sys_id>1eeea1d380ee421063ca510cd2cc3f16</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Aircraft Page</sys_name><sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package><sys_policy/><sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope><sys_update_name>sys_ux_page_registry_1eeea1d380ee421063ca510cd2cc3f16</sys_update_name><sys_updated_by>oscarfotz</sys_updated_by><sys_updated_on>2024-06-07 21:29:31</sys_updated_on><title>Aircraft Page</title></sys_ux_page_registry></record_update>]]></payload>
+        <payload_hash>2071119730</payload_hash>
+        <record_name>Aircraft Page</record_name>
+        <reverted_from/>
+        <source>1c5f3b01832202103fcc9cc0deaad310</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2024-06-01 08:14:04</sys_created_on>
+        <sys_id>c0d907df83a682103fcc9cc0deaad374</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18fd2dce8e00000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Application</type>
+        <update_guid>80d907dfc3a6821045eb596e64e10d74</update_guid>
+        <update_guid_history>80d907dfc3a6821045eb596e64e10d74:2071119730</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>oscarfotz</sys_created_by>
+        <sys_created_on>2024-06-08 04:06:39</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_registry">sys_ux_page_registry</sys_db_object>
+        <sys_id>4247c738ef1d4f878e45a871e6367221</sys_id>
+        <sys_metadata>1eeea1d380ee421063ca510cd2cc3f16</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Aircraft Page</sys_name>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_scope_delete display_value="">52e6fb2b6ff440dcae7286a44d209be1</sys_scope_delete>
+        <sys_update_name>sys_ux_page_registry_1eeea1d380ee421063ca510cd2cc3f16</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_registry_1eeea1d380ee421063ca510cd2cc3f16">c0d907df83a682103fcc9cc0deaad374</sys_update_version>
+        <sys_updated_by>oscarfotz</sys_updated_by>
+        <sys_updated_on>2024-06-08 04:06:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

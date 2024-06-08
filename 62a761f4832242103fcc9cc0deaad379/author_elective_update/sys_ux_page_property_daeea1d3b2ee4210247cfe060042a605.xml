@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description>Header Configuration</description>
+        <name>chrome_header</name>
+        <page display_value="Aircraft Page">1eeea1d380ee421063ca510cd2cc3f16</page>
+        <required_translations>[ {
+  "message" : "Configure workspace",
+  "comment" : ""
+}, {
+  "message" : "Display Preferences",
+  "comment" : ""
+}, {
+  "message" : "Notifications",
+  "comment" : ""
+}, {
+  "message" : "Settings",
+  "comment" : ""
+}, {
+  "message" : "Show Badge Count",
+  "comment" : ""
+}, {
+  "message" : "Show Banners",
+  "comment" : ""
+}, {
+  "message" : "Show ribbon",
+  "comment" : ""
+}, {
+  "message" : "Show sidebar",
+  "comment" : ""
+}, {
+  "message" : "UserMenu",
+  "comment" : ""
+}, {
+  "message" : "Wrap list text",
+  "comment" : ""
+} ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>oscarfotz</sys_created_by>
+        <sys_created_on>2024-06-07 21:29:30</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>daeea1d3b2ee4210247cfe060042a605</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_update_name>sys_ux_page_property_daeea1d3b2ee4210247cfe060042a605</sys_update_name>
+        <sys_updated_by>oscarfotz</sys_updated_by>
+        <sys_updated_on>2024-06-07 21:29:36</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1284052_consol_0.1eeea1d380ee421063ca510cd2cc3f16.root.chrome_header</unique_name>
+        <value>{&#13;
+    "privatePage": {&#13;
+        "notificationsEnabled": true,&#13;
+        "searchEnabled": true,&#13;
+        "userPrefsEnabled": true,&#13;
+        "contextualConfigurationItems": {&#13;
+            "_roles": [&#13;
+                "workspace_admin"&#13;
+            ],&#13;
+            "enabled": true,&#13;
+            "position": 150&#13;
+        },&#13;
+        "globalTools": {&#13;
+            "collapsingMenuId": 0,&#13;
+            "primaryItems": [{&#13;
+                "label": "UserMenu",&#13;
+                "icon": "user",&#13;
+                "type": "menu",&#13;
+                "primaryDisplay": "icon",&#13;
+                "value": {&#13;
+                    "children": [{&#13;
+                            "_roles": [&#13;
+                                "workspace_admin"&#13;
+                            ],&#13;
+                            "label": {&#13;
+                                "message": "Configure workspace",&#13;
+                                "translatable": true&#13;
+                            },&#13;
+                            "type": "navigation",&#13;
+                            "position": 100,&#13;
+                            "primaryDisplay": "none",&#13;
+                            "value": {&#13;
+                                "type": "external",&#13;
+                                "opensWindow": "true",&#13;
+                                "value": {&#13;
+                                    "href": "/nav_to.do?uri=/sys_ux_app_config.do?sys_id=deeea1d3dbee4210efbca95827667616"&#13;
+                                }&#13;
+                            }&#13;
+                        },&#13;
+                        {&#13;
+                            "label": {&#13;
+                                "message": "Settings",&#13;
+                                "translatable": true&#13;
+                            },&#13;
+                            "type": "menu",&#13;
+                            "position": 50,&#13;
+                            "value": {&#13;
+                                "children": [{&#13;
+                                        "label": {&#13;
+                                            "message": "Display Preferences",&#13;
+                                            "translatable": true&#13;
+                                        },&#13;
+                                        "type": "divider"&#13;
+                                    },&#13;
+                                    {&#13;
+                                        "label": {&#13;
+                                            "message": "Show ribbon",&#13;
+                                            "translatable": true&#13;
+                                        },&#13;
+                                        "type": "toggle",&#13;
+                                        "value": {&#13;
+                                            "_meta": {&#13;
+                                                "_type": "userPreferences",&#13;
+                                                "_path": "userPrefName",&#13;
+                                                "_value": {&#13;
+                                                    "userPrefName": "workspace.showRibbon"&#13;
+                                                },&#13;
+                                                "_default": {&#13;
+                                                    "userPrefName": "true"&#13;
+                                                }&#13;
+                                            }&#13;
+                                        }&#13;
+                                    },&#13;
+                                    {&#13;
+                                        "label": {&#13;
+                                            "message": "Show sidebar",&#13;
+                                            "translatable": true&#13;
+                                        },&#13;
+                                        "type": "toggle",&#13;
+                                        "value": {&#13;
+                                            "_meta": {&#13;
+                                                "_type": "userPreferences",&#13;
+                                                "_path": "userPrefName",&#13;
+                                                "_value": {&#13;
+                                                    "userPrefName": "workspace.showAgentAssist"&#13;
+                                                },&#13;
+                                                "_default": {&#13;
+                                                    "userPrefName": "true"&#13;
+                                                }&#13;
+                                            }&#13;
+                                        }&#13;
+                                    },&#13;
+                                    {&#13;
+                                        "label": {&#13;
+                                            "message": "Wrap list text",&#13;
+                                            "translatable": true&#13;
+                                        },&#13;
+                                        "type": "toggle",&#13;
+                                        "value": {&#13;
+                                            "_meta": {&#13;
+                                                "_type": "userPreferences",&#13;
+                                                "_path": "userPrefName",&#13;
+                                                "_value": {&#13;
+                                                    "userPrefName": "workspace.wrapListText"&#13;
+                                                },&#13;
+                                                "_default": {&#13;
+                                                    "userPrefName": "true"&#13;
+                                                }&#13;
+                                            }&#13;
+                                        }&#13;
+                                    },&#13;
+                                    {&#13;
+                                        "label": {&#13;
+                                            "message": "Notifications",&#13;
+                                            "translatable": true&#13;
+                                        },&#13;
+                                        "type": "divider"&#13;
+                                    },&#13;
+                                    {&#13;
+                                        "label": {&#13;
+                                            "message": "Show Banners",&#13;
+                                            "translatable": true&#13;
+                                        },&#13;
+                                        "type": "toggle",&#13;
+                                        "value": {&#13;
+                                            "_meta": {&#13;
+                                                "_type": "userPreferences",&#13;
+                                                "_path": "userPrefName",&#13;
+                                                "_value": {&#13;
+                                                    "userPrefName": "workspace.notifications.showPopups"&#13;
+                                                },&#13;
+                                                "_default": {&#13;
+                                                    "userPrefName": "true"&#13;
+                                                }&#13;
+                                            }&#13;
+                                        }&#13;
+                                    },&#13;
+                                    {&#13;
+                                        "label": {&#13;
+                                            "message": "Show Badge Count",&#13;
+                                            "translatable": true&#13;
+                                        },&#13;
+                                        "type": "toggle",&#13;
+                                        "value": {&#13;
+                                            "_meta": {&#13;
+                                                "_type": "userPreferences",&#13;
+                                                "_path": "userPrefName",&#13;
+                                                "_value": {&#13;
+                                                    "userPrefName": "workspace.notifications.showBadgeCount"&#13;
+                                                },&#13;
+                                                "_default": {&#13;
+                                                    "userPrefName": "true"&#13;
+                                                }&#13;
+                                            }&#13;
+                                        }&#13;
+                                    }&#13;
+                                ]&#13;
+                            }&#13;
+                        }&#13;
+                    ]&#13;
+                }&#13;
+            }],&#13;
+            "secondaryItems": [&#13;
+&#13;
+            ]&#13;
+        }&#13;
+    },&#13;
+    "publicPage": {&#13;
+        "actionButtons": [&#13;
+&#13;
+        ]&#13;
+    }&#13;
+}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="DELETE" query="documentkey=daeea1d3b2ee4210247cfe060042a605"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</application>
+        <file_path/>
+        <instance_id>08590c631ba5c29832182f8dee4bcb43</instance_id>
+        <instance_name>dev260572</instance_name>
+        <name>sys_ux_page_property_daeea1d3b2ee4210247cfe060042a605</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description>Header Configuration</description><name>chrome_header</name><page display_value="Aircraft Page">1eeea1d380ee421063ca510cd2cc3f16</page><required_translations>[ {
+  "message" : "Configure workspace",
+  "comment" : ""
+}, {
+  "message" : "Display Preferences",
+  "comment" : ""
+}, {
+  "message" : "Notifications",
+  "comment" : ""
+}, {
+  "message" : "Settings",
+  "comment" : ""
+}, {
+  "message" : "Show Badge Count",
+  "comment" : ""
+}, {
+  "message" : "Show Banners",
+  "comment" : ""
+}, {
+  "message" : "Show ribbon",
+  "comment" : ""
+}, {
+  "message" : "Show sidebar",
+  "comment" : ""
+}, {
+  "message" : "UserMenu",
+  "comment" : ""
+}, {
+  "message" : "Wrap list text",
+  "comment" : ""
+} ]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>oscarfotz</sys_created_by><sys_created_on>2024-06-07 21:29:30</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>daeea1d3b2ee4210247cfe060042a605</sys_id><sys_mod_count>1</sys_mod_count><sys_name>chrome_header</sys_name><sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package><sys_policy/><sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope><sys_update_name>sys_ux_page_property_daeea1d3b2ee4210247cfe060042a605</sys_update_name><sys_updated_by>oscarfotz</sys_updated_by><sys_updated_on>2024-06-07 21:29:36</sys_updated_on><type>json</type><unique_name>x_1284052_consol_0.1eeea1d380ee421063ca510cd2cc3f16.root.chrome_header</unique_name><value>{&#13;
+    "privatePage": {&#13;
+        "notificationsEnabled": true,&#13;
+        "searchEnabled": true,&#13;
+        "userPrefsEnabled": true,&#13;
+        "contextualConfigurationItems": {&#13;
+            "_roles": [&#13;
+                "workspace_admin"&#13;
+            ],&#13;
+            "enabled": true,&#13;
+            "position": 150&#13;
+        },&#13;
+        "globalTools": {&#13;
+            "collapsingMenuId": 0,&#13;
+            "primaryItems": [{&#13;
+                "label": "UserMenu",&#13;
+                "icon": "user",&#13;
+                "type": "menu",&#13;
+                "primaryDisplay": "icon",&#13;
+                "value": {&#13;
+                    "children": [{&#13;
+                            "_roles": [&#13;
+                                "workspace_admin"&#13;
+                            ],&#13;
+                            "label": {&#13;
+                                "message": "Configure workspace",&#13;
+                                "translatable": true&#13;
+                            },&#13;
+                            "type": "navigation",&#13;
+                            "position": 100,&#13;
+                            "primaryDisplay": "none",&#13;
+                            "value": {&#13;
+                                "type": "external",&#13;
+                                "opensWindow": "true",&#13;
+                                "value": {&#13;
+                                    "href": "/nav_to.do?uri=/sys_ux_app_config.do?sys_id=deeea1d3dbee4210efbca95827667616"&#13;
+                                }&#13;
+                            }&#13;
+                        },&#13;
+                        {&#13;
+                            "label": {&#13;
+                                "message": "Settings",&#13;
+                                "translatable": true&#13;
+                            },&#13;
+                            "type": "menu",&#13;
+                            "position": 50,&#13;
+                            "value": {&#13;
+                                "children": [{&#13;
+                                        "label": {&#13;
+                                            "message": "Display Preferences",&#13;
+                                            "translatable": true&#13;
+                                        },&#13;
+                                        "type": "divider"&#13;
+                                    },&#13;
+                                    {&#13;
+                                        "label": {&#13;
+                                            "message": "Show ribbon",&#13;
+                                            "translatable": true&#13;
+                                        },&#13;
+                                        "type": "toggle",&#13;
+                                        "value": {&#13;
+                                            "_meta": {&#13;
+                                                "_type": "userPreferences",&#13;
+                                                "_path": "userPrefName",&#13;
+                                                "_value": {&#13;
+                                                    "userPrefName": "workspace.showRibbon"&#13;
+                                                },&#13;
+                                                "_default": {&#13;
+                                                    "userPrefName": "true"&#13;
+                                                }&#13;
+                                            }&#13;
+                                        }&#13;
+                                    },&#13;
+                                    {&#13;
+                                        "label": {&#13;
+                                            "message": "Show sidebar",&#13;
+                                            "translatable": true&#13;
+                                        },&#13;
+                                        "type": "toggle",&#13;
+                                        "value": {&#13;
+                                            "_meta": {&#13;
+                                                "_type": "userPreferences",&#13;
+                                                "_path": "userPrefName",&#13;
+                                                "_value": {&#13;
+                                                    "userPrefName": "workspace.showAgentAssist"&#13;
+                                                },&#13;
+                                                "_default": {&#13;
+                                                    "userPrefName": "true"&#13;
+                                                }&#13;
+                                            }&#13;
+                                        }&#13;
+                                    },&#13;
+                                    {&#13;
+                                        "label": {&#13;
+                                            "message": "Wrap list text",&#13;
+                                            "translatable": true&#13;
+                                        },&#13;
+                                        "type": "toggle",&#13;
+                                        "value": {&#13;
+                                            "_meta": {&#13;
+                                                "_type": "userPreferences",&#13;
+                                                "_path": "userPrefName",&#13;
+                                                "_value": {&#13;
+                                                    "userPrefName": "workspace.wrapListText"&#13;
+                                                },&#13;
+                                                "_default": {&#13;
+                                                    "userPrefName": "true"&#13;
+                                                }&#13;
+                                            }&#13;
+                                        }&#13;
+                                    },&#13;
+                                    {&#13;
+                                        "label": {&#13;
+                                            "message": "Notifications",&#13;
+                                            "translatable": true&#13;
+                                        },&#13;
+                                        "type": "divider"&#13;
+                                    },&#13;
+                                    {&#13;
+                                        "label": {&#13;
+                                            "message": "Show Banners",&#13;
+                                            "translatable": true&#13;
+                                        },&#13;
+                                        "type": "toggle",&#13;
+                                        "value": {&#13;
+                                            "_meta": {&#13;
+                                                "_type": "userPreferences",&#13;
+                                                "_path": "userPrefName",&#13;
+                                                "_value": {&#13;
+                                                    "userPrefName": "workspace.notifications.showPopups"&#13;
+                                                },&#13;
+                                                "_default": {&#13;
+                                                    "userPrefName": "true"&#13;
+                                                }&#13;
+                                            }&#13;
+                                        }&#13;
+                                    },&#13;
+                                    {&#13;
+                                        "label": {&#13;
+                                            "message": "Show Badge Count",&#13;
+                                            "translatable": true&#13;
+                                        },&#13;
+                                        "type": "toggle",&#13;
+                                        "value": {&#13;
+                                            "_meta": {&#13;
+                                                "_type": "userPreferences",&#13;
+                                                "_path": "userPrefName",&#13;
+                                                "_value": {&#13;
+                                                    "userPrefName": "workspace.notifications.showBadgeCount"&#13;
+                                                },&#13;
+                                                "_default": {&#13;
+                                                    "userPrefName": "true"&#13;
+                                                }&#13;
+                                            }&#13;
+                                        }&#13;
+                                    }&#13;
+                                ]&#13;
+                            }&#13;
+                        }&#13;
+                    ]&#13;
+                }&#13;
+            }],&#13;
+            "secondaryItems": [&#13;
+&#13;
+            ]&#13;
+        }&#13;
+    },&#13;
+    "publicPage": {&#13;
+        "actionButtons": [&#13;
+&#13;
+        ]&#13;
+    }&#13;
+}</value></sys_ux_page_property><sys_translated_text action="delete_multiple" query="documentkey=daeea1d3b2ee4210247cfe060042a605"/></record_update>]]></payload>
+        <payload_hash>1084683604</payload_hash>
+        <record_name>chrome_header</record_name>
+        <reverted_from/>
+        <source>0ca2c1d6832202103fcc9cc0deaad390</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>oscarfotz</sys_created_by>
+        <sys_created_on>2024-06-07 21:29:36</sys_created_on>
+        <sys_id>80fe25d383ee42103fcc9cc0deaad31b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ff49b67c50000001</sys_recorded_at>
+        <sys_updated_by>oscarfotz</sys_updated_by>
+        <sys_updated_on>2024-06-07 21:29:36</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>48fe25d3d9ee4210cdb96a8a319eba1a</update_guid>
+        <update_guid_history>48fe25d3d9ee4210cdb96a8a319eba1a:1084683604,40fe25d3f2ee42109a416718b11f2719:1488384514</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>oscarfotz</sys_created_by>
+        <sys_created_on>2024-06-08 04:06:39</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>66971e0039454d408e4b6ea029f6d7e1</sys_id>
+        <sys_metadata>daeea1d3b2ee4210247cfe060042a605</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_scope_delete display_value="">52e6fb2b6ff440dcae7286a44d209be1</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_daeea1d3b2ee4210247cfe060042a605</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_daeea1d3b2ee4210247cfe060042a605">80fe25d383ee42103fcc9cc0deaad31b</sys_update_version>
+        <sys_updated_by>oscarfotz</sys_updated_by>
+        <sys_updated_on>2024-06-08 04:06:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

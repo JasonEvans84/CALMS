@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Possession and Assignment Information" section_id="d1fe65d383ee42103fcc9cc0deaad3f4" sys_domain="global" table="x_1284052_consol_0_aircraft" version="3" view="workspace-aircraft-page-0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>possessing_command</element>
+            <position>0</position>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 21:29:41</sys_created_on>
+            <sys_id>11fe65d383ee42103fcc9cc0deaad3f6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Possession and Assignment Information" display_value="Possession and Assignment Information" name="x_1284052_consol_0_aircraft" sys_domain="global" view="5eeea1d316ee42103fd05e36e446dc0c">d1fe65d383ee42103fcc9cc0deaad3f4</sys_ui_section>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 21:29:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>owning_command</element>
+            <position>1</position>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 21:29:41</sys_created_on>
+            <sys_id>19fe65d383ee42103fcc9cc0deaad3f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Possession and Assignment Information" display_value="Possession and Assignment Information" name="x_1284052_consol_0_aircraft" sys_domain="global" view="5eeea1d316ee42103fd05e36e446dc0c">d1fe65d383ee42103fcc9cc0deaad3f4</sys_ui_section>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 21:29:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>owning_wing</element>
+            <position>2</position>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 21:29:41</sys_created_on>
+            <sys_id>19fe65d383ee42103fcc9cc0deaad3f6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Possession and Assignment Information" display_value="Possession and Assignment Information" name="x_1284052_consol_0_aircraft" sys_domain="global" view="5eeea1d316ee42103fd05e36e446dc0c">d1fe65d383ee42103fcc9cc0deaad3f4</sys_ui_section>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 21:29:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>possessing_wing</element>
+            <position>3</position>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 21:29:41</sys_created_on>
+            <sys_id>9dfea5d383ee42103fcc9cc0deaad312</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Possession and Assignment Information" display_value="Possession and Assignment Information" name="x_1284052_consol_0_aircraft" sys_domain="global" view="5eeea1d316ee42103fd05e36e446dc0c">d1fe65d383ee42103fcc9cc0deaad3f4</sys_ui_section>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 21:29:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_squadron</element>
+            <position>4</position>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 21:29:41</sys_created_on>
+            <sys_id>11fe65d383ee42103fcc9cc0deaad3f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Possession and Assignment Information" display_value="Possession and Assignment Information" name="x_1284052_consol_0_aircraft" sys_domain="global" view="5eeea1d316ee42103fd05e36e446dc0c">d1fe65d383ee42103fcc9cc0deaad3f4</sys_ui_section>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 21:29:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_unit</element>
+            <position>5</position>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 21:29:41</sys_created_on>
+            <sys_id>95fea5d383ee42103fcc9cc0deaad313</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Possession and Assignment Information" display_value="Possession and Assignment Information" name="x_1284052_consol_0_aircraft" sys_domain="global" view="5eeea1d316ee42103fd05e36e446dc0c">d1fe65d383ee42103fcc9cc0deaad3f4</sys_ui_section>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 21:29:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>6</position>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 21:29:41</sys_created_on>
+            <sys_id>19fe65d383ee42103fcc9cc0deaad3f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Possession and Assignment Information" display_value="Possession and Assignment Information" name="x_1284052_consol_0_aircraft" sys_domain="global" view="5eeea1d316ee42103fd05e36e446dc0c">d1fe65d383ee42103fcc9cc0deaad3f4</sys_ui_section>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 21:29:41</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>possessing_command.command_name</element>
+            <position>7</position>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 21:29:41</sys_created_on>
+            <sys_id>9dfea5d383ee42103fcc9cc0deaad313</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Possession and Assignment Information" display_value="Possession and Assignment Information" name="x_1284052_consol_0_aircraft" sys_domain="global" view="5eeea1d316ee42103fd05e36e446dc0c">d1fe65d383ee42103fcc9cc0deaad3f4</sys_ui_section>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 21:29:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>owning_command.command_name</element>
+            <position>8</position>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 21:29:41</sys_created_on>
+            <sys_id>11fe65d383ee42103fcc9cc0deaad3f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Possession and Assignment Information" display_value="Possession and Assignment Information" name="x_1284052_consol_0_aircraft" sys_domain="global" view="5eeea1d316ee42103fd05e36e446dc0c">d1fe65d383ee42103fcc9cc0deaad3f4</sys_ui_section>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 21:29:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>owning_wing.wing_name</element>
+            <position>9</position>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 21:29:41</sys_created_on>
+            <sys_id>95fea5d383ee42103fcc9cc0deaad314</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Possession and Assignment Information" display_value="Possession and Assignment Information" name="x_1284052_consol_0_aircraft" sys_domain="global" view="5eeea1d316ee42103fd05e36e446dc0c">d1fe65d383ee42103fcc9cc0deaad3f4</sys_ui_section>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 21:29:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>possessing_wing.wing_name</element>
+            <position>10</position>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 21:29:41</sys_created_on>
+            <sys_id>19fe65d383ee42103fcc9cc0deaad3f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Possession and Assignment Information" display_value="Possession and Assignment Information" name="x_1284052_consol_0_aircraft" sys_domain="global" view="5eeea1d316ee42103fd05e36e446dc0c">d1fe65d383ee42103fcc9cc0deaad3f4</sys_ui_section>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 21:29:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_squadron.squadron_name</element>
+            <position>11</position>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 21:29:41</sys_created_on>
+            <sys_id>9dfea5d383ee42103fcc9cc0deaad314</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Possession and Assignment Information" display_value="Possession and Assignment Information" name="x_1284052_consol_0_aircraft" sys_domain="global" view="5eeea1d316ee42103fd05e36e446dc0c">d1fe65d383ee42103fcc9cc0deaad3f4</sys_ui_section>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 21:29:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_unit.unit_short_name</element>
+            <position>12</position>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 21:29:41</sys_created_on>
+            <sys_id>11fe65d383ee42103fcc9cc0deaad3f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Possession and Assignment Information" display_value="Possession and Assignment Information" name="x_1284052_consol_0_aircraft" sys_domain="global" view="5eeea1d316ee42103fd05e36e446dc0c">d1fe65d383ee42103fcc9cc0deaad3f4</sys_ui_section>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 21:29:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Possession and Assignment Information</caption>
+            <header>false</header>
+            <name>x_1284052_consol_0_aircraft</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 21:29:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d1fe65d383ee42103fcc9cc0deaad3f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1284052_consol_0_aircraft</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+            <sys_update_name>sys_ui_section_d1fe65d383ee42103fcc9cc0deaad3f4</sys_update_name>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 21:29:41</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace Aircraft Page 0" name="workspace-aircraft-page-0">5eeea1d316ee42103fd05e36e446dc0c</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

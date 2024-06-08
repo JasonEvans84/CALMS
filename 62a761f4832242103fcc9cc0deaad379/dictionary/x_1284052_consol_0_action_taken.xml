@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="ac16ccc783a202103fcc9cc0deaad3a9" label="Action Taken" max_length="40" name="x_1284052_consol_0_action_taken" type="collection">
+        <element label="On equip" max_length="40" name="on_equip" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Code" max_length="40" name="code" type="string"/>
+        <element label="Off equip" max_length="40" name="off_equip" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Definition" max_length="1000" name="definition" type="string"/>
+    </element>
+</database>

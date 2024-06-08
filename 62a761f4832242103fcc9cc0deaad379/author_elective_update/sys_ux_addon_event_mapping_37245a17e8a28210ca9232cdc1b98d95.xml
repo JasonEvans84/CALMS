@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_addon_event_mapping">
+    <sys_ux_addon_event_mapping action="DELETE">
+        <active>true</active>
+        <controller/>
+        <description/>
+        <name>Task Mapping</name>
+        <parent_macroponent display_value="Landing Page">3f245a1705a28210af5e078150724c96</parent_macroponent>
+        <source_component/>
+        <source_da display_value="navigation">d46f400473211010c342d5fdbdf6a7cf</source_da>
+        <source_element_id>data_row_1</source_element_id>
+        <sys_class_name>sys_ux_addon_event_mapping</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-06-08 00:12:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>37245a17e8a28210ca9232cdc1b98d95</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Task Mapping</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_update_name>sys_ux_addon_event_mapping_37245a17e8a28210ca9232cdc1b98d95</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-06-08 00:12:24</sys_updated_on>
+        <target_event display_value="My tasks">73245a175aa282109277506987edb695</target_event>
+        <target_payload_mapping>{
+  "type": "MAP_CONTAINER",
+  "container": {
+    "sysId": {
+      "type": "EVENT_PAYLOAD_BINDING",
+      "binding": {
+        "address": [
+          "sysId"
+        ]
+      }
+    },
+    "table": {
+      "type": "EVENT_PAYLOAD_BINDING",
+      "binding": {
+        "address": [
+          "table"
+        ]
+      }
+    }
+  }
+}</target_payload_mapping>
+    </sys_ux_addon_event_mapping>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</application>
+        <file_path/>
+        <instance_id>08590c631ba5c29832182f8dee4bcb43</instance_id>
+        <instance_name>dev260572</instance_name>
+        <name>sys_ux_addon_event_mapping_37245a17e8a28210ca9232cdc1b98d95</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_addon_event_mapping"><sys_ux_addon_event_mapping action="INSERT_OR_UPDATE"><active>true</active><controller/><description/><name>Task Mapping</name><parent_macroponent display_value="Landing Page">3f245a1705a28210af5e078150724c96</parent_macroponent><source_component/><source_da display_value="navigation">d46f400473211010c342d5fdbdf6a7cf</source_da><source_element_id>data_row_1</source_element_id><sys_class_name>sys_ux_addon_event_mapping</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2024-06-08 00:12:24</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>37245a17e8a28210ca9232cdc1b98d95</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Task Mapping</sys_name><sys_overrides/><sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package><sys_policy/><sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope><sys_update_name>sys_ux_addon_event_mapping_37245a17e8a28210ca9232cdc1b98d95</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2024-06-08 00:12:24</sys_updated_on><target_event display_value="My tasks">73245a175aa282109277506987edb695</target_event><target_payload_mapping>{
+  "type": "MAP_CONTAINER",
+  "container": {
+    "sysId": {
+      "type": "EVENT_PAYLOAD_BINDING",
+      "binding": {
+        "address": [
+          "sysId"
+        ]
+      }
+    },
+    "table": {
+      "type": "EVENT_PAYLOAD_BINDING",
+      "binding": {
+        "address": [
+          "table"
+        ]
+      }
+    }
+  }
+}</target_payload_mapping></sys_ux_addon_event_mapping></record_update>]]></payload>
+        <payload_hash>375368719</payload_hash>
+        <record_name>Task Mapping</record_name>
+        <reverted_from/>
+        <source>1c5f3b01832202103fcc9cc0deaad310</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2024-06-01 08:14:04</sys_created_on>
+        <sys_id>e3c59ed783a282103fcc9cc0deaad38d</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18fd2dce8e00000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Add-on Event Mapping</type>
+        <update_guid>a3c59ed7e9a2821006074bc598ec028d</update_guid>
+        <update_guid_history>a3c59ed7e9a2821006074bc598ec028d:375368719</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-06-08 00:19:25</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_addon_event_mapping">sys_ux_addon_event_mapping</sys_db_object>
+        <sys_id>6a0f3baf1015463d9bd8506ceaa0d3c9</sys_id>
+        <sys_metadata>37245a17e8a28210ca9232cdc1b98d95</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Task Mapping</sys_name>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_scope_delete display_value="">52e6fb2b6ff440dcae7286a44d209be1</sys_scope_delete>
+        <sys_update_name>sys_ux_addon_event_mapping_37245a17e8a28210ca9232cdc1b98d95</sys_update_name>
+        <sys_update_version display_value="sys_ux_addon_event_mapping_37245a17e8a28210ca9232cdc1b98d95">e3c59ed783a282103fcc9cc0deaad38d</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-06-08 00:19:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

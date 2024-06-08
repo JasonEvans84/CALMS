@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="99fe65d383ee42103fcc9cc0deaad344" sys_domain="global" table="x_1284052_consol_0_aircraft" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 21:29:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9dfe65d383ee42103fcc9cc0deaad34a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1284052_consol_0_aircraft" name="x_1284052_consol_0_aircraft" sys_domain="global" view="5eeea1d316ee42103fd05e36e446dc0c">99fe65d383ee42103fcc9cc0deaad344</sys_ui_form>
+            <sys_ui_section caption="Basic Information" display_value="Basic Information" name="x_1284052_consol_0_aircraft" sys_domain="global" view="5eeea1d316ee42103fd05e36e446dc0c">59fe65d383ee42103fcc9cc0deaad348</sys_ui_section>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 21:29:41</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 21:29:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>15fe65d383ee42103fcc9cc0deaad3f5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1284052_consol_0_aircraft" name="x_1284052_consol_0_aircraft" sys_domain="global" view="5eeea1d316ee42103fd05e36e446dc0c">99fe65d383ee42103fcc9cc0deaad344</sys_ui_form>
+            <sys_ui_section caption="Possession and Assignment Information" display_value="Possession and Assignment Information" name="x_1284052_consol_0_aircraft" sys_domain="global" view="5eeea1d316ee42103fd05e36e446dc0c">d1fe65d383ee42103fcc9cc0deaad3f4</sys_ui_section>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 21:29:41</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 21:29:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9dfea5d383ee42103fcc9cc0deaad316</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1284052_consol_0_aircraft" name="x_1284052_consol_0_aircraft" sys_domain="global" view="5eeea1d316ee42103fd05e36e446dc0c">99fe65d383ee42103fcc9cc0deaad344</sys_ui_form>
+            <sys_ui_section caption="Aircraft Status Information" display_value="Aircraft Status Information" name="x_1284052_consol_0_aircraft" sys_domain="global" view="5eeea1d316ee42103fd05e36e446dc0c">5dfea5d383ee42103fcc9cc0deaad315</sys_ui_section>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 21:29:41</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 21:29:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>99fea5d383ee42103fcc9cc0deaad31a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1284052_consol_0_aircraft" name="x_1284052_consol_0_aircraft" sys_domain="global" view="5eeea1d316ee42103fd05e36e446dc0c">99fe65d383ee42103fcc9cc0deaad344</sys_ui_form>
+            <sys_ui_section caption="Configuration Information" display_value="Configuration Information" name="x_1284052_consol_0_aircraft" sys_domain="global" view="5eeea1d316ee42103fd05e36e446dc0c">59fea5d383ee42103fcc9cc0deaad319</sys_ui_section>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 21:29:42</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1284052_consol_0_aircraft</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 21:29:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>99fe65d383ee42103fcc9cc0deaad344</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1284052_consol_0_aircraft</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+            <sys_update_name>sys_ui_form_sections_99fe65d383ee42103fcc9cc0deaad344</sys_update_name>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 21:29:41</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace Aircraft Page 0" name="workspace-aircraft-page-0">5eeea1d316ee42103fd05e36e446dc0c</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

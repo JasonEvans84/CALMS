@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_robust_import_set_transformer">
+    <sys_robust_import_set_transformer action="DELETE">
+        <active>true</active>
+        <batch_size>10</batch_size>
+        <description>RTE definition for Sub Systems Data Mapping</description>
+        <name>Sub Systems Data Mapping_rte_ihub</name>
+        <properties/>
+        <robust_transform_engine/>
+        <source_table>x_1284052_consol_0_ihub_import_6240400b836202103fcc9cc0deaad3be</source_table>
+        <sys_class_name>sys_robust_import_set_transformer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-06 18:47:42</sys_created_on>
+        <sys_id>fa40c00383a202103fcc9cc0deaad3d6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sub Systems Data Mapping_rte_ihub</sys_name>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_update_name>sys_robust_import_set_transformer_fa40c00383a202103fcc9cc0deaad3d6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-06 18:47:42</sys_updated_on>
+        <verbose>false</verbose>
+    </sys_robust_import_set_transformer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</application>
+        <file_path/>
+        <instance_id>08590c631ba5c29832182f8dee4bcb43</instance_id>
+        <instance_name>dev260572</instance_name>
+        <name>sys_robust_import_set_transformer_fa40c00383a202103fcc9cc0deaad3d6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_robust_import_set_transformer"><sys_robust_import_set_transformer action="INSERT_OR_UPDATE"><active>true</active><batch_size>10</batch_size><description>RTE definition for Sub Systems Data Mapping</description><name>Sub Systems Data Mapping_rte_ihub</name><properties/><robust_transform_engine/><source_table>x_1284052_consol_0_ihub_import_6240400b836202103fcc9cc0deaad3be</source_table><sys_class_name>sys_robust_import_set_transformer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-06 18:47:42</sys_created_on><sys_id>fa40c00383a202103fcc9cc0deaad3d6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Sub Systems Data Mapping_rte_ihub</sys_name><sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package><sys_policy/><sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope><sys_update_name>sys_robust_import_set_transformer_fa40c00383a202103fcc9cc0deaad3d6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-06 18:47:42</sys_updated_on><verbose>false</verbose></sys_robust_import_set_transformer></record_update>]]></payload>
+        <payload_hash>1000989633</payload_hash>
+        <record_name>Sub Systems Data Mapping_rte_ihub</record_name>
+        <reverted_from/>
+        <source>51dfa11e8db0021087de63ac7f1f000b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-06-06 18:48:06</sys_created_on>
+        <sys_id>a460080383a202103fcc9cc0deaad374</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18feee131e80000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-06-06 18:48:06</sys_updated_on>
+        <type>Robust Import Set Transformer</type>
+        <update_guid>a060080308a20210eae27e190b57e174</update_guid>
+        <update_guid_history>a060080308a20210eae27e190b57e174:0,3640c0037ba2021074ee319c3c018dd8:-1214327958</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-06 18:48:06</sys_created_on>
+        <sys_db_object display_value="" name="sys_robust_import_set_transformer">sys_robust_import_set_transformer</sys_db_object>
+        <sys_id>0b4a8380fcdf4db0967257f3b2496100</sys_id>
+        <sys_metadata>fa40c00383a202103fcc9cc0deaad3d6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sub Systems Data Mapping_rte_ihub</sys_name>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_scope_delete display_value="">52e6fb2b6ff440dcae7286a44d209be1</sys_scope_delete>
+        <sys_update_name>sys_robust_import_set_transformer_fa40c00383a202103fcc9cc0deaad3d6</sys_update_name>
+        <sys_update_version display_value="sys_robust_import_set_transformer_fa40c00383a202103fcc9cc0deaad3d6">a460080383a202103fcc9cc0deaad374</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-06 18:48:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

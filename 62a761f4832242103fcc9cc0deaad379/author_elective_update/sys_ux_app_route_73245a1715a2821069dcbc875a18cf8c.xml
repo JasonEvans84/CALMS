@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="DELETE">
+        <app_config display_value="Custom Portal App Config">63245a1783a282103fcc9cc0deaad34a</app_config>
+        <description/>
+        <extension_point/>
+        <fields>sysId,table</fields>
+        <icon/>
+        <name>Record Page(request)</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>record_request</route_type>
+        <screen_type display_value="Record Page(request)">bf245a17c9a2821074434c96ba3e9e8e</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-06-08 00:12:24</sys_created_on>
+        <sys_id>73245a1715a2821069dcbc875a18cf8c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Record Page(request)</sys_name>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_update_name>sys_ux_app_route_73245a1715a2821069dcbc875a18cf8c</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-06-08 00:12:24</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</application>
+        <file_path/>
+        <instance_id>08590c631ba5c29832182f8dee4bcb43</instance_id>
+        <instance_name>dev260572</instance_name>
+        <name>sys_ux_app_route_73245a1715a2821069dcbc875a18cf8c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route"><sys_ux_app_route action="INSERT_OR_UPDATE"><app_config display_value="Custom Portal App Config">63245a1783a282103fcc9cc0deaad34a</app_config><description/><extension_point/><fields>sysId,table</fields><icon/><name>Record Page(request)</name><optional_parameters/><order>0</order><parent_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</parent_macroponent><parent_macroponent_composition_element_id/><route_type>record_request</route_type><screen_type display_value="Record Page(request)">bf245a17c9a2821074434c96ba3e9e8e</screen_type><sys_class_name>sys_ux_app_route</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2024-06-08 00:12:24</sys_created_on><sys_id>73245a1715a2821069dcbc875a18cf8c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Record Page(request)</sys_name><sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package><sys_policy/><sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope><sys_update_name>sys_ux_app_route_73245a1715a2821069dcbc875a18cf8c</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2024-06-08 00:12:24</sys_updated_on></sys_ux_app_route></record_update>]]></payload>
+        <payload_hash>-1994065881</payload_hash>
+        <record_name>Record Page(request)</record_name>
+        <reverted_from/>
+        <source>1c5f3b01832202103fcc9cc0deaad310</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2024-06-01 08:14:04</sys_created_on>
+        <sys_id>09d65e5b83a282103fcc9cc0deaad32f</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18fd2dce8e00000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX App Route</type>
+        <update_guid>c5d65e5b9ca2821039a033ca44596f2f</update_guid>
+        <update_guid_history>c5d65e5b9ca2821039a033ca44596f2f:-1994065881</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-06-08 00:23:53</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_app_route">sys_ux_app_route</sys_db_object>
+        <sys_id>2100c28a94074cd9840a3e408308bcf9</sys_id>
+        <sys_metadata>73245a1715a2821069dcbc875a18cf8c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Record Page(request)</sys_name>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_scope_delete display_value="">52e6fb2b6ff440dcae7286a44d209be1</sys_scope_delete>
+        <sys_update_name>sys_ux_app_route_73245a1715a2821069dcbc875a18cf8c</sys_update_name>
+        <sys_update_version display_value="sys_ux_app_route_73245a1715a2821069dcbc875a18cf8c">09d65e5b83a282103fcc9cc0deaad32f</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-06-08 00:23:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

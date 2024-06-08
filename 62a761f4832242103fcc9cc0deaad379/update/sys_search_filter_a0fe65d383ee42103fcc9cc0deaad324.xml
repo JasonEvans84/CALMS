@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
+    <sys_search_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ais_search_source display_value="Aircraft Status History">64fe65d383ee42103fcc9cc0deaad31c</ais_search_source>
+        <label>Aircraft Status History</label>
+        <name>Aircraft Status History</name>
+        <order>200</order>
+        <search_context_config display_value="Aircraft Page AI Search Configuration">deeea1d334ee42101eb0db4901b3150d</search_context_config>
+        <sys_class_name>sys_search_filter</sys_class_name>
+        <sys_created_by>oscarfotz</sys_created_by>
+        <sys_created_on>2024-06-07 21:29:38</sys_created_on>
+        <sys_id>a0fe65d383ee42103fcc9cc0deaad324</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Aircraft Status History</sys_name>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_update_name>sys_search_filter_a0fe65d383ee42103fcc9cc0deaad324</sys_update_name>
+        <sys_updated_by>oscarfotz</sys_updated_by>
+        <sys_updated_on>2024-06-07 21:29:38</sys_updated_on>
+    </sys_search_filter>
+</record_update>

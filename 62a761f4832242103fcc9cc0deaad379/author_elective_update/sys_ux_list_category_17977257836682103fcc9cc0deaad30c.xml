@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_list_category">
+    <sys_ux_list_category action="DELETE">
+        <active>true</active>
+        <configuration display_value="CALMS admin">7beee1d383ee42103fcc9cc0deaad374</configuration>
+        <description/>
+        <order>300</order>
+        <sys_class_name>sys_ux_list_category</sys_class_name>
+        <sys_created_by>oscarfotz</sys_created_by>
+        <sys_created_on>2024-06-08 02:47:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>17977257836682103fcc9cc0deaad30c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Equipment</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_update_name>sys_ux_list_category_17977257836682103fcc9cc0deaad30c</sys_update_name>
+        <sys_updated_by>oscarfotz</sys_updated_by>
+        <sys_updated_on>2024-06-08 02:47:20</sys_updated_on>
+        <title>Equipment</title>
+    </sys_ux_list_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</application>
+        <file_path/>
+        <instance_id>08590c631ba5c29832182f8dee4bcb43</instance_id>
+        <instance_name>dev260572</instance_name>
+        <name>sys_ux_list_category_17977257836682103fcc9cc0deaad30c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_list_category"><sys_ux_list_category action="INSERT_OR_UPDATE"><active>true</active><configuration display_value="CALMS admin">7beee1d383ee42103fcc9cc0deaad374</configuration><description/><order>300</order><sys_class_name>sys_ux_list_category</sys_class_name><sys_created_by>oscarfotz</sys_created_by><sys_created_on>2024-06-08 02:47:20</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>17977257836682103fcc9cc0deaad30c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Equipment</sys_name><sys_overrides/><sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package><sys_policy/><sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope><sys_update_name>sys_ux_list_category_17977257836682103fcc9cc0deaad30c</sys_update_name><sys_updated_by>oscarfotz</sys_updated_by><sys_updated_on>2024-06-08 02:47:20</sys_updated_on><title>Equipment</title></sys_ux_list_category></record_update>]]></payload>
+        <payload_hash>1053527703</payload_hash>
+        <record_name>Equipment</record_name>
+        <reverted_from/>
+        <source>0ca2c1d6832202103fcc9cc0deaad390</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>oscarfotz</sys_created_by>
+        <sys_created_on>2024-06-08 02:47:20</sys_created_on>
+        <sys_id>5aa73a53836682103fcc9cc0deaad3b3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ff5be4d1c0000001</sys_recorded_at>
+        <sys_updated_by>oscarfotz</sys_updated_by>
+        <sys_updated_on>2024-06-08 02:47:20</sys_updated_on>
+        <type>UX List Category</type>
+        <update_guid>5ea73a532b668210de8f83cc55d478b2</update_guid>
+        <update_guid_history>5ea73a532b668210de8f83cc55d478b2:1053527703</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>oscarfotz</sys_created_by>
+        <sys_created_on>2024-06-08 04:06:38</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_list_category">sys_ux_list_category</sys_db_object>
+        <sys_id>4c3b2e61b28f48cd9d62305e8df4fc21</sys_id>
+        <sys_metadata>17977257836682103fcc9cc0deaad30c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Equipment</sys_name>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_scope_delete display_value="">52e6fb2b6ff440dcae7286a44d209be1</sys_scope_delete>
+        <sys_update_name>sys_ux_list_category_17977257836682103fcc9cc0deaad30c</sys_update_name>
+        <sys_update_version display_value="sys_ux_list_category_17977257836682103fcc9cc0deaad30c">5aa73a53836682103fcc9cc0deaad3b3</sys_update_version>
+        <sys_updated_by>oscarfotz</sys_updated_by>
+        <sys_updated_on>2024-06-08 04:06:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

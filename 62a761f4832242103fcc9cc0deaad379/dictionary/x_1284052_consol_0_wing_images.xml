@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="dc8d9e9383e282103fcc9cc0deaad34d" label="Wing Images" max_length="40" name="x_1284052_consol_0_wing_images" type="collection">
+        <element label="Applicable wing" max_length="32" name="applicable_wing" reference="x_1284052_consol_0_wing" type="reference"/>
+        <element label="Wing image" max_length="40" name="wing_image" type="user_image"/>
+        <element label="File name" max_length="100" name="file_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Short description" mandatory="true" max_length="40" name="short_description" type="string"/>
+        <index name="index">
+            <element name="applicable_wing"/>
+        </index>
+    </element>
+</database>

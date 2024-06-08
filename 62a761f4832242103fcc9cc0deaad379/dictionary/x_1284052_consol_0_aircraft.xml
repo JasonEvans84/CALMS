@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="cbc86938832242103fcc9cc0deaad376" label="Aircraft" max_length="40" name="x_1284052_consol_0_aircraft" type="collection">
+    <element db_object_id="cbc86938832242103fcc9cc0deaad376" label="Aircraft" max_length="40" name="x_1284052_consol_0_aircraft" text_index="true" type="collection">
         <element label="Version" max_length="40" name="version" type="string"/>
         <element dependent="possessing_command" dependent_on_field="possessing_command" label="Possessing wing" mandatory="true" max_length="32" name="possessing_wing" reference="x_1284052_consol_0_wing" type="reference" use_dependent_field="true"/>
         <element label="Call sign" max_length="40" name="call_sign" type="string"/>
@@ -8,6 +8,7 @@
         <element dependent="owning_command" dependent_on_field="owning_command" label="Owning wing" mandatory="true" max_length="32" name="owning_wing" reference="x_1284052_consol_0_wing" type="reference" use_dependent_field="true"/>
         <element dependent="assigned_squadron" dependent_on_field="assigned_squadron" label="Assigned Unit" mandatory="true" max_length="32" name="assigned_unit" reference="x_1284052_consol_0_unit" type="reference" use_dependent_field="true"/>
         <element label="Serial number" mandatory="true" max_length="40" name="serial_number" type="string"/>
+        <element label="Possession code" mandatory="true" max_length="32" name="possession_code" reference="x_1284052_consol_0_possession_codes" type="reference"/>
         <element dependent="owning_wing" dependent_on_field="owning_wing" label="Assigned squadron" mandatory="true" max_length="32" name="assigned_squadron" reference="x_1284052_consol_0_squadron" type="reference" use_dependent_field="true"/>
         <element default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="sys_class_name" use_dynamic_default="true"/>
         <element label="Possessing command" mandatory="true" max_length="32" name="possessing_command" reference="x_1284052_consol_0_majcom" type="reference"/>
@@ -37,6 +38,9 @@
         </index>
         <index name="index8">
             <element name="possessing_wing"/>
+        </index>
+        <index name="index9">
+            <element name="possession_code"/>
         </index>
         <index name="index10">
             <element name="sys_class_name"/>

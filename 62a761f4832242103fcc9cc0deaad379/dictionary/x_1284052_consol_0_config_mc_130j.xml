@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="fd889dd3836e42103fcc9cc0deaad353" extends="x_1284052_consol_0_aircraft" label="Config MC-130J" max_length="40" name="x_1284052_consol_0_config_mc_130j" type="collection">
+    <element db_object_id="fd889dd3836e42103fcc9cc0deaad353" extends="x_1284052_consol_0_aircraft" label="Config MC-130J" max_length="40" name="x_1284052_consol_0_config_mc_130j" text_index="true" type="collection">
         <element label="Dedicated crew chief" max_length="32" name="dedicated_crew_chief" reference="x_1284052_consol_0_technician" type="reference"/>
         <element label="Fuel (K)" max_length="40" name="fuel_k" type="integer"/>
         <element label="Aircraft" max_length="32" name="aircraft" reference="x_1284052_consol_0_aircraft" type="reference"/>

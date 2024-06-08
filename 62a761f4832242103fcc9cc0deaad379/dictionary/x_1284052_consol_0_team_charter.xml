@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="978aefda83ee02103fcc9cc0deaad3d9" label="Team Charter" max_length="40" name="x_1284052_consol_0_team_charter" type="collection">
-        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" display="true" label="Number" max_length="40" name="number" type="string"/>
         <element label="Sequence" mandatory="true" max_length="40" name="sequence" type="integer"/>
         <element label="Item text" mandatory="true" max_length="8000" name="item_text" type="html"/>
-        <element display="true" label="Charter item" mandatory="true" max_length="40" name="charter_item" type="string"/>
+        <element label="Charter item" mandatory="true" max_length="40" name="charter_item" type="string"/>
     </element>
 </database>

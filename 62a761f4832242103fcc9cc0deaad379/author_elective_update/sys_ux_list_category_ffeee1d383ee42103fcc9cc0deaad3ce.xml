@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_list_category">
+    <sys_ux_list_category action="DELETE">
+        <active>true</active>
+        <configuration display_value="CALMS admin">7beee1d383ee42103fcc9cc0deaad374</configuration>
+        <description/>
+        <order>200</order>
+        <sys_class_name>sys_ux_list_category</sys_class_name>
+        <sys_created_by>oscarfotz</sys_created_by>
+        <sys_created_on>2024-06-07 21:29:35</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ffeee1d383ee42103fcc9cc0deaad3ce</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Personnel</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_update_name>sys_ux_list_category_ffeee1d383ee42103fcc9cc0deaad3ce</sys_update_name>
+        <sys_updated_by>oscarfotz</sys_updated_by>
+        <sys_updated_on>2024-06-08 02:47:28</sys_updated_on>
+        <title>Personnel</title>
+    </sys_ux_list_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</application>
+        <file_path/>
+        <instance_id>08590c631ba5c29832182f8dee4bcb43</instance_id>
+        <instance_name>dev260572</instance_name>
+        <name>sys_ux_list_category_ffeee1d383ee42103fcc9cc0deaad3ce</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_list_category"><sys_ux_list_category action="INSERT_OR_UPDATE"><active>true</active><configuration display_value="CALMS admin">7beee1d383ee42103fcc9cc0deaad374</configuration><description/><order>200</order><sys_class_name>sys_ux_list_category</sys_class_name><sys_created_by>oscarfotz</sys_created_by><sys_created_on>2024-06-07 21:29:35</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ffeee1d383ee42103fcc9cc0deaad3ce</sys_id><sys_mod_count>3</sys_mod_count><sys_name>Personnel</sys_name><sys_overrides/><sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package><sys_policy/><sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope><sys_update_name>sys_ux_list_category_ffeee1d383ee42103fcc9cc0deaad3ce</sys_update_name><sys_updated_by>oscarfotz</sys_updated_by><sys_updated_on>2024-06-08 02:47:28</sys_updated_on><title>Personnel</title></sys_ux_list_category></record_update>]]></payload>
+        <payload_hash>887210424</payload_hash>
+        <record_name>Personnel</record_name>
+        <reverted_from/>
+        <source>0ca2c1d6832202103fcc9cc0deaad390</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>oscarfotz</sys_created_by>
+        <sys_created_on>2024-06-08 02:47:28</sys_created_on>
+        <sys_id>dcb7ba97836682103fcc9cc0deaad3b3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ff5be6b5a0000001</sys_recorded_at>
+        <sys_updated_by>oscarfotz</sys_updated_by>
+        <sys_updated_on>2024-06-08 02:47:28</sys_updated_on>
+        <type>UX List Category</type>
+        <update_guid>54b7ba97d8668210b0f41c7087ea87b3</update_guid>
+        <update_guid_history>54b7ba97d8668210b0f41c7087ea87b3:887210424,164732575a6682101eab2e3a4751c2b4:1396919509,4f17725729668210ec52ff91dbf16560:887210424,ffeee1d326ee4210498f1d8c11a71bcf:331301983</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>oscarfotz</sys_created_by>
+        <sys_created_on>2024-06-08 04:06:38</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_list_category">sys_ux_list_category</sys_db_object>
+        <sys_id>3275b6a14d7a4769903a580869c9fde1</sys_id>
+        <sys_metadata>ffeee1d383ee42103fcc9cc0deaad3ce</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Personnel</sys_name>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_scope_delete display_value="">52e6fb2b6ff440dcae7286a44d209be1</sys_scope_delete>
+        <sys_update_name>sys_ux_list_category_ffeee1d383ee42103fcc9cc0deaad3ce</sys_update_name>
+        <sys_update_version display_value="sys_ux_list_category_ffeee1d383ee42103fcc9cc0deaad3ce">dcb7ba97836682103fcc9cc0deaad3b3</sys_update_version>
+        <sys_updated_by>oscarfotz</sys_updated_by>
+        <sys_updated_on>2024-06-08 04:06:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

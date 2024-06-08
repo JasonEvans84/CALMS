@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Basic Information" section_id="59fe65d383ee42103fcc9cc0deaad348" sys_domain="global" table="x_1284052_consol_0_aircraft" version="3" view="workspace-aircraft-page-0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>serial_number</element>
+            <position>0</position>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 21:29:41</sys_created_on>
+            <sys_id>1dfe65d383ee42103fcc9cc0deaad3f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Basic Information" display_value="Basic Information" name="x_1284052_consol_0_aircraft" sys_domain="global" view="5eeea1d316ee42103fd05e36e446dc0c">59fe65d383ee42103fcc9cc0deaad348</sys_ui_section>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 21:29:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>tail_number</element>
+            <position>1</position>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 21:29:41</sys_created_on>
+            <sys_id>5dfe65d383ee42103fcc9cc0deaad3ed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Basic Information" display_value="Basic Information" name="x_1284052_consol_0_aircraft" sys_domain="global" view="5eeea1d316ee42103fd05e36e446dc0c">59fe65d383ee42103fcc9cc0deaad348</sys_ui_section>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 21:29:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>possession_code</element>
+            <position>2</position>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 21:29:41</sys_created_on>
+            <sys_id>15fe65d383ee42103fcc9cc0deaad3f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Basic Information" display_value="Basic Information" name="x_1284052_consol_0_aircraft" sys_domain="global" view="5eeea1d316ee42103fd05e36e446dc0c">59fe65d383ee42103fcc9cc0deaad348</sys_ui_section>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 21:29:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>mds</element>
+            <position>3</position>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 21:29:41</sys_created_on>
+            <sys_id>1dfe65d383ee42103fcc9cc0deaad3ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Basic Information" display_value="Basic Information" name="x_1284052_consol_0_aircraft" sys_domain="global" view="5eeea1d316ee42103fd05e36e446dc0c">59fe65d383ee42103fcc9cc0deaad348</sys_ui_section>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 21:29:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>mds.callsign</element>
+            <position>4</position>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 21:29:41</sys_created_on>
+            <sys_id>1dfe65d383ee42103fcc9cc0deaad3f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Basic Information" display_value="Basic Information" name="x_1284052_consol_0_aircraft" sys_domain="global" view="5eeea1d316ee42103fd05e36e446dc0c">59fe65d383ee42103fcc9cc0deaad348</sys_ui_section>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 21:29:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 21:29:41</sys_created_on>
+            <sys_id>15fe65d383ee42103fcc9cc0deaad3ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Basic Information" display_value="Basic Information" name="x_1284052_consol_0_aircraft" sys_domain="global" view="5eeea1d316ee42103fd05e36e446dc0c">59fe65d383ee42103fcc9cc0deaad348</sys_ui_section>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 21:29:41</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>call_sign</element>
+            <position>6</position>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 21:29:41</sys_created_on>
+            <sys_id>15fe65d383ee42103fcc9cc0deaad3f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Basic Information" display_value="Basic Information" name="x_1284052_consol_0_aircraft" sys_domain="global" view="5eeea1d316ee42103fd05e36e446dc0c">59fe65d383ee42103fcc9cc0deaad348</sys_ui_section>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 21:29:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>version</element>
+            <position>7</position>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 21:29:41</sys_created_on>
+            <sys_id>1dfe65d383ee42103fcc9cc0deaad3ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Basic Information" display_value="Basic Information" name="x_1284052_consol_0_aircraft" sys_domain="global" view="5eeea1d316ee42103fd05e36e446dc0c">59fe65d383ee42103fcc9cc0deaad348</sys_ui_section>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 21:29:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>possession_code.ppc_name</element>
+            <position>8</position>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 21:29:41</sys_created_on>
+            <sys_id>1dfe65d383ee42103fcc9cc0deaad3f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Basic Information" display_value="Basic Information" name="x_1284052_consol_0_aircraft" sys_domain="global" view="5eeea1d316ee42103fd05e36e446dc0c">59fe65d383ee42103fcc9cc0deaad348</sys_ui_section>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 21:29:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>9</position>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 21:29:41</sys_created_on>
+            <sys_id>15fe65d383ee42103fcc9cc0deaad3f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Basic Information" display_value="Basic Information" name="x_1284052_consol_0_aircraft" sys_domain="global" view="5eeea1d316ee42103fd05e36e446dc0c">59fe65d383ee42103fcc9cc0deaad348</sys_ui_section>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 21:29:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cxs_table_search.xml</element>
+            <position>10</position>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 21:29:41</sys_created_on>
+            <sys_id>15fe65d383ee42103fcc9cc0deaad3f3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Contextual Search Results">11eb1622eb1121003623666cd206fe56</sys_ui_formatter>
+            <sys_ui_section caption="Basic Information" display_value="Basic Information" name="x_1284052_consol_0_aircraft" sys_domain="global" view="5eeea1d316ee42103fd05e36e446dc0c">59fe65d383ee42103fcc9cc0deaad348</sys_ui_section>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 21:29:41</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Basic Information</caption>
+            <header>false</header>
+            <name>x_1284052_consol_0_aircraft</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 21:29:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>59fe65d383ee42103fcc9cc0deaad348</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1284052_consol_0_aircraft</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+            <sys_update_name>sys_ui_section_59fe65d383ee42103fcc9cc0deaad348</sys_update_name>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 21:29:41</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Workspace Aircraft Page 0" name="workspace-aircraft-page-0">5eeea1d316ee42103fd05e36e446dc0c</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

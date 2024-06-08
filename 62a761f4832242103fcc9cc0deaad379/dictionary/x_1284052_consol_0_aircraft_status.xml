@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="78c16c1b832a42103fcc9cc0deaad363" label="Aircraft Status" max_length="40" name="x_1284052_consol_0_aircraft_status" type="collection">
+        <element label="Description" max_length="40" name="description" type="string"/>
+        <element label="Code description" max_length="250" name="code_description" type="string"/>
+        <element display="true" label="Status code" max_length="6" name="status_code" type="string"/>
+        <element label="MC Code" mandatory="true" max_length="40" name="mc_code" type="string"/>
+    </element>
+</database>

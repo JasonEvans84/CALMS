@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_field_mapping">
+    <sys_rte_eb_field_mapping action="DELETE">
+        <order>100</order>
+        <referenced_sys_rte_eb_entity/>
+        <source_sys_rte_eb_field/>
+        <sys_class_name>sys_rte_eb_field_mapping</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-06 18:48:51</sys_created_on>
+        <sys_id>27804c0383a202103fcc9cc0deaad37c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="">a580840f836202103fcc9cc0deaad356</sys_rte_eb_definition>
+        <sys_rte_eb_entity_mapping display_value="IHUB_TEMP_TARGET_MAPPING">df804c0383a202103fcc9cc0deaad35e</sys_rte_eb_entity_mapping>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_update_name>sys_rte_eb_field_mapping_27804c0383a202103fcc9cc0deaad37c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-06 18:48:51</sys_updated_on>
+        <target_sys_rte_eb_field/>
+    </sys_rte_eb_field_mapping>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</application>
+        <file_path/>
+        <instance_id>08590c631ba5c29832182f8dee4bcb43</instance_id>
+        <instance_name>dev260572</instance_name>
+        <name>sys_rte_eb_field_mapping_27804c0383a202103fcc9cc0deaad37c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_field_mapping"><sys_rte_eb_field_mapping action="INSERT_OR_UPDATE"><order>100</order><referenced_sys_rte_eb_entity/><source_sys_rte_eb_field/><sys_class_name>sys_rte_eb_field_mapping</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-06 18:48:51</sys_created_on><sys_id>27804c0383a202103fcc9cc0deaad37c</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package><sys_policy/><sys_rte_eb_definition display_value="">a580840f836202103fcc9cc0deaad356</sys_rte_eb_definition><sys_rte_eb_entity_mapping display_value="IHUB_TEMP_TARGET_MAPPING">df804c0383a202103fcc9cc0deaad35e</sys_rte_eb_entity_mapping><sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope><sys_update_name>sys_rte_eb_field_mapping_27804c0383a202103fcc9cc0deaad37c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-06 18:48:51</sys_updated_on><target_sys_rte_eb_field/></sys_rte_eb_field_mapping></record_update>]]></payload>
+        <payload_hash>-493338103</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>51dfa11e8db0021087de63ac7f1f000b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-06-06 18:49:30</sys_created_on>
+        <sys_id>0db0444383a202103fcc9cc0deaad346</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18feee278900000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-06-06 18:49:30</sys_updated_on>
+        <type>RTE Field Mapping</type>
+        <update_guid>09b0444366a202105b62355826b5f146</update_guid>
+        <update_guid_history>09b0444366a202105b62355826b5f146:0,09b04443a7a202105b4af7c82569a817:0,e3804c03d5a20210ddf1d6709bce8f7d:-1676868645</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-06 18:49:30</sys_created_on>
+        <sys_db_object display_value="" name="sys_rte_eb_field_mapping">sys_rte_eb_field_mapping</sys_db_object>
+        <sys_id>6c702f29921b40d695ff6c5194a4a404</sys_id>
+        <sys_metadata>27804c0383a202103fcc9cc0deaad37c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_scope_delete display_value="">52e6fb2b6ff440dcae7286a44d209be1</sys_scope_delete>
+        <sys_update_name>sys_rte_eb_field_mapping_27804c0383a202103fcc9cc0deaad37c</sys_update_name>
+        <sys_update_version display_value="sys_rte_eb_field_mapping_27804c0383a202103fcc9cc0deaad37c">0db0444383a202103fcc9cc0deaad346</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-06 18:49:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

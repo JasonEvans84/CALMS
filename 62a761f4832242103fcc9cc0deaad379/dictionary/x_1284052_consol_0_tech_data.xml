@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="bced435783e682103fcc9cc0deaad3f6" label="Tech data" max_length="40" name="x_1284052_consol_0_tech_data" type="collection">
+        <element label="TO number" mandatory="true" max_length="40" name="to_number" type="string"/>
+        <element label="TO Title" mandatory="true" max_length="40" name="to_title" type="string"/>
+    </element>
+</database>

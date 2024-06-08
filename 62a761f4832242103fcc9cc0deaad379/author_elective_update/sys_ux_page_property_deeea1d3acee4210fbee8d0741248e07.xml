@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description>Tabs Configuration</description>
+        <name>chrome_tab</name>
+        <page display_value="Aircraft Page">1eeea1d380ee421063ca510cd2cc3f16</page>
+        <required_translations>[ {
+  "message" : "New Aircraft",
+  "comment" : ""
+}, {
+  "message" : "New Aircraft Status History",
+  "comment" : ""
+} ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>oscarfotz</sys_created_by>
+        <sys_created_on>2024-06-07 21:29:31</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>deeea1d3acee4210fbee8d0741248e07</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>chrome_tab</sys_name>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_update_name>sys_ux_page_property_deeea1d3acee4210fbee8d0741248e07</sys_update_name>
+        <sys_updated_by>oscarfotz</sys_updated_by>
+        <sys_updated_on>2024-06-07 21:29:37</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1284052_consol_0.1eeea1d380ee421063ca510cd2cc3f16.root.chrome_tab</unique_name>
+        <value>{"contextual":["record"],"newTabMenu":[{"label":{"translatable":true,"message":"New Aircraft"},"routeInfo":{"route":"record","fields":{"table":"x_1284052_consol_0_aircraft","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1284052_consol_0_aircraft","canCreate":true}}},{"label":{"translatable":true,"message":"New Aircraft Status History"},"routeInfo":{"route":"record","fields":{"table":"x_1284052_consol_0_aircraft_status_history","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1284052_consol_0_aircraft_status_history","canCreate":true}}}],"maxMainTabLimit":10,"maxTotalSubTabLimit":30}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="DELETE" query="documentkey=deeea1d3acee4210fbee8d0741248e07"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</application>
+        <file_path/>
+        <instance_id>08590c631ba5c29832182f8dee4bcb43</instance_id>
+        <instance_name>dev260572</instance_name>
+        <name>sys_ux_page_property_deeea1d3acee4210fbee8d0741248e07</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description>Tabs Configuration</description><name>chrome_tab</name><page display_value="Aircraft Page">1eeea1d380ee421063ca510cd2cc3f16</page><required_translations>[ {
+  "message" : "New Aircraft",
+  "comment" : ""
+}, {
+  "message" : "New Aircraft Status History",
+  "comment" : ""
+} ]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>oscarfotz</sys_created_by><sys_created_on>2024-06-07 21:29:31</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>deeea1d3acee4210fbee8d0741248e07</sys_id><sys_mod_count>1</sys_mod_count><sys_name>chrome_tab</sys_name><sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package><sys_policy/><sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope><sys_update_name>sys_ux_page_property_deeea1d3acee4210fbee8d0741248e07</sys_update_name><sys_updated_by>oscarfotz</sys_updated_by><sys_updated_on>2024-06-07 21:29:37</sys_updated_on><type>json</type><unique_name>x_1284052_consol_0.1eeea1d380ee421063ca510cd2cc3f16.root.chrome_tab</unique_name><value>{"contextual":["record"],"newTabMenu":[{"label":{"translatable":true,"message":"New Aircraft"},"routeInfo":{"route":"record","fields":{"table":"x_1284052_consol_0_aircraft","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1284052_consol_0_aircraft","canCreate":true}}},{"label":{"translatable":true,"message":"New Aircraft Status History"},"routeInfo":{"route":"record","fields":{"table":"x_1284052_consol_0_aircraft_status_history","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1284052_consol_0_aircraft_status_history","canCreate":true}}}],"maxMainTabLimit":10,"maxTotalSubTabLimit":30}</value></sys_ux_page_property><sys_translated_text action="delete_multiple" query="documentkey=deeea1d3acee4210fbee8d0741248e07"/></record_update>]]></payload>
+        <payload_hash>1681761452</payload_hash>
+        <record_name>chrome_tab</record_name>
+        <reverted_from/>
+        <source>0ca2c1d6832202103fcc9cc0deaad390</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>oscarfotz</sys_created_by>
+        <sys_created_on>2024-06-07 21:29:37</sys_created_on>
+        <sys_id>10fe25d383ee42103fcc9cc0deaad3be</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ff49b6c9e0000001</sys_recorded_at>
+        <sys_updated_by>oscarfotz</sys_updated_by>
+        <sys_updated_on>2024-06-07 21:29:37</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>d4fe25d3efee4210d7f8246c7b9807bd</update_guid>
+        <update_guid_history>d4fe25d3efee4210d7f8246c7b9807bd:1681761452,dcfe25d3f3ee4210950edbe0d33264bb:53073176</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>oscarfotz</sys_created_by>
+        <sys_created_on>2024-06-08 04:06:39</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>02d39a13564f41d391bff07737628cd1</sys_id>
+        <sys_metadata>deeea1d3acee4210fbee8d0741248e07</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_tab</sys_name>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_scope_delete display_value="">52e6fb2b6ff440dcae7286a44d209be1</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_deeea1d3acee4210fbee8d0741248e07</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_deeea1d3acee4210fbee8d0741248e07">10fe25d383ee42103fcc9cc0deaad3be</sys_update_version>
+        <sys_updated_by>oscarfotz</sys_updated_by>
+        <sys_updated_on>2024-06-08 04:06:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_datasource_field_attribute">
+    <ais_datasource_field_attribute action="INSERT_OR_UPDATE">
+        <attribute display_value="map_to">f734a634c7320010d1cfd9795cc26094</attribute>
+        <datasource display_value="Aircraft Table">54fe25d383ee42103fcc9cc0deaad3bf</datasource>
+        <field>tail_number</field>
+        <source>x_1284052_consol_0_aircraft</source>
+        <sys_class_name>ais_datasource_field_attribute</sys_class_name>
+        <sys_created_by>oscarfotz</sys_created_by>
+        <sys_created_on>2024-06-07 21:29:38</sys_created_on>
+        <sys_id>e8fe65d383ee42103fcc9cc0deaad306</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1284052_consol_0_aircraft.tail_number</sys_name>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_update_name>ais_datasource_field_attribute_e8fe65d383ee42103fcc9cc0deaad306</sys_update_name>
+        <sys_updated_by>oscarfotz</sys_updated_by>
+        <sys_updated_on>2024-06-07 21:29:38</sys_updated_on>
+        <value>title</value>
+    </ais_datasource_field_attribute>
+</record_update>
