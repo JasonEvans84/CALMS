@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="aa729150837e02103fcc9cc0deaad3f6" label="Table Descriptions" max_length="40" name="x_1284052_consol_0_table_descriptions" type="collection">
+        <element label="Table name" mandatory="true" max_length="40" name="table_name" type="string"/>
+        <element label="Table description" max_length="8000" name="table_description" type="html"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>

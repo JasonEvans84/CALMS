@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent">
+    <sys_ux_macroponent action="DELETE">
+        <associated_types/>
+        <bundles/>
+        <category>page</category>
+        <component_dependencies/>
+        <composition/>
+        <da_relay_models/>
+        <data/>
+        <description/>
+        <dispatched_events/>
+        <ext_controller_dep/>
+        <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
+        <extension_point/>
+        <handled_events/>
+        <interactions/>
+        <interfaces/>
+        <internal_event_mappings/>
+        <layout/>
+        <macroponent_dependencies/>
+        <name>Suggestions</name>
+        <output_prop_mapping/>
+        <props>[
+    
+]</props>
+        <required_translations>[ ]</required_translations>
+        <root_component/>
+        <root_component_config/>
+        <root_component_definition/>
+        <schema_version>1.0.0</schema_version>
+        <state_properties/>
+        <sys_class_name>sys_ux_macroponent</sys_class_name>
+        <sys_created_by>Tim.Dingle</sys_created_by>
+        <sys_created_on>2024-06-11 02:04:19</sys_created_on>
+        <sys_id>299a4698837242103fcc9cc0deaad3fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Suggestions</sys_name>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_update_name>sys_ux_macroponent_299a4698837242103fcc9cc0deaad3fa</sys_update_name>
+        <sys_updated_by>Tim.Dingle</sys_updated_by>
+        <sys_updated_on>2024-06-11 02:04:19</sys_updated_on>
+    </sys_ux_macroponent>
+    <sys_translated_text action="DELETE" query="documentkey=299a4698837242103fcc9cc0deaad3fa"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</application>
+        <file_path/>
+        <instance_id>08590c631ba5c29832182f8dee4bcb43</instance_id>
+        <instance_name>dev260572</instance_name>
+        <name>sys_ux_macroponent_299a4698837242103fcc9cc0deaad3fa</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent"><sys_ux_macroponent action="INSERT_OR_UPDATE"><associated_types/><bundles/><category>page</category><component_dependencies/><composition/><da_relay_models/><data/><description/><dispatched_events/><ext_controller_dep/><extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends><extension_point/><handled_events/><interactions/><interfaces/><internal_event_mappings/><layout/><macroponent_dependencies/><name>Suggestions</name><output_prop_mapping/><props>[
+    
+]</props><required_translations>[ ]</required_translations><root_component/><root_component_config/><root_component_definition/><schema_version>1.0.0</schema_version><state_properties/><sys_class_name>sys_ux_macroponent</sys_class_name><sys_created_by>Tim.Dingle</sys_created_by><sys_created_on>2024-06-11 02:04:19</sys_created_on><sys_id>299a4698837242103fcc9cc0deaad3fa</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Suggestions</sys_name><sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package><sys_policy/><sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope><sys_update_name>sys_ux_macroponent_299a4698837242103fcc9cc0deaad3fa</sys_update_name><sys_updated_by>Tim.Dingle</sys_updated_by><sys_updated_on>2024-06-11 02:04:19</sys_updated_on></sys_ux_macroponent><sys_translated_text action="delete_multiple" query="documentkey=299a4698837242103fcc9cc0deaad3fa"/></record_update>]]></payload>
+        <payload_hash>-897776914</payload_hash>
+        <record_name>Suggestions</record_name>
+        <reverted_from/>
+        <source>8806ed5883be02103fcc9cc0deaad301</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Tim.Dingle</sys_created_by>
+        <sys_created_on>2024-06-11 02:04:19</sys_created_on>
+        <sys_id>299a4698837242103fcc9cc0deaad3fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1900509ff200000001</sys_recorded_at>
+        <sys_updated_by>Tim.Dingle</sys_updated_by>
+        <sys_updated_on>2024-06-11 02:04:19</sys_updated_on>
+        <type>UX Macroponent Definition</type>
+        <update_guid>2d9a469812724210a7b30143eff450fc</update_guid>
+        <update_guid_history>2d9a469812724210a7b30143eff450fc:-897776914</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Tim.Dingle</sys_created_by>
+        <sys_created_on>2024-06-11 02:04:53</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_macroponent">sys_ux_macroponent</sys_db_object>
+        <sys_id>0584202860d14c0a831a40fb437c6f21</sys_id>
+        <sys_metadata>299a4698837242103fcc9cc0deaad3fa</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Suggestions</sys_name>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_scope_delete display_value="">52e6fb2b6ff440dcae7286a44d209be1</sys_scope_delete>
+        <sys_update_name>sys_ux_macroponent_299a4698837242103fcc9cc0deaad3fa</sys_update_name>
+        <sys_update_version display_value="sys_ux_macroponent_299a4698837242103fcc9cc0deaad3fa">299a4698837242103fcc9cc0deaad3fd</sys_update_version>
+        <sys_updated_by>Tim.Dingle</sys_updated_by>
+        <sys_updated_on>2024-06-11 02:04:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
