@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="365af95d837286103fcc9cc0deaad302" label="Job Status" max_length="40" name="x_1284052_consol_0_job_status" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Status Description" max_length="250" name="status_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Status" max_length="40" name="status" type="string"/>
+    </element>
+</database>

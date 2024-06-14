@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="8514609583ba46103fcc9cc0deaad3f2" extends="x_1284052_consol_0_discrepancy" label="Child Discrepancy" max_length="40" name="x_1284052_consol_0_child_discrepancy" type="collection">
-        <element label="Parent job" max_length="32" name="parent_job" reference="x_1284052_consol_0_discrepancy" type="reference"/>
+        <element label="Parent job" mandatory="true" max_length="32" name="parent_job" read_only="true" reference="x_1284052_consol_0_discrepancy" type="reference"/>
         <index name="index">
             <element name="parent_job"/>
         </index>

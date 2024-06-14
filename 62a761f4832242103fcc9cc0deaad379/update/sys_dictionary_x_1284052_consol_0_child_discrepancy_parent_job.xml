@@ -28,12 +28,12 @@
         <function_definition/>
         <function_field>false</function_field>
         <internal_type display_value="Reference">reference</internal_type>
-        <mandatory>false</mandatory>
+        <mandatory>true</mandatory>
         <max_length>32</max_length>
         <name>x_1284052_consol_0_child_discrepancy</name>
         <next_element/>
         <primary>false</primary>
-        <read_only>false</read_only>
+        <read_only>true</read_only>
         <read_roles/>
         <reference display_value="" name="x_1284052_consol_0_discrepancy">x_1284052_consol_0_discrepancy</reference>
         <reference_cascade_rule/>
@@ -53,7 +53,7 @@
         <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
         <sys_update_name>sys_dictionary_x_1284052_consol_0_child_discrepancy_parent_job</sys_update_name>
         <sys_updated_by>Jason.Evans</sys_updated_by>
-        <sys_updated_on>2024-06-13 21:32:43</sys_updated_on>
+        <sys_updated_on>2024-06-14 04:13:45</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

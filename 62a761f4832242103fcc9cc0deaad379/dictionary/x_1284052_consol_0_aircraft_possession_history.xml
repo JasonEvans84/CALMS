@@ -9,7 +9,7 @@
         <element label="Aircraft" mandatory="true" max_length="32" name="aircraft" reference="x_1284052_consol_0_aircraft" type="reference"/>
         <element label="Owning wing" max_length="32" name="owning_wing" reference="x_1284052_consol_0_wing" type="reference"/>
         <element label="Possession code" max_length="32" name="possession_code" reference="x_1284052_consol_0_possession_codes" type="reference"/>
-        <element label="Stop date time" max_length="40" name="stop_date_time" type="calendar_date_time"/>
+        <element label="Duration (hrs)" max_length="38" name="duration_hrs" type="decimal"/>
         <index name="index">
             <element name="aircraft"/>
         </index>

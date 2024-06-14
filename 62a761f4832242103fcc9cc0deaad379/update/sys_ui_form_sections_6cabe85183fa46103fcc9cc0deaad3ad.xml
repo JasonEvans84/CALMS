@@ -21,12 +21,26 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>78abe85183fa46103fcc9cc0deaad3b2</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_1284052_consol_0_discrepancy" name="x_1284052_consol_0_discrepancy" sys_domain="global" view="Default view">6cabe85183fa46103fcc9cc0deaad3ad</sys_ui_form>
             <sys_ui_section caption="Closing Details" display_value="Closing Details" name="x_1284052_consol_0_discrepancy" sys_domain="global" view="Default view">6cabe85183fa46103fcc9cc0deaad3ac</sys_ui_section>
             <sys_updated_by>Jason.Evans</sys_updated_by>
-            <sys_updated_on>2024-06-13 21:43:24</sys_updated_on>
+            <sys_updated_on>2024-06-14 03:34:52</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>Jason.Evans</sys_created_by>
+            <sys_created_on>2024-06-14 03:30:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c72b75dd837286103fcc9cc0deaad3d6</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1284052_consol_0_discrepancy" name="x_1284052_consol_0_discrepancy" sys_domain="global" view="Default view">6cabe85183fa46103fcc9cc0deaad3ad</sys_ui_form>
+            <sys_ui_section caption="Special Circumstances" display_value="Special Circumstances" name="x_1284052_consol_0_discrepancy" sys_domain="global" view="Default view">4f2b75dd837286103fcc9cc0deaad3d3</sys_ui_section>
+            <sys_updated_by>Jason.Evans</sys_updated_by>
+            <sys_updated_on>2024-06-14 03:34:52</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_1284052_consol_0_discrepancy</name>

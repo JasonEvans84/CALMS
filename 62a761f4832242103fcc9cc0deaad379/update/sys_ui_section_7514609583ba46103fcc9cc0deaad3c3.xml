@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Facilitating Job" section_id="7514609583ba46103fcc9cc0deaad3c3" sys_domain="global" table="x_1284052_consol_0_child_discrepancy" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>Jason.Evans</sys_created_by>
+            <sys_created_on>2024-06-14 05:39:42</sys_created_on>
+            <sys_id>79a896d9833686103fcc9cc0deaad35e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Facilitating Job" display_value="Facilitating Job" name="x_1284052_consol_0_child_discrepancy" sys_domain="global" view="Default view">7514609583ba46103fcc9cc0deaad3c3</sys_ui_section>
+            <sys_updated_by>Jason.Evans</sys_updated_by>
+            <sys_updated_on>2024-06-14 05:39:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>parent_job</element>
+            <position>1</position>
+            <sys_created_by>Jason.Evans</sys_created_by>
+            <sys_created_on>2024-06-14 05:39:42</sys_created_on>
+            <sys_id>71a896d9833686103fcc9cc0deaad35f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Facilitating Job" display_value="Facilitating Job" name="x_1284052_consol_0_child_discrepancy" sys_domain="global" view="Default view">7514609583ba46103fcc9cc0deaad3c3</sys_ui_section>
+            <sys_updated_by>Jason.Evans</sys_updated_by>
+            <sys_updated_on>2024-06-14 05:39:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>discovered_by</element>
+            <position>2</position>
+            <sys_created_by>Jason.Evans</sys_created_by>
+            <sys_created_on>2024-06-14 05:39:42</sys_created_on>
+            <sys_id>79a896d9833686103fcc9cc0deaad35f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Facilitating Job" display_value="Facilitating Job" name="x_1284052_consol_0_child_discrepancy" sys_domain="global" view="Default view">7514609583ba46103fcc9cc0deaad3c3</sys_ui_section>
+            <sys_updated_by>Jason.Evans</sys_updated_by>
+            <sys_updated_on>2024-06-14 05:39:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>workcenter</element>
+            <position>3</position>
+            <sys_created_by>Jason.Evans</sys_created_by>
+            <sys_created_on>2024-06-14 05:39:42</sys_created_on>
+            <sys_id>71a896d9833686103fcc9cc0deaad360</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Facilitating Job" display_value="Facilitating Job" name="x_1284052_consol_0_child_discrepancy" sys_domain="global" view="Default view">7514609583ba46103fcc9cc0deaad3c3</sys_ui_section>
+            <sys_updated_by>Jason.Evans</sys_updated_by>
+            <sys_updated_on>2024-06-14 05:39:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>system</element>
+            <position>4</position>
+            <sys_created_by>Jason.Evans</sys_created_by>
+            <sys_created_on>2024-06-14 05:39:42</sys_created_on>
+            <sys_id>79a896d9833686103fcc9cc0deaad360</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Facilitating Job" display_value="Facilitating Job" name="x_1284052_consol_0_child_discrepancy" sys_domain="global" view="Default view">7514609583ba46103fcc9cc0deaad3c3</sys_ui_section>
+            <sys_updated_by>Jason.Evans</sys_updated_by>
+            <sys_updated_on>2024-06-14 05:39:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>when_discovered</element>
+            <position>5</position>
+            <sys_created_by>Jason.Evans</sys_created_by>
+            <sys_created_on>2024-06-14 05:39:42</sys_created_on>
+            <sys_id>71a896d9833686103fcc9cc0deaad361</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Facilitating Job" display_value="Facilitating Job" name="x_1284052_consol_0_child_discrepancy" sys_domain="global" view="Default view">7514609583ba46103fcc9cc0deaad3c3</sys_ui_section>
+            <sys_updated_by>Jason.Evans</sys_updated_by>
+            <sys_updated_on>2024-06-14 05:39:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>job_status</element>
+            <position>6</position>
+            <sys_created_by>Jason.Evans</sys_created_by>
+            <sys_created_on>2024-06-14 05:39:42</sys_created_on>
+            <sys_id>79a896d9833686103fcc9cc0deaad361</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Facilitating Job" display_value="Facilitating Job" name="x_1284052_consol_0_child_discrepancy" sys_domain="global" view="Default view">7514609583ba46103fcc9cc0deaad3c3</sys_ui_section>
+            <sys_updated_by>Jason.Evans</sys_updated_by>
+            <sys_updated_on>2024-06-14 05:39:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>completed_date_time</element>
+            <position>7</position>
+            <sys_created_by>Jason.Evans</sys_created_by>
+            <sys_created_on>2024-06-14 05:39:42</sys_created_on>
+            <sys_id>71a896d9833686103fcc9cc0deaad362</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Facilitating Job" display_value="Facilitating Job" name="x_1284052_consol_0_child_discrepancy" sys_domain="global" view="Default view">7514609583ba46103fcc9cc0deaad3c3</sys_ui_section>
+            <sys_updated_by>Jason.Evans</sys_updated_by>
+            <sys_updated_on>2024-06-14 05:39:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>8</position>
+            <sys_created_by>Jason.Evans</sys_created_by>
+            <sys_created_on>2024-06-14 05:39:42</sys_created_on>
+            <sys_id>79a896d9833686103fcc9cc0deaad362</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Facilitating Job" display_value="Facilitating Job" name="x_1284052_consol_0_child_discrepancy" sys_domain="global" view="Default view">7514609583ba46103fcc9cc0deaad3c3</sys_ui_section>
+            <sys_updated_by>Jason.Evans</sys_updated_by>
+            <sys_updated_on>2024-06-14 05:39:42</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>aircraft</element>
+            <position>9</position>
+            <sys_created_by>Jason.Evans</sys_created_by>
+            <sys_created_on>2024-06-14 05:39:42</sys_created_on>
+            <sys_id>71a896d9833686103fcc9cc0deaad363</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Facilitating Job" display_value="Facilitating Job" name="x_1284052_consol_0_child_discrepancy" sys_domain="global" view="Default view">7514609583ba46103fcc9cc0deaad3c3</sys_ui_section>
+            <sys_updated_by>Jason.Evans</sys_updated_by>
+            <sys_updated_on>2024-06-14 05:39:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>parent_job.short_narrative</element>
+            <position>10</position>
+            <sys_created_by>Jason.Evans</sys_created_by>
+            <sys_created_on>2024-06-14 05:39:42</sys_created_on>
+            <sys_id>79a896d9833686103fcc9cc0deaad363</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Facilitating Job" display_value="Facilitating Job" name="x_1284052_consol_0_child_discrepancy" sys_domain="global" view="Default view">7514609583ba46103fcc9cc0deaad3c3</sys_ui_section>
+            <sys_updated_by>Jason.Evans</sys_updated_by>
+            <sys_updated_on>2024-06-14 05:39:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>date_discovered</element>
+            <position>11</position>
+            <sys_created_by>Jason.Evans</sys_created_by>
+            <sys_created_on>2024-06-14 05:39:42</sys_created_on>
+            <sys_id>71a896d9833686103fcc9cc0deaad364</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Facilitating Job" display_value="Facilitating Job" name="x_1284052_consol_0_child_discrepancy" sys_domain="global" view="Default view">7514609583ba46103fcc9cc0deaad3c3</sys_ui_section>
+            <sys_updated_by>Jason.Evans</sys_updated_by>
+            <sys_updated_on>2024-06-14 05:39:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>symbol</element>
+            <position>12</position>
+            <sys_created_by>Jason.Evans</sys_created_by>
+            <sys_created_on>2024-06-14 05:39:42</sys_created_on>
+            <sys_id>79a896d9833686103fcc9cc0deaad364</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Facilitating Job" display_value="Facilitating Job" name="x_1284052_consol_0_child_discrepancy" sys_domain="global" view="Default view">7514609583ba46103fcc9cc0deaad3c3</sys_ui_section>
+            <sys_updated_by>Jason.Evans</sys_updated_by>
+            <sys_updated_on>2024-06-14 05:39:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>subsystem</element>
+            <position>13</position>
+            <sys_created_by>Jason.Evans</sys_created_by>
+            <sys_created_on>2024-06-14 05:39:42</sys_created_on>
+            <sys_id>71a896d9833686103fcc9cc0deaad365</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Facilitating Job" display_value="Facilitating Job" name="x_1284052_consol_0_child_discrepancy" sys_domain="global" view="Default view">7514609583ba46103fcc9cc0deaad3c3</sys_ui_section>
+            <sys_updated_by>Jason.Evans</sys_updated_by>
+            <sys_updated_on>2024-06-14 05:39:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>type_maintenance</element>
+            <position>14</position>
+            <sys_created_by>Jason.Evans</sys_created_by>
+            <sys_created_on>2024-06-14 05:39:42</sys_created_on>
+            <sys_id>79a896d9833686103fcc9cc0deaad365</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Facilitating Job" display_value="Facilitating Job" name="x_1284052_consol_0_child_discrepancy" sys_domain="global" view="Default view">7514609583ba46103fcc9cc0deaad3c3</sys_ui_section>
+            <sys_updated_by>Jason.Evans</sys_updated_by>
+            <sys_updated_on>2024-06-14 05:39:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>deferred</element>
+            <position>15</position>
+            <sys_created_by>Jason.Evans</sys_created_by>
+            <sys_created_on>2024-06-14 05:39:42</sys_created_on>
+            <sys_id>71a896d9833686103fcc9cc0deaad366</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Facilitating Job" display_value="Facilitating Job" name="x_1284052_consol_0_child_discrepancy" sys_domain="global" view="Default view">7514609583ba46103fcc9cc0deaad3c3</sys_ui_section>
+            <sys_updated_by>Jason.Evans</sys_updated_by>
+            <sys_updated_on>2024-06-14 05:39:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>16</position>
+            <sys_created_by>Jason.Evans</sys_created_by>
+            <sys_created_on>2024-06-14 05:39:42</sys_created_on>
+            <sys_id>79a896d9833686103fcc9cc0deaad366</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Facilitating Job" display_value="Facilitating Job" name="x_1284052_consol_0_child_discrepancy" sys_domain="global" view="Default view">7514609583ba46103fcc9cc0deaad3c3</sys_ui_section>
+            <sys_updated_by>Jason.Evans</sys_updated_by>
+            <sys_updated_on>2024-06-14 05:39:42</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_narrative</element>
+            <position>17</position>
+            <sys_created_by>Jason.Evans</sys_created_by>
+            <sys_created_on>2024-06-14 05:39:42</sys_created_on>
+            <sys_id>71a896d9833686103fcc9cc0deaad367</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Facilitating Job" display_value="Facilitating Job" name="x_1284052_consol_0_child_discrepancy" sys_domain="global" view="Default view">7514609583ba46103fcc9cc0deaad3c3</sys_ui_section>
+            <sys_updated_by>Jason.Evans</sys_updated_by>
+            <sys_updated_on>2024-06-14 05:39:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>narrative</element>
+            <position>18</position>
+            <sys_created_by>Jason.Evans</sys_created_by>
+            <sys_created_on>2024-06-14 05:39:42</sys_created_on>
+            <sys_id>31a896d9833686103fcc9cc0deaad374</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Facilitating Job" display_value="Facilitating Job" name="x_1284052_consol_0_child_discrepancy" sys_domain="global" view="Default view">7514609583ba46103fcc9cc0deaad3c3</sys_ui_section>
+            <sys_updated_by>Jason.Evans</sys_updated_by>
+            <sys_updated_on>2024-06-14 05:39:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Facilitating Job</caption>
+            <header>false</header>
+            <name>x_1284052_consol_0_child_discrepancy</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>Jason.Evans</sys_created_by>
+            <sys_created_on>2024-06-13 21:10:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7514609583ba46103fcc9cc0deaad3c3</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_name>x_1284052_consol_0_child_discrepancy</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+            <sys_update_name>sys_ui_section_7514609583ba46103fcc9cc0deaad3c3</sys_update_name>
+            <sys_updated_by>Jason.Evans</sys_updated_by>
+            <sys_updated_on>2024-06-14 02:19:44</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
