@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="ignore_delete_children=true" audit="true" db_object_id="4bf2a474836a02103fcc9cc0deaad322" extends="rm_feature" label="Epic" max_length="40" name="rm_epic" type="collection">
+        <element label="Project" max_length="32" name="x_1284052_consol_0_project" reference="pm_project" type="reference"/>
+    </element>
+</database>

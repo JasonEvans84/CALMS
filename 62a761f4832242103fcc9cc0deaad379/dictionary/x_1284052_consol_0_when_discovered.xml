@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="3806dc51837a46103fcc9cc0deaad338" label="When Discovered" max_length="40" name="x_1284052_consol_0_when_discovered" type="collection">
+        <element display="true" label="When discovered code" max_length="40" name="when_discovered_code" type="string"/>
+        <element label="WD Description" max_length="250" name="description" type="string"/>
+    </element>
+</database>

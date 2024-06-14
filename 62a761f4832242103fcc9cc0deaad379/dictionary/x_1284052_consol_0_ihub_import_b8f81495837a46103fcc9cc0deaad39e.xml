@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="eb099895837a46103fcc9cc0deaad32c" extends="sys_import_set_row" label="When Discovered Data Mapping" max_length="40" name="x_1284052_consol_0_ihub_import_b8f81495837a46103fcc9cc0deaad39e" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Description" label="Description" max_length="40" name="u_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=When discovered code" label="When discovered code" max_length="40" name="u_when_discovered_code" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=A" label="A" max_length="40" name="u_a" type="string"/>
+    </element>
+</database>

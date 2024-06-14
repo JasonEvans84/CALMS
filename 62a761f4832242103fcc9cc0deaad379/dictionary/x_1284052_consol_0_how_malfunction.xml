@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="cceedc9d837a46103fcc9cc0deaad34f" label="How Malfunction" max_length="40" name="x_1284052_consol_0_how_malfunction" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Description" mandatory="true" max_length="250" name="description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="How malfunction code" mandatory="true" max_length="40" name="how_malfunction_code" type="string"/>
+    </element>
+</database>
