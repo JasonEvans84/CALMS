@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="4679e02d8332c6103fcc9cc0deaad35f" label="Aircraft Configuration" max_length="40" name="x_1284052_consol_0_aircraft_configuration" type="collection">
+        <element choice="1" label="Cargo config" max_length="40" name="cargo_config" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="LOCAL-1" sequence="4" value="local1"/>
+                <element inactive_on_update="false" label="TAP-2" sequence="2" value="tap2"/>
+                <element inactive_on_update="false" label="TAP-3" sequence="3" value="tap3"/>
+                <element inactive_on_update="false" label="TAP-1" sequence="1" value="tap1"/>
+            </choice>
+        </element>
+        <element label="Dedicated crew chief" max_length="32" name="dedicated_crew_chief" reference="x_1284052_consol_0_technician" type="reference"/>
+        <element display="true" label="Aircraft" max_length="32" name="aircraft" reference="x_1284052_consol_0_aircraft" type="reference"/>
+        <element choice="1" label="MSCAL" max_length="40" name="mscal" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Universal heavy chaff" sequence="1" value="UHC"/>
+                <element inactive_on_update="false" label="Universal heavy flare" sequence="2" value="UHF"/>
+            </choice>
+        </element>
+        <element label="LOX (L)" max_length="40" name="lox_l" type="integer"/>
+        <element label="MDS" max_length="32" name="mds" reference="x_1284052_consol_0_mds" type="reference"/>
+        <element choice="1" label="LH Drogue" max_length="40" name="lh_drogue" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Low speed drogue" sequence="2" value="LSD"/>
+                <element inactive_on_update="false" label="Variable speed drogue" sequence="3" value="VSD"/>
+                <element inactive_on_update="false" label="High speed drogue" sequence="1" value="HSD"/>
+            </choice>
+        </element>
+        <element label="Comments" max_length="8000" name="comments" type="html"/>
+        <element label="Fuel (K)" max_length="40" name="fuel_k" type="integer"/>
+        <element choice="1" label="RH Drogue" max_length="40" name="rh_drogue" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="High speed drog" sequence="1" value="HSD"/>
+                <element inactive_on_update="false" label="Variable speed drogue" sequence="3" value="VSD"/>
+                <element inactive_on_update="false" label="Low speed drogue" sequence="2" value="LSD"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="aircraft"/>
+        </index>
+        <index name="index2">
+            <element name="dedicated_crew_chief"/>
+        </index>
+        <index name="index3">
+            <element name="mds"/>
+        </index>
+    </element>
+</database>

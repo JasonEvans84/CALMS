@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="crew_role" table="x_1284052_consol_0_job_crews" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>crew_role</element>
+            <name>x_1284052_consol_0_job_crews</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>Jason.Evans</sys_created_by>
+            <sys_created_on>2024-06-14 14:19:22</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>crew_role</sys_name>
+            <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+            <sys_update_name>sys_choice_x_1284052_consol_0_job_crews_crew_role</sys_update_name>
+            <sys_updated_by>Jason.Evans</sys_updated_by>
+            <sys_updated_on>2024-06-14 14:19:22</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>crew_role</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Crew Lead</label>
+            <language>en</language>
+            <name>x_1284052_consol_0_job_crews</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>Jason.Evans</sys_created_by>
+            <sys_created_on>2024-06-14 14:19:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Jason.Evans</sys_updated_by>
+            <sys_updated_on>2024-06-14 14:19:22</sys_updated_on>
+            <value>crew_lead</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>crew_role</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Crew Member</label>
+            <language>en</language>
+            <name>x_1284052_consol_0_job_crews</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>Jason.Evans</sys_created_by>
+            <sys_created_on>2024-06-14 14:19:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Jason.Evans</sys_updated_by>
+            <sys_updated_on>2024-06-14 14:19:22</sys_updated_on>
+            <value>crew_member</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>Jason.Evans</sys_created_by>
-            <sys_created_on>2024-06-14 05:37:43</sys_created_on>
-            <sys_id>e438da99833686103fcc9cc0deaad379</sys_id>
+            <sys_created_on>2024-06-14 21:13:17</sys_created_on>
+            <sys_id>d55e2ded83b6c6103fcc9cc0deaad30f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1284052_consol_0_discrepancy" sys_domain="global" view="Default view">e99ad495837a46103fcc9cc0deaad3ce</sys_ui_section>
             <sys_updated_by>Jason.Evans</sys_updated_by>
-            <sys_updated_on>2024-06-14 05:37:43</sys_updated_on>
+            <sys_updated_on>2024-06-14 21:13:17</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>discovered_by</element>
             <position>1</position>
             <sys_created_by>Jason.Evans</sys_created_by>
-            <sys_created_on>2024-06-14 05:37:43</sys_created_on>
-            <sys_id>ec38da99833686103fcc9cc0deaad379</sys_id>
+            <sys_created_on>2024-06-14 21:13:17</sys_created_on>
+            <sys_id>dd5e2ded83b6c6103fcc9cc0deaad30f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1284052_consol_0_discrepancy" sys_domain="global" view="Default view">e99ad495837a46103fcc9cc0deaad3ce</sys_ui_section>
             <sys_updated_by>Jason.Evans</sys_updated_by>
-            <sys_updated_on>2024-06-14 05:37:43</sys_updated_on>
+            <sys_updated_on>2024-06-14 21:13:17</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>workcenter</element>
             <position>2</position>
             <sys_created_by>Jason.Evans</sys_created_by>
-            <sys_created_on>2024-06-14 05:37:43</sys_created_on>
-            <sys_id>e438da99833686103fcc9cc0deaad37a</sys_id>
+            <sys_created_on>2024-06-14 21:13:17</sys_created_on>
+            <sys_id>d55e2ded83b6c6103fcc9cc0deaad310</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1284052_consol_0_discrepancy" sys_domain="global" view="Default view">e99ad495837a46103fcc9cc0deaad3ce</sys_ui_section>
             <sys_updated_by>Jason.Evans</sys_updated_by>
-            <sys_updated_on>2024-06-14 05:37:43</sys_updated_on>
+            <sys_updated_on>2024-06-14 21:13:17</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>system</element>
             <position>3</position>
             <sys_created_by>Jason.Evans</sys_created_by>
-            <sys_created_on>2024-06-14 05:37:43</sys_created_on>
-            <sys_id>ec38da99833686103fcc9cc0deaad37a</sys_id>
+            <sys_created_on>2024-06-14 21:13:17</sys_created_on>
+            <sys_id>dd5e2ded83b6c6103fcc9cc0deaad310</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1284052_consol_0_discrepancy" sys_domain="global" view="Default view">e99ad495837a46103fcc9cc0deaad3ce</sys_ui_section>
             <sys_updated_by>Jason.Evans</sys_updated_by>
-            <sys_updated_on>2024-06-14 05:37:43</sys_updated_on>
+            <sys_updated_on>2024-06-14 21:13:17</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>when_discovered</element>
             <position>4</position>
             <sys_created_by>Jason.Evans</sys_created_by>
-            <sys_created_on>2024-06-14 05:37:43</sys_created_on>
-            <sys_id>e438da99833686103fcc9cc0deaad37b</sys_id>
+            <sys_created_on>2024-06-14 21:13:17</sys_created_on>
+            <sys_id>d55e2ded83b6c6103fcc9cc0deaad311</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1284052_consol_0_discrepancy" sys_domain="global" view="Default view">e99ad495837a46103fcc9cc0deaad3ce</sys_ui_section>
             <sys_updated_by>Jason.Evans</sys_updated_by>
-            <sys_updated_on>2024-06-14 05:37:43</sys_updated_on>
+            <sys_updated_on>2024-06-14 21:13:17</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -74,167 +74,139 @@
             <element>job_status</element>
             <position>5</position>
             <sys_created_by>Jason.Evans</sys_created_by>
-            <sys_created_on>2024-06-14 05:37:43</sys_created_on>
-            <sys_id>ec38da99833686103fcc9cc0deaad37b</sys_id>
+            <sys_created_on>2024-06-14 21:13:17</sys_created_on>
+            <sys_id>dd5e2ded83b6c6103fcc9cc0deaad311</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1284052_consol_0_discrepancy" sys_domain="global" view="Default view">e99ad495837a46103fcc9cc0deaad3ce</sys_ui_section>
             <sys_updated_by>Jason.Evans</sys_updated_by>
-            <sys_updated_on>2024-06-14 05:37:43</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>completed_date_time</element>
-            <position>6</position>
-            <sys_created_by>Jason.Evans</sys_created_by>
-            <sys_created_on>2024-06-14 05:37:43</sys_created_on>
-            <sys_id>e438da99833686103fcc9cc0deaad37c</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_1284052_consol_0_discrepancy" sys_domain="global" view="Default view">e99ad495837a46103fcc9cc0deaad3ce</sys_ui_section>
-            <sys_updated_by>Jason.Evans</sys_updated_by>
-            <sys_updated_on>2024-06-14 05:37:43</sys_updated_on>
+            <sys_updated_on>2024-06-14 21:13:17</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>7</position>
+            <position>6</position>
             <sys_created_by>Jason.Evans</sys_created_by>
-            <sys_created_on>2024-06-14 05:37:43</sys_created_on>
-            <sys_id>ec38da99833686103fcc9cc0deaad37c</sys_id>
+            <sys_created_on>2024-06-14 21:13:17</sys_created_on>
+            <sys_id>d55e2ded83b6c6103fcc9cc0deaad312</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1284052_consol_0_discrepancy" sys_domain="global" view="Default view">e99ad495837a46103fcc9cc0deaad3ce</sys_ui_section>
             <sys_updated_by>Jason.Evans</sys_updated_by>
-            <sys_updated_on>2024-06-14 05:37:43</sys_updated_on>
+            <sys_updated_on>2024-06-14 21:13:17</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>aircraft</element>
-            <position>8</position>
+            <position>7</position>
             <sys_created_by>Jason.Evans</sys_created_by>
-            <sys_created_on>2024-06-14 05:37:43</sys_created_on>
-            <sys_id>e438da99833686103fcc9cc0deaad37d</sys_id>
+            <sys_created_on>2024-06-14 21:13:17</sys_created_on>
+            <sys_id>dd5e2ded83b6c6103fcc9cc0deaad312</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1284052_consol_0_discrepancy" sys_domain="global" view="Default view">e99ad495837a46103fcc9cc0deaad3ce</sys_ui_section>
             <sys_updated_by>Jason.Evans</sys_updated_by>
-            <sys_updated_on>2024-06-14 05:37:43</sys_updated_on>
+            <sys_updated_on>2024-06-14 21:13:17</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>date_discovered</element>
-            <position>9</position>
+            <position>8</position>
             <sys_created_by>Jason.Evans</sys_created_by>
-            <sys_created_on>2024-06-14 05:37:43</sys_created_on>
-            <sys_id>ec38da99833686103fcc9cc0deaad37d</sys_id>
+            <sys_created_on>2024-06-14 21:13:17</sys_created_on>
+            <sys_id>d55e2ded83b6c6103fcc9cc0deaad313</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1284052_consol_0_discrepancy" sys_domain="global" view="Default view">e99ad495837a46103fcc9cc0deaad3ce</sys_ui_section>
             <sys_updated_by>Jason.Evans</sys_updated_by>
-            <sys_updated_on>2024-06-14 05:37:43</sys_updated_on>
+            <sys_updated_on>2024-06-14 21:13:17</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>symbol</element>
-            <position>10</position>
+            <position>9</position>
             <sys_created_by>Jason.Evans</sys_created_by>
-            <sys_created_on>2024-06-14 05:37:43</sys_created_on>
-            <sys_id>e438da99833686103fcc9cc0deaad37e</sys_id>
+            <sys_created_on>2024-06-14 21:13:17</sys_created_on>
+            <sys_id>dd5e2ded83b6c6103fcc9cc0deaad313</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1284052_consol_0_discrepancy" sys_domain="global" view="Default view">e99ad495837a46103fcc9cc0deaad3ce</sys_ui_section>
             <sys_updated_by>Jason.Evans</sys_updated_by>
-            <sys_updated_on>2024-06-14 05:37:43</sys_updated_on>
+            <sys_updated_on>2024-06-14 21:13:17</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>subsystem</element>
-            <position>11</position>
+            <position>10</position>
             <sys_created_by>Jason.Evans</sys_created_by>
-            <sys_created_on>2024-06-14 05:37:43</sys_created_on>
-            <sys_id>ec38da99833686103fcc9cc0deaad37e</sys_id>
+            <sys_created_on>2024-06-14 21:13:17</sys_created_on>
+            <sys_id>d55e2ded83b6c6103fcc9cc0deaad314</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1284052_consol_0_discrepancy" sys_domain="global" view="Default view">e99ad495837a46103fcc9cc0deaad3ce</sys_ui_section>
             <sys_updated_by>Jason.Evans</sys_updated_by>
-            <sys_updated_on>2024-06-14 05:37:43</sys_updated_on>
+            <sys_updated_on>2024-06-14 21:13:17</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>type_maintenance</element>
-            <position>12</position>
+            <position>11</position>
             <sys_created_by>Jason.Evans</sys_created_by>
-            <sys_created_on>2024-06-14 05:37:43</sys_created_on>
-            <sys_id>e438da99833686103fcc9cc0deaad37f</sys_id>
+            <sys_created_on>2024-06-14 21:13:17</sys_created_on>
+            <sys_id>dd5e2ded83b6c6103fcc9cc0deaad314</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1284052_consol_0_discrepancy" sys_domain="global" view="Default view">e99ad495837a46103fcc9cc0deaad3ce</sys_ui_section>
             <sys_updated_by>Jason.Evans</sys_updated_by>
-            <sys_updated_on>2024-06-14 05:37:43</sys_updated_on>
+            <sys_updated_on>2024-06-14 21:13:17</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>deferred</element>
-            <position>13</position>
+            <position>12</position>
             <sys_created_by>Jason.Evans</sys_created_by>
-            <sys_created_on>2024-06-14 05:37:43</sys_created_on>
-            <sys_id>ec38da99833686103fcc9cc0deaad37f</sys_id>
+            <sys_created_on>2024-06-14 21:13:17</sys_created_on>
+            <sys_id>d55e2ded83b6c6103fcc9cc0deaad315</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1284052_consol_0_discrepancy" sys_domain="global" view="Default view">e99ad495837a46103fcc9cc0deaad3ce</sys_ui_section>
             <sys_updated_by>Jason.Evans</sys_updated_by>
-            <sys_updated_on>2024-06-14 05:37:43</sys_updated_on>
+            <sys_updated_on>2024-06-14 21:13:17</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>14</position>
+            <position>13</position>
             <sys_created_by>Jason.Evans</sys_created_by>
-            <sys_created_on>2024-06-14 05:37:43</sys_created_on>
-            <sys_id>e438da99833686103fcc9cc0deaad380</sys_id>
+            <sys_created_on>2024-06-14 21:13:17</sys_created_on>
+            <sys_id>dd5e2ded83b6c6103fcc9cc0deaad315</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1284052_consol_0_discrepancy" sys_domain="global" view="Default view">e99ad495837a46103fcc9cc0deaad3ce</sys_ui_section>
             <sys_updated_by>Jason.Evans</sys_updated_by>
-            <sys_updated_on>2024-06-14 05:37:43</sys_updated_on>
+            <sys_updated_on>2024-06-14 21:13:17</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>short_narrative</element>
-            <position>15</position>
+            <element>discrepancy</element>
+            <position>14</position>
             <sys_created_by>Jason.Evans</sys_created_by>
-            <sys_created_on>2024-06-14 05:37:43</sys_created_on>
-            <sys_id>ec38da99833686103fcc9cc0deaad380</sys_id>
+            <sys_created_on>2024-06-14 21:13:17</sys_created_on>
+            <sys_id>d55e2ded83b6c6103fcc9cc0deaad316</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1284052_consol_0_discrepancy" sys_domain="global" view="Default view">e99ad495837a46103fcc9cc0deaad3ce</sys_ui_section>
             <sys_updated_by>Jason.Evans</sys_updated_by>
-            <sys_updated_on>2024-06-14 05:37:43</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>narrative</element>
-            <position>16</position>
-            <sys_created_by>Jason.Evans</sys_created_by>
-            <sys_created_on>2024-06-14 05:37:43</sys_created_on>
-            <sys_id>e438da99833686103fcc9cc0deaad381</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_1284052_consol_0_discrepancy" sys_domain="global" view="Default view">e99ad495837a46103fcc9cc0deaad3ce</sys_ui_section>
-            <sys_updated_by>Jason.Evans</sys_updated_by>
-            <sys_updated_on>2024-06-14 05:37:43</sys_updated_on>
+            <sys_updated_on>2024-06-14 21:13:17</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

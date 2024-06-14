@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="ad9dc0ed837e86103fcc9cc0deaad3a4" label="Job Crews" max_length="40" name="x_1284052_consol_0_job_crews" type="collection">
+        <element label="Discrepancy" max_length="32" name="discrepancy" reference="x_1284052_consol_0_discrepancy" type="reference"/>
+        <element label="Stop time" max_length="40" name="stop_time" type="glide_date_time"/>
+        <element label="Duration" max_length="38" name="duration" type="decimal"/>
+        <element label="Start time" max_length="40" name="start_time" type="glide_date_time"/>
+        <element choice="3" label="Crew role" max_length="40" name="crew_role" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Crew Lead" sequence="0" value="crew_lead"/>
+                <element inactive_on_update="false" label="Crew Member" sequence="1" value="crew_member"/>
+            </choice>
+        </element>
+        <element label="Team member" max_length="32" name="team_member" reference="x_1284052_consol_0_technician" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" display="true" label="Number" max_length="40" name="number" type="string"/>
+        <index name="index">
+            <element name="discrepancy"/>
+        </index>
+        <index name="index2">
+            <element name="team_member"/>
+        </index>
+    </element>
+</database>

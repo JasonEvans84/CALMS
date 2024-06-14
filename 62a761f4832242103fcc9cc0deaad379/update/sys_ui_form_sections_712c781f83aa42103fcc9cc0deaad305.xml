@@ -28,34 +28,6 @@
             <sys_updated_by>oscarfotz</sys_updated_by>
             <sys_updated_on>2024-06-07 17:55:56</sys_updated_on>
         </sys_ui_form_section>
-        <sys_ui_form_section action="INSERT_OR_UPDATE">
-            <position>2</position>
-            <sys_created_by>oscarfotz</sys_created_by>
-            <sys_created_on>2024-06-07 18:36:02</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>a9374ddb83ea42103fcc9cc0deaad397</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_overrides/>
-            <sys_ui_form display_value="x_1284052_consol_0_aircraft" name="x_1284052_consol_0_aircraft" sys_domain="global" view="Default view">712c781f83aa42103fcc9cc0deaad305</sys_ui_form>
-            <sys_ui_section caption="Aircraft Status Information" display_value="Aircraft Status Information" name="x_1284052_consol_0_aircraft" sys_domain="global" view="Default view">a1374ddb83ea42103fcc9cc0deaad395</sys_ui_section>
-            <sys_updated_by>oscarfotz</sys_updated_by>
-            <sys_updated_on>2024-06-07 18:36:02</sys_updated_on>
-        </sys_ui_form_section>
-        <sys_ui_form_section action="INSERT_OR_UPDATE">
-            <position>3</position>
-            <sys_created_by>oscarfotz</sys_created_by>
-            <sys_created_on>2024-06-07 20:33:57</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>b832295383ae42103fcc9cc0deaad326</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_overrides/>
-            <sys_ui_form display_value="x_1284052_consol_0_aircraft" name="x_1284052_consol_0_aircraft" sys_domain="global" view="Default view">712c781f83aa42103fcc9cc0deaad305</sys_ui_form>
-            <sys_ui_section caption="Configuration Information" display_value="Configuration Information" name="x_1284052_consol_0_aircraft" sys_domain="global" view="Default view">3c32295383ae42103fcc9cc0deaad323</sys_ui_section>
-            <sys_updated_by>oscarfotz</sys_updated_by>
-            <sys_updated_on>2024-06-07 20:33:57</sys_updated_on>
-        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_1284052_consol_0_aircraft</name>
             <roles/>

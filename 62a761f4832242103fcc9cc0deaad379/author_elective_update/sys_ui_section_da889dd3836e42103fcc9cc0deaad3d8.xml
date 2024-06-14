@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Configuration" section_id="da889dd3836e42103fcc9cc0deaad3d8" sys_domain="global" table="x_1284052_consol_0_config_mc_130j" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>aircraft</element>
+            <position>0</position>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 20:18:02</sys_created_on>
+            <sys_id>338e1d1f836e42103fcc9cc0deaad374</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Configuration" display_value="Configuration" name="x_1284052_consol_0_config_mc_130j" sys_domain="global" view="Default view">da889dd3836e42103fcc9cc0deaad3d8</sys_ui_section>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 20:18:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>lox_l</element>
+            <position>1</position>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 20:18:02</sys_created_on>
+            <sys_id>3b8e1d1f836e42103fcc9cc0deaad374</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Configuration" display_value="Configuration" name="x_1284052_consol_0_config_mc_130j" sys_domain="global" view="Default view">da889dd3836e42103fcc9cc0deaad3d8</sys_ui_section>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 20:18:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>fuel_k</element>
+            <position>2</position>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 20:18:02</sys_created_on>
+            <sys_id>338e1d1f836e42103fcc9cc0deaad375</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Configuration" display_value="Configuration" name="x_1284052_consol_0_config_mc_130j" sys_domain="global" view="Default view">da889dd3836e42103fcc9cc0deaad3d8</sys_ui_section>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 20:18:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cargo_config</element>
+            <position>3</position>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 20:18:02</sys_created_on>
+            <sys_id>3b8e1d1f836e42103fcc9cc0deaad375</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Configuration" display_value="Configuration" name="x_1284052_consol_0_config_mc_130j" sys_domain="global" view="Default view">da889dd3836e42103fcc9cc0deaad3d8</sys_ui_section>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 20:18:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 20:18:02</sys_created_on>
+            <sys_id>338e1d1f836e42103fcc9cc0deaad376</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Configuration" display_value="Configuration" name="x_1284052_consol_0_config_mc_130j" sys_domain="global" view="Default view">da889dd3836e42103fcc9cc0deaad3d8</sys_ui_section>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 20:18:02</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>lh_drogue</element>
+            <position>5</position>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 20:18:02</sys_created_on>
+            <sys_id>3b8e1d1f836e42103fcc9cc0deaad376</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Configuration" display_value="Configuration" name="x_1284052_consol_0_config_mc_130j" sys_domain="global" view="Default view">da889dd3836e42103fcc9cc0deaad3d8</sys_ui_section>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 20:18:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>rh_drogue</element>
+            <position>6</position>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 20:18:02</sys_created_on>
+            <sys_id>338e1d1f836e42103fcc9cc0deaad377</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Configuration" display_value="Configuration" name="x_1284052_consol_0_config_mc_130j" sys_domain="global" view="Default view">da889dd3836e42103fcc9cc0deaad3d8</sys_ui_section>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 20:18:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>chaff_flare_config</element>
+            <position>7</position>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 20:18:02</sys_created_on>
+            <sys_id>3b8e1d1f836e42103fcc9cc0deaad377</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Configuration" display_value="Configuration" name="x_1284052_consol_0_config_mc_130j" sys_domain="global" view="Default view">da889dd3836e42103fcc9cc0deaad3d8</sys_ui_section>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 20:18:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>dedicated_crew_chief</element>
+            <position>8</position>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 20:18:02</sys_created_on>
+            <sys_id>338e1d1f836e42103fcc9cc0deaad378</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Configuration" display_value="Configuration" name="x_1284052_consol_0_config_mc_130j" sys_domain="global" view="Default view">da889dd3836e42103fcc9cc0deaad3d8</sys_ui_section>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 20:18:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>9</position>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 20:18:02</sys_created_on>
+            <sys_id>3b8e1d1f836e42103fcc9cc0deaad378</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Configuration" display_value="Configuration" name="x_1284052_consol_0_config_mc_130j" sys_domain="global" view="Default view">da889dd3836e42103fcc9cc0deaad3d8</sys_ui_section>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 20:18:02</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>10</position>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 20:18:02</sys_created_on>
+            <sys_id>338e1d1f836e42103fcc9cc0deaad379</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Configuration" display_value="Configuration" name="x_1284052_consol_0_config_mc_130j" sys_domain="global" view="Default view">da889dd3836e42103fcc9cc0deaad3d8</sys_ui_section>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 20:18:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>Configuration</caption>
+            <header>false</header>
+            <name>x_1284052_consol_0_config_mc_130j</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 19:51:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>da889dd3836e42103fcc9cc0deaad3d8</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>x_1284052_consol_0_config_mc_130j</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+            <sys_update_name>sys_ui_section_da889dd3836e42103fcc9cc0deaad3d8</sys_update_name>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 20:04:03</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</application>
+        <file_path/>
+        <instance_id>08590c631ba5c29832182f8dee4bcb43</instance_id>
+        <instance_name>dev260572</instance_name>
+        <name>sys_ui_section_da889dd3836e42103fcc9cc0deaad3d8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Configuration" section_id="da889dd3836e42103fcc9cc0deaad3d8" sys_domain="global" table="x_1284052_consol_0_config_mc_130j" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>aircraft</element><position>0</position><sys_created_by>oscarfotz</sys_created_by><sys_created_on>2024-06-07 20:18:02</sys_created_on><sys_id>338e1d1f836e42103fcc9cc0deaad374</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Configuration" display_value="Configuration" name="x_1284052_consol_0_config_mc_130j" sys_domain="global" view="Default view">da889dd3836e42103fcc9cc0deaad3d8</sys_ui_section><sys_updated_by>oscarfotz</sys_updated_by><sys_updated_on>2024-06-07 20:18:02</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>lox_l</element><position>1</position><sys_created_by>oscarfotz</sys_created_by><sys_created_on>2024-06-07 20:18:02</sys_created_on><sys_id>3b8e1d1f836e42103fcc9cc0deaad374</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Configuration" display_value="Configuration" name="x_1284052_consol_0_config_mc_130j" sys_domain="global" view="Default view">da889dd3836e42103fcc9cc0deaad3d8</sys_ui_section><sys_updated_by>oscarfotz</sys_updated_by><sys_updated_on>2024-06-07 20:18:02</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>fuel_k</element><position>2</position><sys_created_by>oscarfotz</sys_created_by><sys_created_on>2024-06-07 20:18:02</sys_created_on><sys_id>338e1d1f836e42103fcc9cc0deaad375</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Configuration" display_value="Configuration" name="x_1284052_consol_0_config_mc_130j" sys_domain="global" view="Default view">da889dd3836e42103fcc9cc0deaad3d8</sys_ui_section><sys_updated_by>oscarfotz</sys_updated_by><sys_updated_on>2024-06-07 20:18:02</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>cargo_config</element><position>3</position><sys_created_by>oscarfotz</sys_created_by><sys_created_on>2024-06-07 20:18:02</sys_created_on><sys_id>3b8e1d1f836e42103fcc9cc0deaad375</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Configuration" display_value="Configuration" name="x_1284052_consol_0_config_mc_130j" sys_domain="global" view="Default view">da889dd3836e42103fcc9cc0deaad3d8</sys_ui_section><sys_updated_by>oscarfotz</sys_updated_by><sys_updated_on>2024-06-07 20:18:02</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>4</position><sys_created_by>oscarfotz</sys_created_by><sys_created_on>2024-06-07 20:18:02</sys_created_on><sys_id>338e1d1f836e42103fcc9cc0deaad376</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Configuration" display_value="Configuration" name="x_1284052_consol_0_config_mc_130j" sys_domain="global" view="Default view">da889dd3836e42103fcc9cc0deaad3d8</sys_ui_section><sys_updated_by>oscarfotz</sys_updated_by><sys_updated_on>2024-06-07 20:18:02</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>lh_drogue</element><position>5</position><sys_created_by>oscarfotz</sys_created_by><sys_created_on>2024-06-07 20:18:02</sys_created_on><sys_id>3b8e1d1f836e42103fcc9cc0deaad376</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Configuration" display_value="Configuration" name="x_1284052_consol_0_config_mc_130j" sys_domain="global" view="Default view">da889dd3836e42103fcc9cc0deaad3d8</sys_ui_section><sys_updated_by>oscarfotz</sys_updated_by><sys_updated_on>2024-06-07 20:18:02</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>rh_drogue</element><position>6</position><sys_created_by>oscarfotz</sys_created_by><sys_created_on>2024-06-07 20:18:02</sys_created_on><sys_id>338e1d1f836e42103fcc9cc0deaad377</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Configuration" display_value="Configuration" name="x_1284052_consol_0_config_mc_130j" sys_domain="global" view="Default view">da889dd3836e42103fcc9cc0deaad3d8</sys_ui_section><sys_updated_by>oscarfotz</sys_updated_by><sys_updated_on>2024-06-07 20:18:02</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>chaff_flare_config</element><position>7</position><sys_created_by>oscarfotz</sys_created_by><sys_created_on>2024-06-07 20:18:02</sys_created_on><sys_id>3b8e1d1f836e42103fcc9cc0deaad377</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Configuration" display_value="Configuration" name="x_1284052_consol_0_config_mc_130j" sys_domain="global" view="Default view">da889dd3836e42103fcc9cc0deaad3d8</sys_ui_section><sys_updated_by>oscarfotz</sys_updated_by><sys_updated_on>2024-06-07 20:18:02</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>dedicated_crew_chief</element><position>8</position><sys_created_by>oscarfotz</sys_created_by><sys_created_on>2024-06-07 20:18:02</sys_created_on><sys_id>338e1d1f836e42103fcc9cc0deaad378</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Configuration" display_value="Configuration" name="x_1284052_consol_0_config_mc_130j" sys_domain="global" view="Default view">da889dd3836e42103fcc9cc0deaad3d8</sys_ui_section><sys_updated_by>oscarfotz</sys_updated_by><sys_updated_on>2024-06-07 20:18:02</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>9</position><sys_created_by>oscarfotz</sys_created_by><sys_created_on>2024-06-07 20:18:02</sys_created_on><sys_id>3b8e1d1f836e42103fcc9cc0deaad378</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Configuration" display_value="Configuration" name="x_1284052_consol_0_config_mc_130j" sys_domain="global" view="Default view">da889dd3836e42103fcc9cc0deaad3d8</sys_ui_section><sys_updated_by>oscarfotz</sys_updated_by><sys_updated_on>2024-06-07 20:18:02</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>comments</element><position>10</position><sys_created_by>oscarfotz</sys_created_by><sys_created_on>2024-06-07 20:18:02</sys_created_on><sys_id>338e1d1f836e42103fcc9cc0deaad379</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Configuration" display_value="Configuration" name="x_1284052_consol_0_config_mc_130j" sys_domain="global" view="Default view">da889dd3836e42103fcc9cc0deaad3d8</sys_ui_section><sys_updated_by>oscarfotz</sys_updated_by><sys_updated_on>2024-06-07 20:18:02</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Configuration</caption><header>false</header><name>x_1284052_consol_0_config_mc_130j</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>oscarfotz</sys_created_by><sys_created_on>2024-06-07 19:51:44</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>da889dd3836e42103fcc9cc0deaad3d8</sys_id><sys_mod_count>1</sys_mod_count><sys_name>x_1284052_consol_0_config_mc_130j</sys_name><sys_overrides/><sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package><sys_policy/><sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope><sys_update_name>sys_ui_section_da889dd3836e42103fcc9cc0deaad3d8</sys_update_name><sys_updated_by>oscarfotz</sys_updated_by><sys_updated_on>2024-06-07 20:04:03</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-44244323</payload_hash>
+        <record_name>Config MC-130J</record_name>
+        <reverted_from/>
+        <source>0ca2c1d6832202103fcc9cc0deaad390</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>oscarfotz</sys_created_by>
+        <sys_created_on>2024-06-07 20:18:02</sys_created_on>
+        <sys_id>7b8e1d1f836e42103fcc9cc0deaad37b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ff459e4600000001</sys_recorded_at>
+        <sys_updated_by>oscarfotz</sys_updated_by>
+        <sys_updated_on>2024-06-07 20:18:02</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>338e1d1f556e42105ad665bedbec217b</update_guid>
+        <update_guid_history>338e1d1f556e42105ad665bedbec217b:-44244323,0d0e111f0a6e4210510eb771a328e9cc:2012983045,3b4ddd9be86e42109e43f2d67a596bd9:318896897,7f2cd55b206e4210e2fc90dda4ea4b9c:-2003600162,deeb515b776e4210888e2a983e8dd098:2011270520,0b5b911bfe6e421004a08cdec81328b3:-536091457,c75b911bdb6e4210f11879ebece04b93:1255967402,d10b19d7bf6e4210eba72bb67fc8f2e1:-1818409422,f4fa19d7c36e421060ff3498469daa9f:-613975425,0bca11976e6e4210ef05c6c31c8bbc26:1423293482,9fc9dd57946e42108b7b0d10ec5c3ee6:-954814761,d7791957de6e4210848928154117d1fc:-1751745009,2349d9179c6e421064ab88e6981b3a85:1785487686,9e889dd34c6e42105ec2a48987068ee0:1491665791</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>oscarfotz</sys_created_by>
+        <sys_created_on>2024-06-14 16:56:30</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>799ce143bfd442f4913d95970652c5e9</sys_id>
+        <sys_metadata>da889dd3836e42103fcc9cc0deaad3d8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Configuration</sys_name>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_parent display_value="">fd889dd3836e42103fcc9cc0deaad353</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_scope_delete display_value="">52e6fb2b6ff440dcae7286a44d209be1</sys_scope_delete>
+        <sys_update_name>sys_ui_section_da889dd3836e42103fcc9cc0deaad3d8</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_da889dd3836e42103fcc9cc0deaad3d8">7b8e1d1f836e42103fcc9cc0deaad37b</sys_update_version>
+        <sys_updated_by>oscarfotz</sys_updated_by>
+        <sys_updated_on>2024-06-14 16:56:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

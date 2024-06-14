@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections action="DELETE" form_id="da88199f832e42103fcc9cc0deaad3fc" sys_domain="global" table="x_1284052_consol_0_config_mc_130j" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 19:51:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>de889dd3836e42103fcc9cc0deaad3e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1284052_consol_0_config_mc_130j" name="x_1284052_consol_0_config_mc_130j" sys_domain="global" view="Default view">da88199f832e42103fcc9cc0deaad3fc</sys_ui_form>
+            <sys_ui_section caption="Configuration" display_value="Configuration" name="x_1284052_consol_0_config_mc_130j" sys_domain="global" view="Default view">da889dd3836e42103fcc9cc0deaad3d8</sys_ui_section>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 19:51:44</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1284052_consol_0_config_mc_130j</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 19:51:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>da88199f832e42103fcc9cc0deaad3fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1284052_consol_0_config_mc_130j</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+            <sys_update_name>sys_ui_form_sections_da88199f832e42103fcc9cc0deaad3fc</sys_update_name>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 19:51:44</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</application>
+        <file_path/>
+        <instance_id>08590c631ba5c29832182f8dee4bcb43</instance_id>
+        <instance_name>dev260572</instance_name>
+        <name>sys_ui_form_sections_da88199f832e42103fcc9cc0deaad3fc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_form_sections form_id="da88199f832e42103fcc9cc0deaad3fc" sys_domain="global" table="x_1284052_consol_0_config_mc_130j" version="3"><sys_ui_form_section action="INSERT_OR_UPDATE"><position>0</position><sys_created_by>oscarfotz</sys_created_by><sys_created_on>2024-06-07 19:51:44</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>de889dd3836e42103fcc9cc0deaad3e1</sys_id><sys_mod_count>0</sys_mod_count><sys_overrides/><sys_ui_form display_value="x_1284052_consol_0_config_mc_130j" name="x_1284052_consol_0_config_mc_130j" sys_domain="global" view="Default view">da88199f832e42103fcc9cc0deaad3fc</sys_ui_form><sys_ui_section caption="Configuration" display_value="Configuration" name="x_1284052_consol_0_config_mc_130j" sys_domain="global" view="Default view">da889dd3836e42103fcc9cc0deaad3d8</sys_ui_section><sys_updated_by>oscarfotz</sys_updated_by><sys_updated_on>2024-06-07 19:51:44</sys_updated_on></sys_ui_form_section><sys_ui_form action="INSERT_OR_UPDATE"><name>x_1284052_consol_0_config_mc_130j</name><roles/><sys_class_name>sys_ui_form</sys_class_name><sys_created_by>oscarfotz</sys_created_by><sys_created_on>2024-06-07 19:51:44</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>da88199f832e42103fcc9cc0deaad3fc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1284052_consol_0_config_mc_130j</sys_name><sys_overrides/><sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package><sys_policy/><sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope><sys_update_name>sys_ui_form_sections_da88199f832e42103fcc9cc0deaad3fc</sys_update_name><sys_updated_by>oscarfotz</sys_updated_by><sys_updated_on>2024-06-07 19:51:44</sys_updated_on><sys_user/><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_form></sys_ui_form_sections></record_update>]]></payload>
+        <payload_hash>-1694950168</payload_hash>
+        <record_name>Config MC-130J</record_name>
+        <reverted_from/>
+        <source>0ca2c1d6832202103fcc9cc0deaad390</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>oscarfotz</sys_created_by>
+        <sys_created_on>2024-06-07 20:12:35</sys_created_on>
+        <sys_id>f34ddd9b836e42103fcc9cc0deaad3ca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ff454e4cf0000001</sys_recorded_at>
+        <sys_updated_by>oscarfotz</sys_updated_by>
+        <sys_updated_on>2024-06-07 20:12:35</sys_updated_on>
+        <type>Form Sections</type>
+        <update_guid>bb4ddd9b986e421093b8c1cf22634ec9</update_guid>
+        <update_guid_history>bb4ddd9b986e421093b8c1cf22634ec9:-1694950168,2b4ddd9b5e6e42108ac73906e3b51eb1:467378703,22889dd3c16e42104949bcf6d167ccf3:339756036,d6889dd3746e42109b9b5d6b069074d7:-948000897</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>oscarfotz</sys_created_by>
+        <sys_created_on>2024-06-14 16:56:32</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_form">sys_ui_form</sys_db_object>
+        <sys_id>1739a47e042b49389d9cc04da86045f9</sys_id>
+        <sys_metadata>da88199f832e42103fcc9cc0deaad3fc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1284052_consol_0_config_mc_130j</sys_name>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_parent display_value="">fd889dd3836e42103fcc9cc0deaad353</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_scope_delete display_value="">52e6fb2b6ff440dcae7286a44d209be1</sys_scope_delete>
+        <sys_update_name>sys_ui_form_sections_da88199f832e42103fcc9cc0deaad3fc</sys_update_name>
+        <sys_update_version display_value="sys_ui_form_sections_da88199f832e42103fcc9cc0deaad3fc">f34ddd9b836e42103fcc9cc0deaad3ca</sys_update_version>
+        <sys_updated_by>oscarfotz</sys_updated_by>
+        <sys_updated_on>2024-06-14 16:56:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

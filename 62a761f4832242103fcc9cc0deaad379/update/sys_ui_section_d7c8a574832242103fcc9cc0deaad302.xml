@@ -3,156 +3,170 @@
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>serial_number</element>
             <position>0</position>
-            <sys_created_by>oscarfotz</sys_created_by>
-            <sys_created_on>2024-06-07 21:17:42</sys_created_on>
-            <sys_id>6d3c29df83ae42103fcc9cc0deaad37e</sys_id>
+            <sys_created_by>Jason.Evans</sys_created_by>
+            <sys_created_on>2024-06-14 15:43:25</sys_created_on>
+            <sys_id>11d224218332c6103fcc9cc0deaad3e9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Basic Information" display_value="Basic Information" name="x_1284052_consol_0_aircraft" sys_domain="global" view="Default view">d7c8a574832242103fcc9cc0deaad302</sys_ui_section>
-            <sys_updated_by>oscarfotz</sys_updated_by>
-            <sys_updated_on>2024-06-07 21:17:42</sys_updated_on>
+            <sys_updated_by>Jason.Evans</sys_updated_by>
+            <sys_updated_on>2024-06-14 15:43:25</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>tail_number</element>
             <position>1</position>
-            <sys_created_by>oscarfotz</sys_created_by>
-            <sys_created_on>2024-06-07 21:17:42</sys_created_on>
-            <sys_id>653c29df83ae42103fcc9cc0deaad37f</sys_id>
+            <sys_created_by>Jason.Evans</sys_created_by>
+            <sys_created_on>2024-06-14 15:43:25</sys_created_on>
+            <sys_id>5dd224218332c6103fcc9cc0deaad3e9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Basic Information" display_value="Basic Information" name="x_1284052_consol_0_aircraft" sys_domain="global" view="Default view">d7c8a574832242103fcc9cc0deaad302</sys_ui_section>
-            <sys_updated_by>oscarfotz</sys_updated_by>
-            <sys_updated_on>2024-06-07 21:17:42</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>possession_code</element>
-            <position>2</position>
-            <sys_created_by>oscarfotz</sys_created_by>
-            <sys_created_on>2024-06-07 21:17:42</sys_created_on>
-            <sys_id>6d3c29df83ae42103fcc9cc0deaad37f</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Basic Information" display_value="Basic Information" name="x_1284052_consol_0_aircraft" sys_domain="global" view="Default view">d7c8a574832242103fcc9cc0deaad302</sys_ui_section>
-            <sys_updated_by>oscarfotz</sys_updated_by>
-            <sys_updated_on>2024-06-07 21:17:42</sys_updated_on>
+            <sys_updated_by>Jason.Evans</sys_updated_by>
+            <sys_updated_on>2024-06-14 15:43:25</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>mds</element>
-            <position>3</position>
-            <sys_created_by>oscarfotz</sys_created_by>
-            <sys_created_on>2024-06-07 21:17:42</sys_created_on>
-            <sys_id>653c29df83ae42103fcc9cc0deaad380</sys_id>
+            <position>2</position>
+            <sys_created_by>Jason.Evans</sys_created_by>
+            <sys_created_on>2024-06-14 15:43:25</sys_created_on>
+            <sys_id>55d224218332c6103fcc9cc0deaad3ea</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Basic Information" display_value="Basic Information" name="x_1284052_consol_0_aircraft" sys_domain="global" view="Default view">d7c8a574832242103fcc9cc0deaad302</sys_ui_section>
-            <sys_updated_by>oscarfotz</sys_updated_by>
-            <sys_updated_on>2024-06-07 21:17:42</sys_updated_on>
+            <sys_updated_by>Jason.Evans</sys_updated_by>
+            <sys_updated_on>2024-06-14 15:43:25</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>mds.callsign</element>
-            <position>4</position>
-            <sys_created_by>oscarfotz</sys_created_by>
-            <sys_created_on>2024-06-07 21:17:42</sys_created_on>
-            <sys_id>6d3c29df83ae42103fcc9cc0deaad380</sys_id>
+            <element>possession_code</element>
+            <position>3</position>
+            <sys_created_by>Jason.Evans</sys_created_by>
+            <sys_created_on>2024-06-14 15:43:25</sys_created_on>
+            <sys_id>5dd224218332c6103fcc9cc0deaad3ea</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Basic Information" display_value="Basic Information" name="x_1284052_consol_0_aircraft" sys_domain="global" view="Default view">d7c8a574832242103fcc9cc0deaad302</sys_ui_section>
-            <sys_updated_by>oscarfotz</sys_updated_by>
-            <sys_updated_on>2024-06-07 21:17:42</sys_updated_on>
+            <sys_updated_by>Jason.Evans</sys_updated_by>
+            <sys_updated_on>2024-06-14 15:43:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>aircraft_status</element>
+            <position>4</position>
+            <sys_created_by>Jason.Evans</sys_created_by>
+            <sys_created_on>2024-06-14 15:43:25</sys_created_on>
+            <sys_id>55d224218332c6103fcc9cc0deaad3eb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Basic Information" display_value="Basic Information" name="x_1284052_consol_0_aircraft" sys_domain="global" view="Default view">d7c8a574832242103fcc9cc0deaad302</sys_ui_section>
+            <sys_updated_by>Jason.Evans</sys_updated_by>
+            <sys_updated_on>2024-06-14 15:43:25</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
             <position>5</position>
-            <sys_created_by>oscarfotz</sys_created_by>
-            <sys_created_on>2024-06-07 21:17:42</sys_created_on>
-            <sys_id>653c29df83ae42103fcc9cc0deaad381</sys_id>
+            <sys_created_by>Jason.Evans</sys_created_by>
+            <sys_created_on>2024-06-14 15:43:25</sys_created_on>
+            <sys_id>5dd224218332c6103fcc9cc0deaad3eb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Basic Information" display_value="Basic Information" name="x_1284052_consol_0_aircraft" sys_domain="global" view="Default view">d7c8a574832242103fcc9cc0deaad302</sys_ui_section>
-            <sys_updated_by>oscarfotz</sys_updated_by>
-            <sys_updated_on>2024-06-07 21:17:42</sys_updated_on>
+            <sys_updated_by>Jason.Evans</sys_updated_by>
+            <sys_updated_on>2024-06-14 15:43:25</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>call_sign</element>
             <position>6</position>
-            <sys_created_by>oscarfotz</sys_created_by>
-            <sys_created_on>2024-06-07 21:17:42</sys_created_on>
-            <sys_id>6d3c29df83ae42103fcc9cc0deaad381</sys_id>
+            <sys_created_by>Jason.Evans</sys_created_by>
+            <sys_created_on>2024-06-14 15:43:25</sys_created_on>
+            <sys_id>55d224218332c6103fcc9cc0deaad3ec</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Basic Information" display_value="Basic Information" name="x_1284052_consol_0_aircraft" sys_domain="global" view="Default view">d7c8a574832242103fcc9cc0deaad302</sys_ui_section>
-            <sys_updated_by>oscarfotz</sys_updated_by>
-            <sys_updated_on>2024-06-07 21:17:42</sys_updated_on>
+            <sys_updated_by>Jason.Evans</sys_updated_by>
+            <sys_updated_on>2024-06-14 15:43:25</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>version</element>
             <position>7</position>
-            <sys_created_by>oscarfotz</sys_created_by>
-            <sys_created_on>2024-06-07 21:17:42</sys_created_on>
-            <sys_id>653c29df83ae42103fcc9cc0deaad382</sys_id>
+            <sys_created_by>Jason.Evans</sys_created_by>
+            <sys_created_on>2024-06-14 15:43:25</sys_created_on>
+            <sys_id>5dd224218332c6103fcc9cc0deaad3ec</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Basic Information" display_value="Basic Information" name="x_1284052_consol_0_aircraft" sys_domain="global" view="Default view">d7c8a574832242103fcc9cc0deaad302</sys_ui_section>
-            <sys_updated_by>oscarfotz</sys_updated_by>
-            <sys_updated_on>2024-06-07 21:17:42</sys_updated_on>
+            <sys_updated_by>Jason.Evans</sys_updated_by>
+            <sys_updated_on>2024-06-14 15:43:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>mds.callsign</element>
+            <position>8</position>
+            <sys_created_by>Jason.Evans</sys_created_by>
+            <sys_created_on>2024-06-14 15:43:25</sys_created_on>
+            <sys_id>55d224218332c6103fcc9cc0deaad3ed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Basic Information" display_value="Basic Information" name="x_1284052_consol_0_aircraft" sys_domain="global" view="Default view">d7c8a574832242103fcc9cc0deaad302</sys_ui_section>
+            <sys_updated_by>Jason.Evans</sys_updated_by>
+            <sys_updated_on>2024-06-14 15:43:25</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>possession_code.ppc_name</element>
-            <position>8</position>
-            <sys_created_by>oscarfotz</sys_created_by>
-            <sys_created_on>2024-06-07 21:17:42</sys_created_on>
-            <sys_id>6d3c29df83ae42103fcc9cc0deaad382</sys_id>
+            <position>9</position>
+            <sys_created_by>Jason.Evans</sys_created_by>
+            <sys_created_on>2024-06-14 15:43:25</sys_created_on>
+            <sys_id>5dd224218332c6103fcc9cc0deaad3ed</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Basic Information" display_value="Basic Information" name="x_1284052_consol_0_aircraft" sys_domain="global" view="Default view">d7c8a574832242103fcc9cc0deaad302</sys_ui_section>
-            <sys_updated_by>oscarfotz</sys_updated_by>
-            <sys_updated_on>2024-06-07 21:17:42</sys_updated_on>
+            <sys_updated_by>Jason.Evans</sys_updated_by>
+            <sys_updated_on>2024-06-14 15:43:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>aircraft_status.code_description</element>
+            <position>10</position>
+            <sys_created_by>Jason.Evans</sys_created_by>
+            <sys_created_on>2024-06-14 15:43:25</sys_created_on>
+            <sys_id>55d224218332c6103fcc9cc0deaad3ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Basic Information" display_value="Basic Information" name="x_1284052_consol_0_aircraft" sys_domain="global" view="Default view">d7c8a574832242103fcc9cc0deaad302</sys_ui_section>
+            <sys_updated_by>Jason.Evans</sys_updated_by>
+            <sys_updated_on>2024-06-14 15:43:25</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>active</element>
-            <position>9</position>
-            <sys_created_by>oscarfotz</sys_created_by>
-            <sys_created_on>2024-06-07 21:17:42</sys_created_on>
-            <sys_id>653c29df83ae42103fcc9cc0deaad383</sys_id>
+            <position>11</position>
+            <sys_created_by>Jason.Evans</sys_created_by>
+            <sys_created_on>2024-06-14 15:43:25</sys_created_on>
+            <sys_id>5dd224218332c6103fcc9cc0deaad3ee</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Basic Information" display_value="Basic Information" name="x_1284052_consol_0_aircraft" sys_domain="global" view="Default view">d7c8a574832242103fcc9cc0deaad302</sys_ui_section>
-            <sys_updated_by>oscarfotz</sys_updated_by>
-            <sys_updated_on>2024-06-07 21:17:42</sys_updated_on>
+            <sys_updated_by>Jason.Evans</sys_updated_by>
+            <sys_updated_on>2024-06-14 15:43:25</sys_updated_on>
             <sys_user/>
             <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>cxs_table_search.xml</element>
-            <position>10</position>
-            <sys_created_by>oscarfotz</sys_created_by>
-            <sys_created_on>2024-06-07 21:17:42</sys_created_on>
-            <sys_id>6d3c29df83ae42103fcc9cc0deaad383</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter display_value="Contextual Search Results">11eb1622eb1121003623666cd206fe56</sys_ui_formatter>
-            <sys_ui_section caption="Basic Information" display_value="Basic Information" name="x_1284052_consol_0_aircraft" sys_domain="global" view="Default view">d7c8a574832242103fcc9cc0deaad302</sys_ui_section>
-            <sys_updated_by>oscarfotz</sys_updated_by>
-            <sys_updated_on>2024-06-07 21:17:42</sys_updated_on>
-            <sys_user/>
-            <type>formatter</type>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption>Basic Information</caption>

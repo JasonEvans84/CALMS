@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list action="DELETE" parent="x_1284052_consol_0_discrepancy" relationship="" sys_domain="global" table="x_1284052_consol_0_prodction_notes" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>note_taker</element>
+            <list_id display_value="x_1284052_consol_0_prodction_notes" element="NULL" name="x_1284052_consol_0_prodction_notes" parent="x_1284052_consol_0_discrepancy" relationship="NULL" sys_domain="global" view="Default view">79933de583f6c6103fcc9cc0deaad3bc</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>Jason.Evans</sys_created_by>
+            <sys_created_on>2024-06-14 21:36:15</sys_created_on>
+            <sys_id>b5933de583f6c6103fcc9cc0deaad3bd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Jason.Evans</sys_updated_by>
+            <sys_updated_on>2024-06-14 21:36:15</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_on</element>
+            <list_id display_value="x_1284052_consol_0_prodction_notes" element="NULL" name="x_1284052_consol_0_prodction_notes" parent="x_1284052_consol_0_discrepancy" relationship="NULL" sys_domain="global" view="Default view">79933de583f6c6103fcc9cc0deaad3bc</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>Jason.Evans</sys_created_by>
+            <sys_created_on>2024-06-14 21:36:15</sys_created_on>
+            <sys_id>b9933de583f6c6103fcc9cc0deaad3bd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Jason.Evans</sys_updated_by>
+            <sys_updated_on>2024-06-14 21:36:15</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_updated_on</element>
+            <list_id display_value="x_1284052_consol_0_prodction_notes" element="NULL" name="x_1284052_consol_0_prodction_notes" parent="x_1284052_consol_0_discrepancy" relationship="NULL" sys_domain="global" view="Default view">79933de583f6c6103fcc9cc0deaad3bc</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>Jason.Evans</sys_created_by>
+            <sys_created_on>2024-06-14 21:36:15</sys_created_on>
+            <sys_id>bd933de583f6c6103fcc9cc0deaad3bd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Jason.Evans</sys_updated_by>
+            <sys_updated_on>2024-06-14 21:36:15</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_updated_by</element>
+            <list_id display_value="x_1284052_consol_0_prodction_notes" element="NULL" name="x_1284052_consol_0_prodction_notes" parent="x_1284052_consol_0_discrepancy" relationship="NULL" sys_domain="global" view="Default view">79933de583f6c6103fcc9cc0deaad3bc</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>Jason.Evans</sys_created_by>
+            <sys_created_on>2024-06-14 21:36:15</sys_created_on>
+            <sys_id>b1933de583f6c6103fcc9cc0deaad3be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Jason.Evans</sys_updated_by>
+            <sys_updated_on>2024-06-14 21:36:15</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_1284052_consol_0_prodction_notes</name>
+            <parent>x_1284052_consol_0_discrepancy</parent>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>Jason.Evans</sys_created_by>
+            <sys_created_on>2024-06-14 21:36:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>79933de583f6c6103fcc9cc0deaad3bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1284052_consol_0_prodction_notes</sys_name>
+            <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+            <sys_update_name>sys_ui_list_x_1284052_consol_0_prodction_notes_x_1284052_consol_0_discrepancy_null</sys_update_name>
+            <sys_updated_by>Jason.Evans</sys_updated_by>
+            <sys_updated_on>2024-06-14 21:36:15</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</application>
+        <file_path/>
+        <instance_id>08590c631ba5c29832182f8dee4bcb43</instance_id>
+        <instance_name>dev260572</instance_name>
+        <name>sys_ui_list_x_1284052_consol_0_prodction_notes_x_1284052_consol_0_discrepancy_null</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_list parent="x_1284052_consol_0_discrepancy" relationship="" sys_domain="global" table="x_1284052_consol_0_prodction_notes" version="2" view=""><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>note_taker</element><list_id display_value="x_1284052_consol_0_prodction_notes" element="NULL" name="x_1284052_consol_0_prodction_notes" parent="x_1284052_consol_0_discrepancy" relationship="NULL" sys_domain="global" view="Default view">79933de583f6c6103fcc9cc0deaad3bc</list_id><max_value>false</max_value><min_value>false</min_value><position>0</position><sum>false</sum><sys_created_by>Jason.Evans</sys_created_by><sys_created_on>2024-06-14 21:36:15</sys_created_on><sys_id>b5933de583f6c6103fcc9cc0deaad3bd</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Jason.Evans</sys_updated_by><sys_updated_on>2024-06-14 21:36:15</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>sys_created_on</element><list_id display_value="x_1284052_consol_0_prodction_notes" element="NULL" name="x_1284052_consol_0_prodction_notes" parent="x_1284052_consol_0_discrepancy" relationship="NULL" sys_domain="global" view="Default view">79933de583f6c6103fcc9cc0deaad3bc</list_id><max_value>false</max_value><min_value>false</min_value><position>1</position><sum>false</sum><sys_created_by>Jason.Evans</sys_created_by><sys_created_on>2024-06-14 21:36:15</sys_created_on><sys_id>b9933de583f6c6103fcc9cc0deaad3bd</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Jason.Evans</sys_updated_by><sys_updated_on>2024-06-14 21:36:15</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>sys_updated_on</element><list_id display_value="x_1284052_consol_0_prodction_notes" element="NULL" name="x_1284052_consol_0_prodction_notes" parent="x_1284052_consol_0_discrepancy" relationship="NULL" sys_domain="global" view="Default view">79933de583f6c6103fcc9cc0deaad3bc</list_id><max_value>false</max_value><min_value>false</min_value><position>2</position><sum>false</sum><sys_created_by>Jason.Evans</sys_created_by><sys_created_on>2024-06-14 21:36:15</sys_created_on><sys_id>bd933de583f6c6103fcc9cc0deaad3bd</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Jason.Evans</sys_updated_by><sys_updated_on>2024-06-14 21:36:15</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>sys_updated_by</element><list_id display_value="x_1284052_consol_0_prodction_notes" element="NULL" name="x_1284052_consol_0_prodction_notes" parent="x_1284052_consol_0_discrepancy" relationship="NULL" sys_domain="global" view="Default view">79933de583f6c6103fcc9cc0deaad3bc</list_id><max_value>false</max_value><min_value>false</min_value><position>3</position><sum>false</sum><sys_created_by>Jason.Evans</sys_created_by><sys_created_on>2024-06-14 21:36:15</sys_created_on><sys_id>b1933de583f6c6103fcc9cc0deaad3be</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Jason.Evans</sys_updated_by><sys_updated_on>2024-06-14 21:36:15</sys_updated_on></sys_ui_list_element><sys_ui_list action="INSERT_OR_UPDATE"><average_value>false</average_value><element/><max_value>false</max_value><min_value>false</min_value><name>x_1284052_consol_0_prodction_notes</name><parent>x_1284052_consol_0_discrepancy</parent><position/><relationship/><sum>false</sum><sys_class_name>sys_ui_list</sys_class_name><sys_created_by>Jason.Evans</sys_created_by><sys_created_on>2024-06-14 21:36:15</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>79933de583f6c6103fcc9cc0deaad3bc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1284052_consol_0_prodction_notes</sys_name><sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package><sys_policy/><sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope><sys_update_name>sys_ui_list_x_1284052_consol_0_prodction_notes_x_1284052_consol_0_discrepancy_null</sys_update_name><sys_updated_by>Jason.Evans</sys_updated_by><sys_updated_on>2024-06-14 21:36:15</sys_updated_on><sys_user/><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_list></sys_ui_list></record_update>]]></payload>
+        <payload_hash>372834144</payload_hash>
+        <record_name>Discrepancy.Prodction notes</record_name>
+        <reverted_from/>
+        <source>0ca2c1d6832202103fcc9cc0deaad390</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Jason.Evans</sys_created_by>
+        <sys_created_on>2024-06-14 21:36:15</sys_created_on>
+        <sys_id>b9933de583f6c6103fcc9cc0deaad3c0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19018ae03b80000001</sys_recorded_at>
+        <sys_updated_by>Jason.Evans</sys_updated_by>
+        <sys_updated_on>2024-06-14 21:36:15</sys_updated_on>
+        <type>List Layout</type>
+        <update_guid>fd933de537f6c6109ac5a0e93a2765bf</update_guid>
+        <update_guid_history>fd933de537f6c6109ac5a0e93a2765bf:372834144,eb83f9e583f6c610452db43284732388:906042693,f87375e585f6c610c8764fdf40176580:951697359</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Jason.Evans</sys_created_by>
+        <sys_created_on>2024-06-14 22:28:17</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_list">sys_ui_list</sys_db_object>
+        <sys_id>302cf1b513c145d489fc78ef54ff7990</sys_id>
+        <sys_metadata>79933de583f6c6103fcc9cc0deaad3bc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1284052_consol_0_prodction_notes</sys_name>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_parent display_value="Prodction notes">6f91146583be86103fcc9cc0deaad3ef</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_scope_delete display_value="">52e6fb2b6ff440dcae7286a44d209be1</sys_scope_delete>
+        <sys_update_name>sys_ui_list_x_1284052_consol_0_prodction_notes_x_1284052_consol_0_discrepancy_null</sys_update_name>
+        <sys_update_version display_value="sys_ui_list_x_1284052_consol_0_prodction_notes_x_1284052_consol_0_discrepancy_null">b9933de583f6c6103fcc9cc0deaad3c0</sys_update_version>
+        <sys_updated_by>Jason.Evans</sys_updated_by>
+        <sys_updated_on>2024-06-14 22:28:17</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

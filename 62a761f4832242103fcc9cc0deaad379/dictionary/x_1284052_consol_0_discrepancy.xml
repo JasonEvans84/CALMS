@@ -17,17 +17,18 @@
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" display="true" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Discrepancy" mandatory="true" max_length="4000" name="discrepancy" type="string"/>
         <element label="Type maintenance" mandatory="true" max_length="32" name="type_maintenance" reference="x_1284052_consol_0_type_maintenance" type="reference"/>
         <element label="KTL completed by" max_length="32" name="ktl_completed_by" reference="x_1284052_consol_0_technician" type="reference"/>
         <element default="javascript:gs.nowDateTime()" dynamic_default_value="79cb83a85f220100a9ad2572f2b4773c" label="Discovered date time" mandatory="true" max_length="40" name="date_discovered" type="glide_date_time" use_dynamic_default="true"/>
-        <element label="Short Narrative" mandatory="true" max_length="100" name="short_narrative" type="string"/>
-        <element label="Narrative" max_length="40" name="narrative" type="html"/>
         <element label="Impound job" max_length="32" name="impound_job" reference="x_1284052_consol_0_discrepancy" type="reference"/>
         <element label="Action taken" max_length="32" name="action_taken" reference="x_1284052_consol_0_action_taken" type="reference"/>
         <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
         <element label="Subsystem" mandatory="true" max_length="32" name="subsystem" reference="x_1284052_consol_0_sub_systems" type="reference"/>
         <element label="Completed date time" max_length="40" name="completed_date_time" type="glide_date_time"/>
+        <element label="Child" max_length="40" name="child" type="boolean"/>
         <element label="Workcenter" mandatory="true" max_length="32" name="workcenter" reference="x_1284052_consol_0_workcenter" type="reference"/>
+        <element label="Corrective action" max_length="4000" name="corrective_action" type="string"/>
         <element label="Impound" max_length="255" name="impound" type="boolean"/>
         <element label="Inspected by" max_length="32" name="inspected_by" reference="x_1284052_consol_0_technician" type="reference"/>
         <element label="Corrected by" max_length="32" name="corrected_by" reference="x_1284052_consol_0_technician" type="reference"/>

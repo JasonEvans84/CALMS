@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="System Import Sets">import_sets</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Sub Systems Data Mapping</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1284052_consol_0_ihub_import_5580c00383a202103fcc9cc0deaad350</name>
+        <order>1100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-06 18:48:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>68908c0383a202103fcc9cc0deaad3f6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sub Systems Data Mapping</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_update_name>sys_app_module_68908c0383a202103fcc9cc0deaad3f6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-06 18:48:56</sys_updated_on>
+        <timeline_page/>
+        <title>Sub Systems Data Mapping</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</application>
+        <file_path/>
+        <instance_id>08590c631ba5c29832182f8dee4bcb43</instance_id>
+        <instance_name>dev260572</instance_name>
+        <name>sys_app_module_68908c0383a202103fcc9cc0deaad3f6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="System Import Sets">import_sets</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Sub Systems Data Mapping</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1284052_consol_0_ihub_import_5580c00383a202103fcc9cc0deaad350</name><order>1100</order><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-06 18:48:56</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>68908c0383a202103fcc9cc0deaad3f6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Sub Systems Data Mapping</sys_name><sys_overrides/><sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package><sys_policy/><sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope><sys_update_name>sys_app_module_68908c0383a202103fcc9cc0deaad3f6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-06 18:48:56</sys_updated_on><timeline_page/><title>Sub Systems Data Mapping</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-1049141558</payload_hash>
+        <record_name>Sub Systems Data Mapping</record_name>
+        <reverted_from/>
+        <source>7c02a7b9836202103fcc9cc0deaad3bb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-06 18:48:56</sys_created_on>
+        <sys_id>a0908c0383a202103fcc9cc0deaad3f9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18feee1f2b80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-06 18:48:56</sys_updated_on>
+        <type>Module</type>
+        <update_guid>64908c03c6a2021021ba74ac60982ef8</update_guid>
+        <update_guid_history>64908c03c6a2021021ba74ac60982ef8:-1049141558</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Sub Systems Data Mapping">7f49906183fe86103fcc9cc0deaad307</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-14 15:01:49</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>19617e81547f4638ac086922e8217dc4</sys_id>
+        <sys_metadata>68908c0383a202103fcc9cc0deaad3f6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sub Systems Data Mapping</sys_name>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_scope_delete display_value="">52e6fb2b6ff440dcae7286a44d209be1</sys_scope_delete>
+        <sys_update_name>sys_app_module_68908c0383a202103fcc9cc0deaad3f6</sys_update_name>
+        <sys_update_version display_value="sys_app_module_68908c0383a202103fcc9cc0deaad3f6">a0908c0383a202103fcc9cc0deaad3f9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-14 15:01:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

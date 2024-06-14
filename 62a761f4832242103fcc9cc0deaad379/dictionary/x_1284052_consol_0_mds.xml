@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="2829e578832242103fcc9cc0deaad31e" label="MDS" max_length="40" name="x_1284052_consol_0_mds" type="collection">
-        <element label="Nickname" max_length="40" name="callsign" type="string"/>
+        <element label="Nickname" mandatory="true" max_length="40" name="callsign" type="string"/>
         <element label="Active" max_length="40" name="active" type="boolean"/>
-        <element display="true" label="MDS" max_length="40" name="mds" type="string"/>
+        <element display="true" label="MDS" mandatory="true" max_length="40" name="mds" type="string"/>
     </element>
 </database>
