@@ -23,16 +23,35 @@
             <label>Fully Mission Capable</label>
             <language>en</language>
             <name>x_1284052_consol_0_aircraft</name>
-            <sequence>1</sequence>
+            <sequence>0</sequence>
             <synonyms/>
             <sys_created_by>Jason.Evans</sys_created_by>
             <sys_created_on>2024-06-14 16:16:16</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_mod_count>6</sys_mod_count>
+            <sys_mod_count>7</sys_mod_count>
             <sys_updated_by>Jason.Evans</sys_updated_by>
-            <sys_updated_on>2024-06-14 16:18:29</sys_updated_on>
+            <sys_updated_on>2024-06-15 04:17:34</sys_updated_on>
             <value>FMC</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>aircraft_status</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Non mission capable - maintenance</label>
+            <language>en</language>
+            <name>x_1284052_consol_0_aircraft</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>Jason.Evans</sys_created_by>
+            <sys_created_on>2024-06-14 16:19:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Jason.Evans</sys_updated_by>
+            <sys_updated_on>2024-06-15 04:17:34</sys_updated_on>
+            <value>NMCS</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -42,15 +61,15 @@
             <label>Partially mission capable - maintenance</label>
             <language>en</language>
             <name>x_1284052_consol_0_aircraft</name>
-            <sequence>2</sequence>
+            <sequence>1</sequence>
             <synonyms/>
             <sys_created_by>Jason.Evans</sys_created_by>
             <sys_created_on>2024-06-14 16:17:03</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_mod_count>4</sys_mod_count>
+            <sys_mod_count>5</sys_mod_count>
             <sys_updated_by>Jason.Evans</sys_updated_by>
-            <sys_updated_on>2024-06-14 16:18:33</sys_updated_on>
+            <sys_updated_on>2024-06-15 04:17:34</sys_updated_on>
             <value>PMCM</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -61,15 +80,15 @@
             <label>Partially mission capable - supply</label>
             <language>en</language>
             <name>x_1284052_consol_0_aircraft</name>
-            <sequence>3</sequence>
+            <sequence>2</sequence>
             <synonyms/>
             <sys_created_by>Jason.Evans</sys_created_by>
             <sys_created_on>2024-06-14 16:17:12</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_mod_count>4</sys_mod_count>
+            <sys_mod_count>5</sys_mod_count>
             <sys_updated_by>Jason.Evans</sys_updated_by>
-            <sys_updated_on>2024-06-14 16:18:51</sys_updated_on>
+            <sys_updated_on>2024-06-15 04:17:34</sys_updated_on>
             <value>PMCS</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -80,54 +99,16 @@
             <label>Partially mission capable - both</label>
             <language>en</language>
             <name>x_1284052_consol_0_aircraft</name>
-            <sequence>4</sequence>
+            <sequence>3</sequence>
             <synonyms/>
             <sys_created_by>Jason.Evans</sys_created_by>
             <sys_created_on>2024-06-14 16:19:20</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_mod_count>2</sys_mod_count>
+            <sys_mod_count>3</sys_mod_count>
             <sys_updated_by>Jason.Evans</sys_updated_by>
-            <sys_updated_on>2024-06-14 16:20:44</sys_updated_on>
+            <sys_updated_on>2024-06-15 04:17:34</sys_updated_on>
             <value>PMCB</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>aircraft_status</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Non mission capable - maintenance</label>
-            <language>en</language>
-            <name>x_1284052_consol_0_aircraft</name>
-            <sequence>5</sequence>
-            <synonyms/>
-            <sys_created_by>Jason.Evans</sys_created_by>
-            <sys_created_on>2024-06-14 16:19:38</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>Jason.Evans</sys_updated_by>
-            <sys_updated_on>2024-06-14 16:20:45</sys_updated_on>
-            <value>NMCS</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>aircraft_status</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Non mission capable - supply</label>
-            <language>en</language>
-            <name>x_1284052_consol_0_aircraft</name>
-            <sequence>6</sequence>
-            <synonyms/>
-            <sys_created_by>Jason.Evans</sys_created_by>
-            <sys_created_on>2024-06-14 16:20:01</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>Jason.Evans</sys_updated_by>
-            <sys_updated_on>2024-06-14 16:20:47</sys_updated_on>
-            <value>NMCS</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -137,16 +118,35 @@
             <label>Non mission capable both</label>
             <language>en</language>
             <name>x_1284052_consol_0_aircraft</name>
-            <sequence>7</sequence>
+            <sequence>5</sequence>
             <synonyms/>
             <sys_created_by>Jason.Evans</sys_created_by>
             <sys_created_on>2024-06-14 16:20:32</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_mod_count>2</sys_mod_count>
+            <sys_mod_count>3</sys_mod_count>
             <sys_updated_by>Jason.Evans</sys_updated_by>
-            <sys_updated_on>2024-06-14 16:20:49</sys_updated_on>
+            <sys_updated_on>2024-06-15 04:17:34</sys_updated_on>
             <value>NMCB</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>aircraft_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Non mission capable - maintenance</label>
+            <language>en</language>
+            <name>x_1284052_consol_0_aircraft</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>Jason.Evans</sys_created_by>
+            <sys_created_on>2024-06-14 16:20:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Jason.Evans</sys_updated_by>
+            <sys_updated_on>2024-06-15 04:17:34</sys_updated_on>
+            <value>NMCS</value>
         </sys_choice>
     </sys_choice>
 </record_update>

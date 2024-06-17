@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="4f74786283b20e103fcc9cc0deaad37d" label="CALMS Navigation" max_length="40" name="x_1284052_consol_0_calms_navigation" type="collection">
+        <element label="Workspace name" max_length="40" name="workspace_name" type="string"/>
+        <element label="Workspace url" max_length="1024" name="workspace_url" type="url"/>
+        <element label="Nav sort" max_length="40" name="nav_sort" type="integer"/>
+    </element>
+</database>

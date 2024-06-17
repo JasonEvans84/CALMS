@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="syntax_editor_macro">
+    <syntax_editor_macro action="INSERT_OR_UPDATE">
+        <comments>glide query</comments>
+        <name>query</name>
+        <sys_class_name>syntax_editor_macro</sys_class_name>
+        <sys_created_by>Jason.Evans</sys_created_by>
+        <sys_created_on>2024-06-17 15:10:40</sys_created_on>
+        <sys_id>2a08ff56837eca103fcc9cc0deaad3ab</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>query</sys_name>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_update_name>syntax_editor_macro_2a08ff56837eca103fcc9cc0deaad3ab</sys_update_name>
+        <sys_updated_by>Jason.Evans</sys_updated_by>
+        <sys_updated_on>2024-06-17 19:13:01</sys_updated_on>
+        <text>var query_name = new global.GlideQuery(table)&#13;
+    .where('column', 'value')&#13;
+    .select('desired_columns')&#13;
+	.forEach(function(function_name) {&#13;
+    gs.info(function_name.column_you_want_to_see);&#13;
+});&#13;
+</text>
+    </syntax_editor_macro>
+</record_update>

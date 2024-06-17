@@ -3,10 +3,15 @@
         <element label="Applicable wing" max_length="32" name="applicable_wing" reference="x_1284052_consol_0_wing" type="reference"/>
         <element label="Wing image" max_length="40" name="wing_image" type="user_image"/>
         <element label="File name" max_length="100" name="file_name" type="string"/>
+        <element label="Wg image" max_length="32" name="wg_image" reference="db_image" type="reference"/>
+        <element label="Image URL" max_length="1024" name="image_url" type="url"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element label="Short description" mandatory="true" max_length="40" name="short_description" type="string"/>
         <index name="index">
             <element name="applicable_wing"/>
+        </index>
+        <index name="index2">
+            <element name="wg_image"/>
         </index>
     </element>
 </database>
