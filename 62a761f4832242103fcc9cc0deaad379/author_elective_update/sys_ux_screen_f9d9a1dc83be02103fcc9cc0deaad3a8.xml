@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="DELETE">
+        <active>true</active>
+        <app_config display_value="CALMS">96b9e1dc83be02103fcc9cc0deaad303</app_config>
+        <description/>
+        <disable_auto_reflow>false</disable_auto_reflow>
+        <event_mappings/>
+        <macroponent display_value="Logged Out">b1d9a1dc83be02103fcc9cc0deaad3a6</macroponent>
+        <macroponent_config/>
+        <name>Logged Out</name>
+        <order>3</order>
+        <parent_macroponent display_value="UXR Base Experience Shell">76a83a645b122010b913030a1d81c780</parent_macroponent>
+        <required_translations>[ ]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type display_value="HOME">35d9a1dc83be02103fcc9cc0deaad3a1</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>Tim.Dingle</sys_created_by>
+        <sys_created_on>2024-06-10 23:41:15</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f9d9a1dc83be02103fcc9cc0deaad3a8</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Logged Out</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_update_name>sys_ux_screen_f9d9a1dc83be02103fcc9cc0deaad3a8</sys_update_name>
+        <sys_updated_by>Tim.Dingle</sys_updated_by>
+        <sys_updated_on>2024-06-11 12:43:57</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="DELETE" query="documentkey=f9d9a1dc83be02103fcc9cc0deaad3a8"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</application>
+        <file_path/>
+        <instance_id>08590c631ba5c29832182f8dee4bcb43</instance_id>
+        <instance_name>dev260572</instance_name>
+        <name>sys_ux_screen_f9d9a1dc83be02103fcc9cc0deaad3a8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen"><sys_ux_screen action="INSERT_OR_UPDATE"><active>true</active><app_config display_value="CALMS">96b9e1dc83be02103fcc9cc0deaad303</app_config><description/><disable_auto_reflow>false</disable_auto_reflow><event_mappings/><macroponent display_value="Logged Out">b1d9a1dc83be02103fcc9cc0deaad3a6</macroponent><macroponent_config/><name>Logged Out</name><order>3</order><parent_macroponent display_value="UXR Base Experience Shell">76a83a645b122010b913030a1d81c780</parent_macroponent><required_translations>[ ]</required_translations><rollback_screen/><screen_condition/><screen_type display_value="HOME">35d9a1dc83be02103fcc9cc0deaad3a1</screen_type><sys_class_name>sys_ux_screen</sys_class_name><sys_created_by>Tim.Dingle</sys_created_by><sys_created_on>2024-06-10 23:41:15</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f9d9a1dc83be02103fcc9cc0deaad3a8</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Logged Out</sys_name><sys_overrides/><sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package><sys_policy/><sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope><sys_update_name>sys_ux_screen_f9d9a1dc83be02103fcc9cc0deaad3a8</sys_update_name><sys_updated_by>Tim.Dingle</sys_updated_by><sys_updated_on>2024-06-11 12:43:57</sys_updated_on></sys_ux_screen><sys_translated_text action="delete_multiple" query="documentkey=f9d9a1dc83be02103fcc9cc0deaad3a8"/></record_update>]]></payload>
+        <payload_hash>-2113821968</payload_hash>
+        <record_name>Logged Out</record_name>
+        <reverted_from/>
+        <source>8806ed5883be02103fcc9cc0deaad301</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Tim.Dingle</sys_created_by>
+        <sys_created_on>2024-06-11 12:43:57</sys_created_on>
+        <sys_id>47fc5824837e42103fcc9cc0deaad3ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190075398fc0000001</sys_recorded_at>
+        <sys_updated_by>Tim.Dingle</sys_updated_by>
+        <sys_updated_on>2024-06-11 12:43:57</sys_updated_on>
+        <type>UX Screen</type>
+        <update_guid>cbfc5824117e4210c838ac8380e8b9fe</update_guid>
+        <update_guid_history>cbfc5824117e4210c838ac8380e8b9fe:-2113821968,816ecadcb972421073da44b6f62ee2f5:1432066678,35d9a1dcb1be0210bf9a7c9fa5657eaa:-764347652</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Tim.Dingle</sys_created_by>
+        <sys_created_on>2024-06-14 03:44:49</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_screen">sys_ux_screen</sys_db_object>
+        <sys_id>8d2a9fdad5144de4a04e6c17148cf329</sys_id>
+        <sys_metadata>f9d9a1dc83be02103fcc9cc0deaad3a8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Logged Out</sys_name>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_scope_delete display_value="">52e6fb2b6ff440dcae7286a44d209be1</sys_scope_delete>
+        <sys_update_name>sys_ux_screen_f9d9a1dc83be02103fcc9cc0deaad3a8</sys_update_name>
+        <sys_update_version display_value="sys_ux_screen_f9d9a1dc83be02103fcc9cc0deaad3a8">47fc5824837e42103fcc9cc0deaad3ff</sys_update_version>
+        <sys_updated_by>Tim.Dingle</sys_updated_by>
+        <sys_updated_on>2024-06-14 03:44:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -5,25 +5,25 @@
         <extension_point/>
         <fields/>
         <icon/>
-        <name>Home</name>
+        <name>Error Page</name>
         <optional_parameters/>
         <order>0</order>
         <parent_macroponent display_value="UXR Base Experience Shell">76a83a645b122010b913030a1d81c780</parent_macroponent>
         <parent_macroponent_composition_element_id/>
-        <route_type>home</route_type>
-        <screen_type display_value="About Us">67fa02d8837242103fcc9cc0deaad36b</screen_type>
+        <route_type>error-page</route_type>
+        <screen_type display_value="Error Page">e68dc2d983f286103fcc9cc0deaad371</screen_type>
         <sys_class_name>sys_ux_app_route</sys_class_name>
         <sys_created_by>Tim.Dingle</sys_created_by>
-        <sys_created_on>2024-06-11 02:06:06</sys_created_on>
-        <sys_id>27fa02d8837242103fcc9cc0deaad36e</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_name>Home</sys_name>
+        <sys_created_on>2024-06-14 04:51:09</sys_created_on>
+        <sys_id>2a8d421d83f286103fcc9cc0deaad38b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Error Page</sys_name>
         <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
         <sys_policy/>
         <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
-        <sys_update_name>sys_ux_app_route_27fa02d8837242103fcc9cc0deaad36e</sys_update_name>
+        <sys_update_name>sys_ux_app_route_2a8d421d83f286103fcc9cc0deaad38b</sys_update_name>
         <sys_updated_by>Tim.Dingle</sys_updated_by>
-        <sys_updated_on>2024-06-11 02:21:44</sys_updated_on>
+        <sys_updated_on>2024-06-14 04:51:09</sys_updated_on>
     </sys_ux_app_route>
-    <sys_translated_text action="delete_multiple" query="documentkey=27fa02d8837242103fcc9cc0deaad36e"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=2a8d421d83f286103fcc9cc0deaad38b"/>
 </record_update>

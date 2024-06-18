@@ -10,64 +10,24 @@
             "id": "d356d14b6e293a3020a244b63d278d8f",
             "type": "MACROPONENT"
         },
-        "elementId": "container_1",
+        "elementId": "column_layout_1",
         "elementLabel": "Header",
         "eventMappings": [
             
         ],
         "isHidden": {
             "type": "JSON_LITERAL",
-            "value": null
+            "value": false
         },
         "overrides": {
             "composition": [
                 {
                     "definition": {
-                        "id": "4335ba6dca80378f7ba7a67cd6667bec",
-                        "type": "MACROPONENT"
-                    },
-                    "elementId": "stylized_text_1",
-                    "elementLabel": "Stylized text 1",
-                    "eventMappings": [
-                        
-                    ],
-                    "isHidden": {
-                        "type": "JSON_LITERAL",
-                        "value": null
-                    },
-                    "preset": null,
-                    "propertyValues": {
-                        "configAria": {
-                            "type": "JSON_LITERAL",
-                            "value": {}
-                        },
-                        "css": {
-                            "type": "JSON_LITERAL",
-                            "value": "* { }"
-                        },
-                        "tag": {
-                            "type": "JSON_LITERAL",
-                            "value": "h1"
-                        },
-                        "text": {
-                            "type": "TRANSLATION_LITERAL",
-                            "value": {
-                                "code": null,
-                                "comment": "",
-                                "message": "CALMS"
-                            }
-                        }
-                    },
-                    "slot": null,
-                    "styles": null
-                },
-                {
-                    "definition": {
                         "id": "d356d14b6e293a3020a244b63d278d8f",
                         "type": "MACROPONENT"
                     },
-                    "elementId": "column_layout_1",
-                    "elementLabel": "Column layout 1",
+                    "elementId": "__clxjjmaggziaabbwiddjhhpfeofoccsb__column_2",
+                    "elementLabel": "Header Background",
                     "eventMappings": [
                         
                     ],
@@ -79,661 +39,11 @@
                         "composition": [
                             {
                                 "definition": {
-                                    "id": "d356d14b6e293a3020a244b63d278d8f",
+                                    "id": "4335ba6dca80378f7ba7a67cd6667bec",
                                     "type": "MACROPONENT"
                                 },
-                                "elementId": "__clxjjmaggziaabbwhddjhhpwcczgoytjj__column_1",
-                                "elementLabel": "Logo",
-                                "eventMappings": [
-                                    
-                                ],
-                                "isHidden": {
-                                    "type": "JSON_LITERAL",
-                                    "value": null
-                                },
-                                "overrides": {
-                                    "composition": [
-                                        {
-                                            "definition": {
-                                                "id": "15fe506403f8a98575b6df59008ea8f1",
-                                                "type": "MACROPONENT"
-                                            },
-                                            "elementId": "logo",
-                                            "elementLabel": "Logo",
-                                            "eventMappings": [
-                                                
-                                            ],
-                                            "isHidden": {
-                                                "type": "JSON_LITERAL",
-                                                "value": null
-                                            },
-                                            "preset": null,
-                                            "propertyValues": {
-                                                "alt": {
-                                                    "type": "TRANSLATION_LITERAL",
-                                                    "value": {
-                                                        "code": null,
-                                                        "comment": "",
-                                                        "message": ""
-                                                    }
-                                                },
-                                                "fit": {
-                                                    "type": "JSON_LITERAL",
-                                                    "value": "fill"
-                                                },
-                                                "height": {
-                                                    "type": "JSON_LITERAL",
-                                                    "value": null
-                                                },
-                                                "position": {
-                                                    "type": "JSON_LITERAL",
-                                                    "value": "center center"
-                                                },
-                                                "sources": {
-                                                    "type": "JSON_LITERAL",
-                                                    "value": [
-                                                        
-                                                    ]
-                                                },
-                                                "src": {
-                                                    "type": "JSON_LITERAL",
-                                                    "value": "upload_Gemini_Generated_Image_498azr498azr498a.jpg"
-                                                },
-                                                "width": {
-                                                    "type": "JSON_LITERAL",
-                                                    "value": null
-                                                }
-                                            },
-                                            "slot": null,
-                                            "styles": null
-                                        }
-                                    ],
-                                    "layout": {
-                                        "default": {
-                                            "children": null,
-                                            "items": [
-                                                {
-                                                    "element_id": "logo",
-                                                    "styles": {
-                                                        "align-self": "stretch",
-                                                        "flex": "1 0 auto",
-                                                        "height": "200px",
-                                                        "margin-right": "0",
-                                                        "width": "200px"
-                                                    }
-                                                }
-                                            ],
-                                            "root": null,
-                                            "rules": {
-                                                "flex-direction": "row"
-                                            },
-                                            "styles": {
-                                                "align-items": "stretch",
-                                                "box-sizing": "border-box",
-                                                "flex-direction": "column",
-                                                "gap": "-5",
-                                                "height": "100%",
-                                                "justify-content": "flex-end",
-                                                "overflow": "auto"
-                                            },
-                                            "type": "flex"
-                                        },
-                                        "version": "3.0.0"
-                                    }
-                                },
-                                "preset": null,
-                                "propertyValues": {
-                                    "hideEmptyStateUi": {
-                                        "type": "JSON_LITERAL",
-                                        "value": false
-                                    },
-                                    "slotWrapperBehavior": {
-                                        "type": "JSON_LITERAL",
-                                        "value": "contents"
-                                    },
-                                    "type": {
-                                        "type": "JSON_LITERAL",
-                                        "value": "header"
-                                    }
-                                },
-                                "scratchPad": {
-                                    "uib": {
-                                        "layout": {
-                                            "column": {
-                                                "columnNumber": 0,
-                                                "id": "default",
-                                                "styleConfig": {
-                                                    "external": {
-                                                        "display": "contents",
-                                                        "width": "100%"
-                                                    },
-                                                    "internal": {
-                                                        "align-items": "stretch",
-                                                        "box-sizing": "border-box",
-                                                        "flex-direction": "column",
-                                                        "gap": "-5",
-                                                        "height": "100%",
-                                                        "justify-content": "flex-end",
-                                                        "overflow": "auto"
-                                                    }
-                                                }
-                                            },
-                                            "type": "column"
-                                        },
-                                        "version": "1.0.0"
-                                    }
-                                },
-                                "slot": null,
-                                "styles": null
-                            },
-                            {
-                                "definition": {
-                                    "id": "d356d14b6e293a3020a244b63d278d8f",
-                                    "type": "MACROPONENT"
-                                },
-                                "elementId": "__clxjjmaggziaabbwiddjhhpfeofoccsb__column_2",
-                                "elementLabel": "SR71",
-                                "eventMappings": [
-                                    
-                                ],
-                                "isHidden": {
-                                    "type": "JSON_LITERAL",
-                                    "value": null
-                                },
-                                "overrides": {
-                                    "composition": [
-                                        {
-                                            "definition": {
-                                                "id": "15fe506403f8a98575b6df59008ea8f1",
-                                                "type": "MACROPONENT"
-                                            },
-                                            "elementId": "sr71",
-                                            "elementLabel": "SR71",
-                                            "eventMappings": [
-                                                
-                                            ],
-                                            "isHidden": {
-                                                "type": "JSON_LITERAL",
-                                                "value": null
-                                            },
-                                            "preset": null,
-                                            "propertyValues": {
-                                                "alt": {
-                                                    "type": "TRANSLATION_LITERAL",
-                                                    "value": {
-                                                        "code": null,
-                                                        "comment": "",
-                                                        "message": ""
-                                                    }
-                                                },
-                                                "fit": {
-                                                    "type": "JSON_LITERAL",
-                                                    "value": "fill"
-                                                },
-                                                "height": {
-                                                    "type": "JSON_LITERAL",
-                                                    "value": null
-                                                },
-                                                "position": {
-                                                    "type": "JSON_LITERAL",
-                                                    "value": "center center"
-                                                },
-                                                "sources": {
-                                                    "type": "JSON_LITERAL",
-                                                    "value": [
-                                                        
-                                                    ]
-                                                },
-                                                "src": {
-                                                    "type": "JSON_LITERAL",
-                                                    "value": "Jet.jpg"
-                                                },
-                                                "width": {
-                                                    "type": "JSON_LITERAL",
-                                                    "value": null
-                                                }
-                                            },
-                                            "slot": null,
-                                            "styles": null
-                                        }
-                                    ],
-                                    "layout": {
-                                        "default": {
-                                            "children": null,
-                                            "items": [
-                                                {
-                                                    "element_id": "sr71",
-                                                    "styles": {
-                                                        "align-self": "center",
-                                                        "background": "rgb(var(--now-color--neutral-1))",
-                                                        "background-image": "jet.png",
-                                                        "background-origin": "inherit",
-                                                        "background-position": "center",
-                                                        "background-repeat": "inherit",
-                                                        "height": "200px",
-                                                        "margin-bottom": "-5",
-                                                        "width": "border"
-                                                    }
-                                                }
-                                            ],
-                                            "root": null,
-                                            "rules": {
-                                                "flex-direction": "row"
-                                            },
-                                            "styles": {
-                                                "align-items": "stretch",
-                                                "box-sizing": "border-box",
-                                                "flex-direction": "column",
-                                                "height": "100%",
-                                                "justify-content": "flex-start",
-                                                "overflow": "auto"
-                                            },
-                                            "type": "flex"
-                                        },
-                                        "version": "3.0.0"
-                                    }
-                                },
-                                "preset": null,
-                                "propertyValues": {
-                                    "hideEmptyStateUi": {
-                                        "type": "JSON_LITERAL",
-                                        "value": true
-                                    },
-                                    "slotWrapperBehavior": {
-                                        "type": "JSON_LITERAL",
-                                        "value": "contents"
-                                    }
-                                },
-                                "scratchPad": {
-                                    "uib": {
-                                        "layout": {
-                                            "column": {
-                                                "columnNumber": 0,
-                                                "id": "default",
-                                                "styleConfig": {
-                                                    "external": {
-                                                        "display": "contents",
-                                                        "width": "100%"
-                                                    },
-                                                    "internal": {
-                                                        "align-items": "stretch",
-                                                        "box-sizing": "border-box",
-                                                        "flex-direction": "column",
-                                                        "height": "100%",
-                                                        "justify-content": "flex-start",
-                                                        "overflow": "auto"
-                                                    }
-                                                }
-                                            },
-                                            "type": "column"
-                                        },
-                                        "version": "1.0.0"
-                                    }
-                                },
-                                "slot": null,
-                                "styles": null
-                            }
-                        ],
-                        "layout": {
-                            "default": {
-                                "children": null,
-                                "isInline": null,
-                                "items": [
-                                    {
-                                        "element_id": "__clxjjmaggziaabbwhddjhhpwcczgoytjj__column_1",
-                                        "styles": {
-                                            "display": "contents",
-                                            "width": "100%"
-                                        }
-                                    },
-                                    {
-                                        "element_id": "__clxjjmaggziaabbwiddjhhpfeofoccsb__column_2",
-                                        "styles": {
-                                            "display": "contents",
-                                            "width": "100%"
-                                        }
-                                    }
-                                ],
-                                "root": null,
-                                "rules": null,
-                                "styles": {
-                                    "box-sizing": "border-box",
-                                    "grid-template-columns": "15.000122828230264fr 84.99987717176975fr",
-                                    "grid-template-rows": "1fr",
-                                    "width": "auto"
-                                },
-                                "type": "grid"
-                            },
-                            "queries": [
-                                {
-                                    "layout": {
-                                        "children": null,
-                                        "isInline": null,
-                                        "items": [
-                                            
-                                        ],
-                                        "root": null,
-                                        "rules": null,
-                                        "styles": {
-                                            "box-sizing": "border-box",
-                                            "grid-template-columns": "1fr",
-                                            "grid-template-rows": "1fr",
-                                            "height": "fit-content",
-                                            "max-height": "max-content",
-                                            "min-height": "min-content",
-                                            "width": "auto"
-                                        },
-                                        "type": "grid"
-                                    },
-                                    "query": {
-                                        "max-width": 640
-                                    }
-                                }
-                            ],
-                            "version": "3.0.0"
-                        }
-                    },
-                    "preset": null,
-                    "propertyValues": {
-                        "hideEmptyStateUi": {
-                            "type": "JSON_LITERAL",
-                            "value": true
-                        },
-                        "slotWrapperBehavior": {
-                            "type": "JSON_LITERAL",
-                            "value": "contents"
-                        }
-                    },
-                    "scratchPad": {
-                        "uib": {
-                            "layout": {
-                                "columnSection": {
-                                    "breakpoints": [
-                                        {
-                                            "behavior": "stack",
-                                            "max-width": 640,
-                                            "styles": {
-                                                "box-sizing": "border-box",
-                                                "grid-template-columns": "1fr",
-                                                "grid-template-rows": "1fr",
-                                                "height": "fit-content",
-                                                "max-height": "max-content",
-                                                "min-height": "min-content",
-                                                "width": "auto"
-                                            }
-                                        }
-                                    ],
-                                    "children": [
-                                        {
-                                            "columnNumber": 1,
-                                            "unit": "%",
-                                            "width": 15.000122828230264
-                                        },
-                                        {
-                                            "columnNumber": 2,
-                                            "unit": "%",
-                                            "width": 84.99987717176975
-                                        }
-                                    ],
-                                    "id": "UIB_COLUMN_SECTION_SINGLE_COLUMN_SECTION",
-                                    "styleConfig": {
-                                        "external": {
-                                            "display": "contents",
-                                            "width": "100%"
-                                        },
-                                        "internal": {
-                                            "box-sizing": "border-box",
-                                            "grid-template-rows": "1fr",
-                                            "width": "auto"
-                                        }
-                                    }
-                                },
-                                "type": "columnSection"
-                            },
-                            "version": "1.0.0"
-                        }
-                    },
-                    "slot": null,
-                    "styles": null
-                }
-            ],
-            "layout": {
-                "default": {
-                    "children": null,
-                    "items": [
-                        {
-                            "element_id": "stylized_text_1",
-                            "styles": {
-                                "background": "rgb(var(--now-color--neutral-1))"
-                            }
-                        },
-                        {
-                            "element_id": "column_layout_1",
-                            "styles": {
-                                "display": "contents",
-                                "width": "100%"
-                            }
-                        }
-                    ],
-                    "root": null,
-                    "rules": null,
-                    "styles": {
-                        "flex-direction": "column"
-                    },
-                    "templateId": "5832fd4d53c31010e6bcddeeff7b12db",
-                    "type": "flex"
-                },
-                "version": "3.0.0"
-            }
-        },
-        "preset": null,
-        "propertyValues": {
-            "ariaRegionHeadingLevel": {
-                "type": "JSON_LITERAL",
-                "value": "1"
-            },
-            "ariaRegionName": {
-                "type": "TRANSLATION_LITERAL",
-                "value": {
-                    "code": null,
-                    "comment": "",
-                    "message": ""
-                }
-            },
-            "ariaRole": {
-                "type": "JSON_LITERAL",
-                "value": ""
-            },
-            "hideEmptyStateUi": {
-                "type": "JSON_LITERAL",
-                "value": true
-            },
-            "includeAriaHeading": {
-                "type": "JSON_LITERAL",
-                "value": false
-            },
-            "slotWrapperBehavior": {
-                "type": "JSON_LITERAL",
-                "value": "fullheight"
-            },
-            "type": {
-                "type": "JSON_LITERAL",
-                "value": "section"
-            }
-        },
-        "slot": null,
-        "styles": null
-    },
-    {
-        "definition": {
-            "id": "d356d14b6e293a3020a244b63d278d8f",
-            "type": "MACROPONENT"
-        },
-        "elementId": "container_2",
-        "elementLabel": "Login",
-        "eventMappings": [
-            
-        ],
-        "isHidden": {
-            "type": "JSON_LITERAL",
-            "value": null
-        },
-        "overrides": {
-            "composition": [
-                {
-                    "definition": {
-                        "id": "b149d22fc772967dcde6c861d5e67397",
-                        "type": "MACROPONENT"
-                    },
-                    "elementId": "login_1",
-                    "elementLabel": "Login 1",
-                    "eventMappings": [
-                        
-                    ],
-                    "isHidden": {
-                        "type": "JSON_LITERAL",
-                        "value": null
-                    },
-                    "preset": null,
-                    "propertyValues": {
-                        "destinationUrl": {
-                            "type": "JSON_LITERAL",
-                            "value": null
-                        },
-                        "heading": {
-                            "type": "TRANSLATION_LITERAL",
-                            "value": {
-                                "code": null,
-                                "comment": "",
-                                "message": ""
-                            }
-                        },
-                        "logoUrl": {
-                            "type": "JSON_LITERAL",
-                            "value": "Test"
-                        },
-                        "ssoLabel": {
-                            "type": "TRANSLATION_LITERAL",
-                            "value": {
-                                "code": null,
-                                "comment": "",
-                                "message": "Enter Here"
-                            }
-                        }
-                    },
-                    "slot": null,
-                    "styles": null
-                }
-            ],
-            "layout": {
-                "default": {
-                    "children": null,
-                    "items": [
-                        {
-                            "element_id": "login_1",
-                            "styles": {
-                                "align-self": "center",
-                                "background": "rgb(var(--now-color--neutral-10))",
-                                "flex": "none",
-                                "margin-bottom": "var(--now-scalable-space--3xl)",
-                                "margin-top": "var(--now-scalable-space--3xl)",
-                                "padding": "var(--now-scalable-space--xxl)",
-                                "padding-bottom": "var(--now-scalable-space--xxl)",
-                                "padding-left": "var(--now-scalable-space--xxl)",
-                                "padding-right": "var(--now-scalable-space--xxl)",
-                                "padding-top": "var(--now-scalable-space--xxl)",
-                                "width": "500px"
-                            }
-                        }
-                    ],
-                    "root": null,
-                    "rules": null,
-                    "styles": {
-                        "flex-direction": "column"
-                    },
-                    "templateId": "5832fd4d53c31010e6bcddeeff7b12db",
-                    "type": "flex"
-                },
-                "version": "3.0.0"
-            }
-        },
-        "preset": null,
-        "propertyValues": {
-            "ariaRegionHeadingLevel": {
-                "type": "JSON_LITERAL",
-                "value": "1"
-            },
-            "ariaRegionName": {
-                "type": "TRANSLATION_LITERAL",
-                "value": {
-                    "code": null,
-                    "comment": "",
-                    "message": ""
-                }
-            },
-            "ariaRole": {
-                "type": "JSON_LITERAL",
-                "value": ""
-            },
-            "hideEmptyStateUi": {
-                "type": "JSON_LITERAL",
-                "value": true
-            },
-            "includeAriaHeading": {
-                "type": "JSON_LITERAL",
-                "value": false
-            },
-            "slotWrapperBehavior": {
-                "type": "JSON_LITERAL",
-                "value": "fullheight"
-            },
-            "type": {
-                "type": "JSON_LITERAL",
-                "value": "section"
-            }
-        },
-        "slot": null,
-        "styles": null
-    },
-    {
-        "definition": {
-            "id": "d356d14b6e293a3020a244b63d278d8f",
-            "type": "MACROPONENT"
-        },
-        "elementId": "column_layout_2",
-        "elementLabel": "Bottom Links",
-        "eventMappings": [
-            
-        ],
-        "isHidden": {
-            "type": "JSON_LITERAL",
-            "value": null
-        },
-        "overrides": {
-            "composition": [
-                {
-                    "definition": {
-                        "id": "d356d14b6e293a3020a244b63d278d8f",
-                        "type": "MACROPONENT"
-                    },
-                    "elementId": "__clxjjuhhfffccaacuuddjhhprcvvnwkv__column_1",
-                    "elementLabel": "Links",
-                    "eventMappings": [
-                        
-                    ],
-                    "isHidden": {
-                        "type": "JSON_LITERAL",
-                        "value": null
-                    },
-                    "overrides": {
-                        "composition": [
-                            {
-                                "definition": {
-                                    "id": "67cf54ff68b39f4e45b946184b91bacb",
-                                    "type": "MACROPONENT"
-                                },
-                                "elementId": "link_set_group_1",
-                                "elementLabel": "Link set group 1",
+                                "elementId": "stylized_text_1",
+                                "elementLabel": "LMS",
                                 "eventMappings": [
                                     
                                 ],
@@ -743,896 +53,65 @@
                                 },
                                 "preset": null,
                                 "propertyValues": {
-                                    "disableBrowseAll": {
+                                    "configAria": {
                                         "type": "JSON_LITERAL",
-                                        "value": false
+                                        "value": {}
                                     },
-                                    "heading": {
+                                    "css": {
+                                        "type": "JSON_LITERAL",
+                                        "value": "* \r\n{\r\n  font-weight: bold;\r\n  font: 800 60px Impact;\r\n  -webkit-text-fill-color: black;\r\n  -webkit-text-stroke: .25px;\r\n  -webkit-text-stroke-color: rgb(71, 169, 240); \r\n}\r\n"
+                                    },
+                                    "tag": {
+                                        "type": "JSON_LITERAL",
+                                        "value": "div"
+                                    },
+                                    "text": {
                                         "type": "TRANSLATION_LITERAL",
                                         "value": {
                                             "code": null,
                                             "comment": "",
-                                            "message": "Helpful Links"
+                                            "message": "Consolidate Aircraft \nLogistics Management System\n"
                                         }
-                                    },
-                                    "items": {
-                                        "container": [
-                                            {
-                                                "container": {
-                                                    "browseLink": {
-                                                        "container": {
-                                                            "icon": {
-                                                                "type": "JSON_LITERAL",
-                                                                "value": "chevron-right-outline"
-                                                            },
-                                                            "link": {
-                                                                "container": {
-                                                                    "download": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": false
-                                                                    },
-                                                                    "label": {
-                                                                        "type": "TRANSLATION_LITERAL",
-                                                                        "value": {
-                                                                            "code": null,
-                                                                            "comment": "",
-                                                                            "message": "Browse all"
-                                                                        }
-                                                                    },
-                                                                    "opensWindow": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": false
-                                                                    },
-                                                                    "type": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": "route"
-                                                                    },
-                                                                    "value": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": {
-                                                                            "route": "it_support"
-                                                                        }
-                                                                    }
-                                                                },
-                                                                "type": "MAP_CONTAINER"
-                                                            },
-                                                            "type": {
-                                                                "type": "JSON_LITERAL",
-                                                                "value": "link"
-                                                            }
-                                                        },
-                                                        "type": "MAP_CONTAINER"
-                                                    },
-                                                    "heading": {
-                                                        "container": {
-                                                            "hasIcon": {
-                                                                "type": "JSON_LITERAL",
-                                                                "value": false
-                                                            },
-                                                            "hasTile": {
-                                                                "type": "JSON_LITERAL",
-                                                                "value": false
-                                                            },
-                                                            "icon": {
-                                                                "type": "JSON_LITERAL",
-                                                                "value": {
-                                                                    "alignment": "left",
-                                                                    "name": "bundle-outline",
-                                                                    "placement": "inline"
-                                                                }
-                                                            },
-                                                            "label": {
-                                                                "type": "TRANSLATION_LITERAL",
-                                                                "value": {
-                                                                    "code": null,
-                                                                    "comment": "",
-                                                                    "message": "No clue"
-                                                                }
-                                                            },
-                                                            "link": {
-                                                                "container": {
-                                                                    "download": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": false
-                                                                    },
-                                                                    "label": {
-                                                                        "type": "TRANSLATION_LITERAL",
-                                                                        "value": {
-                                                                            "code": null,
-                                                                            "comment": "",
-                                                                            "message": "Help Section"
-                                                                        }
-                                                                    },
-                                                                    "opensWindow": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": true
-                                                                    },
-                                                                    "type": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": "route"
-                                                                    },
-                                                                    "value": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": {
-                                                                            "href": "www.iwsti.com"
-                                                                        }
-                                                                    }
-                                                                },
-                                                                "type": "MAP_CONTAINER"
-                                                            },
-                                                            "type": {
-                                                                "type": "JSON_LITERAL",
-                                                                "value": "Icon"
-                                                            }
-                                                        },
-                                                        "type": "MAP_CONTAINER"
-                                                    },
-                                                    "links": {
-                                                        "container": [
-                                                            {
-                                                                "container": {
-                                                                    "download": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": false
-                                                                    },
-                                                                    "endsWith": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": {
-                                                                            "type": "icon",
-                                                                            "value": "clipboard-outline"
-                                                                        }
-                                                                    },
-                                                                    "label": {
-                                                                        "type": "TRANSLATION_LITERAL",
-                                                                        "value": {
-                                                                            "code": null,
-                                                                            "comment": "",
-                                                                            "message": "Suggestions"
-                                                                        }
-                                                                    },
-                                                                    "opensWindow": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": true
-                                                                    },
-                                                                    "startsWith": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": {
-                                                                            "align": "center",
-                                                                            "icon": "headset-outline"
-                                                                        }
-                                                                    },
-                                                                    "type": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": "external"
-                                                                    },
-                                                                    "value": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": {
-                                                                            "href": "https://www.servicenow.com"
-                                                                        }
-                                                                    }
-                                                                },
-                                                                "type": "MAP_CONTAINER"
-                                                            },
-                                                            {
-                                                                "container": {
-                                                                    "download": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": false
-                                                                    },
-                                                                    "endsWith": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": {
-                                                                            "type": "icon",
-                                                                            "value": "clipboard-outline"
-                                                                        }
-                                                                    },
-                                                                    "label": {
-                                                                        "type": "TRANSLATION_LITERAL",
-                                                                        "value": {
-                                                                            "code": null,
-                                                                            "comment": "",
-                                                                            "message": "Hardware - route type"
-                                                                        }
-                                                                    },
-                                                                    "opensWindow": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": false
-                                                                    },
-                                                                    "startsWith": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": {
-                                                                            "align": "center",
-                                                                            "icon": "headset-outline"
-                                                                        }
-                                                                    },
-                                                                    "type": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": "route"
-                                                                    },
-                                                                    "value": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": {
-                                                                            "route": "it_support"
-                                                                        }
-                                                                    }
-                                                                },
-                                                                "type": "MAP_CONTAINER"
-                                                            },
-                                                            {
-                                                                "container": {
-                                                                    "download": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": false
-                                                                    },
-                                                                    "endsWith": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": {
-                                                                            "type": "icon",
-                                                                            "value": "clipboard-outline"
-                                                                        }
-                                                                    },
-                                                                    "label": {
-                                                                        "type": "TRANSLATION_LITERAL",
-                                                                        "value": {
-                                                                            "code": null,
-                                                                            "comment": "",
-                                                                            "message": "Wifi and remote access"
-                                                                        }
-                                                                    },
-                                                                    "opensWindow": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": false
-                                                                    },
-                                                                    "startsWith": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": {
-                                                                            "align": "center",
-                                                                            "icon": "headset-outline"
-                                                                        }
-                                                                    },
-                                                                    "type": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": "route"
-                                                                    },
-                                                                    "value": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": {
-                                                                            "route": "it_support"
-                                                                        }
-                                                                    }
-                                                                },
-                                                                "type": "MAP_CONTAINER"
-                                                            },
-                                                            {
-                                                                "container": {
-                                                                    "download": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": false
-                                                                    },
-                                                                    "endsWith": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": {
-                                                                            "type": "icon",
-                                                                            "value": "clipboard-outline"
-                                                                        }
-                                                                    },
-                                                                    "label": {
-                                                                        "type": "TRANSLATION_LITERAL",
-                                                                        "value": {
-                                                                            "code": null,
-                                                                            "comment": "",
-                                                                            "message": "Security"
-                                                                        }
-                                                                    },
-                                                                    "opensWindow": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": false
-                                                                    },
-                                                                    "startsWith": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": {
-                                                                            "align": "center",
-                                                                            "icon": "headset-outline"
-                                                                        }
-                                                                    },
-                                                                    "type": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": "route"
-                                                                    },
-                                                                    "value": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": {
-                                                                            "route": "it_support"
-                                                                        }
-                                                                    }
-                                                                },
-                                                                "type": "MAP_CONTAINER"
-                                                            }
-                                                        ],
-                                                        "type": "LIST_CONTAINER"
-                                                    }
-                                                },
-                                                "type": "MAP_CONTAINER"
-                                            },
-                                            {
-                                                "container": {
-                                                    "browseLink": {
-                                                        "container": {
-                                                            "icon": {
-                                                                "type": "JSON_LITERAL",
-                                                                "value": "chevron-right-outline"
-                                                            },
-                                                            "link": {
-                                                                "container": {
-                                                                    "download": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": false
-                                                                    },
-                                                                    "label": {
-                                                                        "type": "TRANSLATION_LITERAL",
-                                                                        "value": {
-                                                                            "code": null,
-                                                                            "comment": "",
-                                                                            "message": "Browse all"
-                                                                        }
-                                                                    },
-                                                                    "opensWindow": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": false
-                                                                    },
-                                                                    "type": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": "route"
-                                                                    },
-                                                                    "value": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": {
-                                                                            "route": "it_support"
-                                                                        }
-                                                                    }
-                                                                },
-                                                                "type": "MAP_CONTAINER"
-                                                            },
-                                                            "type": {
-                                                                "type": "JSON_LITERAL",
-                                                                "value": "link"
-                                                            }
-                                                        },
-                                                        "type": "MAP_CONTAINER"
-                                                    },
-                                                    "heading": {
-                                                        "container": {
-                                                            "hasIcon": {
-                                                                "type": "JSON_LITERAL",
-                                                                "value": true
-                                                            },
-                                                            "icon": {
-                                                                "type": "JSON_LITERAL",
-                                                                "value": {
-                                                                    "alignment": "left",
-                                                                    "name": "bundle-outline",
-                                                                    "placement": "inline"
-                                                                }
-                                                            },
-                                                            "link": {
-                                                                "container": {
-                                                                    "download": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": false
-                                                                    },
-                                                                    "label": {
-                                                                        "type": "TRANSLATION_LITERAL",
-                                                                        "value": {
-                                                                            "code": null,
-                                                                            "comment": "",
-                                                                            "message": "Human resources"
-                                                                        }
-                                                                    },
-                                                                    "opensWindow": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": false
-                                                                    },
-                                                                    "type": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": "route"
-                                                                    },
-                                                                    "value": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": {
-                                                                            "route": "hr_support"
-                                                                        }
-                                                                    }
-                                                                },
-                                                                "type": "MAP_CONTAINER"
-                                                            },
-                                                            "type": {
-                                                                "type": "JSON_LITERAL",
-                                                                "value": "link"
-                                                            }
-                                                        },
-                                                        "type": "MAP_CONTAINER"
-                                                    },
-                                                    "links": {
-                                                        "container": [
-                                                            {
-                                                                "container": {
-                                                                    "download": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": false
-                                                                    },
-                                                                    "endsWith": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": {
-                                                                            "type": "icon",
-                                                                            "value": "clipboard-outline"
-                                                                        }
-                                                                    },
-                                                                    "label": {
-                                                                        "type": "TRANSLATION_LITERAL",
-                                                                        "value": {
-                                                                            "code": null,
-                                                                            "comment": "",
-                                                                            "message": "Benefits"
-                                                                        }
-                                                                    },
-                                                                    "opensWindow": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": false
-                                                                    },
-                                                                    "startsWith": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": {
-                                                                            "align": "center",
-                                                                            "icon": "headset-outline"
-                                                                        }
-                                                                    },
-                                                                    "type": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": "route"
-                                                                    },
-                                                                    "value": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": {
-                                                                            "route": "hr_support"
-                                                                        }
-                                                                    }
-                                                                },
-                                                                "type": "MAP_CONTAINER"
-                                                            },
-                                                            {
-                                                                "container": {
-                                                                    "download": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": false
-                                                                    },
-                                                                    "endsWith": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": {
-                                                                            "type": "icon",
-                                                                            "value": "clipboard-outline"
-                                                                        }
-                                                                    },
-                                                                    "label": {
-                                                                        "type": "TRANSLATION_LITERAL",
-                                                                        "value": {
-                                                                            "code": null,
-                                                                            "comment": "",
-                                                                            "message": "Payroll"
-                                                                        }
-                                                                    },
-                                                                    "opensWindow": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": false
-                                                                    },
-                                                                    "startsWith": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": {
-                                                                            "align": "center",
-                                                                            "icon": "headset-outline"
-                                                                        }
-                                                                    },
-                                                                    "type": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": "route"
-                                                                    },
-                                                                    "value": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": {
-                                                                            "route": "hr_support"
-                                                                        }
-                                                                    }
-                                                                },
-                                                                "type": "MAP_CONTAINER"
-                                                            },
-                                                            {
-                                                                "container": {
-                                                                    "download": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": false
-                                                                    },
-                                                                    "endsWith": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": {
-                                                                            "type": "icon",
-                                                                            "value": "clipboard-outline"
-                                                                        }
-                                                                    },
-                                                                    "label": {
-                                                                        "type": "TRANSLATION_LITERAL",
-                                                                        "value": {
-                                                                            "code": null,
-                                                                            "comment": "",
-                                                                            "message": "Time off"
-                                                                        }
-                                                                    },
-                                                                    "opensWindow": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": false
-                                                                    },
-                                                                    "startsWith": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": {
-                                                                            "align": "center",
-                                                                            "icon": "headset-outline"
-                                                                        }
-                                                                    },
-                                                                    "type": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": "route"
-                                                                    },
-                                                                    "value": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": {
-                                                                            "route": "hr_support"
-                                                                        }
-                                                                    }
-                                                                },
-                                                                "type": "MAP_CONTAINER"
-                                                            },
-                                                            {
-                                                                "container": {
-                                                                    "download": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": false
-                                                                    },
-                                                                    "endsWith": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": {
-                                                                            "type": "icon",
-                                                                            "value": "clipboard-outline"
-                                                                        }
-                                                                    },
-                                                                    "label": {
-                                                                        "type": "TRANSLATION_LITERAL",
-                                                                        "value": {
-                                                                            "code": null,
-                                                                            "comment": "",
-                                                                            "message": "Training/careers"
-                                                                        }
-                                                                    },
-                                                                    "opensWindow": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": false
-                                                                    },
-                                                                    "startsWith": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": {
-                                                                            "align": "center",
-                                                                            "icon": "headset-outline"
-                                                                        }
-                                                                    },
-                                                                    "type": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": "route"
-                                                                    },
-                                                                    "value": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": {
-                                                                            "route": "hr_support"
-                                                                        }
-                                                                    }
-                                                                },
-                                                                "type": "MAP_CONTAINER"
-                                                            }
-                                                        ],
-                                                        "type": "LIST_CONTAINER"
-                                                    }
-                                                },
-                                                "type": "MAP_CONTAINER"
-                                            },
-                                            {
-                                                "container": {
-                                                    "browseLink": {
-                                                        "container": {
-                                                            "icon": {
-                                                                "type": "JSON_LITERAL",
-                                                                "value": "chevron-right-outline"
-                                                            },
-                                                            "link": {
-                                                                "container": {
-                                                                    "download": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": false
-                                                                    },
-                                                                    "label": {
-                                                                        "type": "TRANSLATION_LITERAL",
-                                                                        "value": {
-                                                                            "code": null,
-                                                                            "comment": "",
-                                                                            "message": "Browse all"
-                                                                        }
-                                                                    },
-                                                                    "opensWindow": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": false
-                                                                    },
-                                                                    "type": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": "route"
-                                                                    },
-                                                                    "value": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": {
-                                                                            "route": "it_support"
-                                                                        }
-                                                                    }
-                                                                },
-                                                                "type": "MAP_CONTAINER"
-                                                            },
-                                                            "type": {
-                                                                "type": "JSON_LITERAL",
-                                                                "value": "link"
-                                                            }
-                                                        },
-                                                        "type": "MAP_CONTAINER"
-                                                    },
-                                                    "heading": {
-                                                        "container": {
-                                                            "hasIcon": {
-                                                                "type": "JSON_LITERAL",
-                                                                "value": true
-                                                            },
-                                                            "icon": {
-                                                                "type": "JSON_LITERAL",
-                                                                "value": {
-                                                                    "alignment": "left",
-                                                                    "name": "bundle-outline",
-                                                                    "placement": "inline"
-                                                                }
-                                                            },
-                                                            "link": {
-                                                                "container": {
-                                                                    "download": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": false
-                                                                    },
-                                                                    "label": {
-                                                                        "type": "TRANSLATION_LITERAL",
-                                                                        "value": {
-                                                                            "code": null,
-                                                                            "comment": "",
-                                                                            "message": "Travel &amp; expenses"
-                                                                        }
-                                                                    },
-                                                                    "opensWindow": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": false
-                                                                    },
-                                                                    "type": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": "route"
-                                                                    },
-                                                                    "value": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": {
-                                                                            "route": "te_support"
-                                                                        }
-                                                                    }
-                                                                },
-                                                                "type": "MAP_CONTAINER"
-                                                            },
-                                                            "type": {
-                                                                "type": "JSON_LITERAL",
-                                                                "value": "link"
-                                                            }
-                                                        },
-                                                        "type": "MAP_CONTAINER"
-                                                    },
-                                                    "links": {
-                                                        "container": [
-                                                            {
-                                                                "container": {
-                                                                    "download": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": false
-                                                                    },
-                                                                    "endsWith": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": {
-                                                                            "type": "icon",
-                                                                            "value": "clipboard-outline"
-                                                                        }
-                                                                    },
-                                                                    "label": {
-                                                                        "type": "TRANSLATION_LITERAL",
-                                                                        "value": {
-                                                                            "code": null,
-                                                                            "comment": "",
-                                                                            "message": "Travel safety"
-                                                                        }
-                                                                    },
-                                                                    "opensWindow": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": false
-                                                                    },
-                                                                    "startsWith": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": {
-                                                                            "align": "center",
-                                                                            "icon": "headset-outline"
-                                                                        }
-                                                                    },
-                                                                    "type": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": "route"
-                                                                    },
-                                                                    "value": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": {
-                                                                            "route": "te_support"
-                                                                        }
-                                                                    }
-                                                                },
-                                                                "type": "MAP_CONTAINER"
-                                                            },
-                                                            {
-                                                                "container": {
-                                                                    "download": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": false
-                                                                    },
-                                                                    "endsWith": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": {
-                                                                            "type": "icon",
-                                                                            "value": "clipboard-outline"
-                                                                        }
-                                                                    },
-                                                                    "label": {
-                                                                        "type": "TRANSLATION_LITERAL",
-                                                                        "value": {
-                                                                            "code": null,
-                                                                            "comment": "",
-                                                                            "message": "Preferred business"
-                                                                        }
-                                                                    },
-                                                                    "opensWindow": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": false
-                                                                    },
-                                                                    "startsWith": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": {
-                                                                            "align": "center",
-                                                                            "icon": "headset-outline"
-                                                                        }
-                                                                    },
-                                                                    "type": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": "route"
-                                                                    },
-                                                                    "value": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": {
-                                                                            "route": "te_support"
-                                                                        }
-                                                                    }
-                                                                },
-                                                                "type": "MAP_CONTAINER"
-                                                            },
-                                                            {
-                                                                "container": {
-                                                                    "download": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": false
-                                                                    },
-                                                                    "endsWith": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": {
-                                                                            "type": "icon",
-                                                                            "value": "clipboard-outline"
-                                                                        }
-                                                                    },
-                                                                    "label": {
-                                                                        "type": "TRANSLATION_LITERAL",
-                                                                        "value": {
-                                                                            "code": null,
-                                                                            "comment": "",
-                                                                            "message": "Expenses and gifts"
-                                                                        }
-                                                                    },
-                                                                    "opensWindow": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": false
-                                                                    },
-                                                                    "startsWith": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": {
-                                                                            "align": "center",
-                                                                            "icon": "headset-outline"
-                                                                        }
-                                                                    },
-                                                                    "type": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": "route"
-                                                                    },
-                                                                    "value": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": {
-                                                                            "route": "te_support"
-                                                                        }
-                                                                    }
-                                                                },
-                                                                "type": "MAP_CONTAINER"
-                                                            },
-                                                            {
-                                                                "container": {
-                                                                    "download": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": false
-                                                                    },
-                                                                    "endsWith": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": {
-                                                                            "type": "icon",
-                                                                            "value": "clipboard-outline"
-                                                                        }
-                                                                    },
-                                                                    "label": {
-                                                                        "type": "TRANSLATION_LITERAL",
-                                                                        "value": {
-                                                                            "code": null,
-                                                                            "comment": "",
-                                                                            "message": "Finance"
-                                                                        }
-                                                                    },
-                                                                    "opensWindow": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": false
-                                                                    },
-                                                                    "startsWith": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": {
-                                                                            "align": "center",
-                                                                            "icon": "headset-outline"
-                                                                        }
-                                                                    },
-                                                                    "type": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": "route"
-                                                                    },
-                                                                    "value": {
-                                                                        "type": "JSON_LITERAL",
-                                                                        "value": {
-                                                                            "route": "te_support"
-                                                                        }
-                                                                    }
-                                                                },
-                                                                "type": "MAP_CONTAINER"
-                                                            }
-                                                        ],
-                                                        "type": "LIST_CONTAINER"
-                                                    }
-                                                },
-                                                "type": "MAP_CONTAINER"
-                                            }
-                                        ],
-                                        "type": "LIST_CONTAINER"
-                                    },
-                                    "width": {
+                                    }
+                                },
+                                "slot": null,
+                                "styles": null
+                            },
+                            {
+                                "definition": {
+                                    "id": "4335ba6dca80378f7ba7a67cd6667bec",
+                                    "type": "MACROPONENT"
+                                },
+                                "elementId": "stylized_text_2",
+                                "elementLabel": "CALMS",
+                                "eventMappings": [
+                                    
+                                ],
+                                "isHidden": {
+                                    "type": "JSON_LITERAL",
+                                    "value": null
+                                },
+                                "preset": null,
+                                "propertyValues": {
+                                    "configAria": {
                                         "type": "JSON_LITERAL",
-                                        "value": "1000"
+                                        "value": {}
+                                    },
+                                    "css": {
+                                        "type": "JSON_LITERAL",
+                                        "value": "* \r\n{   \r\n  font-weight: bold;\r\n  font: 800 40px Impact;\r\n  -webkit-text-fill-color: rgb(200, 169, 83);\r\n  -webkit-text-stroke: .25px;\r\n  -webkit-text-stroke-color: rgb(0, 0, 0);\r\n}"
+                                    },
+                                    "tag": {
+                                        "type": "JSON_LITERAL",
+                                        "value": "div"
+                                    },
+                                    "text": {
+                                        "type": "TRANSLATION_LITERAL",
+                                        "value": {
+                                            "code": null,
+                                            "comment": "",
+                                            "message": "CALMS"
+                                        }
                                     }
                                 },
                                 "slot": null,
@@ -1644,10 +123,18 @@
                                 "children": null,
                                 "items": [
                                     {
-                                        "element_id": "link_set_group_1",
+                                        "element_id": "stylized_text_1",
+                                        "styles": {}
+                                    },
+                                    {
+                                        "element_id": "stylized_text_2",
                                         "styles": {
                                             "align-self": "center",
-                                            "flex": "0 1 auto"
+                                            "flex": "none",
+                                            "height": "auto",
+                                            "margin-top": "",
+                                            "padding-top": "",
+                                            "width": "auto"
                                         }
                                     }
                                 ],
@@ -1656,12 +143,19 @@
                                     "flex-direction": "row"
                                 },
                                 "styles": {
-                                    "align-items": "stretch",
+                                    "align-content": "stretch",
+                                    "align-items": "center",
                                     "box-sizing": "border-box",
-                                    "flex-direction": "row",
-                                    "height": "100%",
-                                    "justify-content": "space-evenly",
-                                    "overflow": "auto"
+                                    "display": "grid",
+                                    "flex-direction": "column",
+                                    "flex-wrap": "wrap",
+                                    "gap": "0",
+                                    "height": "",
+                                    "justify-content": "center",
+                                    "max-width": "",
+                                    "min-height": "",
+                                    "overflow": "auto",
+                                    "width": "auto"
                                 },
                                 "type": "flex"
                             },
@@ -1674,9 +168,17 @@
                             "type": "JSON_LITERAL",
                             "value": true
                         },
+                        "includeAriaHeading": {
+                            "type": "JSON_LITERAL",
+                            "value": false
+                        },
                         "slotWrapperBehavior": {
                             "type": "JSON_LITERAL",
                             "value": "contents"
+                        },
+                        "type": {
+                            "type": "JSON_LITERAL",
+                            "value": "main"
                         }
                     },
                     "scratchPad": {
@@ -1691,12 +193,19 @@
                                             "width": "100%"
                                         },
                                         "internal": {
-                                            "align-items": "stretch",
+                                            "align-content": "stretch",
+                                            "align-items": "center",
                                             "box-sizing": "border-box",
-                                            "flex-direction": "row",
-                                            "height": "100%",
-                                            "justify-content": "space-evenly",
-                                            "overflow": "auto"
+                                            "display": "grid",
+                                            "flex-direction": "column",
+                                            "flex-wrap": "wrap",
+                                            "gap": "0",
+                                            "height": "",
+                                            "justify-content": "center",
+                                            "max-width": "",
+                                            "min-height": "",
+                                            "overflow": "auto",
+                                            "width": "auto"
                                         }
                                     }
                                 },
@@ -1715,7 +224,7 @@
                     "isInline": null,
                     "items": [
                         {
-                            "element_id": "__clxjjuhhfffccaacuuddjhhprcvvnwkv__column_1",
+                            "element_id": "__clxjjmaggziaabbwiddjhhpfeofoccsb__column_2",
                             "styles": {
                                 "display": "contents",
                                 "width": "100%"
@@ -1725,9 +234,19 @@
                     "root": null,
                     "rules": null,
                     "styles": {
+                        "background": "rgb(var(--now-color--neutral-19))",
+                        "background-attachment": "local",
+                        "background-clip": "padding-box",
+                        "background-image": "url(\"https://dev260572.service-now.com/293b615083fe02103fcc9cc0deaad33b.iix\")",
+                        "background-origin": "border-box",
+                        "background-position": "center",
+                        "background-repeat": "no-repeat",
                         "box-sizing": "border-box",
+                        "column-gap": "0",
                         "grid-template-columns": "100fr",
                         "grid-template-rows": "1fr",
+                        "height": "200px",
+                        "margin-top": "var(--now-scalable-space--3xl)",
                         "width": "auto"
                     },
                     "type": "grid"
@@ -1743,10 +262,19 @@
                             "root": null,
                             "rules": null,
                             "styles": {
+                                "background": "rgb(var(--now-color--neutral-19))",
+                                "background-attachment": "local",
+                                "background-clip": "padding-box",
+                                "background-image": "url(\"https://dev260572.service-now.com/293b615083fe02103fcc9cc0deaad33b.iix\")",
+                                "background-origin": "border-box",
+                                "background-position": "center",
+                                "background-repeat": "no-repeat",
                                 "box-sizing": "border-box",
+                                "column-gap": "0",
                                 "grid-template-columns": "1fr",
                                 "grid-template-rows": "1fr",
                                 "height": "fit-content",
+                                "margin-top": "var(--now-scalable-space--3xl)",
                                 "max-height": "max-content",
                                 "min-height": "min-content",
                                 "width": "auto"
@@ -1770,6 +298,10 @@
             "slotWrapperBehavior": {
                 "type": "JSON_LITERAL",
                 "value": "contents"
+            },
+            "type": {
+                "type": "JSON_LITERAL",
+                "value": "header"
             }
         },
         "scratchPad": {
@@ -1805,8 +337,18 @@
                                 "width": "100%"
                             },
                             "internal": {
+                                "background": "rgb(var(--now-color--neutral-19))",
+                                "background-attachment": "local",
+                                "background-clip": "padding-box",
+                                "background-image": "url(\"https://dev260572.service-now.com/293b615083fe02103fcc9cc0deaad33b.iix\")",
+                                "background-origin": "border-box",
+                                "background-position": "center",
+                                "background-repeat": "no-repeat",
                                 "box-sizing": "border-box",
+                                "column-gap": "0",
                                 "grid-template-rows": "1fr",
+                                "height": "200px",
+                                "margin-top": "var(--now-scalable-space--3xl)",
                                 "width": "auto"
                             }
                         }
@@ -1818,14 +360,626 @@
         },
         "slot": null,
         "styles": null
+    },
+    {
+        "definition": {
+            "id": "d356d14b6e293a3020a244b63d278d8f",
+            "type": "MACROPONENT"
+        },
+        "elementId": "container_2",
+        "elementLabel": "Login",
+        "eventMappings": [
+            
+        ],
+        "isHidden": {
+            "type": "JSON_LITERAL",
+            "value": null
+        },
+        "overrides": {
+            "composition": [
+                {
+                    "definition": {
+                        "id": "b149d22fc772967dcde6c861d5e67397",
+                        "type": "MACROPONENT"
+                    },
+                    "elementId": "login_1",
+                    "elementLabel": "Login 1",
+                    "eventMappings": [
+                        {
+                            "eventMappingId": "clxeggdmpqaafaakddjhhpbeffhhadggjj",
+                            "isConfiguration": false,
+                            "offRowStorageId": null,
+                            "sourceEventApiName": "now_login.NOW_LOGIN#USER_ACTION_TAKEN",
+                            "sourceEventCorrelationId": null,
+                            "sourceEventDefinition": {
+                                "apiName": "now_login.NOW_LOGIN#USER_ACTION_TAKEN",
+                                "id": null,
+                                "type": "UXEVENT"
+                            },
+                            "sourceEventSysId": null,
+                            "targets": [
+                                {
+                                    "broker": null,
+                                    "clientScript": null,
+                                    "conditional": null,
+                                    "declarativeAction": null,
+                                    "event": {
+                                        "apiName": "sn_uxf_page.NOW_UXF_PAGE#SET_LOADING_STATE",
+                                        "payload": {
+                                            "type": "JSON_LITERAL",
+                                            "value": {
+                                                "action": null,
+                                                "label": "Yo mama",
+                                                "loading": true,
+                                                "nonBlocking": false
+                                            }
+                                        },
+                                        "sysId": "0404f68486f1baab1dc7ef2a27a3de50"
+                                    },
+                                    "operation": null,
+                                    "targetId": "clxeggdmpqaafaalddjhhpjjsuvyvqf",
+                                    "type": "EVENT"
+                                },
+                                {
+                                    "broker": null,
+                                    "clientScript": null,
+                                    "conditional": null,
+                                    "declarativeAction": null,
+                                    "event": {
+                                        "apiName": "x_1284052_consol_0.NAV_ITEM_SELECTED_RELAY_65f45a1883b242103fcc9cc0deaad321",
+                                        "payload": {
+                                            "type": "JSON_LITERAL",
+                                            "value": {
+                                                "external": {
+                                                    "url": "https://dev260572.service-now.com/x/1284052/calms/home-page/task/3f39b1568db4021087de63ac7f1f00fa"
+                                                },
+                                                "fields": null,
+                                                "multiInstField": null,
+                                                "navigationOptions": null,
+                                                "params": null,
+                                                "passiveNavigation": null,
+                                                "redirect": null,
+                                                "route": null,
+                                                "targetRoute": null,
+                                                "title": "Home Page"
+                                            }
+                                        },
+                                        "sysId": "afa4865d83b286103fcc9cc0deaad3e4"
+                                    },
+                                    "operation": null,
+                                    "targetId": "clxeggnyxraafccjjddjhhpjbbiiwaakpu",
+                                    "type": "EVENT"
+                                },
+                                {
+                                    "broker": null,
+                                    "clientScript": null,
+                                    "conditional": null,
+                                    "declarativeAction": null,
+                                    "event": {
+                                        "apiName": "x_1284052_consol_0.MODAL_SELECTED_RELAY_65f45a1883b242103fcc9cc0deaad321",
+                                        "payload": {
+                                            "type": "JSON_LITERAL",
+                                            "value": {
+                                                "bare": null,
+                                                "displayOptions": null,
+                                                "headerLabel": null,
+                                                "modalId": null,
+                                                "showModal": null,
+                                                "viewportElementId": null,
+                                                "viewportFields": null,
+                                                "viewportParams": null,
+                                                "viewportRoute": null
+                                            }
+                                        },
+                                        "sysId": "7dbf829d83f286103fcc9cc0deaad36c"
+                                    },
+                                    "operation": null,
+                                    "targetId": "clxfffsuboaacrlddjhhplivoccbbree",
+                                    "type": "EVENT"
+                                }
+                            ]
+                        }
+                    ],
+                    "isHidden": {
+                        "type": "JSON_LITERAL",
+                        "value": false
+                    },
+                    "preset": null,
+                    "propertyValues": {
+                        "destinationUrl": {
+                            "type": "JSON_LITERAL"
+                        },
+                        "heading": {
+                            "type": "TRANSLATION_LITERAL",
+                            "value": {
+                                "code": null,
+                                "comment": "",
+                                "message": "Login"
+                            }
+                        },
+                        "logoUrl": {
+                            "type": "JSON_LITERAL",
+                            "value": "https://dev260572.service-now.com/8ab66213832682103fcc9cc0deaad3b1.iix"
+                        },
+                        "ssoLabel": {
+                            "type": "TRANSLATION_LITERAL",
+                            "value": {
+                                "code": null,
+                                "comment": "",
+                                "message": ""
+                            }
+                        }
+                    },
+                    "slot": null,
+                    "styles": null
+                }
+            ],
+            "layout": {
+                "default": {
+                    "children": null,
+                    "items": [
+                        {
+                            "element_id": "login_1",
+                            "styles": {
+                                "align-self": "center",
+                                "background": "rgb(var(--now-color--neutral-10))",
+                                "border-color": "#CB1B1B",
+                                "border-radius": "var(--now-static-border-radius--lg)",
+                                "border-style": "solid",
+                                "border-width": "var(--now-static-space--xs)",
+                                "flex": "1 0 auto",
+                                "margin-bottom": "var(--now-scalable-space--3xl)",
+                                "margin-top": "var(--now-scalable-space--3xl)",
+                                "padding": "var(--now-scalable-space--xxl)",
+                                "padding-bottom": "var(--now-scalable-space--xxl)",
+                                "padding-left": "var(--now-scalable-space--xxl)",
+                                "padding-right": "var(--now-scalable-space--xxl)",
+                                "padding-top": "var(--now-scalable-space--xxl)",
+                                "width": "500px"
+                            }
+                        }
+                    ],
+                    "root": null,
+                    "rules": null,
+                    "styles": {
+                        "align-content": "space-around",
+                        "display": "flex",
+                        "flex-direction": "column",
+                        "flex-wrap": "nowrap"
+                    },
+                    "templateId": "5832fd4d53c31010e6bcddeeff7b12db",
+                    "type": "flex"
+                },
+                "version": "3.0.0"
+            }
+        },
+        "preset": null,
+        "propertyValues": {
+            "ariaRegionHeadingLevel": {
+                "type": "JSON_LITERAL",
+                "value": "1"
+            },
+            "ariaRegionName": {
+                "type": "TRANSLATION_LITERAL",
+                "value": {
+                    "code": null,
+                    "comment": "",
+                    "message": ""
+                }
+            },
+            "ariaRole": {
+                "type": "JSON_LITERAL",
+                "value": ""
+            },
+            "hideEmptyStateUi": {
+                "type": "JSON_LITERAL",
+                "value": true
+            },
+            "includeAriaHeading": {
+                "type": "JSON_LITERAL",
+                "value": false
+            },
+            "slotWrapperBehavior": {
+                "type": "JSON_LITERAL",
+                "value": "fullheight"
+            },
+            "type": {
+                "type": "JSON_LITERAL",
+                "value": "section"
+            }
+        },
+        "slot": null,
+        "styles": null
+    },
+    {
+        "definition": {
+            "id": "d356d14b6e293a3020a244b63d278d8f",
+            "type": "MACROPONENT"
+        },
+        "elementId": "grid_container_1",
+        "elementLabel": "Grid Container 1",
+        "eventMappings": [
+            
+        ],
+        "isHidden": {
+            "type": "JSON_LITERAL",
+            "value": null
+        },
+        "overrides": {
+            "composition": [
+                {
+                    "definition": {
+                        "id": "b83fb1af6e8e84e024d4057df053038b",
+                        "type": "MACROPONENT"
+                    },
+                    "elementId": "link_set_1",
+                    "elementLabel": "Link set 1",
+                    "eventMappings": [
+                        
+                    ],
+                    "isHidden": {
+                        "type": "JSON_LITERAL",
+                        "value": null
+                    },
+                    "preset": null,
+                    "propertyValues": {
+                        "browseLink": {
+                            "container": {
+                                "link": {
+                                    "container": {
+                                        "download": {
+                                            "type": "JSON_LITERAL",
+                                            "value": false
+                                        },
+                                        "opensWindow": {
+                                            "type": "JSON_LITERAL",
+                                            "value": false
+                                        },
+                                        "type": {
+                                            "type": "JSON_LITERAL",
+                                            "value": "route"
+                                        }
+                                    },
+                                    "type": "MAP_CONTAINER"
+                                },
+                                "type": {
+                                    "type": "JSON_LITERAL",
+                                    "value": "link"
+                                }
+                            },
+                            "type": "MAP_CONTAINER"
+                        },
+                        "heading": {
+                            "container": {
+                                "icon": {
+                                    "type": "JSON_LITERAL",
+                                    "value": {
+                                        "alignment": "left",
+                                        "placement": "inline"
+                                    }
+                                },
+                                "label": {
+                                    "type": "TRANSLATION_LITERAL",
+                                    "value": {
+                                        "code": null,
+                                        "comment": "",
+                                        "message": "Additional Links"
+                                    }
+                                },
+                                "link": {
+                                    "container": {
+                                        "download": {
+                                            "type": "JSON_LITERAL",
+                                            "value": false
+                                        },
+                                        "label": {
+                                            "type": "TRANSLATION_LITERAL",
+                                            "value": {
+                                                "code": null,
+                                                "comment": "",
+                                                "message": "Help"
+                                            }
+                                        },
+                                        "opensWindow": {
+                                            "type": "JSON_LITERAL",
+                                            "value": false
+                                        },
+                                        "type": {
+                                            "type": "JSON_LITERAL",
+                                            "value": "external"
+                                        }
+                                    },
+                                    "type": "MAP_CONTAINER"
+                                },
+                                "type": {
+                                    "type": "JSON_LITERAL",
+                                    "value": "text"
+                                }
+                            },
+                            "type": "MAP_CONTAINER"
+                        },
+                        "indentLinks": {
+                            "type": "JSON_LITERAL",
+                            "value": true
+                        },
+                        "links": {
+                            "container": [
+                                {
+                                    "container": {
+                                        "download": {
+                                            "type": "JSON_LITERAL",
+                                            "value": false
+                                        },
+                                        "endsWith": {
+                                            "type": "JSON_LITERAL",
+                                            "value": {
+                                                "type": "error",
+                                                "value": "center"
+                                            }
+                                        },
+                                        "label": {
+                                            "type": "TRANSLATION_LITERAL",
+                                            "value": {
+                                                "code": null,
+                                                "comment": "",
+                                                "message": "Report an Issue"
+                                            }
+                                        },
+                                        "opensWindow": {
+                                            "type": "JSON_LITERAL",
+                                            "value": false
+                                        },
+                                        "startsWith": {
+                                            "type": "JSON_LITERAL",
+                                            "value": {
+                                                "align": "center",
+                                                "icon": "megaphone_outline"
+                                            }
+                                        },
+                                        "type": {
+                                            "type": "JSON_LITERAL",
+                                            "value": "external"
+                                        },
+                                        "value": {
+                                            "type": "JSON_LITERAL",
+                                            "value": {
+                                                "href": "https://www.iwsti.com"
+                                            }
+                                        }
+                                    },
+                                    "type": "MAP_CONTAINER"
+                                },
+                                {
+                                    "container": {
+                                        "download": {
+                                            "type": "JSON_LITERAL",
+                                            "value": false
+                                        },
+                                        "label": {
+                                            "type": "TRANSLATION_LITERAL",
+                                            "value": {
+                                                "code": null,
+                                                "comment": "",
+                                                "message": "NowLearning"
+                                            }
+                                        },
+                                        "opensWindow": {
+                                            "type": "JSON_LITERAL",
+                                            "value": false
+                                        },
+                                        "startsWith": {
+                                            "type": "JSON_LITERAL",
+                                            "value": {
+                                                "align": "center",
+                                                "icon": "lightbulb_outline"
+                                            }
+                                        },
+                                        "type": {
+                                            "type": "JSON_LITERAL",
+                                            "value": "external"
+                                        },
+                                        "value": {
+                                            "type": "JSON_LITERAL",
+                                            "value": {
+                                                "href": "https://nowlearning.servicenow.com/lxp/en/pages/servicenow"
+                                            }
+                                        }
+                                    },
+                                    "type": "MAP_CONTAINER"
+                                },
+                                {
+                                    "container": {
+                                        "download": {
+                                            "type": "JSON_LITERAL",
+                                            "value": false
+                                        },
+                                        "label": {
+                                            "type": "TRANSLATION_LITERAL",
+                                            "value": {
+                                                "code": null,
+                                                "comment": "",
+                                                "message": "ServiceNow"
+                                            }
+                                        },
+                                        "opensWindow": {
+                                            "type": "JSON_LITERAL",
+                                            "value": false
+                                        },
+                                        "startsWith": {
+                                            "type": "JSON_LITERAL",
+                                            "value": {
+                                                "align": "center",
+                                                "icon": "star-outline"
+                                            }
+                                        },
+                                        "type": {
+                                            "type": "JSON_LITERAL",
+                                            "value": "external"
+                                        },
+                                        "value": {
+                                            "type": "JSON_LITERAL",
+                                            "value": {
+                                                "fields": {},
+                                                "href": "www.servicenow.com",
+                                                "route": ""
+                                            }
+                                        }
+                                    },
+                                    "type": "MAP_CONTAINER"
+                                }
+                            ],
+                            "type": "LIST_CONTAINER"
+                        },
+                        "minWidth": {
+                            "type": "JSON_LITERAL",
+                            "value": "150"
+                        },
+                        "size": {
+                            "type": "JSON_LITERAL",
+                            "value": "lg"
+                        },
+                        "variant": {
+                            "type": "JSON_LITERAL",
+                            "value": "default"
+                        },
+                        "width": {
+                            "type": "JSON_LITERAL",
+                            "value": "500"
+                        }
+                    },
+                    "slot": null,
+                    "styles": null
+                }
+            ],
+            "layout": {
+                "default": {
+                    "children": null,
+                    "items": [
+                        {
+                            "element_id": "link_set_1",
+                            "styles": {
+                                "align-self": "flex-start",
+                                "margin-left": "var(--now-scalable-space--3xl)",
+                                "width": ""
+                            }
+                        }
+                    ],
+                    "root": null,
+                    "rules": null,
+                    "styles": {
+                        "align-items": "center",
+                        "display": "flex",
+                        "flex-direction": "column",
+                        "width": "100%"
+                    },
+                    "templateId": "5832fd4d53c31010e6bcddeeff7b12db",
+                    "type": "flex"
+                },
+                "version": "3.0.0"
+            }
+        },
+        "preset": {
+            "controllerElementId": "properties_1",
+            "disabledEventTargetIds": [
+                
+            ],
+            "id": "6ca79542ffb12110f563bb63aad33e21"
+        },
+        "propertyValues": {
+            "hideEmptyStateUi": {
+                "type": "JSON_LITERAL",
+                "value": true
+            },
+            "slotWrapperBehavior": {
+                "type": "JSON_LITERAL",
+                "value": "fullheight"
+            }
+        },
+        "slot": null,
+        "styles": null
     }
 ]</composition>
         <da_relay_models/>
         <data>[
-    
+    {
+        "definition": {
+            "id": "fdcde28377221110960ced43ba5a99e7",
+            "type": "CONTROLLER"
+        },
+        "dependencies": {
+            "getMapDataController": "get_map_data_1"
+        },
+        "elementId": "properties_1",
+        "elementLabel": "Properties 1",
+        "eventMappings": [
+            
+        ],
+        "inputValues": {
+            "ciClass": {
+                "type": "JSON_LITERAL",
+                "value": null
+            },
+            "ciSysid": {
+                "type": "JSON_LITERAL",
+                "value": null
+            },
+            "connectionId": {
+                "type": "JSON_LITERAL",
+                "value": null
+            }
+        },
+        "readEvaluationMode": "EAGER"
+    },
+    {
+        "definition": {
+            "id": "7cb6eb2e77321510960ced43ba5a9904",
+            "type": "CONTROLLER"
+        },
+        "dependencies": {},
+        "elementId": "get_map_data_1",
+        "elementLabel": "Get Map Data 1",
+        "eventMappings": [
+            
+        ],
+        "inputValues": {
+            "ciSysid": {
+                "binding": {
+                    "address": [
+                        "rootNode"
+                    ],
+                    "category": "props"
+                },
+                "type": "CONTEXT_BINDING"
+            },
+            "levels": {
+                "binding": {
+                    "address": [
+                        "levels"
+                    ],
+                    "category": "props"
+                },
+                "type": "CONTEXT_BINDING"
+            }
+        },
+        "readEvaluationMode": "EAGER"
+    },
+    {
+        "definition": {
+            "id": "365c0e890767111017b703767cd3008e",
+            "type": "CONTROLLER"
+        },
+        "dependencies": {},
+        "elementId": "related_items_user_preferences_1",
+        "elementLabel": "Related Items User Preferences 1",
+        "eventMappings": [
+            
+        ],
+        "inputValues": {},
+        "readEvaluationMode": "EAGER"
+    }
 ]</data>
         <description/>
-        <dispatched_events/>
+        <dispatched_events>afa4865d83b286103fcc9cc0deaad3e4,7dbf829d83f286103fcc9cc0deaad36c</dispatched_events>
         <ext_controller_dep/>
         <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
         <extension_point/>
@@ -1838,8 +992,9 @@
         "children": null,
         "items": [
             {
-                "element_id": "container_1",
+                "element_id": "column_layout_1",
                 "styles": {
+                    "display": "contents",
                     "width": "100%"
                 }
             },
@@ -1850,16 +1005,14 @@
                 }
             },
             {
-                "element_id": "column_layout_2",
-                "styles": {
-                    "display": "contents",
-                    "width": "100%"
-                }
+                "element_id": "grid_container_1",
+                "styles": {}
             }
         ],
         "root": null,
         "rules": null,
         "styles": {
+            "background": "rgb(var(--now-color--neutral-19))",
             "flex-direction": "column",
             "margin-bottom": "-5",
             "margin-top": "-5"
@@ -1873,86 +1026,89 @@
         <name>Login Page</name>
         <output_prop_mapping/>
         <props>[
-    
+    {
+        "description": "",
+        "fieldType": "string",
+        "id": "clxeddniwuaaeetgddjhhpgkeeaaffaaeq",
+        "inherited": false,
+        "label": "rootNode",
+        "mandatory": false,
+        "name": "rootNode",
+        "readOnly": false,
+        "selectable": false,
+        "typeMetadata": null,
+        "valueType": "string"
+    },
+    {
+        "description": "",
+        "fieldType": "string",
+        "id": "clxeddniwvaaeethddjhhpcdggqpsql",
+        "inherited": false,
+        "label": "Levels",
+        "mandatory": false,
+        "name": "levels",
+        "readOnly": false,
+        "selectable": false,
+        "typeMetadata": null,
+        "valueType": "string"
+    }
 ]</props>
         <required_translations>[ {
-  "message" : "Benefits",
-  "comment" : ""
-}, {
-  "message" : "Browse all",
+  "message" : "Additional Links",
   "comment" : ""
 }, {
   "message" : "CALMS",
   "comment" : ""
 }, {
-  "message" : "Enter Here",
+  "message" : "Consolidate Aircraft \nLogistics Management System\n",
   "comment" : ""
 }, {
-  "message" : "Expenses and gifts",
+  "message" : "Help",
   "comment" : ""
 }, {
-  "message" : "Finance",
+  "message" : "Login",
   "comment" : ""
 }, {
-  "message" : "Hardware - route type",
+  "message" : "NowLearning",
   "comment" : ""
 }, {
-  "message" : "Help Section",
+  "message" : "Report an Issue",
   "comment" : ""
 }, {
-  "message" : "Helpful Links",
+  "message" : "ServiceNow",
   "comment" : ""
 }, {
-  "message" : "Human resources",
-  "comment" : ""
-}, {
-  "message" : "No clue",
-  "comment" : ""
-}, {
-  "message" : "Payroll",
-  "comment" : ""
-}, {
-  "message" : "Preferred business",
-  "comment" : ""
-}, {
-  "message" : "Security",
-  "comment" : ""
-}, {
-  "message" : "Suggestions",
-  "comment" : ""
-}, {
-  "message" : "Time off",
-  "comment" : ""
-}, {
-  "message" : "Training/careers",
-  "comment" : ""
-}, {
-  "message" : "Travel &amp; expenses",
-  "comment" : ""
-}, {
-  "message" : "Travel safety",
-  "comment" : ""
-}, {
-  "message" : "Wifi and remote access",
+  "message" : "Yo mama",
   "comment" : ""
 } ]</required_translations>
         <root_component/>
         <root_component_config/>
         <root_component_definition/>
         <schema_version>1.0.0</schema_version>
-        <state_properties/>
+        <state_properties>[
+    {
+        "id": "",
+        "initialValue": {
+            "type": "JSON_LITERAL",
+            "value": null
+        },
+        "name": "newClientStateParam1",
+        "shape": "",
+        "valueType": "string"
+    }
+]</state_properties>
         <sys_class_name>sys_ux_macroponent</sys_class_name>
         <sys_created_by>Tim.Dingle</sys_created_by>
         <sys_created_on>2024-06-11 02:49:39</sys_created_on>
         <sys_id>65f45a1883b242103fcc9cc0deaad321</sys_id>
-        <sys_mod_count>10</sys_mod_count>
+        <sys_mod_count>59</sys_mod_count>
         <sys_name>Login Page</sys_name>
         <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
         <sys_policy/>
         <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
         <sys_update_name>sys_ux_macroponent_65f45a1883b242103fcc9cc0deaad321</sys_update_name>
         <sys_updated_by>Tim.Dingle</sys_updated_by>
-        <sys_updated_on>2024-06-11 03:44:23</sys_updated_on>
+        <sys_updated_on>2024-06-14 20:46:50</sys_updated_on>
     </sys_ux_macroponent>
     <sys_translated_text action="delete_multiple" query="documentkey=65f45a1883b242103fcc9cc0deaad321"/>
 </record_update>

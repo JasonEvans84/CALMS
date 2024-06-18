@@ -1,0 +1,2079 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent">
+    <sys_ux_macroponent action="DELETE">
+        <associated_types/>
+        <bundles/>
+        <category>page</category>
+        <component_dependencies/>
+        <composition>[
+    {
+        "definition": {
+            "id": "15fe506403f8a98575b6df59008ea8f1",
+            "type": "MACROPONENT"
+        },
+        "elementId": "image_1",
+        "elementLabel": "Image 1",
+        "eventMappings": [
+            
+        ],
+        "isHidden": {
+            "type": "JSON_LITERAL",
+            "value": true
+        },
+        "preset": null,
+        "propertyValues": {
+            "alt": {
+                "type": "TRANSLATION_LITERAL",
+                "value": {
+                    "code": null,
+                    "comment": "",
+                    "message": ""
+                }
+            },
+            "fit": {
+                "type": "JSON_LITERAL",
+                "value": "fill"
+            },
+            "height": {
+                "type": "JSON_LITERAL",
+                "value": null
+            },
+            "position": {
+                "type": "JSON_LITERAL",
+                "value": "center center"
+            },
+            "sources": {
+                "type": "JSON_LITERAL",
+                "value": [
+                    {
+                        "srcset": "https://dev260572.service-now.com/293b615083fe02103fcc9cc0deaad33b.iix"
+                    }
+                ]
+            },
+            "src": {
+                "type": "JSON_LITERAL",
+                "value": ""
+            },
+            "width": {
+                "type": "JSON_LITERAL",
+                "value": null
+            }
+        },
+        "slot": null,
+        "styles": null
+    },
+    {
+        "definition": {
+            "id": "d356d14b6e293a3020a244b63d278d8f",
+            "type": "MACROPONENT"
+        },
+        "elementId": "column_layout_1",
+        "elementLabel": "Header",
+        "eventMappings": [
+            
+        ],
+        "isHidden": {
+            "type": "JSON_LITERAL",
+            "value": false
+        },
+        "overrides": {
+            "composition": [
+                {
+                    "definition": {
+                        "id": "d356d14b6e293a3020a244b63d278d8f",
+                        "type": "MACROPONENT"
+                    },
+                    "elementId": "__clxjjmaggziaabbwiddjhhpfeofoccsb__column_2",
+                    "elementLabel": "Header Background",
+                    "eventMappings": [
+                        
+                    ],
+                    "isHidden": {
+                        "type": "JSON_LITERAL",
+                        "value": null
+                    },
+                    "overrides": {
+                        "composition": [
+                            {
+                                "definition": {
+                                    "id": "4335ba6dca80378f7ba7a67cd6667bec",
+                                    "type": "MACROPONENT"
+                                },
+                                "elementId": "header_banner",
+                                "elementLabel": "Consolidated Aircraft",
+                                "eventMappings": [
+                                    
+                                ],
+                                "isHidden": {
+                                    "type": "JSON_LITERAL",
+                                    "value": null
+                                },
+                                "preset": null,
+                                "propertyValues": {
+                                    "configAria": {
+                                        "type": "JSON_LITERAL",
+                                        "value": {}
+                                    },
+                                    "css": {
+                                        "type": "JSON_LITERAL",
+                                        "value": "* \r\n{   \r\n  font-weight: bold;\r\n  font: 800 40px Impact;\r\n  -webkit-text-fill-color: black;\r\n  -webkit-text-stroke: .25px;\r\n  -webkit-text-stroke-color: rgb(71, 169, 240);\r\n}"
+                                    },
+                                    "tag": {
+                                        "type": "JSON_LITERAL",
+                                        "value": "div"
+                                    },
+                                    "text": {
+                                        "type": "TRANSLATION_LITERAL",
+                                        "value": {
+                                            "code": null,
+                                            "comment": "",
+                                            "message": "Consolidated Aircraft\n"
+                                        }
+                                    }
+                                },
+                                "slot": null,
+                                "styles": null
+                            },
+                            {
+                                "definition": {
+                                    "id": "4335ba6dca80378f7ba7a67cd6667bec",
+                                    "type": "MACROPONENT"
+                                },
+                                "elementId": "stylized_text_1",
+                                "elementLabel": "LMS",
+                                "eventMappings": [
+                                    
+                                ],
+                                "isHidden": {
+                                    "type": "JSON_LITERAL",
+                                    "value": null
+                                },
+                                "preset": null,
+                                "propertyValues": {
+                                    "configAria": {
+                                        "type": "JSON_LITERAL",
+                                        "value": {}
+                                    },
+                                    "css": {
+                                        "type": "JSON_LITERAL",
+                                        "value": "* \r\n{   \r\n  font-weight: bold;\r\n  font: 800 40px Impact;\r\n  -webkit-text-fill-color: black;\r\n  -webkit-text-stroke: .25px;\r\n  -webkit-text-stroke-color: rgb(71, 169, 240);\r\n}"
+                                    },
+                                    "tag": {
+                                        "type": "JSON_LITERAL",
+                                        "value": "div"
+                                    },
+                                    "text": {
+                                        "type": "TRANSLATION_LITERAL",
+                                        "value": {
+                                            "code": null,
+                                            "comment": "",
+                                            "message": "Logistics Management System "
+                                        }
+                                    }
+                                },
+                                "slot": null,
+                                "styles": null
+                            },
+                            {
+                                "definition": {
+                                    "id": "4335ba6dca80378f7ba7a67cd6667bec",
+                                    "type": "MACROPONENT"
+                                },
+                                "elementId": "stylized_text_2",
+                                "elementLabel": "CALMS",
+                                "eventMappings": [
+                                    
+                                ],
+                                "isHidden": {
+                                    "type": "JSON_LITERAL",
+                                    "value": null
+                                },
+                                "preset": null,
+                                "propertyValues": {
+                                    "configAria": {
+                                        "type": "JSON_LITERAL",
+                                        "value": {}
+                                    },
+                                    "css": {
+                                        "type": "JSON_LITERAL",
+                                        "value": "* \r\n{   \r\n  font-weight: bold;\r\n  font: 800 40px Impact;\r\n  -webkit-text-fill-color: rgb(200, 169, 83);\r\n  -webkit-text-stroke: .25px;\r\n  -webkit-text-stroke-color: rgb(0, 0, 0);\r\n}"
+                                    },
+                                    "tag": {
+                                        "type": "JSON_LITERAL",
+                                        "value": "div"
+                                    },
+                                    "text": {
+                                        "type": "TRANSLATION_LITERAL",
+                                        "value": {
+                                            "code": null,
+                                            "comment": "",
+                                            "message": "CALMS"
+                                        }
+                                    }
+                                },
+                                "slot": null,
+                                "styles": null
+                            }
+                        ],
+                        "layout": {
+                            "default": {
+                                "children": null,
+                                "items": [
+                                    {
+                                        "element_id": "header_banner",
+                                        "styles": {
+                                            "align-self": "stretch",
+                                            "background-attachment": "unset",
+                                            "background-clip": "border-box",
+                                            "background-image": "",
+                                            "background-origin": "inherit",
+                                            "background-position": "center",
+                                            "background-repeat": "unset",
+                                            "background-size": "40rem",
+                                            "box-shadow": "var(--now-static-drop-shadow--xxl)",
+                                            "flex": "none",
+                                            "height": "auto",
+                                            "padding": "0",
+                                            "padding-bottom": "0",
+                                            "padding-left": "0",
+                                            "padding-right": "0",
+                                            "padding-top": "0",
+                                            "width": "auto"
+                                        }
+                                    },
+                                    {
+                                        "element_id": "stylized_text_1",
+                                        "styles": {
+                                            "align-self": "stretch",
+                                            "height": "auto",
+                                            "margin-top": "",
+                                            "padding-top": "",
+                                            "width": "auto"
+                                        }
+                                    },
+                                    {
+                                        "element_id": "stylized_text_2",
+                                        "styles": {
+                                            "align-self": "stretch",
+                                            "flex": "none",
+                                            "height": "auto",
+                                            "margin-top": "",
+                                            "padding-top": "",
+                                            "width": "auto"
+                                        }
+                                    }
+                                ],
+                                "root": null,
+                                "rules": {
+                                    "flex-direction": "row"
+                                },
+                                "styles": {
+                                    "align-content": "stretch",
+                                    "align-items": "center",
+                                    "background": "rgb(var(--now-color--neutral-1))",
+                                    "background-clip": "border-box",
+                                    "background-image": "url(\"https://dev260572.service-now.com/293b615083fe02103fcc9cc0deaad33b.iix\")",
+                                    "background-origin": "border-box",
+                                    "background-position": "stretch",
+                                    "background-size": "",
+                                    "box-sizing": "border-box",
+                                    "display": "grid",
+                                    "flex-direction": "column",
+                                    "flex-wrap": "wrap",
+                                    "gap": "0",
+                                    "height": "",
+                                    "justify-content": "center",
+                                    "max-width": "",
+                                    "min-height": "",
+                                    "overflow": "auto",
+                                    "width": "auto"
+                                },
+                                "type": "flex"
+                            },
+                            "version": "3.0.0"
+                        }
+                    },
+                    "preset": null,
+                    "propertyValues": {
+                        "hideEmptyStateUi": {
+                            "type": "JSON_LITERAL",
+                            "value": true
+                        },
+                        "includeAriaHeading": {
+                            "type": "JSON_LITERAL",
+                            "value": false
+                        },
+                        "slotWrapperBehavior": {
+                            "type": "JSON_LITERAL",
+                            "value": "contents"
+                        },
+                        "type": {
+                            "type": "JSON_LITERAL",
+                            "value": "header"
+                        }
+                    },
+                    "scratchPad": {
+                        "uib": {
+                            "layout": {
+                                "column": {
+                                    "columnNumber": 0,
+                                    "id": "default",
+                                    "styleConfig": {
+                                        "external": {
+                                            "display": "contents",
+                                            "width": "100%"
+                                        },
+                                        "internal": {
+                                            "align-content": "stretch",
+                                            "align-items": "center",
+                                            "background": "rgb(var(--now-color--neutral-1))",
+                                            "background-clip": "border-box",
+                                            "background-image": "url(\"https://dev260572.service-now.com/293b615083fe02103fcc9cc0deaad33b.iix\")",
+                                            "background-origin": "border-box",
+                                            "background-position": "stretch",
+                                            "background-size": "",
+                                            "box-sizing": "border-box",
+                                            "display": "grid",
+                                            "flex-direction": "column",
+                                            "flex-wrap": "wrap",
+                                            "gap": "0",
+                                            "height": "",
+                                            "justify-content": "center",
+                                            "max-width": "",
+                                            "min-height": "",
+                                            "overflow": "auto",
+                                            "width": "auto"
+                                        }
+                                    }
+                                },
+                                "type": "column"
+                            },
+                            "version": "1.0.0"
+                        }
+                    },
+                    "slot": null,
+                    "styles": null
+                }
+            ],
+            "layout": {
+                "default": {
+                    "children": null,
+                    "isInline": null,
+                    "items": [
+                        {
+                            "element_id": "__clxjjmaggziaabbwiddjhhpfeofoccsb__column_2",
+                            "styles": {
+                                "display": "contents",
+                                "width": "100%"
+                            }
+                        }
+                    ],
+                    "root": null,
+                    "rules": null,
+                    "styles": {
+                        "box-sizing": "border-box",
+                        "column-gap": "0",
+                        "grid-template-columns": "100fr",
+                        "grid-template-rows": "1fr",
+                        "height": "300px",
+                        "width": "auto"
+                    },
+                    "type": "grid"
+                },
+                "queries": [
+                    {
+                        "layout": {
+                            "children": null,
+                            "isInline": null,
+                            "items": [
+                                
+                            ],
+                            "root": null,
+                            "rules": null,
+                            "styles": {
+                                "box-sizing": "border-box",
+                                "column-gap": "0",
+                                "grid-template-columns": "1fr",
+                                "grid-template-rows": "1fr",
+                                "height": "fit-content",
+                                "max-height": "max-content",
+                                "min-height": "min-content",
+                                "width": "auto"
+                            },
+                            "type": "grid"
+                        },
+                        "query": {
+                            "max-width": 640
+                        }
+                    }
+                ],
+                "version": "3.0.0"
+            }
+        },
+        "preset": null,
+        "propertyValues": {
+            "hideEmptyStateUi": {
+                "type": "JSON_LITERAL",
+                "value": true
+            },
+            "slotWrapperBehavior": {
+                "type": "JSON_LITERAL",
+                "value": "contents"
+            }
+        },
+        "scratchPad": {
+            "uib": {
+                "layout": {
+                    "columnSection": {
+                        "breakpoints": [
+                            {
+                                "behavior": "stack",
+                                "max-width": 640,
+                                "styles": {
+                                    "box-sizing": "border-box",
+                                    "grid-template-columns": "1fr",
+                                    "grid-template-rows": "1fr",
+                                    "height": "fit-content",
+                                    "max-height": "max-content",
+                                    "min-height": "min-content",
+                                    "width": "auto"
+                                }
+                            }
+                        ],
+                        "children": [
+                            {
+                                "columnNumber": 1,
+                                "unit": "%",
+                                "width": 100
+                            }
+                        ],
+                        "id": "UIB_COLUMN_SECTION_SINGLE_COLUMN_SECTION",
+                        "styleConfig": {
+                            "external": {
+                                "display": "contents",
+                                "width": "100%"
+                            },
+                            "internal": {
+                                "box-sizing": "border-box",
+                                "column-gap": "0",
+                                "grid-template-rows": "1fr",
+                                "height": "300px",
+                                "width": "auto"
+                            }
+                        }
+                    },
+                    "type": "columnSection"
+                },
+                "version": "1.0.0"
+            }
+        },
+        "slot": null,
+        "styles": null
+    },
+    {
+        "definition": {
+            "id": "d356d14b6e293a3020a244b63d278d8f",
+            "type": "MACROPONENT"
+        },
+        "elementId": "grid_container_1",
+        "elementLabel": "Grid Container 1",
+        "eventMappings": [
+            
+        ],
+        "isHidden": {
+            "type": "JSON_LITERAL",
+            "value": null
+        },
+        "overrides": {
+            "composition": [
+                {
+                    "definition": {
+                        "id": "b83fb1af6e8e84e024d4057df053038b",
+                        "type": "MACROPONENT"
+                    },
+                    "elementId": "link_set_1",
+                    "elementLabel": "Link set 1",
+                    "eventMappings": [
+                        
+                    ],
+                    "isHidden": {
+                        "type": "JSON_LITERAL",
+                        "value": null
+                    },
+                    "preset": null,
+                    "propertyValues": {
+                        "browseLink": {
+                            "type": "JSON_LITERAL",
+                            "value": {
+                                "icon": "chevron-right-outline",
+                                "label": "",
+                                "link": {
+                                    "configAria": {},
+                                    "download": false,
+                                    "label": "Browse all",
+                                    "opensWindow": false,
+                                    "type": "route",
+                                    "value": {
+                                        "fields": {},
+                                        "route": "it_support"
+                                    }
+                                },
+                                "type": "link"
+                            }
+                        },
+                        "heading": {
+                            "container": {
+                                "hasIcon": {
+                                    "type": "JSON_LITERAL",
+                                    "value": true
+                                },
+                                "icon": {
+                                    "type": "JSON_LITERAL",
+                                    "value": {
+                                        "alignment": "left",
+                                        "name": "bundle-outline",
+                                        "placement": "inline"
+                                    }
+                                },
+                                "link": {
+                                    "container": {
+                                        "download": {
+                                            "type": "JSON_LITERAL",
+                                            "value": false
+                                        },
+                                        "label": {
+                                            "type": "TRANSLATION_LITERAL",
+                                            "value": {
+                                                "code": null,
+                                                "comment": "",
+                                                "message": "Help"
+                                            }
+                                        },
+                                        "opensWindow": {
+                                            "type": "JSON_LITERAL",
+                                            "value": false
+                                        },
+                                        "type": {
+                                            "type": "JSON_LITERAL",
+                                            "value": "external"
+                                        },
+                                        "value": {
+                                            "type": "JSON_LITERAL",
+                                            "value": {
+                                                "href": "https://www.facebook.com"
+                                            }
+                                        }
+                                    },
+                                    "type": "MAP_CONTAINER"
+                                },
+                                "type": {
+                                    "type": "JSON_LITERAL",
+                                    "value": "link"
+                                }
+                            },
+                            "type": "MAP_CONTAINER"
+                        },
+                        "indentLinks": {
+                            "type": "JSON_LITERAL",
+                            "value": true
+                        },
+                        "links": {
+                            "container": [
+                                {
+                                    "container": {
+                                        "download": {
+                                            "type": "JSON_LITERAL",
+                                            "value": false
+                                        },
+                                        "endsWith": {
+                                            "type": "JSON_LITERAL",
+                                            "value": {
+                                                "type": "icon",
+                                                "value": "clipboard-outline"
+                                            }
+                                        },
+                                        "label": {
+                                            "type": "TRANSLATION_LITERAL",
+                                            "value": {
+                                                "code": null,
+                                                "comment": "",
+                                                "message": "Report an Issue"
+                                            }
+                                        },
+                                        "opensWindow": {
+                                            "type": "JSON_LITERAL",
+                                            "value": false
+                                        },
+                                        "startsWith": {
+                                            "type": "JSON_LITERAL",
+                                            "value": {
+                                                "align": "center",
+                                                "icon": "headset-outline"
+                                            }
+                                        },
+                                        "type": {
+                                            "type": "JSON_LITERAL",
+                                            "value": "external"
+                                        },
+                                        "value": {
+                                            "type": "JSON_LITERAL",
+                                            "value": {
+                                                "href": "https://www.iwsti.com"
+                                            }
+                                        }
+                                    },
+                                    "type": "MAP_CONTAINER"
+                                },
+                                {
+                                    "container": {
+                                        "download": {
+                                            "type": "JSON_LITERAL",
+                                            "value": false
+                                        },
+                                        "endsWith": {
+                                            "type": "JSON_LITERAL",
+                                            "value": {
+                                                "type": "icon",
+                                                "value": "clipboard-outline"
+                                            }
+                                        },
+                                        "label": {
+                                            "type": "TRANSLATION_LITERAL",
+                                            "value": {
+                                                "code": null,
+                                                "comment": "",
+                                                "message": "Hardware - route type"
+                                            }
+                                        },
+                                        "opensWindow": {
+                                            "type": "JSON_LITERAL",
+                                            "value": false
+                                        },
+                                        "startsWith": {
+                                            "type": "JSON_LITERAL",
+                                            "value": {
+                                                "align": "center",
+                                                "icon": "headset-outline"
+                                            }
+                                        },
+                                        "type": {
+                                            "type": "JSON_LITERAL",
+                                            "value": "route"
+                                        },
+                                        "value": {
+                                            "type": "JSON_LITERAL",
+                                            "value": {
+                                                "fields": {
+                                                    "Href": "www.iwsti.com"
+                                                },
+                                                "route": "it_support"
+                                            }
+                                        }
+                                    },
+                                    "type": "MAP_CONTAINER"
+                                },
+                                {
+                                    "container": {
+                                        "download": {
+                                            "type": "JSON_LITERAL",
+                                            "value": false
+                                        },
+                                        "endsWith": {
+                                            "type": "JSON_LITERAL",
+                                            "value": {
+                                                "type": "icon",
+                                                "value": "clipboard-outline"
+                                            }
+                                        },
+                                        "label": {
+                                            "type": "TRANSLATION_LITERAL",
+                                            "value": {
+                                                "code": null,
+                                                "comment": "",
+                                                "message": "Wifi and remote access - route type"
+                                            }
+                                        },
+                                        "opensWindow": {
+                                            "type": "JSON_LITERAL",
+                                            "value": false
+                                        },
+                                        "startsWith": {
+                                            "type": "JSON_LITERAL",
+                                            "value": {
+                                                "align": "center",
+                                                "icon": "headset-outline"
+                                            }
+                                        },
+                                        "type": {
+                                            "type": "JSON_LITERAL",
+                                            "value": "route"
+                                        },
+                                        "value": {
+                                            "type": "JSON_LITERAL",
+                                            "value": {
+                                                "route": "it_support"
+                                            }
+                                        }
+                                    },
+                                    "type": "MAP_CONTAINER"
+                                },
+                                {
+                                    "container": {
+                                        "download": {
+                                            "type": "JSON_LITERAL",
+                                            "value": false
+                                        },
+                                        "endsWith": {
+                                            "type": "JSON_LITERAL",
+                                            "value": {
+                                                "type": "icon",
+                                                "value": "clipboard-outline"
+                                            }
+                                        },
+                                        "label": {
+                                            "type": "TRANSLATION_LITERAL",
+                                            "value": {
+                                                "code": null,
+                                                "comment": "",
+                                                "message": "Security - route type"
+                                            }
+                                        },
+                                        "opensWindow": {
+                                            "type": "JSON_LITERAL",
+                                            "value": false
+                                        },
+                                        "startsWith": {
+                                            "type": "JSON_LITERAL",
+                                            "value": {
+                                                "align": "center",
+                                                "icon": "headset-outline"
+                                            }
+                                        },
+                                        "type": {
+                                            "type": "JSON_LITERAL",
+                                            "value": "route"
+                                        },
+                                        "value": {
+                                            "type": "JSON_LITERAL",
+                                            "value": {
+                                                "route": "it_support"
+                                            }
+                                        }
+                                    },
+                                    "type": "MAP_CONTAINER"
+                                }
+                            ],
+                            "type": "LIST_CONTAINER"
+                        },
+                        "minWidth": {
+                            "type": "JSON_LITERAL",
+                            "value": "150"
+                        },
+                        "size": {
+                            "type": "JSON_LITERAL",
+                            "value": "md"
+                        },
+                        "variant": {
+                            "type": "JSON_LITERAL",
+                            "value": "default"
+                        },
+                        "width": {
+                            "type": "JSON_LITERAL",
+                            "value": "300"
+                        }
+                    },
+                    "slot": null,
+                    "styles": null
+                }
+            ],
+            "layout": {
+                "default": {
+                    "children": null,
+                    "items": [
+                        {
+                            "element_id": "link_set_1",
+                            "styles": {}
+                        }
+                    ],
+                    "root": null,
+                    "rules": null,
+                    "styles": {
+                        "display": "grid",
+                        "flex-direction": "column",
+                        "grid-auto-columns": "1fr",
+                        "grid-auto-rows": "1fr",
+                        "grid-template-columns": "1fr 1fr",
+                        "grid-template-rows": "1fr 1fr",
+                        "width": "100%"
+                    },
+                    "templateId": "5832fd4d53c31010e6bcddeeff7b12db",
+                    "type": "grid"
+                },
+                "version": "3.0.0"
+            }
+        },
+        "preset": {
+            "controllerElementId": "properties_1",
+            "disabledEventTargetIds": [
+                
+            ],
+            "id": "6ca79542ffb12110f563bb63aad33e21"
+        },
+        "propertyValues": {
+            "hideEmptyStateUi": {
+                "type": "JSON_LITERAL",
+                "value": true
+            },
+            "slotWrapperBehavior": {
+                "type": "JSON_LITERAL",
+                "value": "fullheight"
+            }
+        },
+        "slot": null,
+        "styles": null
+    }
+]</composition>
+        <da_relay_models/>
+        <data>[
+    {
+        "definition": {
+            "id": "fdcde28377221110960ced43ba5a99e7",
+            "type": "CONTROLLER"
+        },
+        "dependencies": {
+            "getMapDataController": "get_map_data_1"
+        },
+        "elementId": "properties_1",
+        "elementLabel": "Properties 1",
+        "eventMappings": [
+            
+        ],
+        "inputValues": {
+            "ciClass": {
+                "type": "JSON_LITERAL",
+                "value": null
+            },
+            "ciSysid": {
+                "type": "JSON_LITERAL",
+                "value": null
+            },
+            "connectionId": {
+                "type": "JSON_LITERAL",
+                "value": null
+            }
+        },
+        "readEvaluationMode": "EAGER"
+    },
+    {
+        "definition": {
+            "id": "7cb6eb2e77321510960ced43ba5a9904",
+            "type": "CONTROLLER"
+        },
+        "dependencies": {},
+        "elementId": "get_map_data_1",
+        "elementLabel": "Get Map Data 1",
+        "eventMappings": [
+            
+        ],
+        "inputValues": {
+            "ciSysid": {
+                "binding": {
+                    "address": [
+                        "rootNode"
+                    ],
+                    "category": "props"
+                },
+                "type": "CONTEXT_BINDING"
+            },
+            "levels": {
+                "binding": {
+                    "address": [
+                        "levels"
+                    ],
+                    "category": "props"
+                },
+                "type": "CONTEXT_BINDING"
+            }
+        },
+        "readEvaluationMode": "EAGER"
+    },
+    {
+        "definition": {
+            "id": "365c0e890767111017b703767cd3008e",
+            "type": "CONTROLLER"
+        },
+        "dependencies": {},
+        "elementId": "related_items_user_preferences_1",
+        "elementLabel": "Related Items User Preferences 1",
+        "eventMappings": [
+            
+        ],
+        "inputValues": {},
+        "readEvaluationMode": "EAGER"
+    }
+]</data>
+        <description/>
+        <dispatched_events/>
+        <ext_controller_dep/>
+        <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
+        <extension_point/>
+        <handled_events/>
+        <interactions/>
+        <interfaces/>
+        <internal_event_mappings>{}</internal_event_mappings>
+        <layout>{
+    "default": {
+        "children": null,
+        "items": [
+            {
+                "element_id": "image_1",
+                "styles": {
+                    "align-self": "center",
+                    "background": "rgb(var(--now-color_selection--primary-4))",
+                    "flex": "1 0 auto",
+                    "height": "auto",
+                    "width": "auto"
+                }
+            },
+            {
+                "element_id": "column_layout_1",
+                "styles": {
+                    "display": "contents",
+                    "width": "100%"
+                }
+            },
+            {
+                "element_id": "grid_container_1",
+                "styles": {}
+            }
+        ],
+        "root": null,
+        "rules": null,
+        "styles": {
+            "flex-direction": "column",
+            "margin-bottom": "-5",
+            "margin-top": "-5"
+        },
+        "templateId": "5832fd4d53c31010e6bcddeeff7b12db",
+        "type": "flex"
+    },
+    "version": "3.0.0"
+}</layout>
+        <macroponent_dependencies/>
+        <name>Home Page</name>
+        <output_prop_mapping/>
+        <props>[
+    {
+        "description": "",
+        "fieldType": "string",
+        "id": "clxeddniwuaaeetgddjhhpgkeeaaffaaeq",
+        "inherited": false,
+        "label": "rootNode",
+        "mandatory": false,
+        "name": "rootNode",
+        "readOnly": false,
+        "selectable": false,
+        "typeMetadata": null,
+        "valueType": "string"
+    },
+    {
+        "description": "",
+        "fieldType": "string",
+        "id": "clxeddniwvaaeethddjhhpcdggqpsql",
+        "inherited": false,
+        "label": "Levels",
+        "mandatory": false,
+        "name": "levels",
+        "readOnly": false,
+        "selectable": false,
+        "typeMetadata": null,
+        "valueType": "string"
+    }
+]</props>
+        <required_translations>[ {
+  "message" : "Browse all",
+  "comment" : ""
+}, {
+  "message" : "CALMS",
+  "comment" : ""
+}, {
+  "message" : "Consolidated Aircraft\n",
+  "comment" : ""
+}, {
+  "message" : "Hardware - route type",
+  "comment" : ""
+}, {
+  "message" : "Help",
+  "comment" : ""
+}, {
+  "message" : "Logistics Management System ",
+  "comment" : ""
+}, {
+  "message" : "Report an Issue",
+  "comment" : ""
+}, {
+  "message" : "Security - route type",
+  "comment" : ""
+}, {
+  "message" : "Wifi and remote access - route type",
+  "comment" : ""
+} ]</required_translations>
+        <root_component/>
+        <root_component_config/>
+        <root_component_definition/>
+        <schema_version>1.0.0</schema_version>
+        <state_properties/>
+        <sys_class_name>sys_ux_macroponent</sys_class_name>
+        <sys_created_by>Tim.Dingle</sys_created_by>
+        <sys_created_on>2024-06-14 04:05:18</sys_created_on>
+        <sys_id>8703465983b286103fcc9cc0deaad38d</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Home Page</sys_name>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_update_name>sys_ux_macroponent_8703465983b286103fcc9cc0deaad38d</sys_update_name>
+        <sys_updated_by>Tim.Dingle</sys_updated_by>
+        <sys_updated_on>2024-06-14 04:38:44</sys_updated_on>
+    </sys_ux_macroponent>
+    <sys_translated_text action="DELETE" query="documentkey=8703465983b286103fcc9cc0deaad38d"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</application>
+        <file_path/>
+        <instance_id>08590c631ba5c29832182f8dee4bcb43</instance_id>
+        <instance_name>dev260572</instance_name>
+        <name>sys_ux_macroponent_8703465983b286103fcc9cc0deaad38d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent"><sys_ux_macroponent action="INSERT_OR_UPDATE"><associated_types/><bundles/><category>page</category><component_dependencies/><composition>[
+    {
+        "definition": {
+            "id": "15fe506403f8a98575b6df59008ea8f1",
+            "type": "MACROPONENT"
+        },
+        "elementId": "image_1",
+        "elementLabel": "Image 1",
+        "eventMappings": [
+            
+        ],
+        "isHidden": {
+            "type": "JSON_LITERAL",
+            "value": true
+        },
+        "preset": null,
+        "propertyValues": {
+            "alt": {
+                "type": "TRANSLATION_LITERAL",
+                "value": {
+                    "code": null,
+                    "comment": "",
+                    "message": ""
+                }
+            },
+            "fit": {
+                "type": "JSON_LITERAL",
+                "value": "fill"
+            },
+            "height": {
+                "type": "JSON_LITERAL",
+                "value": null
+            },
+            "position": {
+                "type": "JSON_LITERAL",
+                "value": "center center"
+            },
+            "sources": {
+                "type": "JSON_LITERAL",
+                "value": [
+                    {
+                        "srcset": "https://dev260572.service-now.com/293b615083fe02103fcc9cc0deaad33b.iix"
+                    }
+                ]
+            },
+            "src": {
+                "type": "JSON_LITERAL",
+                "value": ""
+            },
+            "width": {
+                "type": "JSON_LITERAL",
+                "value": null
+            }
+        },
+        "slot": null,
+        "styles": null
+    },
+    {
+        "definition": {
+            "id": "d356d14b6e293a3020a244b63d278d8f",
+            "type": "MACROPONENT"
+        },
+        "elementId": "column_layout_1",
+        "elementLabel": "Header",
+        "eventMappings": [
+            
+        ],
+        "isHidden": {
+            "type": "JSON_LITERAL",
+            "value": false
+        },
+        "overrides": {
+            "composition": [
+                {
+                    "definition": {
+                        "id": "d356d14b6e293a3020a244b63d278d8f",
+                        "type": "MACROPONENT"
+                    },
+                    "elementId": "__clxjjmaggziaabbwiddjhhpfeofoccsb__column_2",
+                    "elementLabel": "Header Background",
+                    "eventMappings": [
+                        
+                    ],
+                    "isHidden": {
+                        "type": "JSON_LITERAL",
+                        "value": null
+                    },
+                    "overrides": {
+                        "composition": [
+                            {
+                                "definition": {
+                                    "id": "4335ba6dca80378f7ba7a67cd6667bec",
+                                    "type": "MACROPONENT"
+                                },
+                                "elementId": "header_banner",
+                                "elementLabel": "Consolidated Aircraft",
+                                "eventMappings": [
+                                    
+                                ],
+                                "isHidden": {
+                                    "type": "JSON_LITERAL",
+                                    "value": null
+                                },
+                                "preset": null,
+                                "propertyValues": {
+                                    "configAria": {
+                                        "type": "JSON_LITERAL",
+                                        "value": {}
+                                    },
+                                    "css": {
+                                        "type": "JSON_LITERAL",
+                                        "value": "* \r\n{   \r\n  font-weight: bold;\r\n  font: 800 40px Impact;\r\n  -webkit-text-fill-color: black;\r\n  -webkit-text-stroke: .25px;\r\n  -webkit-text-stroke-color: rgb(71, 169, 240);\r\n}"
+                                    },
+                                    "tag": {
+                                        "type": "JSON_LITERAL",
+                                        "value": "div"
+                                    },
+                                    "text": {
+                                        "type": "TRANSLATION_LITERAL",
+                                        "value": {
+                                            "code": null,
+                                            "comment": "",
+                                            "message": "Consolidated Aircraft\n"
+                                        }
+                                    }
+                                },
+                                "slot": null,
+                                "styles": null
+                            },
+                            {
+                                "definition": {
+                                    "id": "4335ba6dca80378f7ba7a67cd6667bec",
+                                    "type": "MACROPONENT"
+                                },
+                                "elementId": "stylized_text_1",
+                                "elementLabel": "LMS",
+                                "eventMappings": [
+                                    
+                                ],
+                                "isHidden": {
+                                    "type": "JSON_LITERAL",
+                                    "value": null
+                                },
+                                "preset": null,
+                                "propertyValues": {
+                                    "configAria": {
+                                        "type": "JSON_LITERAL",
+                                        "value": {}
+                                    },
+                                    "css": {
+                                        "type": "JSON_LITERAL",
+                                        "value": "* \r\n{   \r\n  font-weight: bold;\r\n  font: 800 40px Impact;\r\n  -webkit-text-fill-color: black;\r\n  -webkit-text-stroke: .25px;\r\n  -webkit-text-stroke-color: rgb(71, 169, 240);\r\n}"
+                                    },
+                                    "tag": {
+                                        "type": "JSON_LITERAL",
+                                        "value": "div"
+                                    },
+                                    "text": {
+                                        "type": "TRANSLATION_LITERAL",
+                                        "value": {
+                                            "code": null,
+                                            "comment": "",
+                                            "message": "Logistics Management System "
+                                        }
+                                    }
+                                },
+                                "slot": null,
+                                "styles": null
+                            },
+                            {
+                                "definition": {
+                                    "id": "4335ba6dca80378f7ba7a67cd6667bec",
+                                    "type": "MACROPONENT"
+                                },
+                                "elementId": "stylized_text_2",
+                                "elementLabel": "CALMS",
+                                "eventMappings": [
+                                    
+                                ],
+                                "isHidden": {
+                                    "type": "JSON_LITERAL",
+                                    "value": null
+                                },
+                                "preset": null,
+                                "propertyValues": {
+                                    "configAria": {
+                                        "type": "JSON_LITERAL",
+                                        "value": {}
+                                    },
+                                    "css": {
+                                        "type": "JSON_LITERAL",
+                                        "value": "* \r\n{   \r\n  font-weight: bold;\r\n  font: 800 40px Impact;\r\n  -webkit-text-fill-color: rgb(200, 169, 83);\r\n  -webkit-text-stroke: .25px;\r\n  -webkit-text-stroke-color: rgb(0, 0, 0);\r\n}"
+                                    },
+                                    "tag": {
+                                        "type": "JSON_LITERAL",
+                                        "value": "div"
+                                    },
+                                    "text": {
+                                        "type": "TRANSLATION_LITERAL",
+                                        "value": {
+                                            "code": null,
+                                            "comment": "",
+                                            "message": "CALMS"
+                                        }
+                                    }
+                                },
+                                "slot": null,
+                                "styles": null
+                            }
+                        ],
+                        "layout": {
+                            "default": {
+                                "children": null,
+                                "items": [
+                                    {
+                                        "element_id": "header_banner",
+                                        "styles": {
+                                            "align-self": "stretch",
+                                            "background-attachment": "unset",
+                                            "background-clip": "border-box",
+                                            "background-image": "",
+                                            "background-origin": "inherit",
+                                            "background-position": "center",
+                                            "background-repeat": "unset",
+                                            "background-size": "40rem",
+                                            "box-shadow": "var(--now-static-drop-shadow--xxl)",
+                                            "flex": "none",
+                                            "height": "auto",
+                                            "padding": "0",
+                                            "padding-bottom": "0",
+                                            "padding-left": "0",
+                                            "padding-right": "0",
+                                            "padding-top": "0",
+                                            "width": "auto"
+                                        }
+                                    },
+                                    {
+                                        "element_id": "stylized_text_1",
+                                        "styles": {
+                                            "align-self": "stretch",
+                                            "height": "auto",
+                                            "margin-top": "",
+                                            "padding-top": "",
+                                            "width": "auto"
+                                        }
+                                    },
+                                    {
+                                        "element_id": "stylized_text_2",
+                                        "styles": {
+                                            "align-self": "stretch",
+                                            "flex": "none",
+                                            "height": "auto",
+                                            "margin-top": "",
+                                            "padding-top": "",
+                                            "width": "auto"
+                                        }
+                                    }
+                                ],
+                                "root": null,
+                                "rules": {
+                                    "flex-direction": "row"
+                                },
+                                "styles": {
+                                    "align-content": "stretch",
+                                    "align-items": "center",
+                                    "background": "rgb(var(--now-color--neutral-1))",
+                                    "background-clip": "border-box",
+                                    "background-image": "url(\"https://dev260572.service-now.com/293b615083fe02103fcc9cc0deaad33b.iix\")",
+                                    "background-origin": "border-box",
+                                    "background-position": "stretch",
+                                    "background-size": "",
+                                    "box-sizing": "border-box",
+                                    "display": "grid",
+                                    "flex-direction": "column",
+                                    "flex-wrap": "wrap",
+                                    "gap": "0",
+                                    "height": "",
+                                    "justify-content": "center",
+                                    "max-width": "",
+                                    "min-height": "",
+                                    "overflow": "auto",
+                                    "width": "auto"
+                                },
+                                "type": "flex"
+                            },
+                            "version": "3.0.0"
+                        }
+                    },
+                    "preset": null,
+                    "propertyValues": {
+                        "hideEmptyStateUi": {
+                            "type": "JSON_LITERAL",
+                            "value": true
+                        },
+                        "includeAriaHeading": {
+                            "type": "JSON_LITERAL",
+                            "value": false
+                        },
+                        "slotWrapperBehavior": {
+                            "type": "JSON_LITERAL",
+                            "value": "contents"
+                        },
+                        "type": {
+                            "type": "JSON_LITERAL",
+                            "value": "header"
+                        }
+                    },
+                    "scratchPad": {
+                        "uib": {
+                            "layout": {
+                                "column": {
+                                    "columnNumber": 0,
+                                    "id": "default",
+                                    "styleConfig": {
+                                        "external": {
+                                            "display": "contents",
+                                            "width": "100%"
+                                        },
+                                        "internal": {
+                                            "align-content": "stretch",
+                                            "align-items": "center",
+                                            "background": "rgb(var(--now-color--neutral-1))",
+                                            "background-clip": "border-box",
+                                            "background-image": "url(\"https://dev260572.service-now.com/293b615083fe02103fcc9cc0deaad33b.iix\")",
+                                            "background-origin": "border-box",
+                                            "background-position": "stretch",
+                                            "background-size": "",
+                                            "box-sizing": "border-box",
+                                            "display": "grid",
+                                            "flex-direction": "column",
+                                            "flex-wrap": "wrap",
+                                            "gap": "0",
+                                            "height": "",
+                                            "justify-content": "center",
+                                            "max-width": "",
+                                            "min-height": "",
+                                            "overflow": "auto",
+                                            "width": "auto"
+                                        }
+                                    }
+                                },
+                                "type": "column"
+                            },
+                            "version": "1.0.0"
+                        }
+                    },
+                    "slot": null,
+                    "styles": null
+                }
+            ],
+            "layout": {
+                "default": {
+                    "children": null,
+                    "isInline": null,
+                    "items": [
+                        {
+                            "element_id": "__clxjjmaggziaabbwiddjhhpfeofoccsb__column_2",
+                            "styles": {
+                                "display": "contents",
+                                "width": "100%"
+                            }
+                        }
+                    ],
+                    "root": null,
+                    "rules": null,
+                    "styles": {
+                        "box-sizing": "border-box",
+                        "column-gap": "0",
+                        "grid-template-columns": "100fr",
+                        "grid-template-rows": "1fr",
+                        "height": "300px",
+                        "width": "auto"
+                    },
+                    "type": "grid"
+                },
+                "queries": [
+                    {
+                        "layout": {
+                            "children": null,
+                            "isInline": null,
+                            "items": [
+                                
+                            ],
+                            "root": null,
+                            "rules": null,
+                            "styles": {
+                                "box-sizing": "border-box",
+                                "column-gap": "0",
+                                "grid-template-columns": "1fr",
+                                "grid-template-rows": "1fr",
+                                "height": "fit-content",
+                                "max-height": "max-content",
+                                "min-height": "min-content",
+                                "width": "auto"
+                            },
+                            "type": "grid"
+                        },
+                        "query": {
+                            "max-width": 640
+                        }
+                    }
+                ],
+                "version": "3.0.0"
+            }
+        },
+        "preset": null,
+        "propertyValues": {
+            "hideEmptyStateUi": {
+                "type": "JSON_LITERAL",
+                "value": true
+            },
+            "slotWrapperBehavior": {
+                "type": "JSON_LITERAL",
+                "value": "contents"
+            }
+        },
+        "scratchPad": {
+            "uib": {
+                "layout": {
+                    "columnSection": {
+                        "breakpoints": [
+                            {
+                                "behavior": "stack",
+                                "max-width": 640,
+                                "styles": {
+                                    "box-sizing": "border-box",
+                                    "grid-template-columns": "1fr",
+                                    "grid-template-rows": "1fr",
+                                    "height": "fit-content",
+                                    "max-height": "max-content",
+                                    "min-height": "min-content",
+                                    "width": "auto"
+                                }
+                            }
+                        ],
+                        "children": [
+                            {
+                                "columnNumber": 1,
+                                "unit": "%",
+                                "width": 100
+                            }
+                        ],
+                        "id": "UIB_COLUMN_SECTION_SINGLE_COLUMN_SECTION",
+                        "styleConfig": {
+                            "external": {
+                                "display": "contents",
+                                "width": "100%"
+                            },
+                            "internal": {
+                                "box-sizing": "border-box",
+                                "column-gap": "0",
+                                "grid-template-rows": "1fr",
+                                "height": "300px",
+                                "width": "auto"
+                            }
+                        }
+                    },
+                    "type": "columnSection"
+                },
+                "version": "1.0.0"
+            }
+        },
+        "slot": null,
+        "styles": null
+    },
+    {
+        "definition": {
+            "id": "d356d14b6e293a3020a244b63d278d8f",
+            "type": "MACROPONENT"
+        },
+        "elementId": "grid_container_1",
+        "elementLabel": "Grid Container 1",
+        "eventMappings": [
+            
+        ],
+        "isHidden": {
+            "type": "JSON_LITERAL",
+            "value": null
+        },
+        "overrides": {
+            "composition": [
+                {
+                    "definition": {
+                        "id": "b83fb1af6e8e84e024d4057df053038b",
+                        "type": "MACROPONENT"
+                    },
+                    "elementId": "link_set_1",
+                    "elementLabel": "Link set 1",
+                    "eventMappings": [
+                        
+                    ],
+                    "isHidden": {
+                        "type": "JSON_LITERAL",
+                        "value": null
+                    },
+                    "preset": null,
+                    "propertyValues": {
+                        "browseLink": {
+                            "type": "JSON_LITERAL",
+                            "value": {
+                                "icon": "chevron-right-outline",
+                                "label": "",
+                                "link": {
+                                    "configAria": {},
+                                    "download": false,
+                                    "label": "Browse all",
+                                    "opensWindow": false,
+                                    "type": "route",
+                                    "value": {
+                                        "fields": {},
+                                        "route": "it_support"
+                                    }
+                                },
+                                "type": "link"
+                            }
+                        },
+                        "heading": {
+                            "container": {
+                                "hasIcon": {
+                                    "type": "JSON_LITERAL",
+                                    "value": true
+                                },
+                                "icon": {
+                                    "type": "JSON_LITERAL",
+                                    "value": {
+                                        "alignment": "left",
+                                        "name": "bundle-outline",
+                                        "placement": "inline"
+                                    }
+                                },
+                                "link": {
+                                    "container": {
+                                        "download": {
+                                            "type": "JSON_LITERAL",
+                                            "value": false
+                                        },
+                                        "label": {
+                                            "type": "TRANSLATION_LITERAL",
+                                            "value": {
+                                                "code": null,
+                                                "comment": "",
+                                                "message": "Help"
+                                            }
+                                        },
+                                        "opensWindow": {
+                                            "type": "JSON_LITERAL",
+                                            "value": false
+                                        },
+                                        "type": {
+                                            "type": "JSON_LITERAL",
+                                            "value": "external"
+                                        },
+                                        "value": {
+                                            "type": "JSON_LITERAL",
+                                            "value": {
+                                                "href": "https://www.facebook.com"
+                                            }
+                                        }
+                                    },
+                                    "type": "MAP_CONTAINER"
+                                },
+                                "type": {
+                                    "type": "JSON_LITERAL",
+                                    "value": "link"
+                                }
+                            },
+                            "type": "MAP_CONTAINER"
+                        },
+                        "indentLinks": {
+                            "type": "JSON_LITERAL",
+                            "value": true
+                        },
+                        "links": {
+                            "container": [
+                                {
+                                    "container": {
+                                        "download": {
+                                            "type": "JSON_LITERAL",
+                                            "value": false
+                                        },
+                                        "endsWith": {
+                                            "type": "JSON_LITERAL",
+                                            "value": {
+                                                "type": "icon",
+                                                "value": "clipboard-outline"
+                                            }
+                                        },
+                                        "label": {
+                                            "type": "TRANSLATION_LITERAL",
+                                            "value": {
+                                                "code": null,
+                                                "comment": "",
+                                                "message": "Report an Issue"
+                                            }
+                                        },
+                                        "opensWindow": {
+                                            "type": "JSON_LITERAL",
+                                            "value": false
+                                        },
+                                        "startsWith": {
+                                            "type": "JSON_LITERAL",
+                                            "value": {
+                                                "align": "center",
+                                                "icon": "headset-outline"
+                                            }
+                                        },
+                                        "type": {
+                                            "type": "JSON_LITERAL",
+                                            "value": "external"
+                                        },
+                                        "value": {
+                                            "type": "JSON_LITERAL",
+                                            "value": {
+                                                "href": "https://www.iwsti.com"
+                                            }
+                                        }
+                                    },
+                                    "type": "MAP_CONTAINER"
+                                },
+                                {
+                                    "container": {
+                                        "download": {
+                                            "type": "JSON_LITERAL",
+                                            "value": false
+                                        },
+                                        "endsWith": {
+                                            "type": "JSON_LITERAL",
+                                            "value": {
+                                                "type": "icon",
+                                                "value": "clipboard-outline"
+                                            }
+                                        },
+                                        "label": {
+                                            "type": "TRANSLATION_LITERAL",
+                                            "value": {
+                                                "code": null,
+                                                "comment": "",
+                                                "message": "Hardware - route type"
+                                            }
+                                        },
+                                        "opensWindow": {
+                                            "type": "JSON_LITERAL",
+                                            "value": false
+                                        },
+                                        "startsWith": {
+                                            "type": "JSON_LITERAL",
+                                            "value": {
+                                                "align": "center",
+                                                "icon": "headset-outline"
+                                            }
+                                        },
+                                        "type": {
+                                            "type": "JSON_LITERAL",
+                                            "value": "route"
+                                        },
+                                        "value": {
+                                            "type": "JSON_LITERAL",
+                                            "value": {
+                                                "fields": {
+                                                    "Href": "www.iwsti.com"
+                                                },
+                                                "route": "it_support"
+                                            }
+                                        }
+                                    },
+                                    "type": "MAP_CONTAINER"
+                                },
+                                {
+                                    "container": {
+                                        "download": {
+                                            "type": "JSON_LITERAL",
+                                            "value": false
+                                        },
+                                        "endsWith": {
+                                            "type": "JSON_LITERAL",
+                                            "value": {
+                                                "type": "icon",
+                                                "value": "clipboard-outline"
+                                            }
+                                        },
+                                        "label": {
+                                            "type": "TRANSLATION_LITERAL",
+                                            "value": {
+                                                "code": null,
+                                                "comment": "",
+                                                "message": "Wifi and remote access - route type"
+                                            }
+                                        },
+                                        "opensWindow": {
+                                            "type": "JSON_LITERAL",
+                                            "value": false
+                                        },
+                                        "startsWith": {
+                                            "type": "JSON_LITERAL",
+                                            "value": {
+                                                "align": "center",
+                                                "icon": "headset-outline"
+                                            }
+                                        },
+                                        "type": {
+                                            "type": "JSON_LITERAL",
+                                            "value": "route"
+                                        },
+                                        "value": {
+                                            "type": "JSON_LITERAL",
+                                            "value": {
+                                                "route": "it_support"
+                                            }
+                                        }
+                                    },
+                                    "type": "MAP_CONTAINER"
+                                },
+                                {
+                                    "container": {
+                                        "download": {
+                                            "type": "JSON_LITERAL",
+                                            "value": false
+                                        },
+                                        "endsWith": {
+                                            "type": "JSON_LITERAL",
+                                            "value": {
+                                                "type": "icon",
+                                                "value": "clipboard-outline"
+                                            }
+                                        },
+                                        "label": {
+                                            "type": "TRANSLATION_LITERAL",
+                                            "value": {
+                                                "code": null,
+                                                "comment": "",
+                                                "message": "Security - route type"
+                                            }
+                                        },
+                                        "opensWindow": {
+                                            "type": "JSON_LITERAL",
+                                            "value": false
+                                        },
+                                        "startsWith": {
+                                            "type": "JSON_LITERAL",
+                                            "value": {
+                                                "align": "center",
+                                                "icon": "headset-outline"
+                                            }
+                                        },
+                                        "type": {
+                                            "type": "JSON_LITERAL",
+                                            "value": "route"
+                                        },
+                                        "value": {
+                                            "type": "JSON_LITERAL",
+                                            "value": {
+                                                "route": "it_support"
+                                            }
+                                        }
+                                    },
+                                    "type": "MAP_CONTAINER"
+                                }
+                            ],
+                            "type": "LIST_CONTAINER"
+                        },
+                        "minWidth": {
+                            "type": "JSON_LITERAL",
+                            "value": "150"
+                        },
+                        "size": {
+                            "type": "JSON_LITERAL",
+                            "value": "md"
+                        },
+                        "variant": {
+                            "type": "JSON_LITERAL",
+                            "value": "default"
+                        },
+                        "width": {
+                            "type": "JSON_LITERAL",
+                            "value": "300"
+                        }
+                    },
+                    "slot": null,
+                    "styles": null
+                }
+            ],
+            "layout": {
+                "default": {
+                    "children": null,
+                    "items": [
+                        {
+                            "element_id": "link_set_1",
+                            "styles": {}
+                        }
+                    ],
+                    "root": null,
+                    "rules": null,
+                    "styles": {
+                        "display": "grid",
+                        "flex-direction": "column",
+                        "grid-auto-columns": "1fr",
+                        "grid-auto-rows": "1fr",
+                        "grid-template-columns": "1fr 1fr",
+                        "grid-template-rows": "1fr 1fr",
+                        "width": "100%"
+                    },
+                    "templateId": "5832fd4d53c31010e6bcddeeff7b12db",
+                    "type": "grid"
+                },
+                "version": "3.0.0"
+            }
+        },
+        "preset": {
+            "controllerElementId": "properties_1",
+            "disabledEventTargetIds": [
+                
+            ],
+            "id": "6ca79542ffb12110f563bb63aad33e21"
+        },
+        "propertyValues": {
+            "hideEmptyStateUi": {
+                "type": "JSON_LITERAL",
+                "value": true
+            },
+            "slotWrapperBehavior": {
+                "type": "JSON_LITERAL",
+                "value": "fullheight"
+            }
+        },
+        "slot": null,
+        "styles": null
+    }
+]</composition><da_relay_models/><data>[
+    {
+        "definition": {
+            "id": "fdcde28377221110960ced43ba5a99e7",
+            "type": "CONTROLLER"
+        },
+        "dependencies": {
+            "getMapDataController": "get_map_data_1"
+        },
+        "elementId": "properties_1",
+        "elementLabel": "Properties 1",
+        "eventMappings": [
+            
+        ],
+        "inputValues": {
+            "ciClass": {
+                "type": "JSON_LITERAL",
+                "value": null
+            },
+            "ciSysid": {
+                "type": "JSON_LITERAL",
+                "value": null
+            },
+            "connectionId": {
+                "type": "JSON_LITERAL",
+                "value": null
+            }
+        },
+        "readEvaluationMode": "EAGER"
+    },
+    {
+        "definition": {
+            "id": "7cb6eb2e77321510960ced43ba5a9904",
+            "type": "CONTROLLER"
+        },
+        "dependencies": {},
+        "elementId": "get_map_data_1",
+        "elementLabel": "Get Map Data 1",
+        "eventMappings": [
+            
+        ],
+        "inputValues": {
+            "ciSysid": {
+                "binding": {
+                    "address": [
+                        "rootNode"
+                    ],
+                    "category": "props"
+                },
+                "type": "CONTEXT_BINDING"
+            },
+            "levels": {
+                "binding": {
+                    "address": [
+                        "levels"
+                    ],
+                    "category": "props"
+                },
+                "type": "CONTEXT_BINDING"
+            }
+        },
+        "readEvaluationMode": "EAGER"
+    },
+    {
+        "definition": {
+            "id": "365c0e890767111017b703767cd3008e",
+            "type": "CONTROLLER"
+        },
+        "dependencies": {},
+        "elementId": "related_items_user_preferences_1",
+        "elementLabel": "Related Items User Preferences 1",
+        "eventMappings": [
+            
+        ],
+        "inputValues": {},
+        "readEvaluationMode": "EAGER"
+    }
+]</data><description/><dispatched_events/><ext_controller_dep/><extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends><extension_point/><handled_events/><interactions/><interfaces/><internal_event_mappings>{}</internal_event_mappings><layout>{
+    "default": {
+        "children": null,
+        "items": [
+            {
+                "element_id": "image_1",
+                "styles": {
+                    "align-self": "center",
+                    "background": "rgb(var(--now-color_selection--primary-4))",
+                    "flex": "1 0 auto",
+                    "height": "auto",
+                    "width": "auto"
+                }
+            },
+            {
+                "element_id": "column_layout_1",
+                "styles": {
+                    "display": "contents",
+                    "width": "100%"
+                }
+            },
+            {
+                "element_id": "grid_container_1",
+                "styles": {}
+            }
+        ],
+        "root": null,
+        "rules": null,
+        "styles": {
+            "flex-direction": "column",
+            "margin-bottom": "-5",
+            "margin-top": "-5"
+        },
+        "templateId": "5832fd4d53c31010e6bcddeeff7b12db",
+        "type": "flex"
+    },
+    "version": "3.0.0"
+}</layout><macroponent_dependencies/><name>Home Page</name><output_prop_mapping/><props>[
+    {
+        "description": "",
+        "fieldType": "string",
+        "id": "clxeddniwuaaeetgddjhhpgkeeaaffaaeq",
+        "inherited": false,
+        "label": "rootNode",
+        "mandatory": false,
+        "name": "rootNode",
+        "readOnly": false,
+        "selectable": false,
+        "typeMetadata": null,
+        "valueType": "string"
+    },
+    {
+        "description": "",
+        "fieldType": "string",
+        "id": "clxeddniwvaaeethddjhhpcdggqpsql",
+        "inherited": false,
+        "label": "Levels",
+        "mandatory": false,
+        "name": "levels",
+        "readOnly": false,
+        "selectable": false,
+        "typeMetadata": null,
+        "valueType": "string"
+    }
+]</props><required_translations>[ {
+  "message" : "Browse all",
+  "comment" : ""
+}, {
+  "message" : "CALMS",
+  "comment" : ""
+}, {
+  "message" : "Consolidated Aircraft\n",
+  "comment" : ""
+}, {
+  "message" : "Hardware - route type",
+  "comment" : ""
+}, {
+  "message" : "Help",
+  "comment" : ""
+}, {
+  "message" : "Logistics Management System ",
+  "comment" : ""
+}, {
+  "message" : "Report an Issue",
+  "comment" : ""
+}, {
+  "message" : "Security - route type",
+  "comment" : ""
+}, {
+  "message" : "Wifi and remote access - route type",
+  "comment" : ""
+} ]</required_translations><root_component/><root_component_config/><root_component_definition/><schema_version>1.0.0</schema_version><state_properties/><sys_class_name>sys_ux_macroponent</sys_class_name><sys_created_by>Tim.Dingle</sys_created_by><sys_created_on>2024-06-14 04:05:18</sys_created_on><sys_id>8703465983b286103fcc9cc0deaad38d</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Home Page</sys_name><sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package><sys_policy/><sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope><sys_update_name>sys_ux_macroponent_8703465983b286103fcc9cc0deaad38d</sys_update_name><sys_updated_by>Tim.Dingle</sys_updated_by><sys_updated_on>2024-06-14 04:38:44</sys_updated_on></sys_ux_macroponent><sys_translated_text action="delete_multiple" query="documentkey=8703465983b286103fcc9cc0deaad38d"/></record_update>]]></payload>
+        <payload_hash>-609871176</payload_hash>
+        <record_name>Home Page</record_name>
+        <reverted_from/>
+        <source>1692c49583f646103fcc9cc0deaad330</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Tim.Dingle</sys_created_by>
+        <sys_created_on>2024-06-14 04:38:45</sys_created_on>
+        <sys_id>fcbace9583f286103fcc9cc0deaad31d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190150a74b30000001</sys_recorded_at>
+        <sys_updated_by>Tim.Dingle</sys_updated_by>
+        <sys_updated_on>2024-06-14 04:38:45</sys_updated_on>
+        <type>UX Macroponent Definition</type>
+        <update_guid>74bace95f5f2861039931c885366a41d</update_guid>
+        <update_guid_history>74bace95f5f2861039931c885366a41d:-609871176,1b038a9937b286102ec07d16cb6c0b99:1201375451,4b03465959b286107176ef32d115f28f:-361424329</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Tim.Dingle</sys_created_by>
+        <sys_created_on>2024-06-14 15:21:39</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_macroponent">sys_ux_macroponent</sys_db_object>
+        <sys_id>0c38bba17c0043e8897c1bfdf36c2de4</sys_id>
+        <sys_metadata>8703465983b286103fcc9cc0deaad38d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Home Page</sys_name>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_scope_delete display_value="">52e6fb2b6ff440dcae7286a44d209be1</sys_scope_delete>
+        <sys_update_name>sys_ux_macroponent_8703465983b286103fcc9cc0deaad38d</sys_update_name>
+        <sys_update_version display_value="sys_ux_macroponent_8703465983b286103fcc9cc0deaad38d">fcbace9583f286103fcc9cc0deaad31d</sys_update_version>
+        <sys_updated_by>Tim.Dingle</sys_updated_by>
+        <sys_updated_on>2024-06-14 15:21:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

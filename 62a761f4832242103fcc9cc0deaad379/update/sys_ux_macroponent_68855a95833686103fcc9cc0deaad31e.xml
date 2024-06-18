@@ -1,0 +1,2336 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent">
+    <sys_ux_macroponent action="INSERT_OR_UPDATE">
+        <associated_types/>
+        <bundles/>
+        <category>page</category>
+        <component_dependencies/>
+        <composition>[
+    {
+        "definition": {
+            "id": "d356d14b6e293a3020a244b63d278d8f",
+            "type": "MACROPONENT"
+        },
+        "elementId": "column_layout_1",
+        "elementLabel": "Column layout 1",
+        "eventMappings": [
+            
+        ],
+        "isHidden": {
+            "type": "JSON_LITERAL",
+            "value": null
+        },
+        "overrides": {
+            "composition": [
+                {
+                    "definition": {
+                        "id": "d356d14b6e293a3020a244b63d278d8f",
+                        "type": "MACROPONENT"
+                    },
+                    "elementId": "__clxeiixggeehaaddzyddjhhpdweeddmvxz__column_1",
+                    "elementLabel": "Column 1",
+                    "eventMappings": [
+                        
+                    ],
+                    "isHidden": {
+                        "type": "JSON_LITERAL",
+                        "value": null
+                    },
+                    "overrides": {
+                        "composition": [
+                            {
+                                "definition": {
+                                    "id": "4335ba6dca80378f7ba7a67cd6667bec",
+                                    "type": "MACROPONENT"
+                                },
+                                "elementId": "stylized_text_1",
+                                "elementLabel": "Stylized text 1",
+                                "eventMappings": [
+                                    
+                                ],
+                                "preset": {
+                                    "controllerElementId": "map_search_filter_1",
+                                    "disabledEventTargetIds": [
+                                        
+                                    ],
+                                    "id": "bd8ade94772f6550960ced43ba5a99b3"
+                                },
+                                "propertyValues": {
+                                    "configAria": {
+                                        "type": "JSON_LITERAL",
+                                        "value": {}
+                                    },
+                                    "css": {
+                                        "type": "JSON_LITERAL",
+                                        "value": "* \n{\n  font-weight: bold;\n  font: 800 60px Impact;\n  -webkit-text-fill-color: black;\n  -webkit-text-stroke: .25px;\n  -webkit-text-stroke-color: rgb(71, 169, 240); \n}\n"
+                                    },
+                                    "tag": {
+                                        "type": "JSON_LITERAL",
+                                        "value": "div"
+                                    },
+                                    "text": {
+                                        "type": "TRANSLATION_LITERAL",
+                                        "value": {
+                                            "code": null,
+                                            "comment": "",
+                                            "message": "Consolidated Aircraft\nLogistics Maintenance System"
+                                        }
+                                    }
+                                },
+                                "slot": null,
+                                "styles": null
+                            },
+                            {
+                                "definition": {
+                                    "id": "4335ba6dca80378f7ba7a67cd6667bec",
+                                    "type": "MACROPONENT"
+                                },
+                                "elementId": "stylized_text_3",
+                                "elementLabel": "Stylized text 3",
+                                "eventMappings": [
+                                    
+                                ],
+                                "preset": {
+                                    "controllerElementId": "map_search_filter_1",
+                                    "disabledEventTargetIds": [
+                                        
+                                    ],
+                                    "id": "511e334b7794a110960ced43ba5a99fa"
+                                },
+                                "propertyValues": {
+                                    "configAria": {
+                                        "type": "JSON_LITERAL",
+                                        "value": {}
+                                    },
+                                    "css": {
+                                        "type": "JSON_LITERAL",
+                                        "value": "* \n{   \n  font-weight: bold;\n  font: 800 40px Impact;\n  -webkit-text-fill-color: rgb(200, 169, 83);\n  -webkit-text-stroke: .25px;\n  -webkit-text-stroke-color: rgb(0, 0, 0);\n}"
+                                    },
+                                    "text": {
+                                        "type": "TRANSLATION_LITERAL",
+                                        "value": {
+                                            "code": null,
+                                            "comment": "",
+                                            "message": "CALMS"
+                                        }
+                                    }
+                                },
+                                "slot": "content",
+                                "styles": null
+                            }
+                        ],
+                        "layout": {
+                            "default": {
+                                "children": null,
+                                "items": [
+                                    {
+                                        "element_id": "stylized_text_1",
+                                        "styles": {
+                                            "align-self": "center",
+                                            "flex": "1 0 auto"
+                                        }
+                                    },
+                                    {
+                                        "element_id": "stylized_text_3",
+                                        "styles": {
+                                            "align-self": "center"
+                                        }
+                                    }
+                                ],
+                                "root": null,
+                                "rules": {
+                                    "flex-direction": "row"
+                                },
+                                "styles": {
+                                    "align-items": "center",
+                                    "box-sizing": "border-box",
+                                    "flex-direction": "column",
+                                    "height": "100%",
+                                    "justify-content": "center",
+                                    "overflow": "auto"
+                                },
+                                "type": "flex"
+                            },
+                            "version": "3.0.0"
+                        }
+                    },
+                    "preset": null,
+                    "propertyValues": {
+                        "hideEmptyStateUi": {
+                            "type": "JSON_LITERAL",
+                            "value": true
+                        },
+                        "slotWrapperBehavior": {
+                            "type": "JSON_LITERAL",
+                            "value": "contents"
+                        }
+                    },
+                    "scratchPad": {
+                        "uib": {
+                            "layout": {
+                                "column": {
+                                    "columnNumber": 0,
+                                    "id": "default",
+                                    "styleConfig": {
+                                        "external": {
+                                            "display": "contents",
+                                            "width": "100%"
+                                        },
+                                        "internal": {
+                                            "align-items": "center",
+                                            "box-sizing": "border-box",
+                                            "flex-direction": "column",
+                                            "height": "100%",
+                                            "justify-content": "center",
+                                            "overflow": "auto"
+                                        }
+                                    }
+                                },
+                                "type": "column"
+                            },
+                            "version": "1.0.0"
+                        }
+                    },
+                    "slot": null,
+                    "styles": null
+                }
+            ],
+            "layout": {
+                "default": {
+                    "children": null,
+                    "isInline": null,
+                    "items": [
+                        {
+                            "element_id": "__clxeiixggeehaaddzyddjhhpdweeddmvxz__column_1",
+                            "styles": {
+                                "display": "contents",
+                                "width": "100%"
+                            }
+                        }
+                    ],
+                    "root": null,
+                    "rules": null,
+                    "styles": {
+                        "background": "rgb(var(--now-color--neutral-19))",
+                        "background-clip": "border-box",
+                        "background-image": "url(\"https://dev260572.service-now.com/293b615083fe02103fcc9cc0deaad33b.iix\")",
+                        "background-origin": "border-box",
+                        "background-position": "center",
+                        "background-repeat": "no-repeat",
+                        "box-sizing": "border-box",
+                        "grid-template-columns": "100fr",
+                        "grid-template-rows": "1fr",
+                        "height": "200px",
+                        "margin-right": "0",
+                        "max-height": "",
+                        "padding-right": "0",
+                        "width": "auto"
+                    },
+                    "type": "grid"
+                },
+                "queries": [
+                    {
+                        "layout": {
+                            "children": null,
+                            "isInline": null,
+                            "items": [
+                                
+                            ],
+                            "root": null,
+                            "rules": null,
+                            "styles": {
+                                "background": "rgb(var(--now-color--neutral-19))",
+                                "background-clip": "border-box",
+                                "background-image": "url(\"https://dev260572.service-now.com/293b615083fe02103fcc9cc0deaad33b.iix\")",
+                                "background-origin": "border-box",
+                                "background-position": "center",
+                                "background-repeat": "no-repeat",
+                                "box-sizing": "border-box",
+                                "grid-template-columns": "1fr",
+                                "grid-template-rows": "1fr",
+                                "height": "fit-content",
+                                "margin-right": "0",
+                                "max-height": "max-content",
+                                "min-height": "min-content",
+                                "padding-right": "0",
+                                "width": "auto"
+                            },
+                            "type": "grid"
+                        },
+                        "query": {
+                            "max-width": 640
+                        }
+                    }
+                ],
+                "version": "3.0.0"
+            }
+        },
+        "preset": null,
+        "propertyValues": {
+            "hideEmptyStateUi": {
+                "type": "JSON_LITERAL",
+                "value": true
+            },
+            "slotWrapperBehavior": {
+                "type": "JSON_LITERAL",
+                "value": "contents"
+            }
+        },
+        "scratchPad": {
+            "uib": {
+                "layout": {
+                    "columnSection": {
+                        "breakpoints": [
+                            {
+                                "behavior": "stack",
+                                "max-width": 640,
+                                "styles": {
+                                    "box-sizing": "border-box",
+                                    "grid-template-columns": "1fr",
+                                    "grid-template-rows": "1fr",
+                                    "height": "fit-content",
+                                    "max-height": "max-content",
+                                    "min-height": "min-content",
+                                    "width": "auto"
+                                }
+                            }
+                        ],
+                        "children": [
+                            {
+                                "columnNumber": 1,
+                                "unit": "%",
+                                "width": 100
+                            }
+                        ],
+                        "id": "UIB_COLUMN_SECTION_SINGLE_COLUMN_SECTION",
+                        "styleConfig": {
+                            "external": {
+                                "display": "contents",
+                                "width": "100%"
+                            },
+                            "internal": {
+                                "background": "rgb(var(--now-color--neutral-19))",
+                                "background-clip": "border-box",
+                                "background-image": "url(\"https://dev260572.service-now.com/293b615083fe02103fcc9cc0deaad33b.iix\")",
+                                "background-origin": "border-box",
+                                "background-position": "center",
+                                "background-repeat": "no-repeat",
+                                "box-sizing": "border-box",
+                                "grid-template-rows": "1fr",
+                                "height": "200px",
+                                "margin-right": "0",
+                                "max-height": "",
+                                "padding-right": "0",
+                                "width": "auto"
+                            }
+                        }
+                    },
+                    "type": "columnSection"
+                },
+                "version": "1.0.0"
+            }
+        },
+        "slot": null,
+        "styles": null
+    },
+    {
+        "definition": {
+            "id": "d37ce8abca89d02905fed903c8e34d8e",
+            "type": "MACROPONENT"
+        },
+        "elementId": "button_1",
+        "elementLabel": "Button 1",
+        "eventMappings": [
+            {
+                "eventMappingId": "clgngbieccaaccgwddbhhtyrdnqfqd",
+                "isConfiguration": false,
+                "offRowStorageId": null,
+                "sourceEventApiName": "sn_button.NOW_BUTTON#CLICKED",
+                "sourceEventCorrelationId": null,
+                "sourceEventDefinition": {
+                    "apiName": "sn_button.NOW_BUTTON#CLICKED",
+                    "id": null,
+                    "type": "UXEVENT"
+                },
+                "sourceEventSysId": null,
+                "targets": [
+                    {
+                        "broker": null,
+                        "clientScript": null,
+                        "conditional": null,
+                        "declarativeAction": null,
+                        "event": {
+                            "apiName": "x_1284052_consol_0.NAV_ITEM_SELECTED_RELAY_68855a95833686103fcc9cc0deaad31e",
+                            "payload": {
+                                "type": "JSON_LITERAL",
+                                "value": {
+                                    "external": {
+                                        "url": "https://dev260572.service-now.com/x/1284052/calms/home"
+                                    },
+                                    "fields": null,
+                                    "multiInstField": null,
+                                    "navigationOptions": null,
+                                    "params": null,
+                                    "passiveNavigation": null,
+                                    "redirect": null,
+                                    "route": null,
+                                    "targetRoute": null,
+                                    "title": null
+                                }
+                            },
+                            "sysId": "d0c9692983b6c6103fcc9cc0deaad347"
+                        },
+                        "operation": null,
+                        "targetId": "clxfggbbyozaaffihhddjhhpryccjjwhga",
+                        "type": "EVENT"
+                    }
+                ]
+            }
+        ],
+        "preset": {
+            "controllerElementId": "map_search_filter_1",
+            "disabledEventTargetIds": [
+                
+            ],
+            "id": "22af5e9877af6550960ced43ba5a99d3"
+        },
+        "propertyValues": {
+            "label": {
+                "type": "TRANSLATION_LITERAL",
+                "value": {
+                    "code": null,
+                    "comment": "",
+                    "message": "Logout"
+                }
+            }
+        },
+        "slot": null,
+        "styles": null
+    },
+    {
+        "definition": {
+            "id": "d356d14b6e293a3020a244b63d278d8f",
+            "type": "MACROPONENT"
+        },
+        "elementId": "column_layout_2",
+        "elementLabel": "Column layout 2",
+        "eventMappings": [
+            
+        ],
+        "isHidden": {
+            "type": "JSON_LITERAL",
+            "value": null
+        },
+        "overrides": {
+            "composition": [
+                {
+                    "definition": {
+                        "id": "d356d14b6e293a3020a244b63d278d8f",
+                        "type": "MACROPONENT"
+                    },
+                    "elementId": "__clxevjjeelaajjeexddjhhpdxnhyffdq__column_1",
+                    "elementLabel": "Column 1",
+                    "eventMappings": [
+                        
+                    ],
+                    "isHidden": {
+                        "type": "JSON_LITERAL",
+                        "value": null
+                    },
+                    "overrides": {
+                        "composition": [
+                            {
+                                "definition": {
+                                    "id": "d356d14b6e293a3020a244b63d278d8f",
+                                    "type": "MACROPONENT"
+                                },
+                                "elementId": "column_layout_4",
+                                "elementLabel": "Column layout 4",
+                                "eventMappings": [
+                                    
+                                ],
+                                "isHidden": {
+                                    "type": "JSON_LITERAL",
+                                    "value": null
+                                },
+                                "overrides": {
+                                    "composition": [
+                                        {
+                                            "definition": {
+                                                "id": "d356d14b6e293a3020a244b63d278d8f",
+                                                "type": "MACROPONENT"
+                                            },
+                                            "elementId": "__clxfeevlddgaabbvxddjhhpaawddwzggp__column_1",
+                                            "elementLabel": "Column 1",
+                                            "eventMappings": [
+                                                
+                                            ],
+                                            "isHidden": {
+                                                "type": "JSON_LITERAL",
+                                                "value": null
+                                            },
+                                            "overrides": {
+                                                "composition": [
+                                                    {
+                                                        "definition": {
+                                                            "id": "b2429385cb0363208b764c151e2d1171",
+                                                            "type": "MACROPONENT"
+                                                        },
+                                                        "elementId": "carousel_2",
+                                                        "elementLabel": "Carousel 2",
+                                                        "eventMappings": [
+                                                            
+                                                        ],
+                                                        "isHidden": {
+                                                            "type": "JSON_LITERAL",
+                                                            "value": null
+                                                        },
+                                                        "overrides": {
+                                                            "composition": [
+                                                                {
+                                                                    "definition": {
+                                                                        "id": "15fe506403f8a98575b6df59008ea8f1",
+                                                                        "type": "MACROPONENT"
+                                                                    },
+                                                                    "elementId": "image_3",
+                                                                    "elementLabel": "Image 3",
+                                                                    "eventMappings": [
+                                                                        
+                                                                    ],
+                                                                    "isHidden": {
+                                                                        "type": "JSON_LITERAL",
+                                                                        "value": null
+                                                                    },
+                                                                    "propertyValues": {
+                                                                        "alt": {
+                                                                            "type": "TRANSLATION_LITERAL",
+                                                                            "value": {
+                                                                                "code": null,
+                                                                                "comment": "",
+                                                                                "message": ""
+                                                                            }
+                                                                        },
+                                                                        "fit": {
+                                                                            "type": "JSON_LITERAL",
+                                                                            "value": "fill"
+                                                                        },
+                                                                        "height": {
+                                                                            "type": "JSON_LITERAL",
+                                                                            "value": null
+                                                                        },
+                                                                        "position": {
+                                                                            "type": "JSON_LITERAL",
+                                                                            "value": "center center"
+                                                                        },
+                                                                        "sources": {
+                                                                            "type": "JSON_LITERAL",
+                                                                            "value": [
+                                                                                
+                                                                            ]
+                                                                        },
+                                                                        "src": {
+                                                                            "type": "JSON_LITERAL",
+                                                                            "value": "upload_air-force.jpg"
+                                                                        },
+                                                                        "width": {
+                                                                            "type": "JSON_LITERAL",
+                                                                            "value": null
+                                                                        }
+                                                                    },
+                                                                    "slot": "content",
+                                                                    "styles": null
+                                                                },
+                                                                {
+                                                                    "definition": {
+                                                                        "id": "15fe506403f8a98575b6df59008ea8f1",
+                                                                        "type": "MACROPONENT"
+                                                                    },
+                                                                    "elementId": "image_4",
+                                                                    "elementLabel": "Image 4",
+                                                                    "eventMappings": [
+                                                                        
+                                                                    ],
+                                                                    "isHidden": {
+                                                                        "type": "JSON_LITERAL",
+                                                                        "value": null
+                                                                    },
+                                                                    "preset": null,
+                                                                    "propertyValues": {
+                                                                        "alt": {
+                                                                            "type": "TRANSLATION_LITERAL",
+                                                                            "value": {
+                                                                                "code": null,
+                                                                                "comment": "",
+                                                                                "message": ""
+                                                                            }
+                                                                        },
+                                                                        "fit": {
+                                                                            "type": "JSON_LITERAL",
+                                                                            "value": "fill"
+                                                                        },
+                                                                        "height": {
+                                                                            "type": "JSON_LITERAL",
+                                                                            "value": null
+                                                                        },
+                                                                        "position": {
+                                                                            "type": "JSON_LITERAL",
+                                                                            "value": "center center"
+                                                                        },
+                                                                        "sources": {
+                                                                            "type": "JSON_LITERAL",
+                                                                            "value": [
+                                                                                
+                                                                            ]
+                                                                        },
+                                                                        "src": {
+                                                                            "type": "JSON_LITERAL",
+                                                                            "value": "Jet2.png"
+                                                                        },
+                                                                        "width": {
+                                                                            "type": "JSON_LITERAL",
+                                                                            "value": null
+                                                                        }
+                                                                    },
+                                                                    "slot": "content",
+                                                                    "styles": null
+                                                                },
+                                                                {
+                                                                    "definition": {
+                                                                        "id": "15fe506403f8a98575b6df59008ea8f1",
+                                                                        "type": "MACROPONENT"
+                                                                    },
+                                                                    "elementId": "image_1",
+                                                                    "elementLabel": "Image 1",
+                                                                    "eventMappings": [
+                                                                        
+                                                                    ],
+                                                                    "isHidden": {
+                                                                        "type": "JSON_LITERAL",
+                                                                        "value": null
+                                                                    },
+                                                                    "preset": null,
+                                                                    "propertyValues": {
+                                                                        "alt": {
+                                                                            "type": "TRANSLATION_LITERAL",
+                                                                            "value": {
+                                                                                "code": null,
+                                                                                "comment": "",
+                                                                                "message": ""
+                                                                            }
+                                                                        },
+                                                                        "fit": {
+                                                                            "type": "JSON_LITERAL",
+                                                                            "value": "fill"
+                                                                        },
+                                                                        "height": {
+                                                                            "type": "JSON_LITERAL",
+                                                                            "value": 500
+                                                                        },
+                                                                        "position": {
+                                                                            "type": "JSON_LITERAL",
+                                                                            "value": "center center"
+                                                                        },
+                                                                        "sources": {
+                                                                            "type": "JSON_LITERAL",
+                                                                            "value": [
+                                                                                
+                                                                            ]
+                                                                        },
+                                                                        "src": {
+                                                                            "type": "JSON_LITERAL",
+                                                                            "value": "x_1284052_consol_0.AF.png"
+                                                                        },
+                                                                        "width": {
+                                                                            "type": "JSON_LITERAL",
+                                                                            "value": 500
+                                                                        }
+                                                                    },
+                                                                    "slot": "content",
+                                                                    "styles": null
+                                                                }
+                                                            ]
+                                                        },
+                                                        "preset": null,
+                                                        "propertyValues": {
+                                                            "carouselTitle": {
+                                                                "type": "TRANSLATION_LITERAL",
+                                                                "value": {
+                                                                    "code": null,
+                                                                    "comment": "",
+                                                                    "message": "Title"
+                                                                }
+                                                            },
+                                                            "disableLooping": {
+                                                                "type": "JSON_LITERAL",
+                                                                "value": false
+                                                            },
+                                                            "emptyStateContent": {
+                                                                "type": "TRANSLATION_LITERAL",
+                                                                "value": {
+                                                                    "code": null,
+                                                                    "comment": "",
+                                                                    "message": ""
+                                                                }
+                                                            },
+                                                            "emptyStateIllustration": {
+                                                                "binding": {
+                                                                    "address": [
+                                                                        "user",
+                                                                        "lastName"
+                                                                    ],
+                                                                    "category": "session"
+                                                                },
+                                                                "type": "CONTEXT_BINDING"
+                                                            },
+                                                            "emptyStateLabel": {
+                                                                "type": "TRANSLATION_LITERAL",
+                                                                "value": {
+                                                                    "code": null,
+                                                                    "comment": "",
+                                                                    "message": ""
+                                                                }
+                                                            },
+                                                            "gradientStyle": {
+                                                                "type": "JSON_LITERAL",
+                                                                "value": "primary"
+                                                            },
+                                                            "hideDotIndicator": {
+                                                                "type": "JSON_LITERAL",
+                                                                "value": false
+                                                            },
+                                                            "hideLink": {
+                                                                "type": "JSON_LITERAL",
+                                                                "value": true
+                                                            },
+                                                            "hideTitle": {
+                                                                "type": "JSON_LITERAL",
+                                                                "value": true
+                                                            },
+                                                            "itemsInView": {
+                                                                "type": "JSON_LITERAL",
+                                                                "value": "multiple-content-items"
+                                                            },
+                                                            "linkIcon": {
+                                                                "type": "JSON_LITERAL",
+                                                                "value": "arrow-right-fill"
+                                                            },
+                                                            "linkText": {
+                                                                "type": "TRANSLATION_LITERAL",
+                                                                "value": {
+                                                                    "code": null,
+                                                                    "comment": "",
+                                                                    "message": "View all"
+                                                                }
+                                                            },
+                                                            "navPosition": {
+                                                                "type": "JSON_LITERAL",
+                                                                "value": "center"
+                                                            },
+                                                            "navStyle": {
+                                                                "type": "JSON_LITERAL",
+                                                                "value": "fill"
+                                                            },
+                                                            "slidingType": {
+                                                                "type": "JSON_LITERAL",
+                                                                "value": "next-set-of-items"
+                                                            },
+                                                            "startingIndex": {
+                                                                "type": "JSON_LITERAL",
+                                                                "value": 0
+                                                            },
+                                                            "titleLevel": {
+                                                                "type": "JSON_LITERAL",
+                                                                "value": "1"
+                                                            },
+                                                            "titlePosition": {
+                                                                "type": "JSON_LITERAL",
+                                                                "value": "left"
+                                                            },
+                                                            "titleVariant": {
+                                                                "type": "JSON_LITERAL",
+                                                                "value": "header-primary"
+                                                            }
+                                                        },
+                                                        "slot": null,
+                                                        "styles": null
+                                                    }
+                                                ],
+                                                "layout": {
+                                                    "default": {
+                                                        "children": null,
+                                                        "items": [
+                                                            {
+                                                                "element_id": "carousel_2",
+                                                                "styles": {
+                                                                    "height": "500px",
+                                                                    "margin": "var(--now-scalable-space--3xl)",
+                                                                    "margin-bottom": "var(--now-scalable-space--3xl)",
+                                                                    "margin-left": "var(--now-scalable-space--3xl)",
+                                                                    "margin-right": "var(--now-scalable-space--3xl)",
+                                                                    "margin-top": "var(--now-scalable-space--3xl)",
+                                                                    "width": "500px"
+                                                                }
+                                                            }
+                                                        ],
+                                                        "root": null,
+                                                        "rules": {
+                                                            "flex-direction": "row"
+                                                        },
+                                                        "styles": {
+                                                            "align-items": "stretch",
+                                                            "box-sizing": "border-box",
+                                                            "flex-direction": "column",
+                                                            "height": "100%",
+                                                            "justify-content": "flex-start",
+                                                            "overflow": "auto"
+                                                        },
+                                                        "type": "flex"
+                                                    },
+                                                    "version": "3.0.0"
+                                                }
+                                            },
+                                            "preset": null,
+                                            "propertyValues": {
+                                                "hideEmptyStateUi": {
+                                                    "type": "JSON_LITERAL",
+                                                    "value": true
+                                                },
+                                                "slotWrapperBehavior": {
+                                                    "type": "JSON_LITERAL",
+                                                    "value": "contents"
+                                                }
+                                            },
+                                            "scratchPad": {
+                                                "uib": {
+                                                    "layout": {
+                                                        "column": {
+                                                            "columnNumber": 0,
+                                                            "id": "default",
+                                                            "styleConfig": {
+                                                                "external": {
+                                                                    "display": "contents",
+                                                                    "width": "100%"
+                                                                },
+                                                                "internal": {
+                                                                    "align-items": "stretch",
+                                                                    "box-sizing": "border-box",
+                                                                    "flex-direction": "column",
+                                                                    "height": "100%",
+                                                                    "justify-content": "flex-start",
+                                                                    "overflow": "auto"
+                                                                }
+                                                            }
+                                                        },
+                                                        "type": "column"
+                                                    },
+                                                    "version": "1.0.0"
+                                                }
+                                            },
+                                            "slot": null,
+                                            "styles": null
+                                        }
+                                    ],
+                                    "layout": {
+                                        "default": {
+                                            "children": null,
+                                            "isInline": null,
+                                            "items": [
+                                                {
+                                                    "element_id": "__clxfeevlddgaabbvxddjhhpaawddwzggp__column_1",
+                                                    "styles": {
+                                                        "display": "contents",
+                                                        "width": "100%"
+                                                    }
+                                                }
+                                            ],
+                                            "root": null,
+                                            "rules": null,
+                                            "styles": {
+                                                "box-sizing": "border-box",
+                                                "grid-template-columns": "100fr",
+                                                "grid-template-rows": "1fr",
+                                                "width": "auto"
+                                            },
+                                            "type": "grid"
+                                        },
+                                        "queries": [
+                                            {
+                                                "layout": {
+                                                    "children": null,
+                                                    "isInline": null,
+                                                    "items": [
+                                                        
+                                                    ],
+                                                    "root": null,
+                                                    "rules": null,
+                                                    "styles": {
+                                                        "box-sizing": "border-box",
+                                                        "grid-template-columns": "1fr",
+                                                        "grid-template-rows": "1fr",
+                                                        "height": "fit-content",
+                                                        "max-height": "max-content",
+                                                        "min-height": "min-content",
+                                                        "width": "auto"
+                                                    },
+                                                    "type": "grid"
+                                                },
+                                                "query": {
+                                                    "max-width": 640
+                                                }
+                                            }
+                                        ],
+                                        "version": "3.0.0"
+                                    }
+                                },
+                                "preset": null,
+                                "propertyValues": {
+                                    "hideEmptyStateUi": {
+                                        "type": "JSON_LITERAL",
+                                        "value": true
+                                    },
+                                    "slotWrapperBehavior": {
+                                        "type": "JSON_LITERAL",
+                                        "value": "contents"
+                                    }
+                                },
+                                "scratchPad": {
+                                    "uib": {
+                                        "layout": {
+                                            "columnSection": {
+                                                "breakpoints": [
+                                                    {
+                                                        "behavior": "stack",
+                                                        "max-width": 640,
+                                                        "styles": {
+                                                            "box-sizing": "border-box",
+                                                            "grid-template-columns": "1fr",
+                                                            "grid-template-rows": "1fr",
+                                                            "height": "fit-content",
+                                                            "max-height": "max-content",
+                                                            "min-height": "min-content",
+                                                            "width": "auto"
+                                                        }
+                                                    }
+                                                ],
+                                                "children": [
+                                                    {
+                                                        "columnNumber": 1,
+                                                        "unit": "%",
+                                                        "width": 100
+                                                    }
+                                                ],
+                                                "id": "UIB_COLUMN_SECTION_SINGLE_COLUMN_SECTION",
+                                                "styleConfig": {
+                                                    "external": {
+                                                        "display": "contents",
+                                                        "width": "100%"
+                                                    },
+                                                    "internal": {
+                                                        "box-sizing": "border-box",
+                                                        "grid-template-rows": "1fr",
+                                                        "width": "auto"
+                                                    }
+                                                }
+                                            },
+                                            "type": "columnSection"
+                                        },
+                                        "version": "1.0.0"
+                                    }
+                                },
+                                "slot": null,
+                                "styles": null
+                            }
+                        ],
+                        "layout": {
+                            "default": {
+                                "children": null,
+                                "items": [
+                                    {
+                                        "element_id": "column_layout_4",
+                                        "styles": {
+                                            "display": "contents",
+                                            "width": "100%"
+                                        }
+                                    }
+                                ],
+                                "root": null,
+                                "rules": {
+                                    "flex-direction": "row"
+                                },
+                                "styles": {
+                                    "align-items": "center",
+                                    "background": "rgb(var(--now-color--neutral-19))",
+                                    "box-sizing": "border-box",
+                                    "flex-direction": "column",
+                                    "height": "100%",
+                                    "justify-content": "space-between",
+                                    "overflow": "auto"
+                                },
+                                "type": "flex"
+                            },
+                            "version": "3.0.0"
+                        }
+                    },
+                    "preset": null,
+                    "propertyValues": {
+                        "hideEmptyStateUi": {
+                            "type": "JSON_LITERAL",
+                            "value": true
+                        },
+                        "slotWrapperBehavior": {
+                            "type": "JSON_LITERAL",
+                            "value": "contents"
+                        }
+                    },
+                    "scratchPad": {
+                        "uib": {
+                            "layout": {
+                                "column": {
+                                    "columnNumber": 0,
+                                    "id": "default",
+                                    "styleConfig": {
+                                        "external": {
+                                            "display": "contents",
+                                            "width": "100%"
+                                        },
+                                        "internal": {
+                                            "align-items": "center",
+                                            "background": "rgb(var(--now-color--neutral-19))",
+                                            "box-sizing": "border-box",
+                                            "flex-direction": "column",
+                                            "height": "100%",
+                                            "justify-content": "space-between",
+                                            "overflow": "auto"
+                                        }
+                                    }
+                                },
+                                "type": "column"
+                            },
+                            "version": "1.0.0"
+                        }
+                    },
+                    "slot": null,
+                    "styles": null
+                }
+            ],
+            "layout": {
+                "default": {
+                    "children": null,
+                    "isInline": null,
+                    "items": [
+                        {
+                            "element_id": "__clxevjjeelaajjeexddjhhpdxnhyffdq__column_1",
+                            "styles": {
+                                "display": "contents",
+                                "width": "100%"
+                            }
+                        }
+                    ],
+                    "root": null,
+                    "rules": null,
+                    "styles": {
+                        "box-sizing": "border-box",
+                        "grid-template-columns": "100fr",
+                        "grid-template-rows": "1fr",
+                        "width": "auto"
+                    },
+                    "type": "grid"
+                },
+                "queries": [
+                    {
+                        "layout": {
+                            "children": null,
+                            "isInline": null,
+                            "items": [
+                                
+                            ],
+                            "root": null,
+                            "rules": null,
+                            "styles": {
+                                "box-sizing": "border-box",
+                                "grid-template-columns": "1fr",
+                                "grid-template-rows": "1fr",
+                                "height": "fit-content",
+                                "max-height": "max-content",
+                                "min-height": "min-content",
+                                "width": "auto"
+                            },
+                            "type": "grid"
+                        },
+                        "query": {
+                            "max-width": 640
+                        }
+                    }
+                ],
+                "version": "3.0.0"
+            }
+        },
+        "preset": null,
+        "propertyValues": {
+            "hideEmptyStateUi": {
+                "type": "JSON_LITERAL",
+                "value": true
+            },
+            "slotWrapperBehavior": {
+                "type": "JSON_LITERAL",
+                "value": "contents"
+            }
+        },
+        "scratchPad": {
+            "uib": {
+                "layout": {
+                    "columnSection": {
+                        "breakpoints": [
+                            {
+                                "behavior": "stack",
+                                "max-width": 640,
+                                "styles": {
+                                    "box-sizing": "border-box",
+                                    "grid-template-columns": "1fr",
+                                    "grid-template-rows": "1fr",
+                                    "height": "fit-content",
+                                    "max-height": "max-content",
+                                    "min-height": "min-content",
+                                    "width": "auto"
+                                }
+                            }
+                        ],
+                        "children": [
+                            {
+                                "columnNumber": 1,
+                                "unit": "%",
+                                "width": 100
+                            }
+                        ],
+                        "id": "UIB_COLUMN_SECTION_SINGLE_COLUMN_SECTION",
+                        "styleConfig": {
+                            "external": {
+                                "display": "contents",
+                                "width": "100%"
+                            },
+                            "internal": {
+                                "box-sizing": "border-box",
+                                "grid-template-rows": "1fr",
+                                "width": "auto"
+                            }
+                        }
+                    },
+                    "type": "columnSection"
+                },
+                "version": "1.0.0"
+            }
+        },
+        "slot": null,
+        "styles": null
+    },
+    {
+        "definition": {
+            "id": "d356d14b6e293a3020a244b63d278d8f",
+            "type": "MACROPONENT"
+        },
+        "elementId": "column_layout_3",
+        "elementLabel": "Bottom Links",
+        "eventMappings": [
+            
+        ],
+        "isHidden": {
+            "type": "JSON_LITERAL",
+            "value": null
+        },
+        "overrides": {
+            "composition": [
+                {
+                    "definition": {
+                        "id": "d356d14b6e293a3020a244b63d278d8f",
+                        "type": "MACROPONENT"
+                    },
+                    "elementId": "__clxewctssaabbyeeddjhhphhyggunjccd__column_1",
+                    "elementLabel": "Column 1",
+                    "eventMappings": [
+                        
+                    ],
+                    "isHidden": {
+                        "type": "JSON_LITERAL",
+                        "value": null
+                    },
+                    "overrides": {
+                        "composition": [
+                            {
+                                "definition": {
+                                    "id": "67cf54ff68b39f4e45b946184b91bacb",
+                                    "type": "MACROPONENT"
+                                },
+                                "elementId": "link_set_group_1",
+                                "elementLabel": "Link set group 1",
+                                "eventMappings": [
+                                    
+                                ],
+                                "isHidden": {
+                                    "type": "JSON_LITERAL",
+                                    "value": null
+                                },
+                                "preset": null,
+                                "propertyValues": {
+                                    "disableBrowseAll": {
+                                        "type": "JSON_LITERAL",
+                                        "value": true
+                                    },
+                                    "heading": {
+                                        "type": "TRANSLATION_LITERAL",
+                                        "value": {
+                                            "code": null,
+                                            "comment": "",
+                                            "message": ""
+                                        }
+                                    },
+                                    "items": {
+                                        "container": [
+                                            {
+                                                "container": {
+                                                    "browseLink": {
+                                                        "container": {
+                                                            "icon": {
+                                                                "type": "JSON_LITERAL",
+                                                                "value": "chevron-right-outline"
+                                                            },
+                                                            "link": {
+                                                                "container": {
+                                                                    "download": {
+                                                                        "type": "JSON_LITERAL",
+                                                                        "value": false
+                                                                    },
+                                                                    "label": {
+                                                                        "type": "TRANSLATION_LITERAL",
+                                                                        "value": {
+                                                                            "code": null,
+                                                                            "comment": "",
+                                                                            "message": "Browse all"
+                                                                        }
+                                                                    },
+                                                                    "opensWindow": {
+                                                                        "type": "JSON_LITERAL",
+                                                                        "value": false
+                                                                    },
+                                                                    "type": {
+                                                                        "type": "JSON_LITERAL",
+                                                                        "value": "route"
+                                                                    },
+                                                                    "value": {
+                                                                        "type": "JSON_LITERAL",
+                                                                        "value": {
+                                                                            "route": "it_support"
+                                                                        }
+                                                                    }
+                                                                },
+                                                                "type": "MAP_CONTAINER"
+                                                            },
+                                                            "type": {
+                                                                "type": "JSON_LITERAL",
+                                                                "value": "link"
+                                                            }
+                                                        },
+                                                        "type": "MAP_CONTAINER"
+                                                    },
+                                                    "heading": {
+                                                        "container": {
+                                                            "icon": {
+                                                                "type": "JSON_LITERAL",
+                                                                "value": {
+                                                                    "alignment": "center"
+                                                                }
+                                                            },
+                                                            "link": {
+                                                                "container": {
+                                                                    "download": {
+                                                                        "type": "JSON_LITERAL",
+                                                                        "value": false
+                                                                    },
+                                                                    "opensWindow": {
+                                                                        "type": "JSON_LITERAL",
+                                                                        "value": false
+                                                                    }
+                                                                },
+                                                                "type": "MAP_CONTAINER"
+                                                            }
+                                                        },
+                                                        "type": "MAP_CONTAINER"
+                                                    },
+                                                    "links": {
+                                                        "container": [
+                                                            {
+                                                                "container": {
+                                                                    "download": {
+                                                                        "type": "JSON_LITERAL",
+                                                                        "value": false
+                                                                    },
+                                                                    "label": {
+                                                                        "type": "TRANSLATION_LITERAL",
+                                                                        "value": {
+                                                                            "code": null,
+                                                                            "comment": "",
+                                                                            "message": "ServiceNow"
+                                                                        }
+                                                                    },
+                                                                    "opensWindow": {
+                                                                        "type": "JSON_LITERAL",
+                                                                        "value": false
+                                                                    },
+                                                                    "startsWith": {
+                                                                        "type": "JSON_LITERAL",
+                                                                        "value": {
+                                                                            "align": "center",
+                                                                            "icon": "lightbulb-outline"
+                                                                        }
+                                                                    },
+                                                                    "type": {
+                                                                        "type": "JSON_LITERAL",
+                                                                        "value": "external"
+                                                                    },
+                                                                    "value": {
+                                                                        "type": "JSON_LITERAL",
+                                                                        "value": {
+                                                                            "href": "https://www.servicenow.com"
+                                                                        }
+                                                                    }
+                                                                },
+                                                                "type": "MAP_CONTAINER"
+                                                            },
+                                                            {
+                                                                "container": {
+                                                                    "label": {
+                                                                        "type": "TRANSLATION_LITERAL",
+                                                                        "value": {
+                                                                            "code": null,
+                                                                            "comment": "",
+                                                                            "message": "NowLearning"
+                                                                        }
+                                                                    },
+                                                                    "startsWith": {
+                                                                        "type": "JSON_LITERAL",
+                                                                        "value": {
+                                                                            "align": "center",
+                                                                            "icon": "lightbulb outline"
+                                                                        }
+                                                                    },
+                                                                    "type": {
+                                                                        "type": "JSON_LITERAL",
+                                                                        "value": "external"
+                                                                    },
+                                                                    "value": {
+                                                                        "type": "JSON_LITERAL",
+                                                                        "value": {
+                                                                            "href": "https://nowlearning.servicenow.com/lxp/en/pages/servicenow"
+                                                                        }
+                                                                    }
+                                                                },
+                                                                "type": "MAP_CONTAINER"
+                                                            }
+                                                        ],
+                                                        "type": "LIST_CONTAINER"
+                                                    }
+                                                },
+                                                "type": "MAP_CONTAINER"
+                                            },
+                                            {
+                                                "container": {
+                                                    "browseLink": {
+                                                        "container": {
+                                                            "icon": {
+                                                                "type": "JSON_LITERAL",
+                                                                "value": "chevron-right-outline"
+                                                            },
+                                                            "link": {
+                                                                "container": {
+                                                                    "download": {
+                                                                        "type": "JSON_LITERAL",
+                                                                        "value": false
+                                                                    },
+                                                                    "label": {
+                                                                        "type": "TRANSLATION_LITERAL",
+                                                                        "value": {
+                                                                            "code": null,
+                                                                            "comment": "",
+                                                                            "message": "Browse all"
+                                                                        }
+                                                                    },
+                                                                    "opensWindow": {
+                                                                        "type": "JSON_LITERAL",
+                                                                        "value": false
+                                                                    },
+                                                                    "type": {
+                                                                        "type": "JSON_LITERAL",
+                                                                        "value": "route"
+                                                                    },
+                                                                    "value": {
+                                                                        "type": "JSON_LITERAL",
+                                                                        "value": {
+                                                                            "route": "it_support"
+                                                                        }
+                                                                    }
+                                                                },
+                                                                "type": "MAP_CONTAINER"
+                                                            },
+                                                            "type": {
+                                                                "type": "JSON_LITERAL",
+                                                                "value": "link"
+                                                            }
+                                                        },
+                                                        "type": "MAP_CONTAINER"
+                                                    },
+                                                    "heading": {
+                                                        "container": {
+                                                            "icon": {
+                                                                "type": "JSON_LITERAL",
+                                                                "value": {
+                                                                    "alignment": "left",
+                                                                    "name": "book outline",
+                                                                    "placement": "inline"
+                                                                }
+                                                            },
+                                                            "link": {
+                                                                "container": {
+                                                                    "download": {
+                                                                        "type": "JSON_LITERAL",
+                                                                        "value": false
+                                                                    },
+                                                                    "opensWindow": {
+                                                                        "type": "JSON_LITERAL",
+                                                                        "value": false
+                                                                    }
+                                                                },
+                                                                "type": "MAP_CONTAINER"
+                                                            }
+                                                        },
+                                                        "type": "MAP_CONTAINER"
+                                                    },
+                                                    "links": {
+                                                        "container": [
+                                                            {
+                                                                "container": {
+                                                                    "download": {
+                                                                        "type": "JSON_LITERAL",
+                                                                        "value": false
+                                                                    },
+                                                                    "endsWith": {
+                                                                        "type": "JSON_LITERAL",
+                                                                        "value": {
+                                                                            "type": "icon"
+                                                                        }
+                                                                    },
+                                                                    "label": {
+                                                                        "type": "TRANSLATION_LITERAL",
+                                                                        "value": {
+                                                                            "code": null,
+                                                                            "comment": "",
+                                                                            "message": "Work Request"
+                                                                        }
+                                                                    },
+                                                                    "opensWindow": {
+                                                                        "type": "JSON_LITERAL",
+                                                                        "value": false
+                                                                    },
+                                                                    "startsWith": {
+                                                                        "type": "JSON_LITERAL",
+                                                                        "value": {
+                                                                            "align": "center",
+                                                                            "icon": "wrench outline"
+                                                                        }
+                                                                    },
+                                                                    "type": {
+                                                                        "type": "JSON_LITERAL",
+                                                                        "value": "route"
+                                                                    },
+                                                                    "value": {
+                                                                        "type": "JSON_LITERAL",
+                                                                        "value": {
+                                                                            "route": "Work Req page"
+                                                                        }
+                                                                    }
+                                                                },
+                                                                "type": "MAP_CONTAINER"
+                                                            },
+                                                            {
+                                                                "container": {
+                                                                    "label": {
+                                                                        "type": "TRANSLATION_LITERAL",
+                                                                        "value": {
+                                                                            "code": null,
+                                                                            "comment": "",
+                                                                            "message": "Technical Data"
+                                                                        }
+                                                                    },
+                                                                    "startsWith": {
+                                                                        "type": "JSON_LITERAL",
+                                                                        "value": {
+                                                                            "align": "center",
+                                                                            "icon": "book outline"
+                                                                        }
+                                                                    },
+                                                                    "type": {
+                                                                        "type": "JSON_LITERAL",
+                                                                        "value": "external"
+                                                                    },
+                                                                    "value": {
+                                                                        "type": "JSON_LITERAL",
+                                                                        "value": {
+                                                                            "href": "Tech Page"
+                                                                        }
+                                                                    }
+                                                                },
+                                                                "type": "MAP_CONTAINER"
+                                                            }
+                                                        ],
+                                                        "type": "LIST_CONTAINER"
+                                                    }
+                                                },
+                                                "type": "MAP_CONTAINER"
+                                            },
+                                            {
+                                                "container": {
+                                                    "browseLink": {
+                                                        "container": {
+                                                            "icon": {
+                                                                "type": "JSON_LITERAL",
+                                                                "value": "chevron-right-outline"
+                                                            },
+                                                            "link": {
+                                                                "container": {
+                                                                    "download": {
+                                                                        "type": "JSON_LITERAL",
+                                                                        "value": false
+                                                                    },
+                                                                    "label": {
+                                                                        "type": "TRANSLATION_LITERAL",
+                                                                        "value": {
+                                                                            "code": null,
+                                                                            "comment": "",
+                                                                            "message": "Browse all"
+                                                                        }
+                                                                    },
+                                                                    "opensWindow": {
+                                                                        "type": "JSON_LITERAL",
+                                                                        "value": false
+                                                                    },
+                                                                    "type": {
+                                                                        "type": "JSON_LITERAL",
+                                                                        "value": "route"
+                                                                    },
+                                                                    "value": {
+                                                                        "type": "JSON_LITERAL",
+                                                                        "value": {
+                                                                            "route": "it_support"
+                                                                        }
+                                                                    }
+                                                                },
+                                                                "type": "MAP_CONTAINER"
+                                                            },
+                                                            "type": {
+                                                                "type": "JSON_LITERAL",
+                                                                "value": "link"
+                                                            }
+                                                        },
+                                                        "type": "MAP_CONTAINER"
+                                                    },
+                                                    "heading": {
+                                                        "container": {
+                                                            "hasIcon": {
+                                                                "type": "JSON_LITERAL",
+                                                                "value": true
+                                                            },
+                                                            "link": {
+                                                                "container": {
+                                                                    "download": {
+                                                                        "type": "JSON_LITERAL",
+                                                                        "value": false
+                                                                    },
+                                                                    "opensWindow": {
+                                                                        "type": "JSON_LITERAL",
+                                                                        "value": false
+                                                                    }
+                                                                },
+                                                                "type": "MAP_CONTAINER"
+                                                            }
+                                                        },
+                                                        "type": "MAP_CONTAINER"
+                                                    },
+                                                    "links": {
+                                                        "container": [
+                                                            {
+                                                                "container": {
+                                                                    "download": {
+                                                                        "type": "JSON_LITERAL",
+                                                                        "value": false
+                                                                    },
+                                                                    "endsWith": {
+                                                                        "type": "JSON_LITERAL",
+                                                                        "value": {
+                                                                            "type": "icon",
+                                                                            "value": "megaphone outline"
+                                                                        }
+                                                                    },
+                                                                    "label": {
+                                                                        "type": "TRANSLATION_LITERAL",
+                                                                        "value": {
+                                                                            "code": null,
+                                                                            "comment": "",
+                                                                            "message": "Report an Issue"
+                                                                        }
+                                                                    },
+                                                                    "opensWindow": {
+                                                                        "type": "JSON_LITERAL",
+                                                                        "value": false
+                                                                    },
+                                                                    "startsWith": {
+                                                                        "type": "JSON_LITERAL",
+                                                                        "value": {
+                                                                            "align": "center",
+                                                                            "icon": "megaphone outline"
+                                                                        }
+                                                                    },
+                                                                    "type": {
+                                                                        "type": "JSON_LITERAL",
+                                                                        "value": "route"
+                                                                    },
+                                                                    "value": {
+                                                                        "type": "JSON_LITERAL",
+                                                                        "value": {
+                                                                            "route": "incident_incident"
+                                                                        }
+                                                                    }
+                                                                },
+                                                                "type": "MAP_CONTAINER"
+                                                            },
+                                                            {
+                                                                "container": {
+                                                                    "label": {
+                                                                        "type": "TRANSLATION_LITERAL",
+                                                                        "value": {
+                                                                            "code": null,
+                                                                            "comment": "",
+                                                                            "message": "Sugesstions"
+                                                                        }
+                                                                    },
+                                                                    "startsWith": {
+                                                                        "type": "JSON_LITERAL",
+                                                                        "value": {
+                                                                            "align": "center",
+                                                                            "icon": "megaphone outline"
+                                                                        }
+                                                                    },
+                                                                    "type": {
+                                                                        "type": "JSON_LITERAL",
+                                                                        "value": "external"
+                                                                    },
+                                                                    "value": {
+                                                                        "type": "JSON_LITERAL",
+                                                                        "value": {
+                                                                            "href": "Suggestions form"
+                                                                        }
+                                                                    }
+                                                                },
+                                                                "type": "MAP_CONTAINER"
+                                                            }
+                                                        ],
+                                                        "type": "LIST_CONTAINER"
+                                                    }
+                                                },
+                                                "type": "MAP_CONTAINER"
+                                            }
+                                        ],
+                                        "type": "LIST_CONTAINER"
+                                    },
+                                    "width": {
+                                        "type": "JSON_LITERAL",
+                                        "value": "300"
+                                    }
+                                },
+                                "slot": null,
+                                "styles": null
+                            }
+                        ],
+                        "layout": {
+                            "default": {
+                                "children": null,
+                                "items": [
+                                    {
+                                        "element_id": "link_set_group_1",
+                                        "styles": {
+                                            "align-self": "baseline",
+                                            "flex": "1 0 auto",
+                                            "margin-left": "var(--now-scalable-space--3xl)",
+                                            "padding-left": "var(--now-scalable-space--3xl)"
+                                        }
+                                    }
+                                ],
+                                "root": null,
+                                "rules": {
+                                    "flex-direction": "row"
+                                },
+                                "styles": {
+                                    "align-items": "stretch",
+                                    "box-sizing": "border-box",
+                                    "flex-direction": "row",
+                                    "height": "100%",
+                                    "justify-content": "space-between",
+                                    "overflow": "auto"
+                                },
+                                "type": "flex"
+                            },
+                            "version": "3.0.0"
+                        }
+                    },
+                    "preset": null,
+                    "propertyValues": {
+                        "hideEmptyStateUi": {
+                            "type": "JSON_LITERAL",
+                            "value": true
+                        },
+                        "slotWrapperBehavior": {
+                            "type": "JSON_LITERAL",
+                            "value": "contents"
+                        }
+                    },
+                    "scratchPad": {
+                        "uib": {
+                            "layout": {
+                                "column": {
+                                    "columnNumber": 0,
+                                    "id": "default",
+                                    "styleConfig": {
+                                        "external": {
+                                            "display": "contents",
+                                            "width": "100%"
+                                        },
+                                        "internal": {
+                                            "align-items": "stretch",
+                                            "box-sizing": "border-box",
+                                            "flex-direction": "row",
+                                            "height": "100%",
+                                            "justify-content": "space-between",
+                                            "overflow": "auto"
+                                        }
+                                    }
+                                },
+                                "type": "column"
+                            },
+                            "version": "1.0.0"
+                        }
+                    },
+                    "slot": null,
+                    "styles": null
+                }
+            ],
+            "layout": {
+                "default": {
+                    "children": null,
+                    "isInline": null,
+                    "items": [
+                        {
+                            "element_id": "__clxewctssaabbyeeddjhhphhyggunjccd__column_1",
+                            "styles": {
+                                "display": "contents",
+                                "width": "100%"
+                            }
+                        }
+                    ],
+                    "root": null,
+                    "rules": null,
+                    "styles": {
+                        "box-sizing": "border-box",
+                        "grid-template-columns": "100fr",
+                        "grid-template-rows": "1fr",
+                        "margin": "var(--now-scalable-space--3xl)",
+                        "margin-bottom": "var(--now-scalable-space--3xl)",
+                        "margin-left": "var(--now-scalable-space--3xl)",
+                        "margin-right": "var(--now-scalable-space--3xl)",
+                        "margin-top": "var(--now-scalable-space--3xl)",
+                        "width": "auto"
+                    },
+                    "type": "grid"
+                },
+                "queries": [
+                    {
+                        "layout": {
+                            "children": null,
+                            "isInline": null,
+                            "items": [
+                                
+                            ],
+                            "root": null,
+                            "rules": null,
+                            "styles": {
+                                "box-sizing": "border-box",
+                                "grid-template-columns": "1fr",
+                                "grid-template-rows": "1fr",
+                                "height": "fit-content",
+                                "margin": "var(--now-scalable-space--3xl)",
+                                "margin-bottom": "var(--now-scalable-space--3xl)",
+                                "margin-left": "var(--now-scalable-space--3xl)",
+                                "margin-right": "var(--now-scalable-space--3xl)",
+                                "margin-top": "var(--now-scalable-space--3xl)",
+                                "max-height": "max-content",
+                                "min-height": "min-content",
+                                "width": "auto"
+                            },
+                            "type": "grid"
+                        },
+                        "query": {
+                            "max-width": 640
+                        }
+                    }
+                ],
+                "version": "3.0.0"
+            }
+        },
+        "preset": null,
+        "propertyValues": {
+            "hideEmptyStateUi": {
+                "type": "JSON_LITERAL",
+                "value": true
+            },
+            "slotWrapperBehavior": {
+                "type": "JSON_LITERAL",
+                "value": "contents"
+            }
+        },
+        "scratchPad": {
+            "uib": {
+                "layout": {
+                    "columnSection": {
+                        "breakpoints": [
+                            {
+                                "behavior": "stack",
+                                "max-width": 640,
+                                "styles": {
+                                    "box-sizing": "border-box",
+                                    "grid-template-columns": "1fr",
+                                    "grid-template-rows": "1fr",
+                                    "height": "fit-content",
+                                    "max-height": "max-content",
+                                    "min-height": "min-content",
+                                    "width": "auto"
+                                }
+                            }
+                        ],
+                        "children": [
+                            {
+                                "columnNumber": 1,
+                                "unit": "%",
+                                "width": 100
+                            }
+                        ],
+                        "id": "UIB_COLUMN_SECTION_SINGLE_COLUMN_SECTION",
+                        "styleConfig": {
+                            "external": {
+                                "display": "contents",
+                                "width": "100%"
+                            },
+                            "internal": {
+                                "box-sizing": "border-box",
+                                "grid-template-rows": "1fr",
+                                "margin": "var(--now-scalable-space--3xl)",
+                                "margin-bottom": "var(--now-scalable-space--3xl)",
+                                "margin-left": "var(--now-scalable-space--3xl)",
+                                "margin-right": "var(--now-scalable-space--3xl)",
+                                "margin-top": "var(--now-scalable-space--3xl)",
+                                "width": "auto"
+                            }
+                        }
+                    },
+                    "type": "columnSection"
+                },
+                "version": "1.0.0"
+            }
+        },
+        "slot": null,
+        "styles": null
+    }
+]</composition>
+        <da_relay_models/>
+        <data>[
+    {
+        "definition": {
+            "id": "07811f1077a31110960ced43ba5a9949",
+            "type": "CONTROLLER"
+        },
+        "dependencies": {
+            "coeNodeMapController": "unified_map_1",
+            "getMapDataController": "get_map_data_1"
+        },
+        "elementId": "map_search_filter_1",
+        "elementLabel": "Map Search Filter 1",
+        "eventMappings": [
+            
+        ],
+        "inputValues": {
+            "ciSysid": {
+                "binding": {
+                    "address": [
+                        "rootNode"
+                    ],
+                    "category": "props"
+                },
+                "type": "CONTEXT_BINDING"
+            },
+            "levels": {
+                "binding": {
+                    "address": [
+                        "levels"
+                    ],
+                    "category": "props"
+                },
+                "type": "CONTEXT_BINDING"
+            },
+            "selectedItemId": {
+                "transform": {
+                    "operands": {
+                        "container": [
+                            {
+                                "operation": {
+                                    "left": {
+                                        "binding": {
+                                            "address": [
+                                                "selectedNodeSysid"
+                                            ],
+                                            "category": "props"
+                                        },
+                                        "type": "CONTEXT_BINDING"
+                                    },
+                                    "operator": "NOT_EQUAL",
+                                    "right": {
+                                        "type": "JSON_LITERAL",
+                                        "value": ""
+                                    }
+                                },
+                                "type": "BINARY"
+                            },
+                            {
+                                "binding": {
+                                    "address": [
+                                        "selectedNodeSysid"
+                                    ],
+                                    "category": "props"
+                                },
+                                "type": "CONTEXT_BINDING"
+                            },
+                            {
+                                "binding": {
+                                    "address": [
+                                        "selectedConnectionId"
+                                    ],
+                                    "category": "props"
+                                },
+                                "type": "CONTEXT_BINDING"
+                            }
+                        ],
+                        "type": "LIST_CONTAINER"
+                    },
+                    "operator": "IF"
+                },
+                "type": "CLIENT_TRANSFORM"
+            }
+        },
+        "readEvaluationMode": "EAGER"
+    },
+    {
+        "definition": {
+            "id": "7cb6eb2e77321510960ced43ba5a9904",
+            "type": "CONTROLLER"
+        },
+        "dependencies": {},
+        "elementId": "get_map_data_1",
+        "elementLabel": "Get Map Data 1",
+        "eventMappings": [
+            
+        ],
+        "inputValues": {
+            "ciSysid": {
+                "binding": {
+                    "address": [
+                        "rootNode"
+                    ],
+                    "category": "props"
+                },
+                "type": "CONTEXT_BINDING"
+            },
+            "levels": {
+                "binding": {
+                    "address": [
+                        "levels"
+                    ],
+                    "category": "props"
+                },
+                "type": "CONTEXT_BINDING"
+            }
+        },
+        "readEvaluationMode": "EAGER"
+    },
+    {
+        "definition": {
+            "id": "9585a6bf5b73011046f91c8fb681c7d6",
+            "type": "CONTROLLER"
+        },
+        "dependencies": {},
+        "elementId": "unified_map_1",
+        "elementLabel": "Unified Map 1",
+        "eventMappings": [
+            
+        ],
+        "inputValues": {
+            "disableCollapseAll": {
+                "type": "JSON_LITERAL",
+                "value": false
+            },
+            "edges": {
+                "type": "JSON_LITERAL",
+                "value": "[{\"id\":\"edge:root_1:inner_group:ckqjews4h00003h6umhpk9vv5\",\"sourceId\":\"root_1\",\"targetId\":\"inner_group\",\"label\":\"root_1 -&gt; inner_group #1\"},{\"id\":\"edge:node_0:node_2:ckqjews4h00013h6u6l8frc69\",\"sourceId\":\"node_0\",\"targetId\":\"node_2\",\"label\":\"node_0 -&gt; node_2\"},{\"id\":\"edge:node_0:node_7:ckqjews4h00023h6u1mt34z38\",\"sourceId\":\"node_0\",\"targetId\":\"node_7\",\"label\":\"node_0 -&gt; node_7\"},{\"id\":\"edge:root_1:inner_group:ckqjews4h00033h6u1sjwyer4\",\"sourceId\":\"root_1\",\"targetId\":\"inner_group\",\"label\":\"root_1 -&gt; inner_group #2\"},{\"id\":\"edge:root_1:node_1:ckqjews4h00043h6uyjch4tgr\",\"sourceId\":\"root_1\",\"targetId\":\"node_1\",\"label\":\"root_1 -&gt; node_1\"},{\"id\":\"edge:root_1:node_2:ckqjews4h00053h6uqvelaef4\",\"sourceId\":\"root_1\",\"targetId\":\"node_2\",\"label\":\"root_1 -&gt; node_2 #1\"},{\"id\":\"edge:node_0:node_3:ckqjews4h00063h6uqaleq6oj\",\"sourceId\":\"node_0\",\"targetId\":\"node_3\",\"label\":\"node_0 -&gt; node_3\"},{\"id\":\"edge:node_2:node_4:ckqjews4h00073h6ucji2k9xh\",\"sourceId\":\"node_2\",\"targetId\":\"node_4\",\"label\":\"node_2 -&gt; node_4\"},{\"id\":\"edge:node_4:node_6:ckqjews4h00083h6um1wdwpow\",\"sourceId\":\"node_4\",\"targetId\":\"node_6\",\"label\":\"node_4 -&gt; node_6\"},{\"id\":\"edge:node_3:node_7:ckqjews4h00093h6u17u5cpkq\",\"sourceId\":\"node_3\",\"targetId\":\"node_7\",\"label\":\"node_3 -&gt; node_7\"},{\"id\":\"edge:root_1:node_2:ckqjews4h000a3h6uo6try7jy\",\"sourceId\":\"root_1\",\"targetId\":\"node_2\",\"label\":\"root_1 -&gt; node_2 #2\"},{\"id\":\"edge:node_4:node_5:ckqjews4h000b3h6u6cw54rbt\",\"sourceId\":\"node_4\",\"targetId\":\"node_5\",\"label\":\"node_4 -&gt; node_5\"},{\"id\":\"edge:node_5:node_8:ckqjews4h000c3h6ul9ryvkah\",\"sourceId\":\"node_5\",\"targetId\":\"node_8\",\"label\":\"node_5 -&gt; node_8\"},{\"id\":\"edge:node_8:node_4:ckqjews4h000d3h6u3aj2ijeb\",\"sourceId\":\"node_8\",\"targetId\":\"node_4\",\"label\":\"node_8 -&gt; node_4\"},{\"id\":\"edge:node_7:node_4:ckqjews4h000d3h6u3aj2ijeb\",\"sourceId\":\"node_7\",\"targetId\":\"node_4\",\"label\":\"node_7 -&gt; node_4\"}]"
+            },
+            "hiddenEdgeIds": {
+                "type": "JSON_LITERAL",
+                "value": "[]"
+            },
+            "hiddenNodeIds": {
+                "type": "JSON_LITERAL",
+                "value": "[]"
+            },
+            "homeNodeId": {
+                "type": "JSON_LITERAL",
+                "value": ""
+            },
+            "nodes": {
+                "type": "JSON_LITERAL",
+                "value": "[{\"id\":\"outer_group\",\"isGroup\":true,\"viewData\":{\"groupCount\":1,\"primaryLabel\":\"Outer group\"}},{\"id\":\"inner_group\",\"isGroup\":true,\"groupIds\":[\"outer_group\"],\"viewData\":{\"groupCount\":3,\"primaryLabel\":\"Inner group\"}},{\"id\":\"node_0\",\"groupIds\":[\"inner_group\"],\"viewData\":{\"primaryLabel\":\"Node #0\",\"userName\":\"Abel Tuter\"}},{\"id\":\"node_1\",\"viewData\":{\"primaryLabel\":\"Node #1\",\"image\":\"https://picsum.photos/50\"}},{\"id\":\"node_2\",\"groupIds\":[\"inner_group\"],\"viewData\":{\"primaryLabel\":\"Node #2\",\"status\":\"positive\"}},{\"id\":\"node_3\",\"viewData\":{\"primaryLabel\":\"Node #3\",\"image\":\"https://picsum.photos/50\"}},{\"id\":\"node_4\",\"viewData\":{\"primaryLabel\":\"Node #4\"}},{\"id\":\"node_5\",\"viewData\":{\"primaryLabel\":\"Node #5\"}},{\"id\":\"node_6\",\"viewData\":{\"primaryLabel\":\"Node #6\",\"status\":\"error\",\"icon\":\"bug-outline\"}},{\"id\":\"node_7\",\"groupIds\":[\"inner_group\"],\"viewData\":{\"primaryLabel\":\"Node #7\"}},{\"id\":\"node_8\",\"viewData\":{\"primaryLabel\":\"Node #8\"}},{\"id\":\"node_9\",\"isInactive\":true,\"viewData\":{\"primaryLabel\":\"Node #9\",\"secondaryLabel\":\"(inactive)\"}},{\"id\":\"root_1\",\"viewData\":{\"primaryLabel\":\"Root node\"}}]"
+            },
+            "showError": {
+                "type": "JSON_LITERAL",
+                "value": false
+            }
+        },
+        "readEvaluationMode": "EAGER"
+    },
+    {
+        "definition": {
+            "id": "029f04e053610110ac9bddeeff7b1294",
+            "type": "CONTROLLER"
+        },
+        "dependencies": {},
+        "elementId": "form_1",
+        "elementLabel": "Form 1",
+        "eventMappings": [
+            
+        ],
+        "inputValues": {
+            "activityLogs": {
+                "type": "JSON_LITERAL",
+                "value": ""
+            },
+            "detailsContext": {
+                "type": "JSON_LITERAL",
+                "value": ""
+            },
+            "fields": {
+                "type": "JSON_LITERAL",
+                "value": ""
+            },
+            "forcedViewName": {
+                "type": "JSON_LITERAL",
+                "value": ""
+            },
+            "inputActionLayoutId": {
+                "type": "JSON_LITERAL",
+                "value": ""
+            },
+            "inputExtraParams": {
+                "type": "JSON_LITERAL",
+                "value": ""
+            },
+            "inputQuery": {
+                "type": "JSON_LITERAL",
+                "value": ""
+            },
+            "inputSysId": {
+                "type": "JSON_LITERAL",
+                "value": "3f39b1568db4021087de63ac7f1f00fa"
+            },
+            "inputTable": {
+                "type": "JSON_LITERAL",
+                "value": "task"
+            },
+            "screen": {
+                "type": "JSON_LITERAL",
+                "value": ""
+            },
+            "selectedTabIndex": {
+                "type": "JSON_LITERAL",
+                "value": ""
+            },
+            "shouldDisplayFormErrorsAsPageAlerts": {
+                "type": "JSON_LITERAL",
+                "value": false
+            },
+            "shouldSuppressGlobalEvents": {
+                "type": "JSON_LITERAL",
+                "value": false
+            },
+            "userPrefs": {
+                "type": "JSON_LITERAL",
+                "value": ""
+            },
+            "view": {
+                "type": "JSON_LITERAL",
+                "value": ""
+            }
+        },
+        "readEvaluationMode": "EAGER"
+    }
+]</data>
+        <description/>
+        <dispatched_events>d0c9692983b6c6103fcc9cc0deaad347</dispatched_events>
+        <ext_controller_dep/>
+        <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
+        <extension_point/>
+        <handled_events/>
+        <interactions/>
+        <interfaces/>
+        <internal_event_mappings>{}</internal_event_mappings>
+        <layout>{
+    "default": {
+        "children": null,
+        "items": [
+            {
+                "element_id": "column_layout_1",
+                "styles": {
+                    "display": "contents",
+                    "width": "100%"
+                }
+            },
+            {
+                "element_id": "button_1",
+                "styles": {
+                    "align-self": "flex-end"
+                }
+            },
+            {
+                "element_id": "column_layout_2",
+                "styles": {
+                    "display": "contents",
+                    "width": "100%"
+                }
+            },
+            {
+                "element_id": "column_layout_3",
+                "styles": {
+                    "display": "contents",
+                    "width": "100%"
+                }
+            }
+        ],
+        "root": null,
+        "rules": null,
+        "styles": {
+            "flex-direction": "column"
+        },
+        "templateId": "5832fd4d53c31010e6bcddeeff7b12db",
+        "type": "flex"
+    },
+    "version": "3.0.0"
+}</layout>
+        <macroponent_dependencies/>
+        <name>Default</name>
+        <output_prop_mapping/>
+        <props>[
+    {
+        "description": "",
+        "fieldType": "string",
+        "id": "clxewwccggoaabbvxddjhhpccmsnuiigdd",
+        "inherited": false,
+        "label": "Table",
+        "mandatory": false,
+        "name": "table",
+        "readOnly": false,
+        "selectable": false,
+        "typeMetadata": null,
+        "valueType": "string"
+    },
+    {
+        "description": "",
+        "fieldType": "string",
+        "id": "clxewwccggpaabbvyddjhhplccaggfhhij",
+        "inherited": false,
+        "label": "sysId",
+        "mandatory": false,
+        "name": "sysId",
+        "readOnly": false,
+        "selectable": false,
+        "typeMetadata": null,
+        "valueType": "string"
+    },
+    {
+        "description": "",
+        "fieldType": "string",
+        "id": "clxewwccggpaabbvzddjhhpiiociiffiijj",
+        "inherited": false,
+        "label": "query",
+        "mandatory": false,
+        "name": "query",
+        "readOnly": false,
+        "selectable": false,
+        "typeMetadata": null,
+        "valueType": "string"
+    },
+    {
+        "description": "",
+        "fieldType": "string",
+        "id": "clxewwccggpaabbwaaddjhhpgbbddddiqjjjj",
+        "inherited": false,
+        "label": "views",
+        "mandatory": false,
+        "name": "views",
+        "readOnly": false,
+        "selectable": false,
+        "typeMetadata": null,
+        "valueType": "string"
+    },
+    {
+        "description": "",
+        "fieldType": "string",
+        "id": "clxewwccggpaabbwbbddjhhpqeozawjp",
+        "inherited": false,
+        "label": "activityLogs",
+        "mandatory": false,
+        "name": "activityLogs",
+        "readOnly": false,
+        "selectable": false,
+        "typeMetadata": null,
+        "valueType": "string"
+    },
+    {
+        "description": "",
+        "fieldType": "string",
+        "id": "clxewwccggpaabbwccddjhhpvdkrjjsiim",
+        "inherited": false,
+        "label": "extraParams",
+        "mandatory": false,
+        "name": "extraParams",
+        "readOnly": false,
+        "selectable": false,
+        "typeMetadata": null,
+        "valueType": "string"
+    },
+    {
+        "description": "",
+        "fieldType": "string",
+        "id": "clxewwccggpaabbwddddjhhpzrtcpbbbo",
+        "inherited": false,
+        "label": "fields",
+        "mandatory": false,
+        "name": "fields",
+        "readOnly": false,
+        "selectable": false,
+        "typeMetadata": null,
+        "valueType": "string"
+    },
+    {
+        "description": "",
+        "fieldType": "string",
+        "id": "clxewwccggpaabbweeddjhhpeezfiuddwv",
+        "inherited": false,
+        "label": "screen",
+        "mandatory": false,
+        "name": "screen",
+        "readOnly": false,
+        "selectable": false,
+        "typeMetadata": null,
+        "valueType": "string"
+    },
+    {
+        "description": "",
+        "fieldType": "string",
+        "id": "clxewwccggpaabbwffddjhhpczfveipi",
+        "inherited": false,
+        "label": "selectedTabIndex",
+        "mandatory": false,
+        "name": "selectedTabIndex",
+        "readOnly": false,
+        "selectable": false,
+        "typeMetadata": null,
+        "valueType": "string"
+    },
+    {
+        "description": "",
+        "fieldType": "string",
+        "id": "clxewwccggpaabbwggddjhhpfiirbsyabb",
+        "inherited": false,
+        "label": "userPrefs",
+        "mandatory": false,
+        "name": "userPrefs",
+        "readOnly": false,
+        "selectable": false,
+        "typeMetadata": null,
+        "valueType": "string"
+    }
+]</props>
+        <required_translations>[ {
+  "message" : "Browse all",
+  "comment" : ""
+}, {
+  "message" : "CALMS",
+  "comment" : ""
+}, {
+  "message" : "Consolidated Aircraft\nLogistics Maintenance System",
+  "comment" : ""
+}, {
+  "message" : "Logout",
+  "comment" : ""
+}, {
+  "message" : "NowLearning",
+  "comment" : ""
+}, {
+  "message" : "Report an Issue",
+  "comment" : ""
+}, {
+  "message" : "ServiceNow",
+  "comment" : ""
+}, {
+  "message" : "Sugesstions",
+  "comment" : ""
+}, {
+  "message" : "Technical Data",
+  "comment" : ""
+}, {
+  "message" : "Title",
+  "comment" : ""
+}, {
+  "message" : "View all",
+  "comment" : ""
+}, {
+  "message" : "Work Request",
+  "comment" : ""
+} ]</required_translations>
+        <root_component/>
+        <root_component_config/>
+        <root_component_definition/>
+        <schema_version>1.0.0</schema_version>
+        <state_properties>[
+    {
+        "id": "",
+        "initialValue": null,
+        "name": "newClientStateParam1",
+        "shape": "",
+        "valueType": "string"
+    }
+]</state_properties>
+        <sys_class_name>sys_ux_macroponent</sys_class_name>
+        <sys_created_by>Tim.Dingle</sys_created_by>
+        <sys_created_on>2024-06-14 05:25:58</sys_created_on>
+        <sys_id>68855a95833686103fcc9cc0deaad31e</sys_id>
+        <sys_mod_count>64</sys_mod_count>
+        <sys_name>Default</sys_name>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_update_name>sys_ux_macroponent_68855a95833686103fcc9cc0deaad31e</sys_update_name>
+        <sys_updated_by>Tim.Dingle</sys_updated_by>
+        <sys_updated_on>2024-06-14 21:27:27</sys_updated_on>
+    </sys_ux_macroponent>
+    <sys_translated_text action="delete_multiple" query="documentkey=68855a95833686103fcc9cc0deaad31e"/>
+</record_update>

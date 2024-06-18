@@ -5,30 +5,30 @@
         <description/>
         <disable_auto_reflow>false</disable_auto_reflow>
         <event_mappings/>
-        <macroponent display_value="Logged Out">b1d9a1dc83be02103fcc9cc0deaad3a6</macroponent>
+        <macroponent display_value="Default">2a8d421d83f286103fcc9cc0deaad38e</macroponent>
         <macroponent_config/>
-        <name>Logged Out</name>
-        <order>3</order>
+        <name>Default</name>
+        <order>0</order>
         <parent_macroponent display_value="UXR Base Experience Shell">76a83a645b122010b913030a1d81c780</parent_macroponent>
         <required_translations>[ ]</required_translations>
         <rollback_screen/>
         <screen_condition/>
-        <screen_type display_value="HOME">35d9a1dc83be02103fcc9cc0deaad3a1</screen_type>
+        <screen_type display_value="Error Page">e68dc2d983f286103fcc9cc0deaad371</screen_type>
         <sys_class_name>sys_ux_screen</sys_class_name>
         <sys_created_by>Tim.Dingle</sys_created_by>
-        <sys_created_on>2024-06-10 23:41:15</sys_created_on>
+        <sys_created_on>2024-06-14 04:51:09</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>f9d9a1dc83be02103fcc9cc0deaad3a8</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>Logged Out</sys_name>
+        <sys_id>a68d421d83f286103fcc9cc0deaad391</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Default</sys_name>
         <sys_overrides/>
         <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
         <sys_policy/>
         <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
-        <sys_update_name>sys_ux_screen_f9d9a1dc83be02103fcc9cc0deaad3a8</sys_update_name>
+        <sys_update_name>sys_ux_screen_a68d421d83f286103fcc9cc0deaad391</sys_update_name>
         <sys_updated_by>Tim.Dingle</sys_updated_by>
-        <sys_updated_on>2024-06-11 12:43:57</sys_updated_on>
+        <sys_updated_on>2024-06-14 04:51:09</sys_updated_on>
     </sys_ux_screen>
-    <sys_translated_text action="delete_multiple" query="documentkey=f9d9a1dc83be02103fcc9cc0deaad3a8"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=a68d421d83f286103fcc9cc0deaad391"/>
 </record_update>
