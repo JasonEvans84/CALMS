@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="DELETE">
+        <active>true</active>
+        <admin_panel>96b9e1dc83be02103fcc9cc0deaad303</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes/>
+        <page/>
+        <parent_app display_value="Unified Navigation app shell">c86a62e2c7022010099a308dc7c26022</parent_app>
+        <path>calms</path>
+        <root_macroponent display_value="UXR Base Experience Shell">76a83a645b122010b913030a1d81c780</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>Tim.Dingle</sys_created_by>
+        <sys_created_on>2024-06-10 23:40:44</sys_created_on>
+        <sys_id>5eb9e1dc83be02103fcc9cc0deaad305</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Consolidated Aircraft Logistics Management System - CALMS</sys_name>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_update_name>sys_ux_page_registry_5eb9e1dc83be02103fcc9cc0deaad305</sys_update_name>
+        <sys_updated_by>Tim.Dingle</sys_updated_by>
+        <sys_updated_on>2024-06-11 02:23:11</sys_updated_on>
+        <title>Consolidated Aircraft Logistics Management System - CALMS</title>
+    </sys_ux_page_registry>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</application>
+        <file_path/>
+        <instance_id>08590c631ba5c29832182f8dee4bcb43</instance_id>
+        <instance_name>dev260572</instance_name>
+        <name>sys_ux_page_registry_5eb9e1dc83be02103fcc9cc0deaad305</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry"><sys_ux_page_registry action="INSERT_OR_UPDATE"><active>true</active><admin_panel>96b9e1dc83be02103fcc9cc0deaad303</admin_panel><admin_panel_table>sys_ux_app_config</admin_panel_table><auth_routes/><page/><parent_app display_value="Unified Navigation app shell">c86a62e2c7022010099a308dc7c26022</parent_app><path>calms</path><root_macroponent display_value="UXR Base Experience Shell">76a83a645b122010b913030a1d81c780</root_macroponent><sys_class_name>sys_ux_page_registry</sys_class_name><sys_created_by>Tim.Dingle</sys_created_by><sys_created_on>2024-06-10 23:40:44</sys_created_on><sys_id>5eb9e1dc83be02103fcc9cc0deaad305</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Consolidated Aircraft Logistics Management System - CALMS</sys_name><sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package><sys_policy/><sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope><sys_update_name>sys_ux_page_registry_5eb9e1dc83be02103fcc9cc0deaad305</sys_update_name><sys_updated_by>Tim.Dingle</sys_updated_by><sys_updated_on>2024-06-11 02:23:11</sys_updated_on><title>Consolidated Aircraft Logistics Management System - CALMS</title></sys_ux_page_registry></record_update>]]></payload>
+        <payload_hash>-1678773404</payload_hash>
+        <record_name>Consolidated Aircraft Logistics Management System - CALMS</record_name>
+        <reverted_from/>
+        <source>8806ed5883be02103fcc9cc0deaad301</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Tim.Dingle</sys_created_by>
+        <sys_created_on>2024-06-11 02:23:11</sys_created_on>
+        <sys_id>b5eec21083b242103fcc9cc0deaad3d2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190051b45970000001</sys_recorded_at>
+        <sys_updated_by>Tim.Dingle</sys_updated_by>
+        <sys_updated_on>2024-06-11 02:23:11</sys_updated_on>
+        <type>UX Application</type>
+        <update_guid>b9eec21051b2421031c530c27903a5d1</update_guid>
+        <update_guid_history>b9eec21051b2421031c530c27903a5d1:-1678773404,d6b9e1dc36be02101c1fc7f466844207:922433604</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Tim.Dingle</sys_created_by>
+        <sys_created_on>2024-06-18 04:46:39</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_registry">sys_ux_page_registry</sys_db_object>
+        <sys_id>c1501940e840421c900d5fc794b496a9</sys_id>
+        <sys_metadata>5eb9e1dc83be02103fcc9cc0deaad305</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Consolidated Aircraft Logistics Management System - CALMS</sys_name>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_scope_delete display_value="">52e6fb2b6ff440dcae7286a44d209be1</sys_scope_delete>
+        <sys_update_name>sys_ux_page_registry_5eb9e1dc83be02103fcc9cc0deaad305</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_registry_5eb9e1dc83be02103fcc9cc0deaad305">b5eec21083b242103fcc9cc0deaad3d2</sys_update_version>
+        <sys_updated_by>Tim.Dingle</sys_updated_by>
+        <sys_updated_on>2024-06-18 04:46:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

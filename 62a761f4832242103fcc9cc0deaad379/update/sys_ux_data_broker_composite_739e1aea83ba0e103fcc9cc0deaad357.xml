@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_data_broker_composite">
+    <sys_ux_data_broker_composite action="INSERT_OR_UPDATE">
+        <api_name>x_1284052_consol_0.Get Wing Image</api_name>
+        <data_drivers/>
+        <description/>
+        <name>Get Wing Image</name>
+        <operations/>
+        <output_properties/>
+        <private>false</private>
+        <props/>
+        <required_translations>[ ]</required_translations>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_data_broker_composite</sys_class_name>
+        <sys_created_by>Jason.Evans</sys_created_by>
+        <sys_created_on>2024-06-18 03:20:58</sys_created_on>
+        <sys_id>739e1aea83ba0e103fcc9cc0deaad357</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Get Wing Image</sys_name>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_update_name>sys_ux_data_broker_composite_739e1aea83ba0e103fcc9cc0deaad357</sys_update_name>
+        <sys_updated_by>Jason.Evans</sys_updated_by>
+        <sys_updated_on>2024-06-18 03:20:58</sys_updated_on>
+    </sys_ux_data_broker_composite>
+    <sys_translated_text action="delete_multiple" query="documentkey=739e1aea83ba0e103fcc9cc0deaad357"/>
+</record_update>

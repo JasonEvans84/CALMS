@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="7b0ce66e83fa0e103fcc9cc0deaad37b" label="Patch notes" max_length="40" name="x_1284052_consol_0_patch_notes" type="collection">
+        <element label="CALMS version" max_length="40" name="calms_version" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Patch date" max_length="40" name="patch_date" type="glide_date_time"/>
+        <element label="Patch notes" max_length="8000" name="patch_notes" type="html"/>
+    </element>
+</database>
