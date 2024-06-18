@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="749a9819837a46103fcc9cc0deaad375" label="Discrepancy" max_length="40" name="x_1284052_consol_0_discrepancy" type="collection">
-        <element default="javascript:gs.getUserID();" label="Discovered by" mandatory="true" max_length="32" name="discovered_by" reference="x_1284052_consol_0_technician" type="reference"/>
+        <element label="Discovered by" mandatory="true" max_length="32" name="discovered_by" reference="x_1284052_consol_0_technician" type="reference"/>
         <element label="System" mandatory="true" max_length="32" name="system" reference="x_1284052_consol_0_systems_list" type="reference"/>
         <element label="Aircraft" mandatory="true" max_length="32" name="aircraft" reference="x_1284052_consol_0_aircraft" type="reference"/>
         <element label="Job status" mandatory="true" max_length="32" name="job_status" reference="x_1284052_consol_0_job_status" type="reference"/>

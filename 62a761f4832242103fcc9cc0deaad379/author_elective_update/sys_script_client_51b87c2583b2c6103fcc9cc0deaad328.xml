@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="DELETE">
+        <active>false</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description>Populate the user workcenter and discovered by fields to be the logged in users. </description>
+        <field/>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Populate User Info </name>
+        <order/>
+        <script><![CDATA[function onLoad() {
+    if (g_form.isNewRecord()) {
+		g_form.setValue('discovered_by', 'g_user.userID');
+            }
+    
+    }
+]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>Rolando.Garza</sys_created_by>
+        <sys_created_on>2024-06-14 17:20:39</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>51b87c2583b2c6103fcc9cc0deaad328</sys_id>
+        <sys_mod_count>18</sys_mod_count>
+        <sys_name>Populate User Info </sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_update_name>sys_script_client_51b87c2583b2c6103fcc9cc0deaad328</sys_update_name>
+        <sys_updated_by>Rolando.Garza</sys_updated_by>
+        <sys_updated_on>2024-06-14 23:05:14</sys_updated_on>
+        <table>x_1284052_consol_0_discrepancy</table>
+        <type>onLoad</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</application>
+        <file_path/>
+        <instance_id>08590c631ba5c29832182f8dee4bcb43</instance_id>
+        <instance_name>dev260572</instance_name>
+        <name>sys_script_client_51b87c2583b2c6103fcc9cc0deaad328</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script_client"&gt;&lt;sys_script_client action="INSERT_OR_UPDATE"&gt;&lt;active&gt;false&lt;/active&gt;&lt;applies_extended&gt;false&lt;/applies_extended&gt;&lt;condition/&gt;&lt;description&gt;Populate the user workcenter and discovered by fields to be the logged in users. &lt;/description&gt;&lt;field/&gt;&lt;global&gt;true&lt;/global&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;messages/&gt;&lt;name&gt;Populate User Info &lt;/name&gt;&lt;order/&gt;&lt;script&gt;&lt;![CDATA[function onLoad() {
+    if (g_form.isNewRecord()) {
+		g_form.setValue('discovered_by', 'g_user.userID');
+            }
+    
+    }
+]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_client&lt;/sys_class_name&gt;&lt;sys_created_by&gt;Rolando.Garza&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-06-14 17:20:39&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;51b87c2583b2c6103fcc9cc0deaad328&lt;/sys_id&gt;&lt;sys_mod_count&gt;18&lt;/sys_mod_count&gt;&lt;sys_name&gt;Populate User Info &lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0"&gt;62a761f4832242103fcc9cc0deaad379&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Consolidated Aircraft Logistics Management System"&gt;62a761f4832242103fcc9cc0deaad379&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_client_51b87c2583b2c6103fcc9cc0deaad328&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;Rolando.Garza&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-06-14 23:05:14&lt;/sys_updated_on&gt;&lt;table&gt;x_1284052_consol_0_discrepancy&lt;/table&gt;&lt;type&gt;onLoad&lt;/type&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_script_client&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1518804978</payload_hash>
+        <record_name>Populate User Info </record_name>
+        <reverted_from/>
+        <source>83f9a09d83ba46103fcc9cc0deaad35d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Rolando.Garza</sys_created_by>
+        <sys_created_on>2024-06-14 23:05:14</sys_created_on>
+        <sys_id>01f74e61837ac6103fcc9cc0deaad315</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19018ff79e80000001</sys_recorded_at>
+        <sys_updated_by>Rolando.Garza</sys_updated_by>
+        <sys_updated_on>2024-06-14 23:05:14</sys_updated_on>
+        <type>Client Script</type>
+        <update_guid>85f74e61de7ac610314022ba6f678214</update_guid>
+        <update_guid_history>85f74e61de7ac610314022ba6f678214:1518804978,c0d78ae18b7ac61005c7fc434d293195:-1583410587,65b54eed2e3ac610c41efd5a88c68525:-999665713,4479a1297fb6c61046e13bd2a0f3f9a0:1929396677,09f521a1a8b6c610e8dac1e975513cb2:1884391672,dd15ad21a2b6c6104551df653895fe4c:1064217881,174469edd976c610b05127e0807d3a65:19269018,6124e5ed1e76c61053c34ed1853a8389:2145224999,f4585d6d7f36c6101cf72030a68c1f07:19269018,432601e5c9f2c610e5516b7a3c69a829:-1461848278,9bc5c9e5e2f2c610dbf006dda1cecc8f:259057377,f2a30525a2f2c610c7b803db3388b5e2:1380128826,19824da126f2c610236edea3e8d39134:-771016553,691205a196f2c61022140053fd622e22:1458641563,033e302ddab2c6107c67e36a81d1c167:-612112358,16bdf4a96db2c6109df9d2641892e08e:-425871194,4c4b3029e2b2c610ee56adc2625b9b97:476178052,37baf4e5c8b2c610764adf5ba9ae63c2:1476980136,a919706505b2c61037e66a0926bd36ff:103135438</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Rolando.Garza</sys_created_by>
+        <sys_created_on>2024-06-15 19:01:43</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_client">sys_script_client</sys_db_object>
+        <sys_id>b21581d6742940a0b89a8501ee678040</sys_id>
+        <sys_metadata>51b87c2583b2c6103fcc9cc0deaad328</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Populate User Info </sys_name>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_parent display_value="Discrepancy">749a9819837a46103fcc9cc0deaad375</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_scope_delete display_value="">52e6fb2b6ff440dcae7286a44d209be1</sys_scope_delete>
+        <sys_update_name>sys_script_client_51b87c2583b2c6103fcc9cc0deaad328</sys_update_name>
+        <sys_update_version display_value="sys_script_client_51b87c2583b2c6103fcc9cc0deaad328">01f74e61837ac6103fcc9cc0deaad315</sys_update_version>
+        <sys_updated_by>Rolando.Garza</sys_updated_by>
+        <sys_updated_on>2024-06-15 19:01:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,727 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <acls/>
+        <active>true</active>
+        <annotation/>
+        <attributes>browserActivatedIn=safari,integrationActivatedIn=standalone,labelCacheCleanUpExecuted=true,timeFromCreateToActivate=1380000,viewActivatedIn=naturalLanguage</attributes>
+        <authored_on_release_version>25000</authored_on_release_version>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>Created a child discrepancy record with pre filled information from parent.</description>
+        <display_name_after_preview/>
+        <flow_priority/>
+        <generation_source/>
+        <internal_name>create_child_discrepancy_record</internal_name>
+        <label_cache>[{"name":"subflow.parentjobnumber.aircraft","label":"Input➛parentJobNumber➛Aircraft","reference":"x_1284052_consol_0_aircraft","reference_display":"Aircraft","type":"reference","base_type":"reference","parent_table_name":"x_1284052_consol_0_discrepancy","column_name":"aircraft","usedInstances":{"acc29355-45de-4d26-bda0-b00abba93848":["aircraft"]}},{"name":"subflow.parentjobnumber.aircraft.tail_number","label":"Input➛parentJobNumber➛Aircraft➛Tail number","reference":"","reference_display":"Tail number","type":"string","base_type":"string","parent_table_name":"x_1284052_consol_0_aircraft","column_name":"tail_number","usedInstances":{"acc29355-45de-4d26-bda0-b00abba93848":["aircraft"]}},{"name":"subflow.parentjobnumber","label":"Input➛parentJobNumber","reference":"x_1284052_consol_0_discrepancy","reference_display":"Discrepancy","type":"reference","base_type":"reference","usedInstances":{"acc29355-45de-4d26-bda0-b00abba93848":["parent_job"]},"attributes":{"sourceUiUniqueId":"","sourceType":"","sourceId":"","uiUniqueId":"78214cb8-58d2-40bc-b096-cf06f5a0649b","uiTypeLabel":"Reference"}}]</label_cache>
+        <master_snapshot>3d39a8e98332c6103fcc9cc0deaad376</master_snapshot>
+        <name>Create Child Discrepancy Record</name>
+        <natlang/>
+        <outputs/>
+        <pre_compiled>false</pre_compiled>
+        <remote_trigger_id/>
+        <run_as>user</run_as>
+        <run_with_roles/>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>published</status>
+        <substatus/>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>Rolando.Garza</sys_created_by>
+        <sys_created_on>2024-06-14 16:09:16</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>08c868a98332c6103fcc9cc0deaad33d</sys_id>
+        <sys_mod_count>15</sys_mod_count>
+        <sys_name>Create Child Discrepancy Record</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_update_name>sys_hub_flow_08c868a98332c6103fcc9cc0deaad33d</sys_update_name>
+        <sys_updated_by>Rolando.Garza</sys_updated_by>
+        <sys_updated_on>2024-06-14 16:32:22</sys_updated_on>
+        <type>subflow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=08c868a98332c6103fcc9cc0deaad33d"/>
+    <sys_variable_value action="delete_multiple" query="document_key=08c868a98332c6103fcc9cc0deaad33d"/>
+    <sys_hub_trigger_instance action="delete_multiple" query="flow=08c868a98332c6103fcc9cc0deaad33d"/>
+    <sys_hub_flow_stage action="delete_multiple" query="flow=08c868a98332c6103fcc9cc0deaad33d"/>
+    <sys_flow_cat_variable_model action="delete_multiple" query="id=08c868a98332c6103fcc9cc0deaad33d^sys_idNOT INc4c868a98332c6103fcc9cc0deaad33e"/>
+    <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
+        <id>08c868a98332c6103fcc9cc0deaad33d</id>
+        <name>Create Child Discrepancy Record</name>
+        <sys_created_by>Rolando.Garza</sys_created_by>
+        <sys_created_on>2024-06-14 16:09:16</sys_created_on>
+        <sys_id>c4c868a98332c6103fcc9cc0deaad33e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_scope/>
+        <sys_updated_by>Rolando.Garza</sys_updated_by>
+        <sys_updated_on>2024-06-14 16:09:16</sys_updated_on>
+    </sys_flow_cat_variable_model>
+    <sys_flow_cat_variable action="delete_multiple" query="flow_catalog_model=c4c868a98332c6103fcc9cc0deaad33e"/>
+    <sys_hub_flow_input action="delete_multiple" query="model=08c868a98332c6103fcc9cc0deaad33d^sys_idNOT IN64f860e98332c6103fcc9cc0deaad365,ecf860e98332c6103fcc9cc0deaad35f"/>
+    <sys_hub_flow_input action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=string,uiTypeLabel=String,uiUniqueId=87b22a2e-1a15-4cf3-9e3e-50b40c679b54</attributes>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
+        <choice_field/>
+        <choice_table/>
+        <column_label/>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>tail_number</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <help/>
+        <hint/>
+        <internal_type display_value="String">string</internal_type>
+        <label>tail_number</label>
+        <mandatory>false</mandatory>
+        <max_length>8000</max_length>
+        <model display_value="Create Child Discrepancy Record">08c868a98332c6103fcc9cc0deaad33d</model>
+        <model_id>08c868a98332c6103fcc9cc0deaad33d</model_id>
+        <model_table>sys_hub_flow</model_table>
+        <name>var__m_sys_hub_flow_input_08c868a98332c6103fcc9cc0deaad33d</name>
+        <next_element/>
+        <order>2</order>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_hub_flow_input</sys_class_name>
+        <sys_created_by>Rolando.Garza</sys_created_by>
+        <sys_created_on>2024-06-14 16:10:08</sys_created_on>
+        <sys_id>64f860e98332c6103fcc9cc0deaad365</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>Rolando.Garza</sys_updated_by>
+        <sys_updated_on>2024-06-14 16:11:18</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_hub_flow_input>
+    <sys_hub_action_input_action_instance action="delete_multiple" query="action_input=64f860e98332c6103fcc9cc0deaad365"/>
+    <sys_hub_flow_input action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=reference,uiTypeLabel=Reference,uiUniqueId=78214cb8-58d2-40bc-b096-cf06f5a0649b</attributes>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
+        <choice_field/>
+        <choice_table>x_1284052_consol_0_discrepancy</choice_table>
+        <column_label/>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>parentjobnumber</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <help/>
+        <hint/>
+        <internal_type display_value="Reference">reference</internal_type>
+        <label>parentJobNumber</label>
+        <mandatory>false</mandatory>
+        <max_length>32</max_length>
+        <model display_value="Create Child Discrepancy Record">08c868a98332c6103fcc9cc0deaad33d</model>
+        <model_id>08c868a98332c6103fcc9cc0deaad33d</model_id>
+        <model_table>sys_hub_flow</model_table>
+        <name>var__m_sys_hub_flow_input_08c868a98332c6103fcc9cc0deaad33d</name>
+        <next_element/>
+        <order>1</order>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference display_value="" name="x_1284052_consol_0_discrepancy">x_1284052_consol_0_discrepancy</reference>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_hub_flow_input</sys_class_name>
+        <sys_created_by>Rolando.Garza</sys_created_by>
+        <sys_created_on>2024-06-14 16:10:08</sys_created_on>
+        <sys_id>ecf860e98332c6103fcc9cc0deaad35f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>Rolando.Garza</sys_updated_by>
+        <sys_updated_on>2024-06-14 16:10:08</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_hub_flow_input>
+    <sys_hub_action_input_action_instance action="delete_multiple" query="action_input=ecf860e98332c6103fcc9cc0deaad35f"/>
+    <sys_hub_flow_output action="delete_multiple" query="model=08c868a98332c6103fcc9cc0deaad33d"/>
+    <sys_hub_alias_mapping action="delete_multiple" query="source_id=08c868a98332c6103fcc9cc0deaad33d"/>
+    <sys_hub_action_instance action="delete_multiple" query="flow=08c868a98332c6103fcc9cc0deaad33d^sys_idNOT INbc0924e98332c6103fcc9cc0deaad315"/>
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Create Record">2de05916c31332002841b63b12d3aee1</action_type>
+        <action_type_parent display_value="Create Record">02f0b88cc3c632002841b63b12d3aeff</action_type_parent>
+        <attributes/>
+        <comment/>
+        <display_text/>
+        <flow display_value="Create Child Discrepancy Record">08c868a98332c6103fcc9cc0deaad33d</flow>
+        <generation_source/>
+        <order>1</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>Rolando.Garza</sys_created_by>
+        <sys_created_on>2024-06-14 16:10:25</sys_created_on>
+        <sys_id>bc0924e98332c6103fcc9cc0deaad315</sys_id>
+        <sys_mod_count>26</sys_mod_count>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_updated_by>Rolando.Garza</sys_updated_by>
+        <sys_updated_on>2024-06-14 16:37:25</sys_updated_on>
+        <ui_id>acc29355-45de-4d26-bda0-b00abba93848</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=bc0924e98332c6103fcc9cc0deaad315"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>bc0924e98332c6103fcc9cc0deaad315</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Rolando.Garza</sys_created_by>
+        <sys_created_on>2024-06-14 16:11:01</sys_created_on>
+        <sys_id>6529a4e98332c6103fcc9cc0deaad30a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Rolando.Garza</sys_updated_by>
+        <sys_updated_on>2024-06-14 16:11:01</sys_updated_on>
+        <value>x_1284052_consol_0_child_discrepancy</value>
+        <variable display_value="Table">61e05916c31332002841b63b12d3aee4</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=bc0924e98332c6103fcc9cc0deaad315"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table_name</field>
+        <id>bc0924e98332c6103fcc9cc0deaad315</id>
+        <sys_created_by>Rolando.Garza</sys_created_by>
+        <sys_created_on>2024-06-14 16:11:01</sys_created_on>
+        <sys_id>2d29a4e98332c6103fcc9cc0deaad309</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Rolando.Garza</sys_updated_by>
+        <sys_updated_on>2024-06-14 16:11:01</sys_updated_on>
+        <table>var__m_sys_hub_action_input_2de05916c31332002841b63b12d3aee1</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>values</field>
+        <id>bc0924e98332c6103fcc9cc0deaad315</id>
+        <sys_created_by>Rolando.Garza</sys_created_by>
+        <sys_created_on>2024-06-14 16:11:01</sys_created_on>
+        <sys_id>e129a4e98332c6103fcc9cc0deaad30a</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>Rolando.Garza</sys_updated_by>
+        <sys_updated_on>2024-06-14 16:32:12</sys_updated_on>
+        <table>var__m_sys_hub_action_input_2de05916c31332002841b63b12d3aee1</table>
+        <value>aircraft={{subflow.parentjobnumber.aircraft}}^parent_job={{subflow.parentjobnumber}}^child=true</value>
+    </sys_element_mapping>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=bc0924e98332c6103fcc9cc0deaad315"/>
+    <sys_hub_alias_mapping action="delete_multiple" query="source_id=bc0924e98332c6103fcc9cc0deaad315"/>
+    <sys_hub_sub_flow_instance action="delete_multiple" query="flow=08c868a98332c6103fcc9cc0deaad33d"/>
+    <sys_hub_flow_logic action="delete_multiple" query="flow=08c868a98332c6103fcc9cc0deaad33d"/>
+    <sys_hub_pill_compound action="delete_multiple" query="attached_to=08c868a98332c6103fcc9cc0deaad33d"/>
+    <sys_hub_flow_variable action="delete_multiple" query="model=08c868a98332c6103fcc9cc0deaad33d"/>
+    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_flow_input_08c868a98332c6103fcc9cc0deaad33d^sys_idNOT IN28f860e98332c6103fcc9cc0deaad367,64f860e98332c6103fcc9cc0deaad364"/>
+    <sys_documentation action="INSERT_OR_UPDATE">
+        <element>tail_number</element>
+        <help/>
+        <hint/>
+        <label>tail_number</label>
+        <language>en</language>
+        <name>var__m_sys_hub_flow_input_08c868a98332c6103fcc9cc0deaad33d</name>
+        <plural/>
+        <sys_class_name>sys_documentation</sys_class_name>
+        <sys_created_by>Rolando.Garza</sys_created_by>
+        <sys_created_on>2024-06-14 16:10:08</sys_created_on>
+        <sys_id>28f860e98332c6103fcc9cc0deaad367</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>Rolando.Garza</sys_updated_by>
+        <sys_updated_on>2024-06-14 16:10:08</sys_updated_on>
+        <url/>
+        <url_target/>
+    </sys_documentation>
+    <sys_documentation action="INSERT_OR_UPDATE">
+        <element>parentjobnumber</element>
+        <help/>
+        <hint/>
+        <label>parentJobNumber</label>
+        <language>en</language>
+        <name>var__m_sys_hub_flow_input_08c868a98332c6103fcc9cc0deaad33d</name>
+        <plural/>
+        <sys_class_name>sys_documentation</sys_class_name>
+        <sys_created_by>Rolando.Garza</sys_created_by>
+        <sys_created_on>2024-06-14 16:10:08</sys_created_on>
+        <sys_id>64f860e98332c6103fcc9cc0deaad364</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>Rolando.Garza</sys_updated_by>
+        <sys_updated_on>2024-06-14 16:10:08</sys_updated_on>
+        <url/>
+        <url_target/>
+    </sys_documentation>
+    <sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_input_08c868a98332c6103fcc9cc0deaad33d"/>
+    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_flow_output_08c868a98332c6103fcc9cc0deaad33d"/>
+    <sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_output_08c868a98332c6103fcc9cc0deaad33d"/>
+    <sys_hub_flow_snapshot action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <acls/>
+        <active>true</active>
+        <annotation/>
+        <attributes>browserActivatedIn=safari,integrationActivatedIn=standalone,labelCacheCleanUpExecuted=true,viewActivatedIn=diagramming</attributes>
+        <authored_on_release_version>25000</authored_on_release_version>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>Created a child discrepancy record with pre filled information from parent.</description>
+        <flow_priority/>
+        <internal_name>create_child_discrepancy_record</internal_name>
+        <label_cache>[{"name":"subflow.parentjobnumber.aircraft","label":"Input➛parentJobNumber➛Aircraft","reference":"x_1284052_consol_0_aircraft","reference_display":"Aircraft","type":"reference","base_type":"reference","parent_table_name":"x_1284052_consol_0_discrepancy","column_name":"aircraft","usedInstances":{"acc29355-45de-4d26-bda0-b00abba93848":["aircraft"]}},{"name":"subflow.parentjobnumber.aircraft.tail_number","label":"Input➛parentJobNumber➛Aircraft➛Tail number","reference":"","reference_display":"Tail number","type":"string","base_type":"string","parent_table_name":"x_1284052_consol_0_aircraft","column_name":"tail_number","usedInstances":{"acc29355-45de-4d26-bda0-b00abba93848":["aircraft"]}},{"name":"subflow.parentjobnumber","label":"Input➛parentJobNumber","reference":"x_1284052_consol_0_discrepancy","reference_display":"Discrepancy","type":"reference","base_type":"reference","usedInstances":{"acc29355-45de-4d26-bda0-b00abba93848":["parent_job"]},"attributes":{"sourceUiUniqueId":"","sourceType":"","sourceId":"","uiUniqueId":"78214cb8-58d2-40bc-b096-cf06f5a0649b","uiTypeLabel":"Reference"}}]</label_cache>
+        <master>true</master>
+        <name>Create Child Discrepancy Record</name>
+        <natlang/>
+        <outputs/>
+        <parent_flow display_value="Create Child Discrepancy Record">08c868a98332c6103fcc9cc0deaad33d</parent_flow>
+        <remote_trigger_id/>
+        <run_as>user</run_as>
+        <run_with_roles/>
+        <sc_callable>false</sc_callable>
+        <status>published</status>
+        <sys_class_name>sys_hub_flow_snapshot</sys_class_name>
+        <sys_created_by>Rolando.Garza</sys_created_by>
+        <sys_created_on>2024-06-14 16:11:19</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3d39a8e98332c6103fcc9cc0deaad376</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>Rolando.Garza</sys_updated_by>
+        <sys_updated_on>2024-06-14 16:32:17</sys_updated_on>
+        <type>subflow</type>
+    </sys_hub_flow_snapshot>
+    <sys_translated_text action="delete_multiple" query="documentkey=3d39a8e98332c6103fcc9cc0deaad376"/>
+    <sys_variable_value action="delete_multiple" query="document_key=3d39a8e98332c6103fcc9cc0deaad376"/>
+    <sys_hub_trigger_instance action="delete_multiple" query="flow=3d39a8e98332c6103fcc9cc0deaad376"/>
+    <sys_hub_flow_stage action="delete_multiple" query="flow=3d39a8e98332c6103fcc9cc0deaad376"/>
+    <sys_flow_cat_variable_model action="delete_multiple" query="id=3d39a8e98332c6103fcc9cc0deaad376^sys_idNOT IN3d39a8e98332c6103fcc9cc0deaad377"/>
+    <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
+        <id>3d39a8e98332c6103fcc9cc0deaad376</id>
+        <name>Create Child Discrepancy Record</name>
+        <sys_created_by>Rolando.Garza</sys_created_by>
+        <sys_created_on>2024-06-14 16:11:19</sys_created_on>
+        <sys_id>3d39a8e98332c6103fcc9cc0deaad377</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_scope/>
+        <sys_updated_by>Rolando.Garza</sys_updated_by>
+        <sys_updated_on>2024-06-14 16:11:19</sys_updated_on>
+    </sys_flow_cat_variable_model>
+    <sys_flow_cat_variable action="delete_multiple" query="flow_catalog_model=3d39a8e98332c6103fcc9cc0deaad377"/>
+    <sys_hub_flow_input action="delete_multiple" query="model=3d39a8e98332c6103fcc9cc0deaad376^sys_idNOT IN8a39a8e98332c6103fcc9cc0deaad39d,f939a8e98332c6103fcc9cc0deaad378"/>
+    <sys_hub_flow_input action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=string,uiTypeLabel=String,uiUniqueId=87b22a2e-1a15-4cf3-9e3e-50b40c679b54</attributes>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
+        <choice_field/>
+        <choice_table/>
+        <column_label/>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>tail_number</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <help/>
+        <hint/>
+        <internal_type display_value="String">string</internal_type>
+        <label>tail_number</label>
+        <mandatory>false</mandatory>
+        <max_length>8000</max_length>
+        <model display_value="Create Child Discrepancy Record">3d39a8e98332c6103fcc9cc0deaad376</model>
+        <model_id>3d39a8e98332c6103fcc9cc0deaad376</model_id>
+        <model_table>sys_hub_flow_snapshot</model_table>
+        <name>var__m_sys_hub_flow_input_3d39a8e98332c6103fcc9cc0deaad376</name>
+        <next_element/>
+        <order>2</order>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_hub_flow_input</sys_class_name>
+        <sys_created_by>Rolando.Garza</sys_created_by>
+        <sys_created_on>2024-06-14 16:11:19</sys_created_on>
+        <sys_id>8a39a8e98332c6103fcc9cc0deaad39d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>Rolando.Garza</sys_updated_by>
+        <sys_updated_on>2024-06-14 16:11:19</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_hub_flow_input>
+    <sys_hub_action_input_action_instance action="delete_multiple" query="action_input=8a39a8e98332c6103fcc9cc0deaad39d"/>
+    <sys_hub_flow_input action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=reference,uiTypeLabel=Reference,uiUniqueId=78214cb8-58d2-40bc-b096-cf06f5a0649b</attributes>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
+        <choice_field/>
+        <choice_table>x_1284052_consol_0_discrepancy</choice_table>
+        <column_label/>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>parentjobnumber</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <help/>
+        <hint/>
+        <internal_type display_value="Reference">reference</internal_type>
+        <label>parentJobNumber</label>
+        <mandatory>false</mandatory>
+        <max_length>32</max_length>
+        <model display_value="Create Child Discrepancy Record">3d39a8e98332c6103fcc9cc0deaad376</model>
+        <model_id>3d39a8e98332c6103fcc9cc0deaad376</model_id>
+        <model_table>sys_hub_flow_snapshot</model_table>
+        <name>var__m_sys_hub_flow_input_3d39a8e98332c6103fcc9cc0deaad376</name>
+        <next_element/>
+        <order>1</order>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference display_value="" name="x_1284052_consol_0_discrepancy">x_1284052_consol_0_discrepancy</reference>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_hub_flow_input</sys_class_name>
+        <sys_created_by>Rolando.Garza</sys_created_by>
+        <sys_created_on>2024-06-14 16:11:19</sys_created_on>
+        <sys_id>f939a8e98332c6103fcc9cc0deaad378</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>Rolando.Garza</sys_updated_by>
+        <sys_updated_on>2024-06-14 16:11:19</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_hub_flow_input>
+    <sys_hub_action_input_action_instance action="delete_multiple" query="action_input=f939a8e98332c6103fcc9cc0deaad378"/>
+    <sys_hub_flow_output action="delete_multiple" query="model=3d39a8e98332c6103fcc9cc0deaad376"/>
+    <sys_hub_alias_mapping action="delete_multiple" query="source_id=3d39a8e98332c6103fcc9cc0deaad376"/>
+    <sys_hub_action_instance action="delete_multiple" query="flow=3d39a8e98332c6103fcc9cc0deaad376^sys_idNOT IN8e39a8e98332c6103fcc9cc0deaad3ad"/>
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Create Record">2de05916c31332002841b63b12d3aee1</action_type>
+        <action_type_parent display_value="Create Record">02f0b88cc3c632002841b63b12d3aeff</action_type_parent>
+        <attributes/>
+        <comment/>
+        <display_text/>
+        <flow display_value="Create Child Discrepancy Record">3d39a8e98332c6103fcc9cc0deaad376</flow>
+        <generation_source/>
+        <order>1</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>Rolando.Garza</sys_created_by>
+        <sys_created_on>2024-06-14 16:11:19</sys_created_on>
+        <sys_id>8e39a8e98332c6103fcc9cc0deaad3ad</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_updated_by>Rolando.Garza</sys_updated_by>
+        <sys_updated_on>2024-06-14 16:32:17</sys_updated_on>
+        <ui_id>acc29355-45de-4d26-bda0-b00abba93848</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=8e39a8e98332c6103fcc9cc0deaad3ad"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>8e39a8e98332c6103fcc9cc0deaad3ad</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Rolando.Garza</sys_created_by>
+        <sys_created_on>2024-06-14 16:11:19</sys_created_on>
+        <sys_id>8239a8e98332c6103fcc9cc0deaad3af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Rolando.Garza</sys_updated_by>
+        <sys_updated_on>2024-06-14 16:11:19</sys_updated_on>
+        <value>x_1284052_consol_0_child_discrepancy</value>
+        <variable display_value="Table">61e05916c31332002841b63b12d3aee4</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=8e39a8e98332c6103fcc9cc0deaad3ad"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table_name</field>
+        <id>8e39a8e98332c6103fcc9cc0deaad3ad</id>
+        <sys_created_by>Rolando.Garza</sys_created_by>
+        <sys_created_on>2024-06-14 16:11:19</sys_created_on>
+        <sys_id>4e39a8e98332c6103fcc9cc0deaad3ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Rolando.Garza</sys_updated_by>
+        <sys_updated_on>2024-06-14 16:11:19</sys_updated_on>
+        <table>var__m_sys_hub_action_input_2de05916c31332002841b63b12d3aee1</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>values</field>
+        <id>8e39a8e98332c6103fcc9cc0deaad3ad</id>
+        <sys_created_by>Rolando.Garza</sys_created_by>
+        <sys_created_on>2024-06-14 16:11:19</sys_created_on>
+        <sys_id>0239a8e98332c6103fcc9cc0deaad3af</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>Rolando.Garza</sys_updated_by>
+        <sys_updated_on>2024-06-14 16:32:17</sys_updated_on>
+        <table>var__m_sys_hub_action_input_2de05916c31332002841b63b12d3aee1</table>
+        <value>aircraft={{subflow.parentjobnumber.aircraft}}^parent_job={{subflow.parentjobnumber}}^child=true</value>
+    </sys_element_mapping>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=8e39a8e98332c6103fcc9cc0deaad3ad"/>
+    <sys_hub_alias_mapping action="delete_multiple" query="source_id=8e39a8e98332c6103fcc9cc0deaad3ad"/>
+    <sys_hub_sub_flow_instance action="delete_multiple" query="flow=3d39a8e98332c6103fcc9cc0deaad376"/>
+    <sys_hub_flow_logic action="delete_multiple" query="flow=3d39a8e98332c6103fcc9cc0deaad376"/>
+    <sys_hub_pill_compound action="delete_multiple" query="attached_to=3d39a8e98332c6103fcc9cc0deaad376"/>
+    <sys_hub_flow_variable action="delete_multiple" query="model=3d39a8e98332c6103fcc9cc0deaad376"/>
+    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_flow_input_3d39a8e98332c6103fcc9cc0deaad376^sys_idNOT IN0239a8e98332c6103fcc9cc0deaad39a,ce39a8e98332c6103fcc9cc0deaad3a1"/>
+    <sys_documentation action="INSERT_OR_UPDATE">
+        <element>parentjobnumber</element>
+        <help/>
+        <hint/>
+        <label>parentJobNumber</label>
+        <language>en</language>
+        <name>var__m_sys_hub_flow_input_3d39a8e98332c6103fcc9cc0deaad376</name>
+        <plural/>
+        <sys_class_name>sys_documentation</sys_class_name>
+        <sys_created_by>Rolando.Garza</sys_created_by>
+        <sys_created_on>2024-06-14 16:11:19</sys_created_on>
+        <sys_id>0239a8e98332c6103fcc9cc0deaad39a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>Rolando.Garza</sys_updated_by>
+        <sys_updated_on>2024-06-14 16:11:19</sys_updated_on>
+        <url/>
+        <url_target/>
+    </sys_documentation>
+    <sys_documentation action="INSERT_OR_UPDATE">
+        <element>tail_number</element>
+        <help/>
+        <hint/>
+        <label>tail_number</label>
+        <language>en</language>
+        <name>var__m_sys_hub_flow_input_3d39a8e98332c6103fcc9cc0deaad376</name>
+        <plural/>
+        <sys_class_name>sys_documentation</sys_class_name>
+        <sys_created_by>Rolando.Garza</sys_created_by>
+        <sys_created_on>2024-06-14 16:11:19</sys_created_on>
+        <sys_id>ce39a8e98332c6103fcc9cc0deaad3a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>Rolando.Garza</sys_updated_by>
+        <sys_updated_on>2024-06-14 16:11:19</sys_updated_on>
+        <url/>
+        <url_target/>
+    </sys_documentation>
+    <sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_input_3d39a8e98332c6103fcc9cc0deaad376"/>
+    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_flow_output_3d39a8e98332c6103fcc9cc0deaad376"/>
+    <sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_output_3d39a8e98332c6103fcc9cc0deaad376"/>
+    <sys_hub_flow action="UPDATE">
+        <sys_id>08c868a98332c6103fcc9cc0deaad33d</sys_id>
+        <latest_snapshot>3d39a8e98332c6103fcc9cc0deaad376</latest_snapshot>
+        <compiler_build>glide-washingtondc-12-20-2023__patch3-hotfix1-05-12-2024_05-16-2024_0813.zip</compiler_build>
+    </sys_hub_flow>
+    <sys_flow_trigger_plan action="delete_multiple" query="plan_id=08c868a98332c6103fcc9cc0deaad33d"/>
+    <sys_flow_subflow_plan action="delete_multiple" query="plan_id=08c868a98332c6103fcc9cc0deaad33d^sys_idNOT IN0239a8e98332c6103fcc9cc0deaad3cf"/>
+    <sys_flow_subflow_plan action="INSERT_OR_UPDATE">
+        <plan>{"type":"PlanProxy","persistor":{"@class":".ChunkingPlanPersistor","table":"sys_flow_subflow_plan","id":"0239a8e98332c6103fcc9cc0deaad3cf","name":"plan","plan_signature":null}}</plan>
+        <plan_id display_value="Create Child Discrepancy Record">08c868a98332c6103fcc9cc0deaad33d</plan_id>
+        <snapshot>cc3fe4a58372c6103fcc9cc0deaad3fc</snapshot>
+        <sys_created_by>Rolando.Garza</sys_created_by>
+        <sys_created_on>2024-06-14 16:11:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0239a8e98332c6103fcc9cc0deaad3cf</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_overrides/>
+        <sys_scope/>
+        <sys_updated_by>Rolando.Garza</sys_updated_by>
+        <sys_updated_on>2024-06-14 16:32:17</sys_updated_on>
+    </sys_flow_subflow_plan>
+</record_update>

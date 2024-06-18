@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_action">
+    <sys_ui_action action="DELETE">
+        <action_name>create_child_discrepancy</action_name>
+        <active>true</active>
+        <client>false</client>
+        <client_script_v2><![CDATA[function onClick(g_form) {
+
+}]]></client_script_v2>
+        <comments>Create Child Discrepancy Task with UI Action</comments>
+        <condition/>
+        <form_action>true</form_action>
+        <form_button>true</form_button>
+        <form_button_v2>false</form_button_v2>
+        <form_context_menu>false</form_context_menu>
+        <form_link>false</form_link>
+        <form_menu_button_v2>false</form_menu_button_v2>
+        <form_style/>
+        <format_for_configurable_workspace>false</format_for_configurable_workspace>
+        <hint/>
+        <isolate_script>false</isolate_script>
+        <list_action>false</list_action>
+        <list_banner_button>false</list_banner_button>
+        <list_button>false</list_button>
+        <list_choice>false</list_choice>
+        <list_context_menu>false</list_context_menu>
+        <list_link>false</list_link>
+        <list_save_with_form_button>false</list_save_with_form_button>
+        <list_style/>
+        <messages/>
+        <name>Create Child Incident Button</name>
+        <onclick/>
+        <order>100</order>
+        <script><![CDATA[(function() {
+	
+	try {
+		var inputs = {};
+		//inputs['discrepancy'] = current; // GlideRecord of table: x_1284052_consol_0_discrepancy 
+		inputs['parent_number'] = current.parent_number; // GlideRecord of table: x_1284052_consol_0_discrepancy 
+		inputs['tail_number'] = current.tail_number; // GlideRecord of table: x_1284052_consol_0_aircraft 
+
+		// Start Asynchronously: Uncomment to run in background. Code snippet will not have access to outputs.
+		// sn_fd.FlowAPI.getRunner().subflow('x_1284052_consol_0.create_child_discrepancy_record').inBackground().withInputs(inputs).run();
+				
+		// Execute Synchronously: Run in foreground. Code snippet has access to outputs.
+		var result = sn_fd.FlowAPI.getRunner().subflow('x_1284052_consol_0.create_child_discrepancy_record').inForeground().withInputs(inputs).run();
+		var outputs = result.getOutputs();
+
+		// Current subflow has no outputs defined.		
+	} catch (ex) {
+		var message = ex.getMessage();
+		gs.error(message);
+	}
+	
+})();]]></script>
+        <show_insert>false</show_insert>
+        <show_multiple_update>false</show_multiple_update>
+        <show_query>false</show_query>
+        <show_update>true</show_update>
+        <sys_class_name>sys_ui_action</sys_class_name>
+        <sys_created_by>Rolando.Garza</sys_created_by>
+        <sys_created_on>2024-06-14 02:30:55</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>bccce599833286103fcc9cc0deaad335</sys_id>
+        <sys_mod_count>19</sys_mod_count>
+        <sys_name>Create Child Incident Button</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_update_name>sys_ui_action_bccce599833286103fcc9cc0deaad335</sys_update_name>
+        <sys_updated_by>Rolando.Garza</sys_updated_by>
+        <sys_updated_on>2024-06-14 04:37:45</sys_updated_on>
+        <table>x_1284052_consol_0_discrepancy</table>
+        <ui11_compatible>true</ui11_compatible>
+        <ui16_compatible>false</ui16_compatible>
+    </sys_ui_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</application>
+        <file_path/>
+        <instance_id>08590c631ba5c29832182f8dee4bcb43</instance_id>
+        <instance_name>dev260572</instance_name>
+        <name>sys_ui_action_bccce599833286103fcc9cc0deaad335</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_ui_action"&gt;&lt;sys_ui_action action="INSERT_OR_UPDATE"&gt;&lt;action_name&gt;create_child_discrepancy&lt;/action_name&gt;&lt;active&gt;true&lt;/active&gt;&lt;client&gt;false&lt;/client&gt;&lt;client_script_v2&gt;&lt;![CDATA[function onClick(g_form) {
+
+}]]&gt;&lt;/client_script_v2&gt;&lt;comments&gt;Create Child Discrepancy Task with UI Action&lt;/comments&gt;&lt;condition/&gt;&lt;form_action&gt;true&lt;/form_action&gt;&lt;form_button&gt;true&lt;/form_button&gt;&lt;form_button_v2&gt;false&lt;/form_button_v2&gt;&lt;form_context_menu&gt;false&lt;/form_context_menu&gt;&lt;form_link&gt;false&lt;/form_link&gt;&lt;form_menu_button_v2&gt;false&lt;/form_menu_button_v2&gt;&lt;form_style/&gt;&lt;format_for_configurable_workspace&gt;false&lt;/format_for_configurable_workspace&gt;&lt;hint/&gt;&lt;isolate_script&gt;false&lt;/isolate_script&gt;&lt;list_action&gt;false&lt;/list_action&gt;&lt;list_banner_button&gt;false&lt;/list_banner_button&gt;&lt;list_button&gt;false&lt;/list_button&gt;&lt;list_choice&gt;false&lt;/list_choice&gt;&lt;list_context_menu&gt;false&lt;/list_context_menu&gt;&lt;list_link&gt;false&lt;/list_link&gt;&lt;list_save_with_form_button&gt;false&lt;/list_save_with_form_button&gt;&lt;list_style/&gt;&lt;messages/&gt;&lt;name&gt;Create Child Incident Button&lt;/name&gt;&lt;onclick/&gt;&lt;order&gt;100&lt;/order&gt;&lt;script&gt;&lt;![CDATA[(function() {
+	
+	try {
+		var inputs = {};
+		//inputs['discrepancy'] = current; // GlideRecord of table: x_1284052_consol_0_discrepancy 
+		inputs['parent_number'] = current.parent_number; // GlideRecord of table: x_1284052_consol_0_discrepancy 
+		inputs['tail_number'] = current.tail_number; // GlideRecord of table: x_1284052_consol_0_aircraft 
+
+		// Start Asynchronously: Uncomment to run in background. Code snippet will not have access to outputs.
+		// sn_fd.FlowAPI.getRunner().subflow('x_1284052_consol_0.create_child_discrepancy_record').inBackground().withInputs(inputs).run();
+				
+		// Execute Synchronously: Run in foreground. Code snippet has access to outputs.
+		var result = sn_fd.FlowAPI.getRunner().subflow('x_1284052_consol_0.create_child_discrepancy_record').inForeground().withInputs(inputs).run();
+		var outputs = result.getOutputs();
+
+		// Current subflow has no outputs defined.		
+	} catch (ex) {
+		var message = ex.getMessage();
+		gs.error(message);
+	}
+	
+})();]]&gt;&lt;/script&gt;&lt;show_insert&gt;false&lt;/show_insert&gt;&lt;show_multiple_update&gt;false&lt;/show_multiple_update&gt;&lt;show_query&gt;false&lt;/show_query&gt;&lt;show_update&gt;true&lt;/show_update&gt;&lt;sys_class_name&gt;sys_ui_action&lt;/sys_class_name&gt;&lt;sys_created_by&gt;Rolando.Garza&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-06-14 02:30:55&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;bccce599833286103fcc9cc0deaad335&lt;/sys_id&gt;&lt;sys_mod_count&gt;19&lt;/sys_mod_count&gt;&lt;sys_name&gt;Create Child Incident Button&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0"&gt;62a761f4832242103fcc9cc0deaad379&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Consolidated Aircraft Logistics Management System"&gt;62a761f4832242103fcc9cc0deaad379&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ui_action_bccce599833286103fcc9cc0deaad335&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;Rolando.Garza&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-06-14 04:37:45&lt;/sys_updated_on&gt;&lt;table&gt;x_1284052_consol_0_discrepancy&lt;/table&gt;&lt;ui11_compatible&gt;true&lt;/ui11_compatible&gt;&lt;ui16_compatible&gt;false&lt;/ui16_compatible&gt;&lt;/sys_ui_action&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>69466292</payload_hash>
+        <record_name>Create Child Incident Button</record_name>
+        <reverted_from/>
+        <source>83f9a09d83ba46103fcc9cc0deaad35d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Rolando.Garza</sys_created_by>
+        <sys_created_on>2024-06-14 04:37:45</sys_created_on>
+        <sys_id>9e7a4a5583f286103fcc9cc0deaad3da</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19015098c1b0000001</sys_recorded_at>
+        <sys_updated_by>Rolando.Garza</sys_updated_by>
+        <sys_updated_on>2024-06-14 04:37:45</sys_updated_on>
+        <type>UI Action</type>
+        <update_guid>167a4a55b9f28610788bb899e5caa6da</update_guid>
+        <update_guid_history>167a4a55b9f28610788bb899e5caa6da:69466292,334a4e553af286106713d5b6d9cf6bef:1735458973,1a0a865597f28610d6d1fc44b953383e:1170791020,250946153af28610b5731d165ff2f65e:522786783,ea6846d11cf28610d15692f73847a00a:-1950991532,0e678e1124f2861096b65e337347654c:2095176003,7607ce11b1f286101e09ee31278e4eee:-43285853,41d60e11b7f286100dbc0ba28ba1fdc3:695150969,1a16c6ddc3b286103ed0253033c46e99:-1718576883,3054ce1d10b28610a0d8573b9eb6a211:1533829680,f153c2d920b28610c0a81dce59d18139:2004012759,80773159fe728610807baf2636b0912b:-1437633108,5107bdd55c72861058afeed4a48b9d13:2004012759,f39679d58372861044c1b6a1528044a2:-1437633108,1d06f995337286103d27fae115406e27:-1567748862,8bd5b955db728610442f9483c48e814c:-1437633108,9c2fe55dcf3286107c6271bf32983912:2004012759,eecea15d4d328610fdf0072450a687ea:1760230253,5b3ea51d18328610709fe71df2f25bde:-505444156,5c7da5998a3286109c7c09022d13d9a2:254075592</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Rolando.Garza</sys_created_by>
+        <sys_created_on>2024-06-14 04:50:42</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_action">sys_ui_action</sys_db_object>
+        <sys_id>8a2d4fa7aca44bf89055e5e6bb6a3704</sys_id>
+        <sys_metadata>bccce599833286103fcc9cc0deaad335</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create Child Incident Button</sys_name>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_parent display_value="Discrepancy">749a9819837a46103fcc9cc0deaad375</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_scope_delete display_value="">52e6fb2b6ff440dcae7286a44d209be1</sys_scope_delete>
+        <sys_update_name>sys_ui_action_bccce599833286103fcc9cc0deaad335</sys_update_name>
+        <sys_update_version display_value="sys_ui_action_bccce599833286103fcc9cc0deaad335">9e7a4a5583f286103fcc9cc0deaad3da</sys_update_version>
+        <sys_updated_by>Rolando.Garza</sys_updated_by>
+        <sys_updated_on>2024-06-14 04:50:42</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

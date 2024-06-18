@@ -19,8 +19,8 @@
         <default_value/>
         <defaultsort/>
         <delete_roles/>
-        <dependent>amu</dependent>
-        <dependent_on_field>amu</dependent_on_field>
+        <dependent>unit</dependent>
+        <dependent_on_field>unit</dependent_on_field>
         <display>false</display>
         <dynamic_creation>false</dynamic_creation>
         <dynamic_creation_script/>
@@ -57,8 +57,8 @@
         <sys_policy/>
         <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
         <sys_update_name>sys_dictionary_x_1284052_consol_0_technician_workcenter</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-06-01 05:52:26</sys_updated_on>
+        <sys_updated_by>Rolando.Garza</sys_updated_by>
+        <sys_updated_on>2024-06-14 16:45:48</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

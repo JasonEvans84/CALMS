@@ -37,8 +37,8 @@
         </element>
         <element label="Active" max_length="40" name="active" type="boolean"/>
         <element dependent="wing" dependent_on_field="wing" label="Squadron" mandatory="true" max_length="32" name="squadron" reference="x_1284052_consol_0_squadron" type="reference" use_dependent_field="true"/>
-        <element dependent="amu" dependent_on_field="amu" label="Workcenter" mandatory="true" max_length="32" name="workcenter" reference="x_1284052_consol_0_workcenter" type="reference" use_dependent_field="true"/>
-        <element label="Unit" max_length="32" name="unit" reference="x_1284052_consol_0_unit" type="reference"/>
+        <element dependent="unit" dependent_on_field="unit" label="Workcenter" mandatory="true" max_length="32" name="workcenter" reference="x_1284052_consol_0_workcenter" type="reference" use_dependent_field="true"/>
+        <element dependent="squadron" dependent_on_field="squadron" label="Unit" max_length="32" name="unit" reference="x_1284052_consol_0_unit" type="reference" use_dependent_field="true"/>
         <index name="index">
             <element name="afsc"/>
         </index>

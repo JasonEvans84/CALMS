@@ -37,74 +37,13 @@
                     },
                     "overrides": {
                         "composition": [
-                            {
-                                "definition": {
-                                    "id": "15fe506403f8a98575b6df59008ea8f1",
-                                    "type": "MACROPONENT"
-                                },
-                                "elementId": "imgCALMS",
-                                "elementLabel": "imgCALMS",
-                                "eventMappings": [
-                                    
-                                ],
-                                "isHidden": {
-                                    "type": "JSON_LITERAL",
-                                    "value": null
-                                },
-                                "preset": null,
-                                "propertyValues": {
-                                    "alt": {
-                                        "type": "TRANSLATION_LITERAL",
-                                        "value": {
-                                            "code": null,
-                                            "comment": "",
-                                            "message": ""
-                                        }
-                                    },
-                                    "fit": {
-                                        "type": "JSON_LITERAL",
-                                        "value": "fill"
-                                    },
-                                    "height": {
-                                        "type": "JSON_LITERAL",
-                                        "value": null
-                                    },
-                                    "position": {
-                                        "type": "JSON_LITERAL",
-                                        "value": "center center"
-                                    },
-                                    "sources": {
-                                        "type": "JSON_LITERAL",
-                                        "value": [
-                                            
-                                        ]
-                                    },
-                                    "src": {
-                                        "type": "JSON_LITERAL",
-                                        "value": "upload_Gemini_Generated_Image_498azr498azr498a.jpg"
-                                    },
-                                    "width": {
-                                        "type": "JSON_LITERAL",
-                                        "value": null
-                                    }
-                                },
-                                "slot": null,
-                                "styles": null
-                            }
+                            
                         ],
                         "layout": {
                             "default": {
                                 "children": null,
                                 "items": [
-                                    {
-                                        "element_id": "imgCALMS",
-                                        "styles": {
-                                            "align-self": "center",
-                                            "flex": "none",
-                                            "height": "145px",
-                                            "width": "150px"
-                                        }
-                                    }
+                                    
                                 ],
                                 "root": null,
                                 "rules": {
@@ -112,6 +51,10 @@
                                 },
                                 "styles": {
                                     "align-items": "stretch",
+                                    "border-color": "RGB(var(--now-color--neutral-5))",
+                                    "border-radius": "var(--now-static-border-radius--lg)",
+                                    "border-style": "solid",
+                                    "border-width": "var(--now-static-space--xxs)",
                                     "box-shadow": "var(--now-static-drop-shadow--xxl)",
                                     "box-sizing": "border-box",
                                     "flex-direction": "column",
@@ -149,6 +92,10 @@
                                         },
                                         "internal": {
                                             "align-items": "stretch",
+                                            "border-color": "RGB(var(--now-color--neutral-5))",
+                                            "border-radius": "var(--now-static-border-radius--lg)",
+                                            "border-style": "solid",
+                                            "border-width": "var(--now-static-space--xxs)",
                                             "box-shadow": "var(--now-static-drop-shadow--xxl)",
                                             "box-sizing": "border-box",
                                             "flex-direction": "column",
@@ -183,6 +130,60 @@
                     },
                     "overrides": {
                         "composition": [
+                            {
+                                "definition": {
+                                    "id": "15fe506403f8a98575b6df59008ea8f1",
+                                    "type": "MACROPONENT"
+                                },
+                                "elementId": "imgCALMS",
+                                "elementLabel": "imgCALMS",
+                                "eventMappings": [
+                                    
+                                ],
+                                "isHidden": {
+                                    "type": "JSON_LITERAL",
+                                    "value": null
+                                },
+                                "preset": null,
+                                "propertyValues": {
+                                    "alt": {
+                                        "type": "TRANSLATION_LITERAL",
+                                        "value": {
+                                            "code": null,
+                                            "comment": "",
+                                            "message": ""
+                                        }
+                                    },
+                                    "fit": {
+                                        "type": "JSON_LITERAL",
+                                        "value": "fill"
+                                    },
+                                    "height": {
+                                        "type": "JSON_LITERAL",
+                                        "value": ""
+                                    },
+                                    "position": {
+                                        "type": "JSON_LITERAL",
+                                        "value": "center center"
+                                    },
+                                    "sources": {
+                                        "type": "JSON_LITERAL",
+                                        "value": [
+                                            
+                                        ]
+                                    },
+                                    "src": {
+                                        "type": "JSON_LITERAL",
+                                        "value": "upload_Gemini_Generated_Image_498azr498azr498a.jpg"
+                                    },
+                                    "width": {
+                                        "type": "JSON_LITERAL",
+                                        "value": ""
+                                    }
+                                },
+                                "slot": null,
+                                "styles": null
+                            },
                             {
                                 "definition": {
                                     "id": "4335ba6dca80378f7ba7a67cd6667bec",
@@ -268,6 +269,23 @@
                             "default": {
                                 "children": null,
                                 "items": [
+                                    {
+                                        "element_id": "imgCALMS",
+                                        "styles": {
+                                            "align-self": "center",
+                                            "border-color": "RGB(var(--now-color--neutral-5))",
+                                            "border-radius": "var(--now-static-border-radius--lg)",
+                                            "border-style": "solid",
+                                            "border-width": "var(--now-static-space--xxs)",
+                                            "flex": "none",
+                                            "height": "145px",
+                                            "max-height": "",
+                                            "max-width": "",
+                                            "min-height": "",
+                                            "min-width": "",
+                                            "width": "155px"
+                                        }
+                                    },
                                     {
                                         "element_id": "lblConsolidated",
                                         "styles": {
@@ -542,7 +560,12 @@
                     "root": null,
                     "rules": null,
                     "styles": {
+                        "border-color": "RGB(var(--now-color--neutral-5))",
+                        "border-style": "id",
+                        "border-width": "0",
+                        "box-shadow": "var(--now-static-drop-shadow--xxl)",
                         "box-sizing": "border-box",
+                        "column-gap": "var(--now-scalable-space--sm)",
                         "grid-template-columns": "12.00045754026354fr 75.99990849194731fr 11.999633967789157fr",
                         "grid-template-rows": "1fr",
                         "height": "150px",
@@ -561,7 +584,12 @@
                             "root": null,
                             "rules": null,
                             "styles": {
+                                "border-color": "RGB(var(--now-color--neutral-5))",
+                                "border-style": "id",
+                                "border-width": "0",
+                                "box-shadow": "var(--now-static-drop-shadow--xxl)",
                                 "box-sizing": "border-box",
+                                "column-gap": "var(--now-scalable-space--sm)",
                                 "grid-template-columns": "1fr",
                                 "grid-template-rows": "1fr",
                                 "height": "fit-content",
@@ -633,7 +661,12 @@
                                 "width": "100%"
                             },
                             "internal": {
+                                "border-color": "RGB(var(--now-color--neutral-5))",
+                                "border-style": "id",
+                                "border-width": "0",
+                                "box-shadow": "var(--now-static-drop-shadow--xxl)",
                                 "box-sizing": "border-box",
+                                "column-gap": "var(--now-scalable-space--sm)",
                                 "grid-template-rows": "1fr",
                                 "height": "150px",
                                 "width": "auto"
@@ -698,11 +731,11 @@
                                     "composition": [
                                         {
                                             "definition": {
-                                                "id": "abe7db0526ec8705a0eff03521febfa3",
+                                                "id": "d356d14b6e293a3020a244b63d278d8f",
                                                 "type": "MACROPONENT"
                                             },
-                                            "elementId": "linkNavigation",
-                                            "elementLabel": "linkNavigation",
+                                            "elementId": "container_1",
+                                            "elementLabel": "Container 1",
                                             "eventMappings": [
                                                 
                                             ],
@@ -710,57 +743,220 @@
                                                 "type": "JSON_LITERAL",
                                                 "value": null
                                             },
+                                            "overrides": {
+                                                "composition": [
+                                                    {
+                                                        "definition": {
+                                                            "id": "d37ce8abca89d02905fed903c8e34d8e",
+                                                            "type": "MACROPONENT"
+                                                        },
+                                                        "elementId": "button_1",
+                                                        "elementLabel": "Button 1",
+                                                        "eventMappings": [
+                                                            {
+                                                                "eventMappingId": "clxjpgffqtaabbcceeddffhhrsddsmhweet",
+                                                                "isConfiguration": false,
+                                                                "offRowStorageId": null,
+                                                                "sourceEventApiName": "sn_button.NOW_BUTTON#CLICKED",
+                                                                "sourceEventCorrelationId": null,
+                                                                "sourceEventDefinition": {
+                                                                    "apiName": "sn_button.NOW_BUTTON#CLICKED",
+                                                                    "id": null,
+                                                                    "type": "UXEVENT"
+                                                                },
+                                                                "sourceEventSysId": null,
+                                                                "targets": [
+                                                                    {
+                                                                        "broker": null,
+                                                                        "clientScript": null,
+                                                                        "conditional": null,
+                                                                        "declarativeAction": null,
+                                                                        "event": {
+                                                                            "apiName": "x_1284052_consol_0.NAV_ITEM_SELECTED_RELAY_b8979e5b83a282103fcc9cc0deaad326",
+                                                                            "payload": {
+                                                                                "container": {
+                                                                                    "external": {
+                                                                                        "container": {
+                                                                                            "url": {
+                                                                                                "binding": {
+                                                                                                    "address": [
+                                                                                                        "workspace_url",
+                                                                                                        "value"
+                                                                                                    ],
+                                                                                                    "category": "value"
+                                                                                                },
+                                                                                                "type": "REPEATER_ITEM_BINDING"
+                                                                                            }
+                                                                                        },
+                                                                                        "type": "MAP_CONTAINER"
+                                                                                    },
+                                                                                    "fields": {
+                                                                                        "type": "JSON_LITERAL",
+                                                                                        "value": null
+                                                                                    },
+                                                                                    "multiInstField": {
+                                                                                        "type": "JSON_LITERAL",
+                                                                                        "value": null
+                                                                                    },
+                                                                                    "navigationOptions": {
+                                                                                        "type": "JSON_LITERAL",
+                                                                                        "value": null
+                                                                                    },
+                                                                                    "params": {
+                                                                                        "type": "JSON_LITERAL",
+                                                                                        "value": null
+                                                                                    },
+                                                                                    "passiveNavigation": {
+                                                                                        "type": "JSON_LITERAL",
+                                                                                        "value": null
+                                                                                    },
+                                                                                    "redirect": {
+                                                                                        "type": "JSON_LITERAL",
+                                                                                        "value": null
+                                                                                    },
+                                                                                    "route": {
+                                                                                        "type": "JSON_LITERAL",
+                                                                                        "value": null
+                                                                                    },
+                                                                                    "targetRoute": {
+                                                                                        "type": "JSON_LITERAL",
+                                                                                        "value": null
+                                                                                    },
+                                                                                    "title": {
+                                                                                        "type": "JSON_LITERAL",
+                                                                                        "value": null
+                                                                                    }
+                                                                                },
+                                                                                "type": "MAP_CONTAINER"
+                                                                            },
+                                                                            "sysId": "4fbf752a83f60e103fcc9cc0deaad360"
+                                                                        },
+                                                                        "operation": null,
+                                                                        "targetId": "clxjpgffqtaabbccffddffhhryhhkorqsx",
+                                                                        "type": "EVENT"
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ],
+                                                        "isHidden": {
+                                                            "type": "JSON_LITERAL",
+                                                            "value": null
+                                                        },
+                                                        "preset": null,
+                                                        "propertyValues": {
+                                                            "configAria": {
+                                                                "type": "JSON_LITERAL",
+                                                                "value": {}
+                                                            },
+                                                            "disabled": {
+                                                                "type": "JSON_LITERAL",
+                                                                "value": false
+                                                            },
+                                                            "icon": {
+                                                                "type": "JSON_LITERAL",
+                                                                "value": null
+                                                            },
+                                                            "label": {
+                                                                "binding": {
+                                                                    "address": [
+                                                                        "workspace_name",
+                                                                        "displayValue"
+                                                                    ],
+                                                                    "category": "value"
+                                                                },
+                                                                "type": "REPEATER_ITEM_BINDING"
+                                                            },
+                                                            "size": {
+                                                                "type": "JSON_LITERAL",
+                                                                "value": "lg"
+                                                            },
+                                                            "tooltipContent": {
+                                                                "type": "TRANSLATION_LITERAL",
+                                                                "value": {
+                                                                    "code": null,
+                                                                    "comment": "",
+                                                                    "message": "Enter a label"
+                                                                }
+                                                            },
+                                                            "variant": {
+                                                                "type": "JSON_LITERAL",
+                                                                "value": "tertiary"
+                                                            }
+                                                        },
+                                                        "slot": null,
+                                                        "styles": null
+                                                    }
+                                                ],
+                                                "layout": {
+                                                    "default": {
+                                                        "children": null,
+                                                        "items": [
+                                                            {
+                                                                "element_id": "button_1",
+                                                                "styles": {
+                                                                    "--now-button--tertiary--color": "white",
+                                                                    "align-self": "center",
+                                                                    "background": "rgb(var(--now-color--primary-3))",
+                                                                    "box-shadow": "var(--now-static-drop-shadow--xxl)",
+                                                                    "flex": "1 0 auto",
+                                                                    "font-weight": "bold",
+                                                                    "padding": "1px",
+                                                                    "padding-bottom": "1px",
+                                                                    "padding-left": "1px",
+                                                                    "padding-right": "1px",
+                                                                    "padding-top": "1px",
+                                                                    "width": "150px"
+                                                                }
+                                                            }
+                                                        ],
+                                                        "root": null,
+                                                        "rules": null,
+                                                        "styles": {
+                                                            "align-items": "center",
+                                                            "color": "white",
+                                                            "display": "flex",
+                                                            "flex-direction": "column",
+                                                            "width": "100%"
+                                                        },
+                                                        "templateId": "5832fd4d53c31010e6bcddeeff7b12db",
+                                                        "type": "flex"
+                                                    },
+                                                    "version": "3.0.0"
+                                                }
+                                            },
                                             "preset": null,
                                             "propertyValues": {
-                                                "configAria": {
+                                                "ariaRegionHeadingLevel": {
                                                     "type": "JSON_LITERAL",
+                                                    "value": "1"
+                                                },
+                                                "ariaRegionName": {
+                                                    "type": "TRANSLATION_LITERAL",
                                                     "value": {
-                                                        "aria-label": "Accessible Label"
+                                                        "code": null,
+                                                        "comment": "",
+                                                        "message": ""
                                                     }
                                                 },
-                                                "download": {
+                                                "ariaRole": {
                                                     "type": "JSON_LITERAL",
-                                                    "value": null
+                                                    "value": ""
                                                 },
-                                                "href": {
-                                                    "binding": {
-                                                        "address": [
-                                                            "workspace_url",
-                                                            "value"
-                                                        ],
-                                                        "category": "value"
-                                                    },
-                                                    "type": "REPEATER_ITEM_BINDING"
-                                                },
-                                                "iconEnd": {
-                                                    "type": "JSON_LITERAL",
-                                                    "value": null
-                                                },
-                                                "iconStart": {
-                                                    "type": "JSON_LITERAL",
-                                                    "value": null
-                                                },
-                                                "label": {
-                                                    "binding": {
-                                                        "address": [
-                                                            "workspace_name",
-                                                            "value"
-                                                        ],
-                                                        "category": "value"
-                                                    },
-                                                    "type": "REPEATER_ITEM_BINDING"
-                                                },
-                                                "opensWindow": {
+                                                "hideEmptyStateUi": {
                                                     "type": "JSON_LITERAL",
                                                     "value": true
                                                 },
-                                                "underlined": {
+                                                "includeAriaHeading": {
                                                     "type": "JSON_LITERAL",
                                                     "value": false
                                                 },
-                                                "variant": {
+                                                "slotWrapperBehavior": {
                                                     "type": "JSON_LITERAL",
-                                                    "value": "primary"
+                                                    "value": "fullheight"
+                                                },
+                                                "type": {
+                                                    "type": "JSON_LITERAL",
+                                                    "value": "section"
                                                 }
                                             },
                                             "slot": null,
@@ -772,20 +968,12 @@
                                             "children": null,
                                             "items": [
                                                 {
-                                                    "element_id": "linkNavigation",
+                                                    "element_id": "container_1",
                                                     "styles": {
-                                                        "align-self": "center",
-                                                        "background": "rgb(var(--now-color--neutral-1))",
-                                                        "border-color": "rgb(var(--now-color--link-4))",
+                                                        "border-color": "rgb(var(--now-color_selection--primary-2))",
                                                         "border-radius": "var(--now-static-border-radius--lg)",
                                                         "border-style": "solid",
-                                                        "border-width": "var(--now-static-space--sm)",
-                                                        "color": "white",
-                                                        "flex": "1 0 auto",
-                                                        "font-size": "xx-large",
-                                                        "min-width": "200",
-                                                        "padding-left": "var(--now-scalable-space--sm)",
-                                                        "width": "200px"
+                                                        "border-width": "var(--now-static-space--xs)"
                                                     }
                                                 }
                                             ],
@@ -1269,7 +1457,7 @@
     }
 ]</data>
         <description/>
-        <dispatched_events/>
+        <dispatched_events>4fbf752a83f60e103fcc9cc0deaad360</dispatched_events>
         <ext_controller_dep/>
         <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
         <extension_point/>
@@ -1318,6 +1506,9 @@
 }, {
   "message" : "Consolidated AIrcraft Logistics Management System",
   "comment" : ""
+}, {
+  "message" : "Enter a label",
+  "comment" : ""
 } ]</required_translations>
         <root_component/>
         <root_component_config/>
@@ -1330,7 +1521,7 @@
             "type": "JSON_LITERAL",
             "value": null
         },
-        "name": "WingImage",
+        "name": "newClientStateParam1",
         "shape": "",
         "valueType": "string"
     }
@@ -1339,14 +1530,14 @@
         <sys_created_by>oscarfotz</sys_created_by>
         <sys_created_on>2024-06-08 00:27:09</sys_created_on>
         <sys_id>b8979e5b83a282103fcc9cc0deaad326</sys_id>
-        <sys_mod_count>82</sys_mod_count>
+        <sys_mod_count>97</sys_mod_count>
         <sys_name>CALMS Dashboard</sys_name>
         <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
         <sys_policy/>
         <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
         <sys_update_name>sys_ux_macroponent_b8979e5b83a282103fcc9cc0deaad326</sys_update_name>
-        <sys_updated_by>Jason.Evans</sys_updated_by>
-        <sys_updated_on>2024-06-17 21:38:11</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-18 01:37:55</sys_updated_on>
     </sys_ux_macroponent>
     <sys_translated_text action="delete_multiple" query="documentkey=b8979e5b83a282103fcc9cc0deaad326"/>
 </record_update>

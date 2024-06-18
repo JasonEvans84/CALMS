@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="DELETE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_1284052_consol_0.GetTechnicianSysID</api_name>
+        <caller_access/>
+        <client_callable>true</client_callable>
+        <description/>
+        <name>GetTechnicianSysID</name>
+        <script><![CDATA[var GetTechnicianSysID = Class.create();
+GetTechnicianSysID.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+
+	GetTechnicianSysID: function() {
+		var userSysID = this.getParameter('sys_id');
+		var technicianSysId = '';
+
+		var technicianGR = new GlideRecord('x_1284052_consol_0_technician');
+		technicianGR.addQuery('user_name',userSysID);
+		technicianGR.query();
+
+		if (technicianGR.next()) {
+			technicianSysId = technicianGR.getUniqueValue();
+		}
+		return technicianSysId;
+	},
+
+    type: 'GetTechnicianSysID'
+});]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>Rolando.Garza</sys_created_by>
+        <sys_created_on>2024-06-14 22:52:32</sys_created_on>
+        <sys_id>bf72462d833ac6103fcc9cc0deaad344</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GetTechnicianSysID</sys_name>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_update_name>sys_script_include_bf72462d833ac6103fcc9cc0deaad344</sys_update_name>
+        <sys_updated_by>Rolando.Garza</sys_updated_by>
+        <sys_updated_on>2024-06-14 22:52:32</sys_updated_on>
+    </sys_script_include>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</application>
+        <file_path/>
+        <instance_id>08590c631ba5c29832182f8dee4bcb43</instance_id>
+        <instance_name>dev260572</instance_name>
+        <name>sys_script_include_bf72462d833ac6103fcc9cc0deaad344</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;&lt;sys_script_include action="INSERT_OR_UPDATE"&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;active&gt;true&lt;/active&gt;&lt;api_name&gt;x_1284052_consol_0.GetTechnicianSysID&lt;/api_name&gt;&lt;caller_access/&gt;&lt;client_callable&gt;true&lt;/client_callable&gt;&lt;description/&gt;&lt;name&gt;GetTechnicianSysID&lt;/name&gt;&lt;script&gt;&lt;![CDATA[var GetTechnicianSysID = Class.create();
+GetTechnicianSysID.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+
+	GetTechnicianSysID: function() {
+		var userSysID = this.getParameter('sys_id');
+		var technicianSysId = '';
+
+		var technicianGR = new GlideRecord('x_1284052_consol_0_technician');
+		technicianGR.addQuery('user_name',userSysID);
+		technicianGR.query();
+
+		if (technicianGR.next()) {
+			technicianSysId = technicianGR.getUniqueValue();
+		}
+		return technicianSysId;
+	},
+
+    type: 'GetTechnicianSysID'
+});]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;Rolando.Garza&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-06-14 22:52:32&lt;/sys_created_on&gt;&lt;sys_id&gt;bf72462d833ac6103fcc9cc0deaad344&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;GetTechnicianSysID&lt;/sys_name&gt;&lt;sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0"&gt;62a761f4832242103fcc9cc0deaad379&lt;/sys_package&gt;&lt;sys_policy&gt;read&lt;/sys_policy&gt;&lt;sys_scope display_value="Consolidated Aircraft Logistics Management System"&gt;62a761f4832242103fcc9cc0deaad379&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_bf72462d833ac6103fcc9cc0deaad344&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;Rolando.Garza&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-06-14 22:52:32&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1241825670</payload_hash>
+        <record_name>GetTechnicianSysID</record_name>
+        <reverted_from/>
+        <source>83f9a09d83ba46103fcc9cc0deaad35d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Rolando.Garza</sys_created_by>
+        <sys_created_on>2024-06-14 22:52:34</sys_created_on>
+        <sys_id>6305caed833ac6103fcc9cc0deaad3d1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19018f3df810000001</sys_recorded_at>
+        <sys_updated_by>Rolando.Garza</sys_updated_by>
+        <sys_updated_on>2024-06-14 22:52:34</sys_updated_on>
+        <type>Script Include</type>
+        <update_guid>6705caedd63ac610331a8b0370c4e6d0</update_guid>
+        <update_guid_history>6705caedd63ac610331a8b0370c4e6d0:-1241825670</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Rolando.Garza</sys_created_by>
+        <sys_created_on>2024-06-14 23:06:49</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_include">sys_script_include</sys_db_object>
+        <sys_id>112a12d18bf448dc8fae20cd5e1f7010</sys_id>
+        <sys_metadata>bf72462d833ac6103fcc9cc0deaad344</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GetTechnicianSysID</sys_name>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_parent/>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_scope_delete display_value="">52e6fb2b6ff440dcae7286a44d209be1</sys_scope_delete>
+        <sys_update_name>sys_script_include_bf72462d833ac6103fcc9cc0deaad344</sys_update_name>
+        <sys_update_version display_value="sys_script_include_bf72462d833ac6103fcc9cc0deaad344">6305caed833ac6103fcc9cc0deaad3d1</sys_update_version>
+        <sys_updated_by>Rolando.Garza</sys_updated_by>
+        <sys_updated_on>2024-06-14 23:06:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
