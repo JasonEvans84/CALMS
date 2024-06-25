@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="fede033b933a0210d59d385efaba10a7" extends="sys_import_set_row" label="Job Status" max_length="40" name="x_1284052_consol_0_ihub_import_8bae03f7933a0210d59d385efaba109c" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Status" label="Status" max_length="40" name="u_status" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Status Description" label="Status Description" max_length="40" name="u_status_description" type="string"/>
+    </element>
+</database>

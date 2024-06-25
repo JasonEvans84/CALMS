@@ -1,114 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_section caption="" section_id="571df5b8836242103fcc9cc0deaad35b" sys_domain="global" table="x_1284052_consol_0_squadron" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>squadron_name</element>
+            <element>squadron_short_name</element>
             <position>0</position>
-            <sys_created_by>oscarfotz</sys_created_by>
-            <sys_created_on>2024-06-07 18:58:00</sys_created_on>
-            <sys_id>d33c41d3832e42103fcc9cc0deaad34d</sys_id>
+            <sys_created_by>jason.evans</sys_created_by>
+            <sys_created_on>2024-06-25 05:13:50</sys_created_on>
+            <sys_id>4a3cfe3c93834210d59d385efaba10f7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1284052_consol_0_squadron" sys_domain="global" view="Default view">571df5b8836242103fcc9cc0deaad35b</sys_ui_section>
-            <sys_updated_by>oscarfotz</sys_updated_by>
-            <sys_updated_on>2024-06-07 18:58:00</sys_updated_on>
+            <sys_updated_by>jason.evans</sys_updated_by>
+            <sys_updated_on>2024-06-25 05:13:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>squadron_name</element>
+            <position>1</position>
+            <sys_created_by>jason.evans</sys_created_by>
+            <sys_created_on>2024-06-25 05:13:50</sys_created_on>
+            <sys_id>423cfe3c93834210d59d385efaba10f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1284052_consol_0_squadron" sys_domain="global" view="Default view">571df5b8836242103fcc9cc0deaad35b</sys_ui_section>
+            <sys_updated_by>jason.evans</sys_updated_by>
+            <sys_updated_on>2024-06-25 05:13:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>wing</element>
-            <position>1</position>
-            <sys_created_by>oscarfotz</sys_created_by>
-            <sys_created_on>2024-06-07 18:58:00</sys_created_on>
-            <sys_id>db3c41d3832e42103fcc9cc0deaad34d</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_1284052_consol_0_squadron" sys_domain="global" view="Default view">571df5b8836242103fcc9cc0deaad35b</sys_ui_section>
-            <sys_updated_by>oscarfotz</sys_updated_by>
-            <sys_updated_on>2024-06-07 18:58:00</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>active</element>
             <position>2</position>
-            <sys_created_by>oscarfotz</sys_created_by>
-            <sys_created_on>2024-06-07 18:58:00</sys_created_on>
-            <sys_id>d33c41d3832e42103fcc9cc0deaad34e</sys_id>
+            <sys_created_by>jason.evans</sys_created_by>
+            <sys_created_on>2024-06-25 05:13:50</sys_created_on>
+            <sys_id>4a3cfe3c93834210d59d385efaba10f8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1284052_consol_0_squadron" sys_domain="global" view="Default view">571df5b8836242103fcc9cc0deaad35b</sys_ui_section>
-            <sys_updated_by>oscarfotz</sys_updated_by>
-            <sys_updated_on>2024-06-07 18:58:00</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.split</element>
-            <position>3</position>
-            <sys_created_by>oscarfotz</sys_created_by>
-            <sys_created_on>2024-06-07 18:58:00</sys_created_on>
-            <sys_id>db3c41d3832e42103fcc9cc0deaad34e</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_1284052_consol_0_squadron" sys_domain="global" view="Default view">571df5b8836242103fcc9cc0deaad35b</sys_ui_section>
-            <sys_updated_by>oscarfotz</sys_updated_by>
-            <sys_updated_on>2024-06-07 18:58:00</sys_updated_on>
-            <sys_user/>
-            <type>.split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>squadron_short_name</element>
-            <position>4</position>
-            <sys_created_by>oscarfotz</sys_created_by>
-            <sys_created_on>2024-06-07 18:58:00</sys_created_on>
-            <sys_id>d33c41d3832e42103fcc9cc0deaad34f</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_1284052_consol_0_squadron" sys_domain="global" view="Default view">571df5b8836242103fcc9cc0deaad35b</sys_ui_section>
-            <sys_updated_by>oscarfotz</sys_updated_by>
-            <sys_updated_on>2024-06-07 18:58:00</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>wing.wing_name</element>
-            <position>5</position>
-            <sys_created_by>oscarfotz</sys_created_by>
-            <sys_created_on>2024-06-07 18:58:00</sys_created_on>
-            <sys_id>db3c41d3832e42103fcc9cc0deaad34f</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_1284052_consol_0_squadron" sys_domain="global" view="Default view">571df5b8836242103fcc9cc0deaad35b</sys_ui_section>
-            <sys_updated_by>oscarfotz</sys_updated_by>
-            <sys_updated_on>2024-06-07 18:58:00</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>squadron_logo</element>
-            <position>6</position>
-            <sys_created_by>Jason.Evans</sys_created_by>
-            <sys_created_on>2024-06-18 03:55:41</sys_created_on>
-            <sys_id>cd37aea683fa0e103fcc9cc0deaad3d0</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_1284052_consol_0_squadron" sys_domain="global" view="Default view">571df5b8836242103fcc9cc0deaad35b</sys_ui_section>
-            <sys_updated_by>Jason.Evans</sys_updated_by>
-            <sys_updated_on>2024-06-18 03:55:41</sys_updated_on>
+            <sys_updated_by>jason.evans</sys_updated_by>
+            <sys_updated_on>2024-06-25 05:13:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>squadron_image</element>
-            <position>7</position>
-            <sys_created_by>Jason.Evans</sys_created_by>
-            <sys_created_on>2024-06-18 03:56:21</sys_created_on>
-            <sys_id>be5762e683fa0e103fcc9cc0deaad33f</sys_id>
+            <position>3</position>
+            <sys_created_by>jason.evans</sys_created_by>
+            <sys_created_on>2024-06-25 05:13:50</sys_created_on>
+            <sys_id>423cfe3c93834210d59d385efaba10f9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1284052_consol_0_squadron" sys_domain="global" view="Default view">571df5b8836242103fcc9cc0deaad35b</sys_ui_section>
-            <sys_updated_by>Jason.Evans</sys_updated_by>
-            <sys_updated_on>2024-06-18 03:56:21</sys_updated_on>
+            <sys_updated_by>jason.evans</sys_updated_by>
+            <sys_updated_on>2024-06-25 05:13:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>4</position>
+            <sys_created_by>jason.evans</sys_created_by>
+            <sys_created_on>2024-06-25 05:13:50</sys_created_on>
+            <sys_id>4a3cfe3c93834210d59d385efaba10f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1284052_consol_0_squadron" sys_domain="global" view="Default view">571df5b8836242103fcc9cc0deaad35b</sys_ui_section>
+            <sys_updated_by>jason.evans</sys_updated_by>
+            <sys_updated_on>2024-06-25 05:13:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

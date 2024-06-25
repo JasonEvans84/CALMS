@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="5d262ef0833ec2103fcc9cc0deaad323" label="Type Maintenance" max_length="40" name="x_1284052_consol_0_type_maintenance" type="collection">
-        <element default="true" label="Active" max_length="40" name="active" type="boolean"/>
-        <element display="true" label="Code" max_length="40" name="code" type="string"/>
-        <element label="TM Description" max_length="8000" name="description" type="html"/>
+        <element label="TM Full Text" max_length="4000" name="tm_full_text" type="html"/>
+        <element label="TM Code" max_length="10" name="tm_code" type="string"/>
+        <element label="TM short text" max_length="100" name="tm_short_text" type="string"/>
     </element>
 </database>

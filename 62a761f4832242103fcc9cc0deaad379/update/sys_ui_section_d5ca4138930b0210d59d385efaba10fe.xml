@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Location Information" section_id="d5ca4138930b0210d59d385efaba10fe" sys_domain="global" table="sys_user" version="3" view="CALM_User">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_1284052_consol_0_majcom</element>
+            <position>0</position>
+            <sys_created_by>jason.evans</sys_created_by>
+            <sys_created_on>2024-06-24 20:58:11</sys_created_on>
+            <sys_id>2dca8138930b0210d59d385efaba102f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Location Information" display_value="Location Information" name="sys_user" sys_domain="global" view="2ee581b0930b0210d59d385efaba1032">d5ca4138930b0210d59d385efaba10fe</sys_ui_section>
+            <sys_updated_by>jason.evans</sys_updated_by>
+            <sys_updated_on>2024-06-24 20:58:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_1284052_consol_0_base</element>
+            <position>1</position>
+            <sys_created_by>jason.evans</sys_created_by>
+            <sys_created_on>2024-06-24 20:58:11</sys_created_on>
+            <sys_id>a1ca8138930b0210d59d385efaba1030</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Location Information" display_value="Location Information" name="sys_user" sys_domain="global" view="2ee581b0930b0210d59d385efaba1032">d5ca4138930b0210d59d385efaba10fe</sys_ui_section>
+            <sys_updated_by>jason.evans</sys_updated_by>
+            <sys_updated_on>2024-06-24 20:58:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_1284052_consol_0_wing</element>
+            <position>2</position>
+            <sys_created_by>jason.evans</sys_created_by>
+            <sys_created_on>2024-06-24 20:58:11</sys_created_on>
+            <sys_id>29ca8138930b0210d59d385efaba1030</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Location Information" display_value="Location Information" name="sys_user" sys_domain="global" view="2ee581b0930b0210d59d385efaba1032">d5ca4138930b0210d59d385efaba10fe</sys_ui_section>
+            <sys_updated_by>jason.evans</sys_updated_by>
+            <sys_updated_on>2024-06-24 20:58:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_1284052_consol_0_squadron</element>
+            <position>3</position>
+            <sys_created_by>jason.evans</sys_created_by>
+            <sys_created_on>2024-06-24 20:58:11</sys_created_on>
+            <sys_id>adca8138930b0210d59d385efaba1030</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Location Information" display_value="Location Information" name="sys_user" sys_domain="global" view="2ee581b0930b0210d59d385efaba1032">d5ca4138930b0210d59d385efaba10fe</sys_ui_section>
+            <sys_updated_by>jason.evans</sys_updated_by>
+            <sys_updated_on>2024-06-24 20:58:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_1284052_consol_0_unit</element>
+            <position>4</position>
+            <sys_created_by>jason.evans</sys_created_by>
+            <sys_created_on>2024-06-24 20:58:11</sys_created_on>
+            <sys_id>25ca8138930b0210d59d385efaba1031</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Location Information" display_value="Location Information" name="sys_user" sys_domain="global" view="2ee581b0930b0210d59d385efaba1032">d5ca4138930b0210d59d385efaba10fe</sys_ui_section>
+            <sys_updated_by>jason.evans</sys_updated_by>
+            <sys_updated_on>2024-06-24 20:58:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_1284052_consol_0_workcenter</element>
+            <position>5</position>
+            <sys_created_by>jason.evans</sys_created_by>
+            <sys_created_on>2024-06-24 20:58:11</sys_created_on>
+            <sys_id>a9ca8138930b0210d59d385efaba1031</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Location Information" display_value="Location Information" name="sys_user" sys_domain="global" view="2ee581b0930b0210d59d385efaba1032">d5ca4138930b0210d59d385efaba10fe</sys_ui_section>
+            <sys_updated_by>jason.evans</sys_updated_by>
+            <sys_updated_on>2024-06-24 20:58:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>6</position>
+            <sys_created_by>jason.evans</sys_created_by>
+            <sys_created_on>2024-06-24 20:58:11</sys_created_on>
+            <sys_id>21ca8138930b0210d59d385efaba1032</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Location Information" display_value="Location Information" name="sys_user" sys_domain="global" view="2ee581b0930b0210d59d385efaba1032">d5ca4138930b0210d59d385efaba10fe</sys_ui_section>
+            <sys_updated_by>jason.evans</sys_updated_by>
+            <sys_updated_on>2024-06-24 20:58:11</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_1284052_consol_0_majcom.command_name</element>
+            <position>7</position>
+            <sys_created_by>jason.evans</sys_created_by>
+            <sys_created_on>2024-06-24 20:58:11</sys_created_on>
+            <sys_id>a5ca8138930b0210d59d385efaba1032</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Location Information" display_value="Location Information" name="sys_user" sys_domain="global" view="2ee581b0930b0210d59d385efaba1032">d5ca4138930b0210d59d385efaba10fe</sys_ui_section>
+            <sys_updated_by>jason.evans</sys_updated_by>
+            <sys_updated_on>2024-06-24 20:58:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_1284052_consol_0_base.base_name</element>
+            <position>8</position>
+            <sys_created_by>jason.evans</sys_created_by>
+            <sys_created_on>2024-06-24 20:58:11</sys_created_on>
+            <sys_id>2dca8138930b0210d59d385efaba1032</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Location Information" display_value="Location Information" name="sys_user" sys_domain="global" view="2ee581b0930b0210d59d385efaba1032">d5ca4138930b0210d59d385efaba10fe</sys_ui_section>
+            <sys_updated_by>jason.evans</sys_updated_by>
+            <sys_updated_on>2024-06-24 20:58:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_1284052_consol_0_wing.wing_name</element>
+            <position>9</position>
+            <sys_created_by>jason.evans</sys_created_by>
+            <sys_created_on>2024-06-24 20:58:11</sys_created_on>
+            <sys_id>a1ca8138930b0210d59d385efaba1033</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Location Information" display_value="Location Information" name="sys_user" sys_domain="global" view="2ee581b0930b0210d59d385efaba1032">d5ca4138930b0210d59d385efaba10fe</sys_ui_section>
+            <sys_updated_by>jason.evans</sys_updated_by>
+            <sys_updated_on>2024-06-24 20:58:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_1284052_consol_0_squadron.squadron_name</element>
+            <position>10</position>
+            <sys_created_by>jason.evans</sys_created_by>
+            <sys_created_on>2024-06-24 20:58:11</sys_created_on>
+            <sys_id>29ca8138930b0210d59d385efaba1033</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Location Information" display_value="Location Information" name="sys_user" sys_domain="global" view="2ee581b0930b0210d59d385efaba1032">d5ca4138930b0210d59d385efaba10fe</sys_ui_section>
+            <sys_updated_by>jason.evans</sys_updated_by>
+            <sys_updated_on>2024-06-24 20:58:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_1284052_consol_0_unit.unit_name</element>
+            <position>11</position>
+            <sys_created_by>jason.evans</sys_created_by>
+            <sys_created_on>2024-06-24 20:58:11</sys_created_on>
+            <sys_id>adca8138930b0210d59d385efaba1033</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Location Information" display_value="Location Information" name="sys_user" sys_domain="global" view="2ee581b0930b0210d59d385efaba1032">d5ca4138930b0210d59d385efaba10fe</sys_ui_section>
+            <sys_updated_by>jason.evans</sys_updated_by>
+            <sys_updated_on>2024-06-24 20:58:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Location Information</caption>
+            <header>false</header>
+            <name>sys_user</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>jason.evans</sys_created_by>
+            <sys_created_on>2024-06-24 20:58:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d5ca4138930b0210d59d385efaba10fe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sys_user</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+            <sys_update_name>sys_ui_section_d5ca4138930b0210d59d385efaba10fe</sys_update_name>
+            <sys_updated_by>jason.evans</sys_updated_by>
+            <sys_updated_on>2024-06-24 20:58:10</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="CALM User" name="CALM_User">2ee581b0930b0210d59d385efaba1032</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

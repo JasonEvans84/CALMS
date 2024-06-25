@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="fac0ab3393ba0210d59d385efaba107d" extends="sys_import_set_row" label="SubSystems" max_length="40" name="x_1284052_consol_0_ihub_import_f9202bff937a0210d59d385efaba10dd" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=System" label="System" max_length="44" name="u_system" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Subsystem name" label="Subsystem name" max_length="50" name="u_subsystem_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=MDS" label="MDS" max_length="40" name="u_mds" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Subsystem code" label="Subsystem code" max_length="40" name="u_subsystem_code" type="string"/>
+    </element>
+</database>

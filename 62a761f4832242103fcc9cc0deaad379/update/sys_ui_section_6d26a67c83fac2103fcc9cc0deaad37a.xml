@@ -42,6 +42,48 @@
             <sys_user/>
             <type/>
         </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>tm_code</element>
+            <position>4</position>
+            <sys_created_by>jason.evans</sys_created_by>
+            <sys_created_on>2024-06-22 04:05:26</sys_created_on>
+            <sys_id>cfcfcb7b933a0210d59d385efaba101a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1284052_consol_0_type_maintenance" sys_domain="global" view="Default view">6d26a67c83fac2103fcc9cc0deaad37a</sys_ui_section>
+            <sys_updated_by>jason.evans</sys_updated_by>
+            <sys_updated_on>2024-06-22 04:05:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>tm_short_text</element>
+            <position>5</position>
+            <sys_created_by>jason.evans</sys_created_by>
+            <sys_created_on>2024-06-22 04:05:55</sys_created_on>
+            <sys_id>caef8f7b933a0210d59d385efaba10c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1284052_consol_0_type_maintenance" sys_domain="global" view="Default view">6d26a67c83fac2103fcc9cc0deaad37a</sys_ui_section>
+            <sys_updated_by>jason.evans</sys_updated_by>
+            <sys_updated_on>2024-06-22 04:05:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>tm_full_text</element>
+            <position>6</position>
+            <sys_created_by>jason.evans</sys_created_by>
+            <sys_created_on>2024-06-22 04:06:20</sys_created_on>
+            <sys_id>d0005f7b933a0210d59d385efaba108e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1284052_consol_0_type_maintenance" sys_domain="global" view="Default view">6d26a67c83fac2103fcc9cc0deaad37a</sys_ui_section>
+            <sys_updated_by>jason.evans</sys_updated_by>
+            <sys_updated_on>2024-06-22 04:06:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption/>
             <header>false</header>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="all_tables.text_index_translations=true,display_image=photo,global_search_config_handler=UserConfig,ih_process_sync_enabled=true,iterativeDelete=true,kagami_csindex_enabled=true,metadata_link_exempt=true,ref_ac_columns=email,ref_ac_columns_search=true,ref_ac_order_by=name,ref_auto_completer=AJAXTableCompleter,slushbucket_omit_embedded=true" create_roles="user_admin" db_object_id="ba54fb00e412021008dda4ccc4008072" defaultsort="-1" dynamic_creation_script="dynamicUserCreation(current, value);" label="User" max_length="40" name="sys_user" text_index="true" type="collection">
+        <element dependent="x_1284052_consol_0_majcom" dependent_on_field="x_1284052_consol_0_majcom" label="Base" max_length="32" name="x_1284052_consol_0_base" reference="x_1284052_consol_0_base" type="reference" use_dependent_field="true"/>
+        <element label="MAJCOM" max_length="32" name="x_1284052_consol_0_majcom" reference="x_1284052_consol_0_majcom" type="reference"/>
+        <element dependent="x_1284052_consol_0_base" dependent_on_field="x_1284052_consol_0_base" label="Wing" max_length="32" name="x_1284052_consol_0_wing" reference="x_1284052_consol_0_wing" type="reference" use_dependent_field="true"/>
+        <element choice="3" label="Aircraft visibility" max_length="40" name="x_1284052_consol_0_aircraft_visibility" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="MAJCOM" sequence="4" value="4"/>
+                <element inactive_on_update="false" label="Unit" sequence="1" value="1"/>
+                <element inactive_on_update="false" label="Wing" sequence="3" value="3"/>
+                <element inactive_on_update="false" label="Squadron" sequence="2" value="2"/>
+                <element inactive_on_update="false" label="Air Force" sequence="5" value="5"/>
+            </choice>
+        </element>
+        <element dependent="x_1284052_consol_0_wing" dependent_on_field="x_1284052_consol_0_wing" label="Squadron" max_length="32" name="x_1284052_consol_0_squadron" reference="x_1284052_consol_0_squadron" type="reference" use_dependent_field="true"/>
+        <element dependent="x_1284052_consol_0_squadron" dependent_on_field="x_1284052_consol_0_squadron" label="Unit" max_length="32" name="x_1284052_consol_0_unit" reference="x_1284052_consol_0_unit" type="reference" use_dependent_field="true"/>
+        <element label="AFSC" max_length="32" name="x_1284052_consol_0_afsc" reference="x_1284052_consol_0_afsc" type="reference"/>
+        <element choice="3" label="Skill level" max_length="40" name="x_1284052_consol_0_skill_level" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="3 - Apprentace" sequence="2" value="3"/>
+                <element inactive_on_update="false" label="5 - Journeyman" sequence="3" value="5"/>
+                <element inactive_on_update="false" label="7 - Craftsman" sequence="4" value="7"/>
+                <element inactive_on_update="false" label="9 - Superintendent" sequence="5" value="9"/>
+                <element inactive_on_update="false" label="1 - Trainee" sequence="1" value="1"/>
+            </choice>
+        </element>
+        <element label="Rank" max_length="32" name="x_1284052_consol_0_rank" reference="x_1284052_consol_0_rank" type="reference"/>
+        <element dependent="x_1284052_consol_0_unit" dependent_on_field="x_1284052_consol_0_unit" label="Workcenter" max_length="32" name="x_1284052_consol_0_workcenter" reference="x_1284052_consol_0_workcenter" type="reference" use_dependent_field="true"/>
+        <index name="index">
+            <element name="x_1284052_consol_0_afsc"/>
+        </index>
+        <index name="index2">
+            <element name="x_1284052_consol_0_base"/>
+        </index>
+        <index name="index3">
+            <element name="x_1284052_consol_0_majcom"/>
+        </index>
+        <index name="index4">
+            <element name="x_1284052_consol_0_rank"/>
+        </index>
+        <index name="index5">
+            <element name="x_1284052_consol_0_squadron"/>
+        </index>
+        <index name="index6">
+            <element name="x_1284052_consol_0_unit"/>
+        </index>
+        <index name="index7">
+            <element name="x_1284052_consol_0_wing"/>
+        </index>
+        <index name="index8">
+            <element name="x_1284052_consol_0_workcenter"/>
+        </index>
+    </element>
+</database>

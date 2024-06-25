@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="da565938934b0210d59d385efaba107d" extends="sys_import_set_row" label="PPC" max_length="40" name="x_1284052_consol_0_ihub_import_88165174934b0210d59d385efaba1052" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=PPC Name" label="PPC Name" max_length="65" name="u_ppc_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=PPC Text" label="PPC Text" max_length="719" name="u_ppc_text" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Possession code" label="Possession code" max_length="40" name="u_possession_code" type="string"/>
+    </element>
+</database>

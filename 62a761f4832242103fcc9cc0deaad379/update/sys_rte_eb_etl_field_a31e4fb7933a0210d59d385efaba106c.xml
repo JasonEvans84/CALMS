@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_field">
+    <sys_rte_eb_etl_field action="INSERT_OR_UPDATE">
+        <coalesce>false</coalesce>
+        <coercion_action>create</coercion_action>
+        <field>sn_ihub_target_how_malfunction_code</field>
+        <name>sn_ihub_target_how_malfunction_code</name>
+        <sys_class_name>sys_rte_eb_etl_field</sys_class_name>
+        <sys_created_by>jason.evans</sys_created_by>
+        <sys_created_on>2024-06-22 03:58:06</sys_created_on>
+        <sys_id>a31e4fb7933a0210d59d385efaba106c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_ihub_target_how_malfunction_code</sys_name>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="HMAL Codes_etl_ihub">4b0ecbb7933a0210d59d385efaba10c5</sys_rte_eb_definition>
+        <sys_rte_eb_entity display_value="IHUB_TARGET_TEMP_x_1284052_consol_0_how_malfunction">eb1e4fb7933a0210d59d385efaba1069</sys_rte_eb_entity>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_update_name>sys_rte_eb_etl_field_a31e4fb7933a0210d59d385efaba106c</sys_update_name>
+        <sys_updated_by>jason.evans</sys_updated_by>
+        <sys_updated_on>2024-06-22 03:58:06</sys_updated_on>
+    </sys_rte_eb_etl_field>
+</record_update>

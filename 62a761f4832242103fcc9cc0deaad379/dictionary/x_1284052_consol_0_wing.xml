@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="f92371f4836242103fcc9cc0deaad3f8" label="Wing" max_length="40" name="x_1284052_consol_0_wing" type="collection">
         <element label="Wing logo" max_length="32" name="wing_logo" reference="db_image" type="reference"/>
-        <element label="Base" mandatory="true" max_length="32" name="base" reference="x_1284052_consol_0_base" type="reference"/>
+        <element label="Base" max_length="32" name="base" reference="x_1284052_consol_0_base" type="reference"/>
+        <element label="Wing name" max_length="40" name="wing_name" type="string"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
-        <element display="true" label="Wing short name" max_length="40" name="wing_short_name" type="string"/>
-        <element label="MAJCOM" mandatory="true" max_length="32" name="majcom" reference="x_1284052_consol_0_majcom" type="reference"/>
-        <element label="Wing name" mandatory="true" max_length="40" name="wing_name" type="string"/>
         <element default="true" label="Active" max_length="40" name="active" type="boolean"/>
+        <element display="true" label="Wing short name" mandatory="true" max_length="40" name="wing_short_name" type="string"/>
         <index name="index">
             <element name="base"/>
         </index>
         <index name="index2">
-            <element name="majcom"/>
-        </index>
-        <index name="index3">
             <element name="wing_logo"/>
         </index>
     </element>

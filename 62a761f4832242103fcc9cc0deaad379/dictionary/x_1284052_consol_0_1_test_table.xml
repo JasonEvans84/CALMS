@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="6088debc938f0210d59d385efaba10eb" label="1 test table" max_length="40" name="x_1284052_consol_0_1_test_table" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="testString" max_length="40" name="teststring" type="string"/>
+    </element>
+</database>

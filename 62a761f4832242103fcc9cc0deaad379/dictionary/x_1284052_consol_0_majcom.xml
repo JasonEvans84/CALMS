@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="6bdce5bc832242103fcc9cc0deaad3a5" label="MAJCOM" max_length="40" name="x_1284052_consol_0_majcom" type="collection">
         <element label="Active" max_length="40" name="active" type="boolean"/>
-        <element display="true" label="Command Code" max_length="40" name="command_code" type="string"/>
-        <element label="Command name" mandatory="true" max_length="40" name="command_name" type="string"/>
+        <element display="true" label="Command Code" mandatory="true" max_length="40" name="command_code" type="string"/>
+        <element label="Command name" max_length="40" name="command_name" type="string"/>
     </element>
 </database>

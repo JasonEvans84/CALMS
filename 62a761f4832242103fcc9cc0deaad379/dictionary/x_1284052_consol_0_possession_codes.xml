@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="1e79905f83e642103fcc9cc0deaad389" label="Possession Codes" max_length="40" name="x_1284052_consol_0_possession_codes" type="collection">
         <element display="true" label="Possession code" mandatory="true" max_length="40" name="possession_code" type="string"/>
-        <element label="Description" max_length="2000" name="full_description" type="html"/>
-        <element label="Short description" mandatory="true" max_length="400" name="short_description" type="string"/>
         <element label="Possession code name" max_length="400" name="ppc_name" type="string"/>
+        <element label="Description" max_length="2000" name="full_description" type="html"/>
     </element>
 </database>

@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="b02937f6836202103fcc9cc0deaad352" label="Sub Systems" max_length="40" name="x_1284052_consol_0_sub_systems" type="collection">
-        <element display="true" label="Subsystem code" max_length="40" name="subsystem_code" type="string"/>
         <element label="System" max_length="32" name="system" reference="x_1284052_consol_0_systems_list" type="reference"/>
         <element label="Subsystem name" max_length="250" name="subsystem_name" type="string"/>
+        <element display="true" label="Subsystem code" max_length="40" name="subsystem_code" type="string"/>
+        <element label="MDS" max_length="32" name="mds" reference="x_1284052_consol_0_mds" type="reference"/>
         <index name="index">
+            <element name="mds"/>
+        </index>
+        <index name="index2">
             <element name="system"/>
         </index>
     </element>

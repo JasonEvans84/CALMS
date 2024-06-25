@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="93e73b76836202103fcc9cc0deaad30a" label="Systems List" max_length="40" name="x_1284052_consol_0_systems_list" type="collection">
         <element label="System name" max_length="250" name="system_name" type="string"/>
-        <element display="true" label="System code" max_length="40" name="system_code" type="string"/>
+        <element label="MDS" max_length="32" name="mds" reference="x_1284052_consol_0_mds" type="reference"/>
+        <index name="index">
+            <element name="mds"/>
+        </index>
     </element>
 </database>

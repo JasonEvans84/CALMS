@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_entity">
+    <sys_rte_eb_etl_entity action="INSERT_OR_UPDATE">
+        <child_id_field/>
+        <name>Target_x_1284052_consol_0_systems_list</name>
+        <parent_entity/>
+        <parent_id_field/>
+        <path>x_1284052_consol_0_systems_list</path>
+        <run_business_rules>false</run_business_rules>
+        <synchronize_inserts>false</synchronize_inserts>
+        <sys_class_name>sys_rte_eb_etl_entity</sys_class_name>
+        <sys_created_by>jason.evans</sys_created_by>
+        <sys_created_on>2024-06-22 04:03:03</sys_created_on>
+        <sys_id>844fcb3b933a0210d59d385efaba10a5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Target_x_1284052_consol_0_systems_list</sys_name>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="Systems_etl_ihub">084f8b3b933a0210d59d385efaba1023</sys_rte_eb_definition>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_update_name>sys_rte_eb_etl_entity_844fcb3b933a0210d59d385efaba10a5</sys_update_name>
+        <sys_updated_by>jason.evans</sys_updated_by>
+        <sys_updated_on>2024-06-22 04:03:03</sys_updated_on>
+        <table>x_1284052_consol_0_systems_list</table>
+    </sys_rte_eb_etl_entity>
+</record_update>

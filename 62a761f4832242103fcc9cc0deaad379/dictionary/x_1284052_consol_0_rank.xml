@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b1328ff393f60210d59d385efaba10ab" label="Rank" max_length="40" name="x_1284052_consol_0_rank" type="collection">
+        <element display="true" label="Rank abbr" max_length="40" name="rank_abbr" type="string"/>
+        <element label="Rank" max_length="40" name="rank" type="string"/>
+        <element label="Grade" max_length="40" name="grade" type="string"/>
+    </element>
+</database>

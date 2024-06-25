@@ -1,72 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_section caption="" section_id="daa60abc83a242103fcc9cc0deaad3db" sys_domain="global" table="x_1284052_consol_0_workcenter" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>workcenter_code</element>
-            <position>0</position>
-            <sys_created_by>oscarfotz</sys_created_by>
-            <sys_created_on>2024-06-07 19:19:43</sys_created_on>
-            <sys_id>2131119b832e42103fcc9cc0deaad3d8</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_1284052_consol_0_workcenter" sys_domain="global" view="Default view">daa60abc83a242103fcc9cc0deaad3db</sys_ui_section>
-            <sys_updated_by>oscarfotz</sys_updated_by>
-            <sys_updated_on>2024-06-07 19:19:43</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
             <element>workcenter_name</element>
-            <position>1</position>
-            <sys_created_by>oscarfotz</sys_created_by>
-            <sys_created_on>2024-06-07 19:19:43</sys_created_on>
-            <sys_id>a131519b832e42103fcc9cc0deaad323</sys_id>
+            <position>0</position>
+            <sys_created_by>jason.evans</sys_created_by>
+            <sys_created_on>2024-06-25 05:25:38</sys_created_on>
+            <sys_id>8fee7a3093c34210d59d385efaba10c7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1284052_consol_0_workcenter" sys_domain="global" view="Default view">daa60abc83a242103fcc9cc0deaad3db</sys_ui_section>
-            <sys_updated_by>oscarfotz</sys_updated_by>
-            <sys_updated_on>2024-06-07 19:19:43</sys_updated_on>
+            <sys_updated_by>jason.evans</sys_updated_by>
+            <sys_updated_on>2024-06-25 05:25:38</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>unit</element>
-            <position>2</position>
-            <sys_created_by>oscarfotz</sys_created_by>
-            <sys_created_on>2024-06-07 19:19:43</sys_created_on>
-            <sys_id>a931519b832e42103fcc9cc0deaad323</sys_id>
+            <position>1</position>
+            <sys_created_by>jason.evans</sys_created_by>
+            <sys_created_on>2024-06-25 05:25:38</sys_created_on>
+            <sys_id>87ee7a3093c34210d59d385efaba10c8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1284052_consol_0_workcenter" sys_domain="global" view="Default view">daa60abc83a242103fcc9cc0deaad3db</sys_ui_section>
-            <sys_updated_by>oscarfotz</sys_updated_by>
-            <sys_updated_on>2024-06-07 19:19:43</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>unit.unit_short_name</element>
-            <position>3</position>
-            <sys_created_by>oscarfotz</sys_created_by>
-            <sys_created_on>2024-06-07 19:19:43</sys_created_on>
-            <sys_id>a131519b832e42103fcc9cc0deaad324</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_1284052_consol_0_workcenter" sys_domain="global" view="Default view">daa60abc83a242103fcc9cc0deaad3db</sys_ui_section>
-            <sys_updated_by>oscarfotz</sys_updated_by>
-            <sys_updated_on>2024-06-07 19:19:43</sys_updated_on>
+            <sys_updated_by>jason.evans</sys_updated_by>
+            <sys_updated_on>2024-06-25 05:25:38</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>active</element>
-            <position>4</position>
-            <sys_created_by>oscarfotz</sys_created_by>
-            <sys_created_on>2024-06-07 19:19:43</sys_created_on>
-            <sys_id>a931519b832e42103fcc9cc0deaad324</sys_id>
+            <position>2</position>
+            <sys_created_by>jason.evans</sys_created_by>
+            <sys_created_on>2024-06-25 05:25:38</sys_created_on>
+            <sys_id>8fee7a3093c34210d59d385efaba10c8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1284052_consol_0_workcenter" sys_domain="global" view="Default view">daa60abc83a242103fcc9cc0deaad3db</sys_ui_section>
-            <sys_updated_by>oscarfotz</sys_updated_by>
-            <sys_updated_on>2024-06-07 19:19:43</sys_updated_on>
+            <sys_updated_by>jason.evans</sys_updated_by>
+            <sys_updated_on>2024-06-25 05:25:38</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

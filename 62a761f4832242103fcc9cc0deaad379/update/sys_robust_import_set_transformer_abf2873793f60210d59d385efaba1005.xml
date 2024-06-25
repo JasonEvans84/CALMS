@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_robust_import_set_transformer">
+    <sys_robust_import_set_transformer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <batch_size>10</batch_size>
+        <description>RTE definition for Ranks</description>
+        <name>Ranks_rte_ihub</name>
+        <properties/>
+        <robust_transform_engine display_value="Ranks_etl_ihub">a3f2873793f60210d59d385efaba1002</robust_transform_engine>
+        <source_table>x_1284052_consol_0_ihub_import_e6b2073793f60210d59d385efaba10b6</source_table>
+        <sys_class_name>sys_robust_import_set_transformer</sys_class_name>
+        <sys_created_by>jason.evans</sys_created_by>
+        <sys_created_on>2024-06-22 03:09:30</sys_created_on>
+        <sys_id>abf2873793f60210d59d385efaba1005</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Ranks_rte_ihub</sys_name>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_update_name>sys_robust_import_set_transformer_abf2873793f60210d59d385efaba1005</sys_update_name>
+        <sys_updated_by>jason.evans</sys_updated_by>
+        <sys_updated_on>2024-06-22 03:09:30</sys_updated_on>
+        <verbose>false</verbose>
+    </sys_robust_import_set_transformer>
+</record_update>

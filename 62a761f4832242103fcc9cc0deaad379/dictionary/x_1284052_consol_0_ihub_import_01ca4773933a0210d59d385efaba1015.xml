@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b7bbcbf3933a0210d59d385efaba1090" extends="sys_import_set_row" label="AT Codes" max_length="40" name="x_1284052_consol_0_ihub_import_01ca4773933a0210d59d385efaba1015" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Off equip" label="Off equip" max_length="40" name="u_off_equip" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Definition" label="Definition" max_length="612" name="u_definition" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=On equip" label="On equip" max_length="40" name="u_on_equip" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Code" label="Code" max_length="40" name="u_code" type="string"/>
+    </element>
+</database>

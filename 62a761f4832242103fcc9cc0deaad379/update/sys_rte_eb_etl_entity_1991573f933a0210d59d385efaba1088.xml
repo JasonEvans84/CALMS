@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_entity">
+    <sys_rte_eb_etl_entity action="INSERT_OR_UPDATE">
+        <child_id_field/>
+        <name>Source_x_1284052_consol_0_ihub_import_d3715ffb933a0210d59d385efaba1046</name>
+        <parent_entity/>
+        <parent_id_field/>
+        <path/>
+        <run_business_rules>false</run_business_rules>
+        <synchronize_inserts>false</synchronize_inserts>
+        <sys_class_name>sys_rte_eb_etl_entity</sys_class_name>
+        <sys_created_by>jason.evans</sys_created_by>
+        <sys_created_on>2024-06-22 04:13:15</sys_created_on>
+        <sys_id>1991573f933a0210d59d385efaba1088</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Source_x_1284052_consol_0_ihub_import_d3715ffb933a0210d59d385efaba1046</sys_name>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="WD Codes_etl_ihub">d991573f933a0210d59d385efaba1082</sys_rte_eb_definition>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_update_name>sys_rte_eb_etl_entity_1991573f933a0210d59d385efaba1088</sys_update_name>
+        <sys_updated_by>jason.evans</sys_updated_by>
+        <sys_updated_on>2024-06-22 04:13:15</sys_updated_on>
+        <table>x_1284052_consol_0_ihub_import_d3715ffb933a0210d59d385efaba1046</table>
+    </sys_rte_eb_etl_entity>
+</record_update>

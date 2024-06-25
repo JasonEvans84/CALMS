@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_entity_mapping">
+    <sys_rte_eb_entity_mapping action="DELETE">
+        <condition_script><![CDATA[/* Example Script  (function() {          //step1: access the input variables         if (input && input.temp.u_type == 'Disk') {         //step2: return true/false             return true;         }         return false;  })(); */  (function(input) {     // Add your code here. })(input);]]></condition_script>
+        <encoded_query/>
+        <entity_mapping_group/>
+        <ignore>false</ignore>
+        <is_conditional>false</is_conditional>
+        <name>IHUB_SOURCE_TEMP_MAPPING</name>
+        <order>50</order>
+        <source_sys_rte_eb_entity display_value="Source_x_1284052_consol_0_ihub_import_9b0b5bf7937a0210d59d385efaba10b6">152bd37b937a0210d59d385efaba1096</source_sys_rte_eb_entity>
+        <sys_class_name>sys_rte_eb_entity_mapping</sys_class_name>
+        <sys_created_by>jason.evans</sys_created_by>
+        <sys_created_on>2024-06-22 04:56:57</sys_created_on>
+        <sys_id>ed9b5f7b937a0210d59d385efaba10c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IHUB_SOURCE_TEMP_MAPPING</sys_name>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="F-16 Systems_etl_ihub">552bd37b937a0210d59d385efaba1090</sys_rte_eb_definition>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_update_name>sys_rte_eb_entity_mapping_ed9b5f7b937a0210d59d385efaba10c7</sys_update_name>
+        <sys_updated_by>jason.evans</sys_updated_by>
+        <sys_updated_on>2024-06-22 04:56:57</sys_updated_on>
+        <target_sys_rte_eb_entity display_value="IHUB_TARGET_TEMP_x_1284052_consol_0_systems_list">a59b5f7b937a0210d59d385efaba10bc</target_sys_rte_eb_entity>
+    </sys_rte_eb_entity_mapping>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</application>
+        <file_path/>
+        <instance_id>69ac493f1b257910ba5ceb9b2d4bcbfb</instance_id>
+        <instance_name>dev181236</instance_name>
+        <name>sys_rte_eb_entity_mapping_ed9b5f7b937a0210d59d385efaba10c7</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_rte_eb_entity_mapping"&gt;&lt;sys_rte_eb_entity_mapping action="INSERT_OR_UPDATE"&gt;&lt;condition_script&gt;&lt;![CDATA[/* Example Script  (function() {          //step1: access the input variables         if (input &amp;&amp; input.temp.u_type == 'Disk') {         //step2: return true/false             return true;         }         return false;  })(); */  (function(input) {     // Add your code here. })(input);]]&gt;&lt;/condition_script&gt;&lt;encoded_query/&gt;&lt;entity_mapping_group/&gt;&lt;ignore&gt;false&lt;/ignore&gt;&lt;is_conditional&gt;false&lt;/is_conditional&gt;&lt;name&gt;IHUB_SOURCE_TEMP_MAPPING&lt;/name&gt;&lt;order&gt;50&lt;/order&gt;&lt;source_sys_rte_eb_entity display_value="Source_x_1284052_consol_0_ihub_import_9b0b5bf7937a0210d59d385efaba10b6"&gt;152bd37b937a0210d59d385efaba1096&lt;/source_sys_rte_eb_entity&gt;&lt;sys_class_name&gt;sys_rte_eb_entity_mapping&lt;/sys_class_name&gt;&lt;sys_created_by&gt;jason.evans&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-06-22 04:56:57&lt;/sys_created_on&gt;&lt;sys_id&gt;ed9b5f7b937a0210d59d385efaba10c7&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;IHUB_SOURCE_TEMP_MAPPING&lt;/sys_name&gt;&lt;sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0"&gt;62a761f4832242103fcc9cc0deaad379&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_rte_eb_definition display_value="F-16 Systems_etl_ihub"&gt;552bd37b937a0210d59d385efaba1090&lt;/sys_rte_eb_definition&gt;&lt;sys_scope display_value="Consolidated Aircraft Logistics Management System"&gt;62a761f4832242103fcc9cc0deaad379&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_rte_eb_entity_mapping_ed9b5f7b937a0210d59d385efaba10c7&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;jason.evans&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-06-22 04:56:57&lt;/sys_updated_on&gt;&lt;target_sys_rte_eb_entity display_value="IHUB_TARGET_TEMP_x_1284052_consol_0_systems_list"&gt;a59b5f7b937a0210d59d385efaba10bc&lt;/target_sys_rte_eb_entity&gt;&lt;/sys_rte_eb_entity_mapping&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>2144019672</payload_hash>
+        <record_name>IHUB_SOURCE_TEMP_MAPPING</record_name>
+        <reverted_from/>
+        <source>4824baf393b20210d59d385efaba1081</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>jason.evans</sys_created_by>
+        <sys_created_on>2024-06-22 04:56:57</sys_created_on>
+        <sys_id>ad9b5f7b937a0210d59d385efaba10c9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1903e4dff190000001</sys_recorded_at>
+        <sys_updated_by>jason.evans</sys_updated_by>
+        <sys_updated_on>2024-06-22 04:56:57</sys_updated_on>
+        <type>RTE Entity Mapping</type>
+        <update_guid>a19b5f7b2e7a021042c96401bd5d5cc9</update_guid>
+        <update_guid_history>a19b5f7b2e7a021042c96401bd5d5cc9:2144019672</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>jason.evans</sys_created_by>
+        <sys_created_on>2024-06-22 05:16:52</sys_created_on>
+        <sys_db_object display_value="" name="sys_rte_eb_entity_mapping">sys_rte_eb_entity_mapping</sys_db_object>
+        <sys_id>074159d7a9fb417888231cfba1a17a10</sys_id>
+        <sys_metadata>ed9b5f7b937a0210d59d385efaba10c7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IHUB_SOURCE_TEMP_MAPPING</sys_name>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_scope_delete display_value="">52e6fb2b6ff440dcae7286a44d209be1</sys_scope_delete>
+        <sys_update_name>sys_rte_eb_entity_mapping_ed9b5f7b937a0210d59d385efaba10c7</sys_update_name>
+        <sys_update_version display_value="sys_rte_eb_entity_mapping_ed9b5f7b937a0210d59d385efaba10c7">ad9b5f7b937a0210d59d385efaba10c9</sys_update_version>
+        <sys_updated_by>jason.evans</sys_updated_by>
+        <sys_updated_on>2024-06-22 05:16:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

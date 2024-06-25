@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-06-08 00:12:43</sys_created_on>
+        <sys_id>2944165783a282103fcc9cc0deaad3fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.x_1284052_consol_0.testtabel_user</sys_name>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_security_acl/>
+        <sys_update_name>sys_security_acl_role_2944165783a282103fcc9cc0deaad3fd</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-06-08 00:12:43</sys_updated_on>
+        <sys_user_role display_value="x_1284052_consol_0.testtabel_user" name="x_1284052_consol_0.testtabel_user">78b612c283ee02103fcc9cc0deaad31f</sys_user_role>
+    </sys_security_acl_role>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</application>
+        <file_path/>
+        <instance_id>69ac493f1b257910ba5ceb9b2d4bcbfb</instance_id>
+        <instance_name>dev181236</instance_name>
+        <name>sys_security_acl_role_2944165783a282103fcc9cc0deaad3fd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-06-08 00:12:43</sys_created_on>
+        <sys_id>2944165783a282103fcc9cc0deaad3fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.x_1284052_consol_0.testtabel_user</sys_name>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_security_acl/>
+        <sys_update_name>sys_security_acl_role_2944165783a282103fcc9cc0deaad3fd</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-06-08 00:12:43</sys_updated_on>
+        <sys_user_role display_value="x_1284052_consol_0.testtabel_user" name="x_1284052_consol_0.testtabel_user">78b612c283ee02103fcc9cc0deaad31f</sys_user_role>
+    </sys_security_acl_role>
+</record_update>]]></payload>
+        <payload_hash>-1427090455</payload_hash>
+        <record_name>.x_1284052_consol_0.testtabel_user</record_name>
+        <reverted_from/>
+        <source>9233b27b93720210d59d385efaba1049</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>jason.evans</sys_created_by>
+        <sys_created_on>2024-06-22 02:02:37</sys_created_on>
+        <sys_id>73a376bf93720210d59d385efaba1080</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1903dae63a20000001</sys_recorded_at>
+        <sys_updated_by>jason.evans</sys_updated_by>
+        <sys_updated_on>2024-06-22 02:02:37</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>33a376bfcb720210ffc945a4d3b58080</update_guid>
+        <update_guid_history>33a376bfcb720210ffc945a4d3b58080:-1427090455</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value=".x_1284052_consol_0.testtabel_user">45b18f3493c34210d59d385efaba10ff</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-06-25 05:37:47</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>27a12bc6256c4d8e88e269f01c9f3761</sys_id>
+        <sys_metadata>2944165783a282103fcc9cc0deaad3fd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.x_1284052_consol_0.testtabel_user</sys_name>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_scope_delete display_value="">52e6fb2b6ff440dcae7286a44d209be1</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_2944165783a282103fcc9cc0deaad3fd</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_2944165783a282103fcc9cc0deaad3fd">73a376bf93720210d59d385efaba1080</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-06-25 05:37:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

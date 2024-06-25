@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="c5f91ff7937a0210d59d385efaba1028" extends="sys_import_set_row" label="F-16 Systems" max_length="40" name="x_1284052_consol_0_f_16_systems" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=System Name" label="System Name" max_length="42" name="u_system_name" type="string"/>
+    </element>
+</database>

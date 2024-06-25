@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="x_1284052_consol_0_skill_level" table="sys_user" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>x_1284052_consol_0_skill_level</element>
+            <name>sys_user</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>jason.evans</sys_created_by>
+            <sys_created_on>2024-06-22 03:21:40</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1284052_consol_0_skill_level</sys_name>
+            <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+            <sys_update_name>sys_choice_sys_user_x_1284052_consol_0_skill_level</sys_update_name>
+            <sys_updated_by>jason.evans</sys_updated_by>
+            <sys_updated_on>2024-06-22 03:21:40</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>x_1284052_consol_0_skill_level</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1 - Trainee</label>
+            <language>en</language>
+            <name>sys_user</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>jason.evans</sys_created_by>
+            <sys_created_on>2024-06-22 03:21:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>jason.evans</sys_updated_by>
+            <sys_updated_on>2024-06-22 03:21:46</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>x_1284052_consol_0_skill_level</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>3 - Apprentace</label>
+            <language>en</language>
+            <name>sys_user</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>jason.evans</sys_created_by>
+            <sys_created_on>2024-06-22 03:21:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>jason.evans</sys_updated_by>
+            <sys_updated_on>2024-06-22 03:22:27</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>x_1284052_consol_0_skill_level</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>5 - Journeyman</label>
+            <language>en</language>
+            <name>sys_user</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>jason.evans</sys_created_by>
+            <sys_created_on>2024-06-22 03:22:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>jason.evans</sys_updated_by>
+            <sys_updated_on>2024-06-22 03:22:09</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>x_1284052_consol_0_skill_level</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>7 - Craftsman</label>
+            <language>en</language>
+            <name>sys_user</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>jason.evans</sys_created_by>
+            <sys_created_on>2024-06-22 03:22:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>jason.evans</sys_updated_by>
+            <sys_updated_on>2024-06-22 03:22:19</sys_updated_on>
+            <value>7</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>x_1284052_consol_0_skill_level</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>9 - Superintendent</label>
+            <language>en</language>
+            <name>sys_user</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>jason.evans</sys_created_by>
+            <sys_created_on>2024-06-22 03:22:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>jason.evans</sys_updated_by>
+            <sys_updated_on>2024-06-22 03:22:39</sys_updated_on>
+            <value>9</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

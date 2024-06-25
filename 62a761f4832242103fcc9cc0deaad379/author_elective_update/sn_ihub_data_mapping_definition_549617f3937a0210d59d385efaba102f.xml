@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_data_mapping_definition">
+    <sn_ihub_data_mapping_definition action="DELETE">
+        <integration_table>sys_data_source</integration_table>
+        <published_source_structure/>
+        <record_id>9e8617b3937a0210d59d385efaba105f</record_id>
+        <source_structure/>
+        <sys_class_name>sn_ihub_data_mapping_definition</sys_class_name>
+        <sys_created_by>jason.evans</sys_created_by>
+        <sys_created_on>2024-06-22 04:35:01</sys_created_on>
+        <sys_id>549617f3937a0210d59d385efaba102f</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_update_name>sn_ihub_data_mapping_definition_549617f3937a0210d59d385efaba102f</sys_update_name>
+        <sys_updated_by>jason.evans</sys_updated_by>
+        <sys_updated_on>2024-06-22 04:46:43</sys_updated_on>
+    </sn_ihub_data_mapping_definition>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</application>
+        <file_path/>
+        <instance_id>69ac493f1b257910ba5ceb9b2d4bcbfb</instance_id>
+        <instance_name>dev181236</instance_name>
+        <name>sn_ihub_data_mapping_definition_549617f3937a0210d59d385efaba102f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_data_mapping_definition"><sn_ihub_data_mapping_definition action="INSERT_OR_UPDATE"><integration_table>sys_data_source</integration_table><published_source_structure/><record_id>9e8617b3937a0210d59d385efaba105f</record_id><source_structure/><sys_class_name>sn_ihub_data_mapping_definition</sys_class_name><sys_created_by>jason.evans</sys_created_by><sys_created_on>2024-06-22 04:35:01</sys_created_on><sys_id>549617f3937a0210d59d385efaba102f</sys_id><sys_mod_count>4</sys_mod_count><sys_name/><sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package><sys_policy/><sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope><sys_update_name>sn_ihub_data_mapping_definition_549617f3937a0210d59d385efaba102f</sys_update_name><sys_updated_by>jason.evans</sys_updated_by><sys_updated_on>2024-06-22 04:46:43</sys_updated_on></sn_ihub_data_mapping_definition></record_update>]]></payload>
+        <payload_hash>391130997</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>c128370ce492021008dda4ccc4008064</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-06-22 04:49:05</sys_created_on>
+        <sys_id>1ac91bf7937a0210d59d385efaba10c0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1903e46cbcd0000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-06-22 04:49:05</sys_updated_on>
+        <type>Integration Data Mapping Definition</type>
+        <update_guid>16c91bf7777a0210d30a890789645fc0</update_guid>
+        <update_guid_history>16c91bf7777a0210d30a890789645fc0:0,dec91bf7c97a0210e9fc714578fa1dbd:0,ff39dbb79f7a0210fba817b3b88fdade:-1438701980,f939dbb7057a0210ee0461a6a701c238:476692809,f1f61ff35c7a02104d9ae89fd97ed9de:323129413,0aa697f3047a0210f60b2738b32def51:1784455300,d89617f32b7a0210cdb256e9baa18530:927359110</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">d6c91bf7937a0210d59d385efaba10c2</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>jason.evans</sys_created_by>
+        <sys_created_on>2024-06-22 04:49:05</sys_created_on>
+        <sys_db_object display_value="" name="sn_ihub_data_mapping_definition">sn_ihub_data_mapping_definition</sys_db_object>
+        <sys_id>2c724cebbcec41fb8d2f0eece6a92c21</sys_id>
+        <sys_metadata>549617f3937a0210d59d385efaba102f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_scope_delete display_value="">52e6fb2b6ff440dcae7286a44d209be1</sys_scope_delete>
+        <sys_update_name>sn_ihub_data_mapping_definition_549617f3937a0210d59d385efaba102f</sys_update_name>
+        <sys_update_version display_value="sn_ihub_data_mapping_definition_549617f3937a0210d59d385efaba102f">1ac91bf7937a0210d59d385efaba10c0</sys_update_version>
+        <sys_updated_by>jason.evans</sys_updated_by>
+        <sys_updated_on>2024-06-22 04:49:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

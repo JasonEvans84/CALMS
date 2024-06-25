@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_integration_instance">
+    <sn_ihub_integration_instance action="DELETE">
+        <description>F-16 Systems Import</description>
+        <integration_table>sys_data_source</integration_table>
+        <integration_type/>
+        <internal_name/>
+        <name>F-16 Systems</name>
+        <record_id>1b0b5bf7937a0210d59d385efaba10b7</record_id>
+        <sys_class_name>sn_ihub_integration_instance</sys_class_name>
+        <sys_created_by>jason.evans</sys_created_by>
+        <sys_created_on>2024-06-22 04:54:36</sys_created_on>
+        <sys_id>9b0b5bf7937a0210d59d385efaba10b6</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>F-16 Systems</sys_name>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_update_name>sn_ihub_integration_instance_9b0b5bf7937a0210d59d385efaba10b6</sys_update_name>
+        <sys_updated_by>jason.evans</sys_updated_by>
+        <sys_updated_on>2024-06-22 04:54:36</sys_updated_on>
+    </sn_ihub_integration_instance>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</application>
+        <file_path/>
+        <instance_id>69ac493f1b257910ba5ceb9b2d4bcbfb</instance_id>
+        <instance_name>dev181236</instance_name>
+        <name>sn_ihub_integration_instance_9b0b5bf7937a0210d59d385efaba10b6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_integration_instance"><sn_ihub_integration_instance action="INSERT_OR_UPDATE"><description>F-16 Systems Import</description><integration_table>sys_data_source</integration_table><integration_type/><internal_name/><name>F-16 Systems</name><record_id>1b0b5bf7937a0210d59d385efaba10b7</record_id><sys_class_name>sn_ihub_integration_instance</sys_class_name><sys_created_by>jason.evans</sys_created_by><sys_created_on>2024-06-22 04:54:36</sys_created_on><sys_id>9b0b5bf7937a0210d59d385efaba10b6</sys_id><sys_mod_count>1</sys_mod_count><sys_name>F-16 Systems</sys_name><sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package><sys_policy/><sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope><sys_update_name>sn_ihub_integration_instance_9b0b5bf7937a0210d59d385efaba10b6</sys_update_name><sys_updated_by>jason.evans</sys_updated_by><sys_updated_on>2024-06-22 04:54:36</sys_updated_on></sn_ihub_integration_instance></record_update>]]></payload>
+        <payload_hash>983748424</payload_hash>
+        <record_name>F-16 Systems</record_name>
+        <reverted_from/>
+        <source>4824baf393b20210d59d385efaba1081</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>jason.evans</sys_created_by>
+        <sys_created_on>2024-06-22 04:54:36</sys_created_on>
+        <sys_id>970b5bf7937a0210d59d385efaba10be</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1903e4bd9b50000001</sys_recorded_at>
+        <sys_updated_by>jason.evans</sys_updated_by>
+        <sys_updated_on>2024-06-22 04:54:36</sys_updated_on>
+        <type>Data import</type>
+        <update_guid>9b0b5bf79c7a0210697e3485d54ce9bd</update_guid>
+        <update_guid_history>9b0b5bf79c7a0210697e3485d54ce9bd:983748424</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="F-16 Systems">0a10e3bb937a0210d59d385efaba107e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>jason.evans</sys_created_by>
+        <sys_created_on>2024-06-22 05:16:39</sys_created_on>
+        <sys_db_object display_value="" name="sn_ihub_integration_instance">sn_ihub_integration_instance</sys_db_object>
+        <sys_id>1ad0bce16bce435683569fd092445259</sys_id>
+        <sys_metadata>9b0b5bf7937a0210d59d385efaba10b6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>F-16 Systems</sys_name>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_scope_delete display_value="">52e6fb2b6ff440dcae7286a44d209be1</sys_scope_delete>
+        <sys_update_name>sn_ihub_integration_instance_9b0b5bf7937a0210d59d385efaba10b6</sys_update_name>
+        <sys_update_version display_value="sn_ihub_integration_instance_9b0b5bf7937a0210d59d385efaba10b6">970b5bf7937a0210d59d385efaba10be</sys_update_version>
+        <sys_updated_by>jason.evans</sys_updated_by>
+        <sys_updated_on>2024-06-22 05:16:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

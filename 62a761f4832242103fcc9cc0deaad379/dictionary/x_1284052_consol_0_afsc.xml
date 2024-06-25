@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="09c663c183ee82103fcc9cc0deaad31f" label="AFSC" max_length="40" name="x_1284052_consol_0_afsc" type="collection">
-        <element display="true" label="AFSC Name" mandatory="true" max_length="100" name="afsc_name" type="string"/>
+        <element label="AFSC Name" mandatory="true" max_length="100" name="afsc_name" type="string"/>
         <element label="Active" max_length="40" name="active" type="boolean"/>
-        <element label="AFSC" mandatory="true" max_length="40" name="afsc" type="string"/>
+        <element display="true" label="AFSC" mandatory="true" max_length="40" name="afsc" type="string"/>
     </element>
 </database>

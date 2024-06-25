@@ -10,23 +10,37 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_1284052_consol_0_aircraft" name="x_1284052_consol_0_aircraft" sys_domain="global" view="Default view">712c781f83aa42103fcc9cc0deaad305</sys_ui_form>
-            <sys_ui_section caption="Basic Information" display_value="Basic Information" name="x_1284052_consol_0_aircraft" sys_domain="global" view="Default view">d7c8a574832242103fcc9cc0deaad302</sys_ui_section>
+            <sys_ui_section caption="Aircraft Details" display_value="Aircraft Details" name="x_1284052_consol_0_aircraft" sys_domain="global" view="Default view">d7c8a574832242103fcc9cc0deaad302</sys_ui_section>
             <sys_updated_by>oscarfotz</sys_updated_by>
             <sys_updated_on>2024-06-07 17:47:44</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>1</position>
-            <sys_created_by>oscarfotz</sys_created_by>
-            <sys_created_on>2024-06-07 17:47:44</sys_created_on>
+            <sys_created_by>jason.evans</sys_created_by>
+            <sys_created_on>2024-06-25 03:39:33</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>ce2c781f83aa42103fcc9cc0deaad309</sys_id>
-            <sys_mod_count>2</sys_mod_count>
+            <sys_id>89a6e2b093034210d59d385efaba10d7</sys_id>
+            <sys_mod_count>1</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_1284052_consol_0_aircraft" name="x_1284052_consol_0_aircraft" sys_domain="global" view="Default view">712c781f83aa42103fcc9cc0deaad305</sys_ui_form>
-            <sys_ui_section caption="Possession and Assignment Information" display_value="Possession and Assignment Information" name="x_1284052_consol_0_aircraft" sys_domain="global" view="Default view">352c781f83aa42103fcc9cc0deaad303</sys_ui_section>
-            <sys_updated_by>oscarfotz</sys_updated_by>
-            <sys_updated_on>2024-06-07 17:55:56</sys_updated_on>
+            <sys_ui_section caption="Status Information" display_value="Status Information" name="x_1284052_consol_0_aircraft" sys_domain="global" view="Default view">85a6e2b093034210d59d385efaba10d5</sys_ui_section>
+            <sys_updated_by>jason.evans</sys_updated_by>
+            <sys_updated_on>2024-06-25 03:39:34</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>jason.evans</sys_created_by>
+            <sys_created_on>2024-06-25 03:33:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b335e23093034210d59d385efaba10c2</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1284052_consol_0_aircraft" name="x_1284052_consol_0_aircraft" sys_domain="global" view="Default view">712c781f83aa42103fcc9cc0deaad305</sys_ui_form>
+            <sys_ui_section caption="AVDO Information" display_value="AVDO Information" name="x_1284052_consol_0_aircraft" sys_domain="global" view="Default view">bb35e23093034210d59d385efaba10c0</sys_ui_section>
+            <sys_updated_by>jason.evans</sys_updated_by>
+            <sys_updated_on>2024-06-25 03:39:34</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_1284052_consol_0_aircraft</name>

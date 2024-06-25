@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Basic Information" section_id="eee581b0930b0210d59d385efaba109a" sys_domain="global" table="sys_user" version="3" view="CALM_User">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>last_name</element>
+            <position>0</position>
+            <sys_created_by>jason.evans</sys_created_by>
+            <sys_created_on>2024-06-25 05:49:58</sys_created_on>
+            <sys_id>6f74837893c34210d59d385efaba1081</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Basic Information" display_value="Basic Information" name="sys_user" sys_domain="global" view="2ee581b0930b0210d59d385efaba1032">eee581b0930b0210d59d385efaba109a</sys_ui_section>
+            <sys_updated_by>jason.evans</sys_updated_by>
+            <sys_updated_on>2024-06-25 05:49:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_1284052_consol_0_rank</element>
+            <position>1</position>
+            <sys_created_by>jason.evans</sys_created_by>
+            <sys_created_on>2024-06-25 05:49:58</sys_created_on>
+            <sys_id>6774837893c34210d59d385efaba1082</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Basic Information" display_value="Basic Information" name="sys_user" sys_domain="global" view="2ee581b0930b0210d59d385efaba1032">eee581b0930b0210d59d385efaba109a</sys_ui_section>
+            <sys_updated_by>jason.evans</sys_updated_by>
+            <sys_updated_on>2024-06-25 05:49:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_1284052_consol_0_afsc</element>
+            <position>2</position>
+            <sys_created_by>jason.evans</sys_created_by>
+            <sys_created_on>2024-06-25 05:49:58</sys_created_on>
+            <sys_id>6f74837893c34210d59d385efaba1082</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Basic Information" display_value="Basic Information" name="sys_user" sys_domain="global" view="2ee581b0930b0210d59d385efaba1032">eee581b0930b0210d59d385efaba109a</sys_ui_section>
+            <sys_updated_by>jason.evans</sys_updated_by>
+            <sys_updated_on>2024-06-25 05:49:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_1284052_consol_0_skill_level</element>
+            <position>3</position>
+            <sys_created_by>jason.evans</sys_created_by>
+            <sys_created_on>2024-06-25 05:49:58</sys_created_on>
+            <sys_id>6774837893c34210d59d385efaba1083</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Basic Information" display_value="Basic Information" name="sys_user" sys_domain="global" view="2ee581b0930b0210d59d385efaba1032">eee581b0930b0210d59d385efaba109a</sys_ui_section>
+            <sys_updated_by>jason.evans</sys_updated_by>
+            <sys_updated_on>2024-06-25 05:49:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_1284052_consol_0_aircraft_visibility</element>
+            <position>4</position>
+            <sys_created_by>jason.evans</sys_created_by>
+            <sys_created_on>2024-06-25 05:49:58</sys_created_on>
+            <sys_id>2774837893c34210d59d385efaba1090</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Basic Information" display_value="Basic Information" name="sys_user" sys_domain="global" view="2ee581b0930b0210d59d385efaba1032">eee581b0930b0210d59d385efaba109a</sys_ui_section>
+            <sys_updated_by>jason.evans</sys_updated_by>
+            <sys_updated_on>2024-06-25 05:49:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>jason.evans</sys_created_by>
+            <sys_created_on>2024-06-25 05:49:58</sys_created_on>
+            <sys_id>2f74837893c34210d59d385efaba1090</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Basic Information" display_value="Basic Information" name="sys_user" sys_domain="global" view="2ee581b0930b0210d59d385efaba1032">eee581b0930b0210d59d385efaba109a</sys_ui_section>
+            <sys_updated_by>jason.evans</sys_updated_by>
+            <sys_updated_on>2024-06-25 05:49:58</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>first_name</element>
+            <position>6</position>
+            <sys_created_by>jason.evans</sys_created_by>
+            <sys_created_on>2024-06-25 05:49:58</sys_created_on>
+            <sys_id>2774837893c34210d59d385efaba1091</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Basic Information" display_value="Basic Information" name="sys_user" sys_domain="global" view="2ee581b0930b0210d59d385efaba1032">eee581b0930b0210d59d385efaba109a</sys_ui_section>
+            <sys_updated_by>jason.evans</sys_updated_by>
+            <sys_updated_on>2024-06-25 05:49:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_1284052_consol_0_rank.rank</element>
+            <position>7</position>
+            <sys_created_by>jason.evans</sys_created_by>
+            <sys_created_on>2024-06-25 05:49:58</sys_created_on>
+            <sys_id>2f74837893c34210d59d385efaba1091</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Basic Information" display_value="Basic Information" name="sys_user" sys_domain="global" view="2ee581b0930b0210d59d385efaba1032">eee581b0930b0210d59d385efaba109a</sys_ui_section>
+            <sys_updated_by>jason.evans</sys_updated_by>
+            <sys_updated_on>2024-06-25 05:49:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_1284052_consol_0_afsc.afsc_name</element>
+            <position>8</position>
+            <sys_created_by>jason.evans</sys_created_by>
+            <sys_created_on>2024-06-25 05:49:58</sys_created_on>
+            <sys_id>2774837893c34210d59d385efaba1092</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Basic Information" display_value="Basic Information" name="sys_user" sys_domain="global" view="2ee581b0930b0210d59d385efaba1032">eee581b0930b0210d59d385efaba109a</sys_ui_section>
+            <sys_updated_by>jason.evans</sys_updated_by>
+            <sys_updated_on>2024-06-25 05:49:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>email</element>
+            <position>9</position>
+            <sys_created_by>jason.evans</sys_created_by>
+            <sys_created_on>2024-06-25 05:49:58</sys_created_on>
+            <sys_id>2f74837893c34210d59d385efaba1092</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Basic Information" display_value="Basic Information" name="sys_user" sys_domain="global" view="2ee581b0930b0210d59d385efaba1032">eee581b0930b0210d59d385efaba109a</sys_ui_section>
+            <sys_updated_by>jason.evans</sys_updated_by>
+            <sys_updated_on>2024-06-25 05:49:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>photo</element>
+            <position>10</position>
+            <sys_created_by>jason.evans</sys_created_by>
+            <sys_created_on>2024-06-25 05:49:58</sys_created_on>
+            <sys_id>2774837893c34210d59d385efaba1093</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Basic Information" display_value="Basic Information" name="sys_user" sys_domain="global" view="2ee581b0930b0210d59d385efaba1032">eee581b0930b0210d59d385efaba109a</sys_ui_section>
+            <sys_updated_by>jason.evans</sys_updated_by>
+            <sys_updated_on>2024-06-25 05:49:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Basic Information</caption>
+            <header>false</header>
+            <name>sys_user</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>jason.evans</sys_created_by>
+            <sys_created_on>2024-06-24 20:36:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eee581b0930b0210d59d385efaba109a</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>sys_user</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+            <sys_update_name>sys_ui_section_eee581b0930b0210d59d385efaba109a</sys_update_name>
+            <sys_updated_by>jason.evans</sys_updated_by>
+            <sys_updated_on>2024-06-24 20:58:10</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="CALM User" name="CALM_User">2ee581b0930b0210d59d385efaba1032</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
