@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="bcccb325934f4210d59d385efaba10ee" label="Aircraft Bucket m2m" max_length="40" name="x_1284052_consol_0_aircraft_bucket_m2m" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Aircraft" max_length="32" name="aircraft" reference="x_1284052_consol_0_aircraft" type="reference"/>
+        <element label="Bucket" max_length="32" name="bucket" reference="x_1284052_consol_0_aircraft_buckets" type="reference"/>
+        <index name="index">
+            <element name="aircraft"/>
+        </index>
+        <index name="index2">
+            <element name="bucket"/>
+        </index>
+    </element>
+</database>

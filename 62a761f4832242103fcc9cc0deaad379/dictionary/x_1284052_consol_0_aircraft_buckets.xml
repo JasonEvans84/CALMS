@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="5dea3761934f4210d59d385efaba1062" label="Aircraft Buckets" max_length="40" name="x_1284052_consol_0_aircraft_buckets" type="collection">
+        <element label="Bucket wing" max_length="32" name="bucket_wing" reference="x_1284052_consol_0_wing" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element display="true" label="Bucket name" max_length="40" name="bucket_name" type="string"/>
+        <index name="index">
+            <element name="bucket_wing"/>
+        </index>
+    </element>
+</database>

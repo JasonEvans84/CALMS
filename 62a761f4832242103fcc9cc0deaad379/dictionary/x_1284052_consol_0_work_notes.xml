@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="0d21fde183f6c6103fcc9cc0deaad399" label="Work notes" max_length="40" name="x_1284052_consol_0_work_notes" type="collection">
-        <element label="Note taker" max_length="32" name="note_taker" reference="x_1284052_consol_0_technician" type="reference"/>
-        <element label="Discepancy" max_length="32" name="discepancy" read_only="true" reference="x_1284052_consol_0_discrepancy" type="reference"/>
         <element label="Note" max_length="40" name="note" type="html"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" display="true" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Discepancy" max_length="32" name="discepancy" read_only="true" reference="x_1284052_consol_0_discrepancy" type="reference"/>
         <index name="index">
             <element name="discepancy"/>
-        </index>
-        <index name="index2">
-            <element name="note_taker"/>
         </index>
     </element>
 </database>

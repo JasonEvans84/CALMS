@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections action="DELETE" form_id="c29c2f8983ee82103fcc9cc0deaad3df" sys_domain="global" table="x_1284052_consol_0_technician" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-01 06:52:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>da9c2f8983ee82103fcc9cc0deaad3e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1284052_consol_0_technician" name="x_1284052_consol_0_technician" sys_domain="global" view="Default view">c29c2f8983ee82103fcc9cc0deaad3df</sys_ui_form>
+            <sys_ui_section caption="Technician Information" display_value="Technician Information" name="x_1284052_consol_0_technician" sys_domain="global" view="Default view">487a434d832e82103fcc9cc0deaad3f0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-01 06:52:17</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 19:12:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>949f49d7832e42103fcc9cc0deaad3cf</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1284052_consol_0_technician" name="x_1284052_consol_0_technician" sys_domain="global" view="Default view">c29c2f8983ee82103fcc9cc0deaad3df</sys_ui_form>
+            <sys_ui_section caption="Assignment Information" display_value="Assignment Information" name="x_1284052_consol_0_technician" sys_domain="global" view="Default view">809f49d7832e42103fcc9cc0deaad3b0</sys_ui_section>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 19:12:32</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-01 06:52:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5a9c2f8983ee82103fcc9cc0deaad3e3</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1284052_consol_0_technician" name="x_1284052_consol_0_technician" sys_domain="global" view="Default view">c29c2f8983ee82103fcc9cc0deaad3df</sys_ui_form>
+            <sys_ui_section caption="Database Information" display_value="Database Information" name="x_1284052_consol_0_technician" sys_domain="global" view="Default view">c29c2f8983ee82103fcc9cc0deaad3de</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-01 06:57:33</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1284052_consol_0_technician</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-01 06:52:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c29c2f8983ee82103fcc9cc0deaad3df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1284052_consol_0_technician</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+            <sys_update_name>sys_ui_form_sections_c29c2f8983ee82103fcc9cc0deaad3df</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-01 06:52:16</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</application>
+        <file_path/>
+        <instance_id>69ac493f1b257910ba5ceb9b2d4bcbfb</instance_id>
+        <instance_name>dev181236</instance_name>
+        <name>sys_ui_form_sections_c29c2f8983ee82103fcc9cc0deaad3df</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="c29c2f8983ee82103fcc9cc0deaad3df" sys_domain="global" table="x_1284052_consol_0_technician" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-01 06:52:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>da9c2f8983ee82103fcc9cc0deaad3e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1284052_consol_0_technician" name="x_1284052_consol_0_technician" sys_domain="global" view="Default view">c29c2f8983ee82103fcc9cc0deaad3df</sys_ui_form>
+            <sys_ui_section caption="Technician Information" display_value="Technician Information" name="x_1284052_consol_0_technician" sys_domain="global" view="Default view">487a434d832e82103fcc9cc0deaad3f0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-01 06:52:17</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>oscarfotz</sys_created_by>
+            <sys_created_on>2024-06-07 19:12:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>949f49d7832e42103fcc9cc0deaad3cf</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1284052_consol_0_technician" name="x_1284052_consol_0_technician" sys_domain="global" view="Default view">c29c2f8983ee82103fcc9cc0deaad3df</sys_ui_form>
+            <sys_ui_section caption="Assignment Information" display_value="Assignment Information" name="x_1284052_consol_0_technician" sys_domain="global" view="Default view">809f49d7832e42103fcc9cc0deaad3b0</sys_ui_section>
+            <sys_updated_by>oscarfotz</sys_updated_by>
+            <sys_updated_on>2024-06-07 19:12:32</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-01 06:52:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5a9c2f8983ee82103fcc9cc0deaad3e3</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1284052_consol_0_technician" name="x_1284052_consol_0_technician" sys_domain="global" view="Default view">c29c2f8983ee82103fcc9cc0deaad3df</sys_ui_form>
+            <sys_ui_section caption="Database Information" display_value="Database Information" name="x_1284052_consol_0_technician" sys_domain="global" view="Default view">c29c2f8983ee82103fcc9cc0deaad3de</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-01 06:57:33</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1284052_consol_0_technician</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-01 06:52:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c29c2f8983ee82103fcc9cc0deaad3df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1284052_consol_0_technician</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+            <sys_update_name>sys_ui_form_sections_c29c2f8983ee82103fcc9cc0deaad3df</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-01 06:52:16</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>]]></payload>
+        <payload_hash>-521922866</payload_hash>
+        <record_name>Technician</record_name>
+        <reverted_from/>
+        <source>9233b27b93720210d59d385efaba1049</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>jason.evans</sys_created_by>
+        <sys_created_on>2024-06-22 02:03:08</sys_created_on>
+        <sys_id>2fc3faff93720210d59d385efaba10f1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1903daede930000001</sys_recorded_at>
+        <sys_updated_by>jason.evans</sys_updated_by>
+        <sys_updated_on>2024-06-22 02:03:08</sys_updated_on>
+        <type>Form Sections</type>
+        <update_guid>ebc3faff5b72021043e59e63b57899f1</update_guid>
+        <update_guid_history>ebc3faff5b72021043e59e63b57899f1:-521922866</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-27 03:28:12</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_form">sys_ui_form</sys_db_object>
+        <sys_id>372bff02c325427ca8391011155f6ef1</sys_id>
+        <sys_metadata>c29c2f8983ee82103fcc9cc0deaad3df</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1284052_consol_0_technician</sys_name>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_parent display_value="">6b6a434d832e82103fcc9cc0deaad38d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_scope_delete display_value="">52e6fb2b6ff440dcae7286a44d209be1</sys_scope_delete>
+        <sys_update_name>sys_ui_form_sections_c29c2f8983ee82103fcc9cc0deaad3df</sys_update_name>
+        <sys_update_version display_value="sys_ui_form_sections_c29c2f8983ee82103fcc9cc0deaad3df">2fc3faff93720210d59d385efaba10f1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-27 03:28:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -2,13 +2,9 @@
     <element db_object_id="6f91146583be86103fcc9cc0deaad3ef" label="Prodction notes" max_length="40" name="x_1284052_consol_0_prodction_notes" type="collection">
         <element label="Discrepancy" mandatory="true" max_length="32" name="discrepancy" reference="x_1284052_consol_0_discrepancy" type="reference"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
-        <element label="Note taker" mandatory="true" max_length="32" name="note_taker" reference="x_1284052_consol_0_technician" type="reference"/>
         <element label="Note" mandatory="true" max_length="8000" name="note" type="html"/>
         <index name="index">
             <element name="discrepancy"/>
-        </index>
-        <index name="index2">
-            <element name="note_taker"/>
         </index>
     </element>
 </database>

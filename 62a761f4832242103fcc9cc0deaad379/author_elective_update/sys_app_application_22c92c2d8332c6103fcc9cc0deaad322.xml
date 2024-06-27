@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>Aircraft Configuration</name>
+        <order>100</order>
+        <roles>x_1284052_consol_0.aircraft_configuration_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>Jason.Evans</sys_created_by>
+        <sys_created_on>2024-06-14 16:13:49</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>22c92c2d8332c6103fcc9cc0deaad322</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Aircraft Configuration</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_update_name>sys_app_application_22c92c2d8332c6103fcc9cc0deaad322</sys_update_name>
+        <sys_updated_by>Jason.Evans</sys_updated_by>
+        <sys_updated_on>2024-06-14 16:13:49</sys_updated_on>
+        <title>Aircraft Configuration</title>
+        <view_name/>
+    </sys_app_application>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</application>
+        <file_path/>
+        <instance_id>69ac493f1b257910ba5ceb9b2d4bcbfb</instance_id>
+        <instance_name>dev181236</instance_name>
+        <name>sys_app_application_22c92c2d8332c6103fcc9cc0deaad322</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>Aircraft Configuration</name>
+        <order>100</order>
+        <roles>x_1284052_consol_0.aircraft_configuration_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>Jason.Evans</sys_created_by>
+        <sys_created_on>2024-06-14 16:13:49</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>22c92c2d8332c6103fcc9cc0deaad322</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Aircraft Configuration</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_update_name>sys_app_application_22c92c2d8332c6103fcc9cc0deaad322</sys_update_name>
+        <sys_updated_by>Jason.Evans</sys_updated_by>
+        <sys_updated_on>2024-06-14 16:13:49</sys_updated_on>
+        <title>Aircraft Configuration</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>]]></payload>
+        <payload_hash>162536970</payload_hash>
+        <record_name>Aircraft Configuration</record_name>
+        <reverted_from/>
+        <source>9233b27b93720210d59d385efaba1049</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>jason.evans</sys_created_by>
+        <sys_created_on>2024-06-22 02:01:58</sys_created_on>
+        <sys_id>5e83723f93720210d59d385efaba10a7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1903dadcafd0000001</sys_recorded_at>
+        <sys_updated_by>jason.evans</sys_updated_by>
+        <sys_updated_on>2024-06-22 02:01:58</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>1e83723f77720210078bd74fdccfd1a7</update_guid>
+        <update_guid_history>1e83723f77720210078bd74fdccfd1a7:162536970</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Aircraft Configuration">3db7050d934f4210d59d385efaba10bc</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Jason.Evans</sys_created_by>
+        <sys_created_on>2024-06-25 15:23:18</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>2dc393a61a774d9c89edbdf05d2d3b04</sys_id>
+        <sys_metadata>22c92c2d8332c6103fcc9cc0deaad322</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Aircraft Configuration</sys_name>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_scope_delete display_value="">52e6fb2b6ff440dcae7286a44d209be1</sys_scope_delete>
+        <sys_update_name>sys_app_application_22c92c2d8332c6103fcc9cc0deaad322</sys_update_name>
+        <sys_update_version display_value="sys_app_application_22c92c2d8332c6103fcc9cc0deaad322">5e83723f93720210d59d385efaba10a7</sys_update_version>
+        <sys_updated_by>Jason.Evans</sys_updated_by>
+        <sys_updated_on>2024-06-25 15:23:18</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

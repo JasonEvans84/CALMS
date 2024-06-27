@@ -137,6 +137,7 @@
                                             },
                                             "styles": {
                                                 "align-items": "stretch",
+                                                "background": "rgb(var(--now-color_chrome--divider-2))",
                                                 "border-color": "RGB(var(--now-color--neutral-5))",
                                                 "border-radius": "20pt",
                                                 "border-style": "id",
@@ -178,6 +179,7 @@
                                                     },
                                                     "internal": {
                                                         "align-items": "stretch",
+                                                        "background": "rgb(var(--now-color_chrome--divider-2))",
                                                         "border-color": "RGB(var(--now-color--neutral-5))",
                                                         "border-radius": "20pt",
                                                         "border-style": "id",
@@ -490,9 +492,9 @@
                                                         "address": [
                                                             "get_user",
                                                             "result",
-                                                            "x_1284052_consol_0_wing",
+                                                            "x_1284052_consol_0_squadron",
                                                             "_reference",
-                                                            "wing_logo",
+                                                            "squadron_image",
                                                             "displayValue"
                                                         ]
                                                     },
@@ -525,6 +527,7 @@
                                             },
                                             "styles": {
                                                 "align-items": "center",
+                                                "background": "rgb(var(--now-color_chrome--divider-2))",
                                                 "border-color": "RGB(var(--now-color--neutral-5))",
                                                 "border-radius": "20pt",
                                                 "border-style": "id",
@@ -566,6 +569,7 @@
                                                     },
                                                     "internal": {
                                                         "align-items": "center",
+                                                        "background": "rgb(var(--now-color_chrome--divider-2))",
                                                         "border-color": "RGB(var(--now-color--neutral-5))",
                                                         "border-radius": "20pt",
                                                         "border-style": "id",
@@ -619,11 +623,10 @@
                                 "root": null,
                                 "rules": null,
                                 "styles": {
-                                    "background": "rgb(var(--now-color--neutral-21))",
+                                    "background": "rgb(var(--now-color_chrome--divider-2))",
                                     "border-color": "RGB(var(--now-color--neutral-5))",
                                     "border-style": "id",
-                                    "border-width": "0",
-                                    "box-shadow": "var(--now-static-drop-shadow--xxl)",
+                                    "border-width": "var(--now-static-space--xxs)",
                                     "box-sizing": "border-box",
                                     "column-gap": "var(--now-scalable-space--sm)",
                                     "grid-template-columns": "12.00045754026354fr 75.99990849194731fr 11.999633967789157fr",
@@ -649,11 +652,10 @@
                                         "root": null,
                                         "rules": null,
                                         "styles": {
-                                            "background": "rgb(var(--now-color--neutral-21))",
+                                            "background": "rgb(var(--now-color_chrome--divider-2))",
                                             "border-color": "RGB(var(--now-color--neutral-5))",
                                             "border-style": "id",
-                                            "border-width": "0",
-                                            "box-shadow": "var(--now-static-drop-shadow--xxl)",
+                                            "border-width": "var(--now-static-space--xxs)",
                                             "box-sizing": "border-box",
                                             "column-gap": "var(--now-scalable-space--sm)",
                                             "grid-template-columns": "1fr",
@@ -732,11 +734,10 @@
                                             "width": "100%"
                                         },
                                         "internal": {
-                                            "background": "rgb(var(--now-color--neutral-21))",
+                                            "background": "rgb(var(--now-color_chrome--divider-2))",
                                             "border-color": "RGB(var(--now-color--neutral-5))",
                                             "border-style": "id",
-                                            "border-width": "0",
-                                            "box-shadow": "var(--now-static-drop-shadow--xxl)",
+                                            "border-width": "var(--now-static-space--xxs)",
                                             "box-sizing": "border-box",
                                             "column-gap": "var(--now-scalable-space--sm)",
                                             "grid-template-rows": "1fr",
@@ -1052,7 +1053,7 @@
                                                 "grid-auto-columns": "1fr",
                                                 "grid-auto-rows": "1fr",
                                                 "grid-template-columns": "1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr",
-                                                "grid-template-rows": "1fr 1fr",
+                                                "grid-template-rows": "1fr",
                                                 "padding": "var(--now-scalable-space--sm)",
                                                 "padding-bottom": "var(--now-scalable-space--sm)",
                                                 "padding-left": "var(--now-scalable-space--sm)",
@@ -1088,9 +1089,9 @@
                                         "element_id": "rptNavigation",
                                         "styles": {
                                             "border-color": "RGB(var(--now-color--neutral-5))",
-                                            "border-style": "solid",
+                                            "border-style": "hidden",
                                             "border-width": "var(--now-static-space--xxs)",
-                                            "height": "200px"
+                                            "height": ""
                                         }
                                     }
                                 ],
@@ -1160,13 +1161,416 @@
                     },
                     "overrides": {
                         "composition": [
-                            
+                            {
+                                "definition": {
+                                    "id": "d356d14b6e293a3020a244b63d278d8f",
+                                    "type": "MACROPONENT"
+                                },
+                                "elementId": "column_layout_1",
+                                "elementLabel": "Column layout 1",
+                                "eventMappings": [
+                                    
+                                ],
+                                "isHidden": {
+                                    "type": "JSON_LITERAL",
+                                    "value": null
+                                },
+                                "overrides": {
+                                    "composition": [
+                                        {
+                                            "definition": {
+                                                "id": "d356d14b6e293a3020a244b63d278d8f",
+                                                "type": "MACROPONENT"
+                                            },
+                                            "elementId": "__clxuybbiinzaaccvmddjhhsnqccjpbbebb__column_1",
+                                            "elementLabel": "Column 1",
+                                            "eventMappings": [
+                                                
+                                            ],
+                                            "isHidden": {
+                                                "type": "JSON_LITERAL",
+                                                "value": null
+                                            },
+                                            "overrides": {
+                                                "composition": [
+                                                    {
+                                                        "definition": {
+                                                            "id": "4335ba6dca80378f7ba7a67cd6667bec",
+                                                            "type": "MACROPONENT"
+                                                        },
+                                                        "elementId": "stylized_text_1",
+                                                        "elementLabel": "Stylized text 1",
+                                                        "eventMappings": [
+                                                            
+                                                        ],
+                                                        "isHidden": {
+                                                            "type": "JSON_LITERAL",
+                                                            "value": null
+                                                        },
+                                                        "preset": null,
+                                                        "propertyValues": {
+                                                            "configAria": {
+                                                                "type": "JSON_LITERAL",
+                                                                "value": {}
+                                                            },
+                                                            "css": {
+                                                                "type": "JSON_LITERAL",
+                                                                "value": "* { }"
+                                                            },
+                                                            "tag": {
+                                                                "type": "JSON_LITERAL",
+                                                                "value": "h2"
+                                                            },
+                                                            "text": {
+                                                                "type": "TRANSLATION_LITERAL",
+                                                                "value": {
+                                                                    "code": null,
+                                                                    "comment": "",
+                                                                    "message": "Latest News"
+                                                                }
+                                                            }
+                                                        },
+                                                        "slot": null,
+                                                        "styles": null
+                                                    }
+                                                ],
+                                                "layout": {
+                                                    "default": {
+                                                        "children": null,
+                                                        "items": [
+                                                            {
+                                                                "element_id": "stylized_text_1",
+                                                                "styles": {
+                                                                    "align-self": "center",
+                                                                    "height": "50px"
+                                                                }
+                                                            }
+                                                        ],
+                                                        "root": null,
+                                                        "rules": {
+                                                            "flex-direction": "row"
+                                                        },
+                                                        "styles": {
+                                                            "align-items": "stretch",
+                                                            "background": "rgb(var(--now-color_chrome--divider-2))",
+                                                            "box-sizing": "border-box",
+                                                            "flex-direction": "column",
+                                                            "height": "100%",
+                                                            "justify-content": "flex-start",
+                                                            "overflow": "auto"
+                                                        },
+                                                        "type": "flex"
+                                                    },
+                                                    "version": "3.0.0"
+                                                }
+                                            },
+                                            "preset": null,
+                                            "propertyValues": {
+                                                "hideEmptyStateUi": {
+                                                    "type": "JSON_LITERAL",
+                                                    "value": true
+                                                },
+                                                "slotWrapperBehavior": {
+                                                    "type": "JSON_LITERAL",
+                                                    "value": "contents"
+                                                }
+                                            },
+                                            "scratchPad": {
+                                                "uib": {
+                                                    "layout": {
+                                                        "column": {
+                                                            "columnNumber": 0,
+                                                            "id": "default",
+                                                            "styleConfig": {
+                                                                "external": {
+                                                                    "display": "contents",
+                                                                    "width": "100%"
+                                                                },
+                                                                "internal": {
+                                                                    "align-items": "stretch",
+                                                                    "background": "rgb(var(--now-color_chrome--divider-2))",
+                                                                    "box-sizing": "border-box",
+                                                                    "flex-direction": "column",
+                                                                    "height": "100%",
+                                                                    "justify-content": "flex-start",
+                                                                    "overflow": "auto"
+                                                                }
+                                                            }
+                                                        },
+                                                        "type": "column"
+                                                    },
+                                                    "version": "1.0.0"
+                                                }
+                                            },
+                                            "slot": null,
+                                            "styles": null
+                                        },
+                                        {
+                                            "definition": {
+                                                "id": "d356d14b6e293a3020a244b63d278d8f",
+                                                "type": "MACROPONENT"
+                                            },
+                                            "elementId": "__clxuybbiioaaaaccvnddjhhsogebbixdq__column_2",
+                                            "elementLabel": "Column 2",
+                                            "eventMappings": [
+                                                
+                                            ],
+                                            "isHidden": {
+                                                "type": "JSON_LITERAL",
+                                                "value": null
+                                            },
+                                            "overrides": {
+                                                "composition": [
+                                                    {
+                                                        "definition": {
+                                                            "id": "4335ba6dca80378f7ba7a67cd6667bec",
+                                                            "type": "MACROPONENT"
+                                                        },
+                                                        "elementId": "stylized_text_2",
+                                                        "elementLabel": "Stylized text 2",
+                                                        "eventMappings": [
+                                                            
+                                                        ],
+                                                        "isHidden": {
+                                                            "type": "JSON_LITERAL",
+                                                            "value": null
+                                                        },
+                                                        "preset": null,
+                                                        "propertyValues": {
+                                                            "configAria": {
+                                                                "type": "JSON_LITERAL",
+                                                                "value": {}
+                                                            },
+                                                            "css": {
+                                                                "type": "JSON_LITERAL",
+                                                                "value": "* { }"
+                                                            },
+                                                            "tag": {
+                                                                "type": "JSON_LITERAL",
+                                                                "value": "h2"
+                                                            },
+                                                            "text": {
+                                                                "type": "TRANSLATION_LITERAL",
+                                                                "value": {
+                                                                    "code": null,
+                                                                    "comment": "",
+                                                                    "message": "Patch Notes"
+                                                                }
+                                                            }
+                                                        },
+                                                        "slot": null,
+                                                        "styles": null
+                                                    }
+                                                ],
+                                                "layout": {
+                                                    "default": {
+                                                        "children": null,
+                                                        "items": [
+                                                            {
+                                                                "element_id": "stylized_text_2",
+                                                                "styles": {
+                                                                    "align-self": "center",
+                                                                    "height": "50px"
+                                                                }
+                                                            }
+                                                        ],
+                                                        "root": null,
+                                                        "rules": {
+                                                            "flex-direction": "row"
+                                                        },
+                                                        "styles": {
+                                                            "align-items": "stretch",
+                                                            "background": "rgb(var(--now-color_chrome--divider-2))",
+                                                            "box-sizing": "border-box",
+                                                            "flex-direction": "column",
+                                                            "height": "100%",
+                                                            "justify-content": "flex-start",
+                                                            "overflow": "auto"
+                                                        },
+                                                        "type": "flex"
+                                                    },
+                                                    "version": "3.0.0"
+                                                }
+                                            },
+                                            "preset": null,
+                                            "propertyValues": {
+                                                "hideEmptyStateUi": {
+                                                    "type": "JSON_LITERAL",
+                                                    "value": true
+                                                },
+                                                "slotWrapperBehavior": {
+                                                    "type": "JSON_LITERAL",
+                                                    "value": "contents"
+                                                }
+                                            },
+                                            "scratchPad": {
+                                                "uib": {
+                                                    "layout": {
+                                                        "column": {
+                                                            "columnNumber": 0,
+                                                            "id": "default",
+                                                            "styleConfig": {
+                                                                "external": {
+                                                                    "display": "contents",
+                                                                    "width": "100%"
+                                                                },
+                                                                "internal": {
+                                                                    "align-items": "stretch",
+                                                                    "background": "rgb(var(--now-color_chrome--divider-2))",
+                                                                    "box-sizing": "border-box",
+                                                                    "flex-direction": "column",
+                                                                    "height": "100%",
+                                                                    "justify-content": "flex-start",
+                                                                    "overflow": "auto"
+                                                                }
+                                                            }
+                                                        },
+                                                        "type": "column"
+                                                    },
+                                                    "version": "1.0.0"
+                                                }
+                                            },
+                                            "slot": null,
+                                            "styles": null
+                                        }
+                                    ],
+                                    "layout": {
+                                        "default": {
+                                            "children": null,
+                                            "isInline": null,
+                                            "items": [
+                                                {
+                                                    "element_id": "__clxuybbiinzaaccvmddjhhsnqccjpbbebb__column_1",
+                                                    "styles": {
+                                                        "display": "contents",
+                                                        "width": "100%"
+                                                    }
+                                                },
+                                                {
+                                                    "element_id": "__clxuybbiioaaaaccvnddjhhsogebbixdq__column_2",
+                                                    "styles": {
+                                                        "display": "contents",
+                                                        "width": "100%"
+                                                    }
+                                                }
+                                            ],
+                                            "root": null,
+                                            "rules": null,
+                                            "styles": {
+                                                "background": "rgb(var(--now-color_chrome--divider-2))",
+                                                "box-sizing": "border-box",
+                                                "grid-template-columns": "50fr 50fr",
+                                                "grid-template-rows": "1fr",
+                                                "width": "auto"
+                                            },
+                                            "type": "grid"
+                                        },
+                                        "queries": [
+                                            {
+                                                "layout": {
+                                                    "children": null,
+                                                    "isInline": null,
+                                                    "items": [
+                                                        
+                                                    ],
+                                                    "root": null,
+                                                    "rules": null,
+                                                    "styles": {
+                                                        "background": "rgb(var(--now-color_chrome--divider-2))",
+                                                        "box-sizing": "border-box",
+                                                        "grid-template-columns": "1fr",
+                                                        "grid-template-rows": "1fr",
+                                                        "height": "fit-content",
+                                                        "max-height": "max-content",
+                                                        "min-height": "min-content",
+                                                        "width": "auto"
+                                                    },
+                                                    "type": "grid"
+                                                },
+                                                "query": {
+                                                    "max-width": 640
+                                                }
+                                            }
+                                        ],
+                                        "version": "3.0.0"
+                                    }
+                                },
+                                "preset": null,
+                                "propertyValues": {
+                                    "hideEmptyStateUi": {
+                                        "type": "JSON_LITERAL",
+                                        "value": true
+                                    },
+                                    "slotWrapperBehavior": {
+                                        "type": "JSON_LITERAL",
+                                        "value": "contents"
+                                    }
+                                },
+                                "scratchPad": {
+                                    "uib": {
+                                        "layout": {
+                                            "columnSection": {
+                                                "breakpoints": [
+                                                    {
+                                                        "behavior": "stack",
+                                                        "max-width": 640,
+                                                        "styles": {
+                                                            "box-sizing": "border-box",
+                                                            "grid-template-columns": "1fr",
+                                                            "grid-template-rows": "1fr",
+                                                            "height": "fit-content",
+                                                            "max-height": "max-content",
+                                                            "min-height": "min-content",
+                                                            "width": "auto"
+                                                        }
+                                                    }
+                                                ],
+                                                "children": [
+                                                    {
+                                                        "columnNumber": 1,
+                                                        "unit": "%",
+                                                        "width": 50
+                                                    },
+                                                    {
+                                                        "columnNumber": 2,
+                                                        "unit": "%",
+                                                        "width": 50
+                                                    }
+                                                ],
+                                                "id": "UIB_COLUMN_SECTION_SINGLE_COLUMN_SECTION",
+                                                "styleConfig": {
+                                                    "external": {
+                                                        "display": "contents",
+                                                        "width": "100%"
+                                                    },
+                                                    "internal": {
+                                                        "background": "rgb(var(--now-color_chrome--divider-2))",
+                                                        "box-sizing": "border-box",
+                                                        "grid-template-rows": "1fr",
+                                                        "width": "auto"
+                                                    }
+                                                }
+                                            },
+                                            "type": "columnSection"
+                                        },
+                                        "version": "1.0.0"
+                                    }
+                                },
+                                "slot": null,
+                                "styles": null
+                            }
                         ],
                         "layout": {
                             "default": {
                                 "children": null,
                                 "items": [
-                                    
+                                    {
+                                        "element_id": "column_layout_1",
+                                        "styles": {
+                                            "display": "contents",
+                                            "width": "100%"
+                                        }
+                                    }
                                 ],
                                 "root": null,
                                 "rules": null,
@@ -1232,6 +1636,9 @@
                         {
                             "element_id": "cntNavigation",
                             "styles": {
+                                "border-color": "RGB(var(--now-color--neutral-5))",
+                                "border-style": "hidden",
+                                "border-width": "1px",
                                 "height": "75px"
                             }
                         },
@@ -1245,7 +1652,8 @@
                     "root": null,
                     "rules": null,
                     "styles": {
-                        "flex-direction": "column"
+                        "flex-direction": "column",
+                        "gap": "var(--now-scalable-space--sm)"
                     },
                     "templateId": "5832fd4d53c31010e6bcddeeff7b12db",
                     "type": "flex"
@@ -1401,10 +1809,7 @@
             {
                 "element_id": "cntMainBody",
                 "styles": {
-                    "background": "rgb(var(--now-color--neutral-19))",
-                    "background-image": "url(\"CALMS logo.jpg\")",
-                    "background-position": "center",
-                    "background-size": "100%",
+                    "background": "rgb(var(--now-color_chrome--divider-2))",
                     "height": "100%",
                     "width": "100%"
                 }
@@ -1413,7 +1818,7 @@
         "root": null,
         "rules": null,
         "styles": {
-            "background": "rgb(var(--now-color--neutral-1))",
+            "background": "rgb(var(--now-color_chrome--divider-2))",
             "flex-direction": "column"
         },
         "templateId": "5832fd4d53c31010e6bcddeeff7b12db",
@@ -1432,6 +1837,12 @@
   "comment" : ""
 }, {
   "message" : "Enter a label",
+  "comment" : ""
+}, {
+  "message" : "Latest News",
+  "comment" : ""
+}, {
+  "message" : "Patch Notes",
   "comment" : ""
 } ]</required_translations>
         <root_component/>
@@ -1454,14 +1865,14 @@
         <sys_created_by>Jason.Evans</sys_created_by>
         <sys_created_on>2024-06-18 02:43:44</sys_created_on>
         <sys_id>4bb6926283ba0e103fcc9cc0deaad31d</sys_id>
-        <sys_mod_count>27</sys_mod_count>
+        <sys_mod_count>29</sys_mod_count>
         <sys_name>CALMS Dashboard</sys_name>
         <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
         <sys_policy/>
         <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
         <sys_update_name>sys_ux_macroponent_4bb6926283ba0e103fcc9cc0deaad31d</sys_update_name>
         <sys_updated_by>jason.evans</sys_updated_by>
-        <sys_updated_on>2024-06-24 21:32:57</sys_updated_on>
+        <sys_updated_on>2024-06-25 21:58:44</sys_updated_on>
     </sys_ux_macroponent>
     <sys_translated_text action="delete_multiple" query="documentkey=4bb6926283ba0e103fcc9cc0deaad31d"/>
 </record_update>

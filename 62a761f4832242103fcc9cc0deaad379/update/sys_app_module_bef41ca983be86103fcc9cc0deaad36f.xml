@@ -4,9 +4,7 @@
         <application display_value="CALMS">794965db83ae42103fcc9cc0deaad381</application>
         <assessment/>
         <device_type/>
-        <filter table="x_1284052_consol_0_discrepancy">child=false^EQ<item endquery="false" field="child" goto="false" newquery="false" operator="=" or="false" value="false"/>
-            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
-        </filter>
+        <filter/>
         <hint/>
         <homepage/>
         <image/>
@@ -15,27 +13,27 @@
         <mobile_title>Discrepancies</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_1284052_consol_0_discrepancy</name>
-        <order>300</order>
+        <order>120</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
         <require_confirmation>true</require_confirmation>
-        <roles>x_1284052_consol_0.user,x_1284052_consol_0.tool_room,x_1284052_consol_0.supply,x_1284052_consol_0.quality_assurance,x_1284052_consol_0.pilot,x_1284052_consol_0.ops_analysis,x_1284052_consol_0.ops_scheduler,x_1284052_consol_0.mx_scheduler,x_1284052_consol_0.mx_production,x_1284052_consol_0.mx_control,x_1284052_consol_0.mx_analysis,x_1284052_consol_0.equipment_custodian,x_1284052_consol_0.eng_mgmt,x_1284052_consol_0.dev_team,x_1284052_consol_0.debrief,x_1284052_consol_0.database_manager,x_1284052_consol_0.avdo,workspace_admin,x_1284052_consol_0.admin,admin</roles>
+        <roles>x_1284052_consol_0.database_manager,x_1284052_consol_0.admin,admin,x_1284052_consol_0.dev_team</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>Jason.Evans</sys_created_by>
         <sys_created_on>2024-06-14 14:55:26</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>bef41ca983be86103fcc9cc0deaad36f</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>Discrepancies - All</sys_name>
         <sys_overrides/>
         <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
         <sys_policy/>
         <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
         <sys_update_name>sys_app_module_bef41ca983be86103fcc9cc0deaad36f</sys_update_name>
-        <sys_updated_by>Jason.Evans</sys_updated_by>
-        <sys_updated_on>2024-06-14 16:38:52</sys_updated_on>
+        <sys_updated_by>jason.evans</sys_updated_by>
+        <sys_updated_on>2024-06-25 15:40:15</sys_updated_on>
         <timeline_page/>
         <title>Discrepancies - All</title>
         <uncancelable>false</uncancelable>

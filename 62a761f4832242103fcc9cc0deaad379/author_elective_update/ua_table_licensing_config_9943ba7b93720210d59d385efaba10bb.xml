@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="DELETE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_1284052_consol_0_technician</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>jason.evans</sys_created_by>
+        <sys_created_on>2024-06-22 02:00:48</sys_created_on>
+        <sys_id>9943ba7b93720210d59d385efaba10bb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1284052_consol_0_technician</sys_name>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_update_name>ua_table_licensing_config_9943ba7b93720210d59d385efaba10bb</sys_update_name>
+        <sys_updated_by>jason.evans</sys_updated_by>
+        <sys_updated_on>2024-06-22 02:00:48</sys_updated_on>
+    </ua_table_licensing_config>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</application>
+        <file_path/>
+        <instance_id>69ac493f1b257910ba5ceb9b2d4bcbfb</instance_id>
+        <instance_name>dev181236</instance_name>
+        <name>ua_table_licensing_config_9943ba7b93720210d59d385efaba10bb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config"><ua_table_licensing_config action="INSERT_OR_UPDATE"><is_fulfillment>false</is_fulfillment><license_condition/><license_model>none</license_model><license_roles/><name>x_1284052_consol_0_technician</name><op_delete>true</op_delete><op_insert>true</op_insert><op_update>true</op_update><owner_condition/><sys_class_name>ua_table_licensing_config</sys_class_name><sys_created_by>jason.evans</sys_created_by><sys_created_on>2024-06-22 02:00:48</sys_created_on><sys_id>9943ba7b93720210d59d385efaba10bb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1284052_consol_0_technician</sys_name><sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package><sys_policy/><sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope><sys_update_name>ua_table_licensing_config_9943ba7b93720210d59d385efaba10bb</sys_update_name><sys_updated_by>jason.evans</sys_updated_by><sys_updated_on>2024-06-22 02:00:48</sys_updated_on></ua_table_licensing_config></record_update>]]></payload>
+        <payload_hash>-379926445</payload_hash>
+        <record_name>x_1284052_consol_0_technician</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>jason.evans</sys_created_by>
+        <sys_created_on>2024-06-22 02:03:34</sys_created_on>
+        <sys_id>8ae3be3393b20210d59d385efaba10d7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1903daf44860000001</sys_recorded_at>
+        <sys_updated_by>jason.evans</sys_updated_by>
+        <sys_updated_on>2024-06-22 02:03:34</sys_updated_on>
+        <type>Table Subscription Configuration</type>
+        <update_guid>4ae3be3351b202107d40cb4e0b6bd1d7</update_guid>
+        <update_guid_history>4ae3be3351b202107d40cb4e0b6bd1d7:-379926445</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-27 03:28:13</sys_created_on>
+        <sys_db_object display_value="" name="ua_table_licensing_config">ua_table_licensing_config</sys_db_object>
+        <sys_id>073992becb034fb08211247878e5f890</sys_id>
+        <sys_metadata>9943ba7b93720210d59d385efaba10bb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1284052_consol_0_technician</sys_name>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_scope_delete display_value="">52e6fb2b6ff440dcae7286a44d209be1</sys_scope_delete>
+        <sys_update_name>ua_table_licensing_config_9943ba7b93720210d59d385efaba10bb</sys_update_name>
+        <sys_update_version display_value="ua_table_licensing_config_9943ba7b93720210d59d385efaba10bb">8ae3be3393b20210d59d385efaba10d7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-27 03:28:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

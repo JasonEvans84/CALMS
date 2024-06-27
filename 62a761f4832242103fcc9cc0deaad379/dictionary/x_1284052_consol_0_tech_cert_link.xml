@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="fa67178d836e82103fcc9cc0deaad3bc" label="Tech Cert Link" max_length="40" name="x_1284052_consol_0_tech_cert_link" type="collection">
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
-        <element label="Technician" mandatory="true" max_length="32" name="technician" reference="x_1284052_consol_0_technician" type="reference"/>
         <element label="Certification" mandatory="true" max_length="32" name="certification" reference="x_1284052_consol_0_special_certifications" type="reference"/>
         <index name="index">
             <element name="certification"/>
-        </index>
-        <index name="index2">
-            <element name="technician"/>
         </index>
     </element>
 </database>

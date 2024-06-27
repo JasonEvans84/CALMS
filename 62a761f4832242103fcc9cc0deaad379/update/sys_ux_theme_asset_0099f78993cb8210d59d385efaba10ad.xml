@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_theme_asset">
+    <sys_ux_theme_asset action="INSERT_OR_UPDATE">
+        <category>image</category>
+        <name>Facebooktiny</name>
+        <sys_class_name>sys_ux_theme_asset</sys_class_name>
+        <sys_created_by>jason.evans</sys_created_by>
+        <sys_created_on>2024-06-26 04:20:19</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0099f78993cb8210d59d385efaba10ad</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Facebooktiny</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_update_name>sys_ux_theme_asset_0099f78993cb8210d59d385efaba10ad</sys_update_name>
+        <sys_updated_by>jason.evans</sys_updated_by>
+        <sys_updated_on>2024-06-26 04:21:08</sys_updated_on>
+    </sys_ux_theme_asset>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>Facebooktiny.png</file_name>
+        <hash>34f25fccfa83b0a83106f41d025053a622d273d021b8ab41a72affdf1645579a</hash>
+        <image_height>50</image_height>
+        <image_width>50</image_width>
+        <size_bytes>2175</size_bytes>
+        <size_compressed>2198</size_compressed>
+        <state>available</state>
+        <sys_created_by>jason.evans</sys_created_by>
+        <sys_created_on>2024-06-26 04:21:08</sys_created_on>
+        <sys_id>bbb9bf4d93cb8210d59d385efaba10ec</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>jason.evans</sys_updated_by>
+        <sys_updated_on>2024-06-26 04:21:08</sys_updated_on>
+        <table_name>sys_ux_theme_asset</table_name>
+        <table_sys_id>0099f78993cb8210d59d385efaba10ad</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAA/w==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="Facebooktiny.png" sys_id="bbb9bf4d93cb8210d59d385efaba10ec">bbb9bf4d93cb8210d59d385efaba10ec</sys_attachment>
+        <sys_created_by>jason.evans</sys_created_by>
+        <sys_created_on>2024-06-26 04:21:08</sys_created_on>
+        <sys_id>fbb9bf4d93cb8210d59d385efaba10ec</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>2920</length>
+        <position>1</position>
+        <sys_attachment display_value="Facebooktiny.png" sys_id="bbb9bf4d93cb8210d59d385efaba10ec">bbb9bf4d93cb8210d59d385efaba10ec</sys_attachment>
+        <sys_created_by>jason.evans</sys_created_by>
+        <sys_created_on>2024-06-26 04:21:08</sys_created_on>
+        <sys_id>7fb9bf4d93cb8210d59d385efaba10ec</sys_id>
+    </sys_attachment_doc>
+</record_update>
