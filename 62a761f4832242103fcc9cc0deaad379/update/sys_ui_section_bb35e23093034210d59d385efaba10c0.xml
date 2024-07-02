@@ -4,13 +4,13 @@
             <element>owning_command</element>
             <position>0</position>
             <sys_created_by>jason.evans</sys_created_by>
-            <sys_created_on>2024-06-27 18:08:15</sys_created_on>
-            <sys_id>61a008b9934f4210d59d385efaba109c</sys_id>
+            <sys_created_on>2024-07-02 12:43:39</sys_created_on>
+            <sys_id>23462893938b4210d59d385efaba1020</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="AVDO Information" display_value="AVDO Information" name="x_1284052_consol_0_aircraft" sys_domain="global" view="Default view">bb35e23093034210d59d385efaba10c0</sys_ui_section>
             <sys_updated_by>jason.evans</sys_updated_by>
-            <sys_updated_on>2024-06-27 18:08:15</sys_updated_on>
+            <sys_updated_on>2024-07-02 12:43:39</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>owning_wing</element>
             <position>1</position>
             <sys_created_by>jason.evans</sys_created_by>
-            <sys_created_on>2024-06-27 18:08:15</sys_created_on>
-            <sys_id>e5a008b9934f4210d59d385efaba109c</sys_id>
+            <sys_created_on>2024-07-02 12:43:39</sys_created_on>
+            <sys_id>6f462893938b4210d59d385efaba1020</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="AVDO Information" display_value="AVDO Information" name="x_1284052_consol_0_aircraft" sys_domain="global" view="Default view">bb35e23093034210d59d385efaba10c0</sys_ui_section>
             <sys_updated_by>jason.evans</sys_updated_by>
-            <sys_updated_on>2024-06-27 18:08:15</sys_updated_on>
+            <sys_updated_on>2024-07-02 12:43:39</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>possessing_command</element>
             <position>2</position>
             <sys_created_by>jason.evans</sys_created_by>
-            <sys_created_on>2024-06-27 18:08:15</sys_created_on>
-            <sys_id>6da008b9934f4210d59d385efaba109c</sys_id>
+            <sys_created_on>2024-07-02 12:43:39</sys_created_on>
+            <sys_id>67462893938b4210d59d385efaba1021</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="AVDO Information" display_value="AVDO Information" name="x_1284052_consol_0_aircraft" sys_domain="global" view="Default view">bb35e23093034210d59d385efaba10c0</sys_ui_section>
             <sys_updated_by>jason.evans</sys_updated_by>
-            <sys_updated_on>2024-06-27 18:08:15</sys_updated_on>
+            <sys_updated_on>2024-07-02 12:43:39</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>possessing_wing</element>
             <position>3</position>
             <sys_created_by>jason.evans</sys_created_by>
-            <sys_created_on>2024-06-27 18:08:15</sys_created_on>
-            <sys_id>e1a008b9934f4210d59d385efaba109d</sys_id>
+            <sys_created_on>2024-07-02 12:43:39</sys_created_on>
+            <sys_id>6f462893938b4210d59d385efaba1021</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="AVDO Information" display_value="AVDO Information" name="x_1284052_consol_0_aircraft" sys_domain="global" view="Default view">bb35e23093034210d59d385efaba10c0</sys_ui_section>
             <sys_updated_by>jason.evans</sys_updated_by>
-            <sys_updated_on>2024-06-27 18:08:15</sys_updated_on>
+            <sys_updated_on>2024-07-02 12:43:39</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,111 +60,139 @@
             <element>possession_code</element>
             <position>4</position>
             <sys_created_by>jason.evans</sys_created_by>
-            <sys_created_on>2024-06-27 18:08:15</sys_created_on>
-            <sys_id>69a008b9934f4210d59d385efaba109d</sys_id>
+            <sys_created_on>2024-07-02 12:43:39</sys_created_on>
+            <sys_id>67462893938b4210d59d385efaba1022</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="AVDO Information" display_value="AVDO Information" name="x_1284052_consol_0_aircraft" sys_domain="global" view="Default view">bb35e23093034210d59d385efaba10c0</sys_ui_section>
             <sys_updated_by>jason.evans</sys_updated_by>
-            <sys_updated_on>2024-06-27 18:08:15</sys_updated_on>
+            <sys_updated_on>2024-07-02 12:43:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_unit</element>
+            <position>5</position>
+            <sys_created_by>jason.evans</sys_created_by>
+            <sys_created_on>2024-07-02 12:43:39</sys_created_on>
+            <sys_id>6f462893938b4210d59d385efaba1022</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="AVDO Information" display_value="AVDO Information" name="x_1284052_consol_0_aircraft" sys_domain="global" view="Default view">bb35e23093034210d59d385efaba10c0</sys_ui_section>
+            <sys_updated_by>jason.evans</sys_updated_by>
+            <sys_updated_on>2024-07-02 12:43:39</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>possession_as_of</element>
-            <position>5</position>
+            <position>6</position>
             <sys_created_by>jason.evans</sys_created_by>
-            <sys_created_on>2024-06-27 18:08:15</sys_created_on>
-            <sys_id>eda008b9934f4210d59d385efaba109d</sys_id>
+            <sys_created_on>2024-07-02 12:43:40</sys_created_on>
+            <sys_id>2f462893938b4210d59d385efaba102f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="AVDO Information" display_value="AVDO Information" name="x_1284052_consol_0_aircraft" sys_domain="global" view="Default view">bb35e23093034210d59d385efaba10c0</sys_ui_section>
             <sys_updated_by>jason.evans</sys_updated_by>
-            <sys_updated_on>2024-06-27 18:08:15</sys_updated_on>
+            <sys_updated_on>2024-07-02 12:43:40</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>6</position>
+            <position>7</position>
             <sys_created_by>jason.evans</sys_created_by>
-            <sys_created_on>2024-06-27 18:08:15</sys_created_on>
-            <sys_id>65a008b9934f4210d59d385efaba109e</sys_id>
+            <sys_created_on>2024-07-02 12:43:40</sys_created_on>
+            <sys_id>27462893938b4210d59d385efaba1030</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="AVDO Information" display_value="AVDO Information" name="x_1284052_consol_0_aircraft" sys_domain="global" view="Default view">bb35e23093034210d59d385efaba10c0</sys_ui_section>
             <sys_updated_by>jason.evans</sys_updated_by>
-            <sys_updated_on>2024-06-27 18:08:15</sys_updated_on>
+            <sys_updated_on>2024-07-02 12:43:40</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>owning_command.command_name</element>
-            <position>7</position>
+            <position>8</position>
             <sys_created_by>jason.evans</sys_created_by>
-            <sys_created_on>2024-06-27 18:08:15</sys_created_on>
-            <sys_id>e9a008b9934f4210d59d385efaba109e</sys_id>
+            <sys_created_on>2024-07-02 12:43:40</sys_created_on>
+            <sys_id>2f462893938b4210d59d385efaba1030</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="AVDO Information" display_value="AVDO Information" name="x_1284052_consol_0_aircraft" sys_domain="global" view="Default view">bb35e23093034210d59d385efaba10c0</sys_ui_section>
             <sys_updated_by>jason.evans</sys_updated_by>
-            <sys_updated_on>2024-06-27 18:08:15</sys_updated_on>
+            <sys_updated_on>2024-07-02 12:43:40</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>owning_wing.wing_name</element>
-            <position>8</position>
+            <position>9</position>
             <sys_created_by>jason.evans</sys_created_by>
-            <sys_created_on>2024-06-27 18:08:15</sys_created_on>
-            <sys_id>61a008b9934f4210d59d385efaba109f</sys_id>
+            <sys_created_on>2024-07-02 12:43:40</sys_created_on>
+            <sys_id>27462893938b4210d59d385efaba1031</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="AVDO Information" display_value="AVDO Information" name="x_1284052_consol_0_aircraft" sys_domain="global" view="Default view">bb35e23093034210d59d385efaba10c0</sys_ui_section>
             <sys_updated_by>jason.evans</sys_updated_by>
-            <sys_updated_on>2024-06-27 18:08:15</sys_updated_on>
+            <sys_updated_on>2024-07-02 12:43:40</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>possessing_command.command_name</element>
-            <position>9</position>
+            <position>10</position>
             <sys_created_by>jason.evans</sys_created_by>
-            <sys_created_on>2024-06-27 18:08:15</sys_created_on>
-            <sys_id>e5a008b9934f4210d59d385efaba109f</sys_id>
+            <sys_created_on>2024-07-02 12:43:40</sys_created_on>
+            <sys_id>2f462893938b4210d59d385efaba1031</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="AVDO Information" display_value="AVDO Information" name="x_1284052_consol_0_aircraft" sys_domain="global" view="Default view">bb35e23093034210d59d385efaba10c0</sys_ui_section>
             <sys_updated_by>jason.evans</sys_updated_by>
-            <sys_updated_on>2024-06-27 18:08:15</sys_updated_on>
+            <sys_updated_on>2024-07-02 12:43:40</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>possessing_wing.wing_name</element>
-            <position>10</position>
+            <position>11</position>
             <sys_created_by>jason.evans</sys_created_by>
-            <sys_created_on>2024-06-27 18:08:15</sys_created_on>
-            <sys_id>6da008b9934f4210d59d385efaba109f</sys_id>
+            <sys_created_on>2024-07-02 12:43:40</sys_created_on>
+            <sys_id>27462893938b4210d59d385efaba1032</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="AVDO Information" display_value="AVDO Information" name="x_1284052_consol_0_aircraft" sys_domain="global" view="Default view">bb35e23093034210d59d385efaba10c0</sys_ui_section>
             <sys_updated_by>jason.evans</sys_updated_by>
-            <sys_updated_on>2024-06-27 18:08:15</sys_updated_on>
+            <sys_updated_on>2024-07-02 12:43:40</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>possession_code.ppc_name</element>
-            <position>11</position>
+            <position>12</position>
             <sys_created_by>jason.evans</sys_created_by>
-            <sys_created_on>2024-06-27 18:08:15</sys_created_on>
-            <sys_id>e1a008b9934f4210d59d385efaba10a0</sys_id>
+            <sys_created_on>2024-07-02 12:43:40</sys_created_on>
+            <sys_id>2f462893938b4210d59d385efaba1032</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="AVDO Information" display_value="AVDO Information" name="x_1284052_consol_0_aircraft" sys_domain="global" view="Default view">bb35e23093034210d59d385efaba10c0</sys_ui_section>
             <sys_updated_by>jason.evans</sys_updated_by>
-            <sys_updated_on>2024-06-27 18:08:15</sys_updated_on>
+            <sys_updated_on>2024-07-02 12:43:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_unit.unit_name</element>
+            <position>13</position>
+            <sys_created_by>jason.evans</sys_created_by>
+            <sys_created_on>2024-07-02 12:43:40</sys_created_on>
+            <sys_id>27462893938b4210d59d385efaba1033</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="AVDO Information" display_value="AVDO Information" name="x_1284052_consol_0_aircraft" sys_domain="global" view="Default view">bb35e23093034210d59d385efaba10c0</sys_ui_section>
+            <sys_updated_by>jason.evans</sys_updated_by>
+            <sys_updated_on>2024-07-02 12:43:40</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

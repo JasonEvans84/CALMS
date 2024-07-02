@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="ceea7765930f4210d59d385efaba1061" sys_domain="global" table="x_1284052_consol_0_aircraft_buckets" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>bucket_name</element>
+            <position>0</position>
+            <sys_created_by>jason.evans</sys_created_by>
+            <sys_created_on>2024-06-27 19:18:53</sys_created_on>
+            <sys_id>18d0d47193cf4210d59d385efaba10c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1284052_consol_0_aircraft_buckets" sys_domain="global" view="Default view">ceea7765930f4210d59d385efaba1061</sys_ui_section>
+            <sys_updated_by>jason.evans</sys_updated_by>
+            <sys_updated_on>2024-06-27 19:18:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>bucket_wing</element>
+            <position>1</position>
+            <sys_created_by>jason.evans</sys_created_by>
+            <sys_created_on>2024-06-27 19:18:53</sys_created_on>
+            <sys_id>d0d0d47193cf4210d59d385efaba10c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1284052_consol_0_aircraft_buckets" sys_domain="global" view="Default view">ceea7765930f4210d59d385efaba1061</sys_ui_section>
+            <sys_updated_by>jason.evans</sys_updated_by>
+            <sys_updated_on>2024-06-27 19:18:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>x_1284052_consol_0_aircraft_buckets</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>jason.evans</sys_created_by>
+            <sys_created_on>2024-06-27 17:43:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ceea7765930f4210d59d385efaba1061</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1284052_consol_0_aircraft_buckets</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+            <sys_update_name>sys_ui_section_ceea7765930f4210d59d385efaba1061</sys_update_name>
+            <sys_updated_by>jason.evans</sys_updated_by>
+            <sys_updated_on>2024-06-27 17:43:09</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</application>
+        <file_path/>
+        <instance_id>69ac493f1b257910ba5ceb9b2d4bcbfb</instance_id>
+        <instance_name>dev181236</instance_name>
+        <name>sys_ui_section_ceea7765930f4210d59d385efaba1061</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="ceea7765930f4210d59d385efaba1061" sys_domain="global" table="x_1284052_consol_0_aircraft_buckets" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>bucket_name</element><position>0</position><sys_created_by>jason.evans</sys_created_by><sys_created_on>2024-06-27 19:18:53</sys_created_on><sys_id>18d0d47193cf4210d59d385efaba10c3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1284052_consol_0_aircraft_buckets" sys_domain="global" view="Default view">ceea7765930f4210d59d385efaba1061</sys_ui_section><sys_updated_by>jason.evans</sys_updated_by><sys_updated_on>2024-06-27 19:18:53</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>bucket_wing</element><position>1</position><sys_created_by>jason.evans</sys_created_by><sys_created_on>2024-06-27 19:18:53</sys_created_on><sys_id>d0d0d47193cf4210d59d385efaba10c4</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1284052_consol_0_aircraft_buckets" sys_domain="global" view="Default view">ceea7765930f4210d59d385efaba1061</sys_ui_section><sys_updated_by>jason.evans</sys_updated_by><sys_updated_on>2024-06-27 19:18:53</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_1284052_consol_0_aircraft_buckets</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>jason.evans</sys_created_by><sys_created_on>2024-06-27 17:43:09</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ceea7765930f4210d59d385efaba1061</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1284052_consol_0_aircraft_buckets</sys_name><sys_overrides/><sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package><sys_policy/><sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope><sys_update_name>sys_ui_section_ceea7765930f4210d59d385efaba1061</sys_update_name><sys_updated_by>jason.evans</sys_updated_by><sys_updated_on>2024-06-27 17:43:09</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>902730292</payload_hash>
+        <record_name>Aircraft Buckets</record_name>
+        <reverted_from/>
+        <source>1d454e9193030210d59d385efaba1007</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>jason.evans</sys_created_by>
+        <sys_created_on>2024-06-27 19:18:53</sys_created_on>
+        <sys_id>54d0d47193cf4210d59d385efaba10c6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1905b22ed170000001</sys_recorded_at>
+        <sys_updated_by>jason.evans</sys_updated_by>
+        <sys_updated_on>2024-06-27 19:18:53</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>1cd0d471e4cf42102f37f9b384becfc5</update_guid>
+        <update_guid_history>1cd0d471e4cf42102f37f9b384becfc5:902730292,94bbfba1884f4210c4c11ba0874418ee:-2066517646,061b3f617a4f4210f811d6016b05da58:-542236867,8eea37614f4f421093a674843f2f68eb:-1099374809,ceea37612d4f421054a9ee444c3010e9:-684073433</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>jason.evans</sys_created_by>
+        <sys_created_on>2024-07-02 12:35:47</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>73d55abebb3e4f208969a424a4f0bee1</sys_id>
+        <sys_metadata>ceea7765930f4210d59d385efaba1061</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1284052_consol_0_aircraft_buckets</sys_name>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_parent display_value="">5dea3761934f4210d59d385efaba1062</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_scope_delete display_value="">52e6fb2b6ff440dcae7286a44d209be1</sys_scope_delete>
+        <sys_update_name>sys_ui_section_ceea7765930f4210d59d385efaba1061</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_ceea7765930f4210d59d385efaba1061">54d0d47193cf4210d59d385efaba10c6</sys_update_version>
+        <sys_updated_by>jason.evans</sys_updated_by>
+        <sys_updated_on>2024-07-02 12:35:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

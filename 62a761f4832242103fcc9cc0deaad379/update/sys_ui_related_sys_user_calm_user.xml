@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="sys_user" version="2" view="CALM_User">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="User - CALM User" name="sys_user" related_list="NULL" sys_domain="global" view="2ee581b0930b0210d59d385efaba1032">05b01c3193cf4210d59d385efaba10f1</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>sys_user_has_role.user</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>jason.evans</sys_created_by>
+            <sys_created_on>2024-06-27 19:18:24</sys_created_on>
+            <sys_id>c5b01c3193cf4210d59d385efaba10f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jason.evans</sys_updated_by>
+            <sys_updated_on>2024-06-27 19:18:24</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="User - CALM User" name="sys_user" related_list="NULL" sys_domain="global" view="2ee581b0930b0210d59d385efaba1032">05b01c3193cf4210d59d385efaba10f1</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>sys_user_grmember.user</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>jason.evans</sys_created_by>
+            <sys_created_on>2024-06-27 19:18:24</sys_created_on>
+            <sys_id>cdb01c3193cf4210d59d385efaba10f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jason.evans</sys_updated_by>
+            <sys_updated_on>2024-06-27 19:18:24</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="User - CALM User" name="sys_user" related_list="NULL" sys_domain="global" view="2ee581b0930b0210d59d385efaba1032">05b01c3193cf4210d59d385efaba10f1</list_id>
+            <order_by/>
+            <position>2</position>
+            <related_list>x_1284052_consol_0_user_bucket_m2m.calms_user</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>jason.evans</sys_created_by>
+            <sys_created_on>2024-06-27 19:18:24</sys_created_on>
+            <sys_id>c1b01c3193cf4210d59d385efaba10f3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jason.evans</sys_updated_by>
+            <sys_updated_on>2024-06-27 19:18:24</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>User - CALM User</calculated_name>
+            <filter/>
+            <name>sys_user</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>jason.evans</sys_created_by>
+            <sys_created_on>2024-06-27 19:18:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>05b01c3193cf4210d59d385efaba10f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>User - CALM User</sys_name>
+            <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+            <sys_update_name>sys_ui_related_sys_user_CALM_User</sys_update_name>
+            <sys_updated_by>jason.evans</sys_updated_by>
+            <sys_updated_on>2024-06-27 19:18:24</sys_updated_on>
+            <sys_user/>
+            <view display_value="CALM User" name="CALM_User">2ee581b0930b0210d59d385efaba1032</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

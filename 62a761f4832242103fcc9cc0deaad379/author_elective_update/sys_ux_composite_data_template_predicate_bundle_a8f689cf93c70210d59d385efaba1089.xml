@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_template_predicate_bundle">
+    <sys_ux_composite_data_template_predicate_bundle action="DELETE">
+        <active>true</active>
+        <name>My Aircraft</name>
+        <sys_class_name>sys_ux_composite_data_template_predicate_bundle</sys_class_name>
+        <sys_created_by>jason.evans</sys_created_by>
+        <sys_created_on>2024-07-01 20:27:57</sys_created_on>
+        <sys_id>a8f689cf93c70210d59d385efaba1089</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Aircraft</sys_name>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_update_name>sys_ux_composite_data_template_predicate_bundle_a8f689cf93c70210d59d385efaba1089</sys_update_name>
+        <sys_updated_by>jason.evans</sys_updated_by>
+        <sys_updated_on>2024-07-01 20:27:57</sys_updated_on>
+    </sys_ux_composite_data_template_predicate_bundle>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</application>
+        <file_path/>
+        <instance_id>69ac493f1b257910ba5ceb9b2d4bcbfb</instance_id>
+        <instance_name>dev181236</instance_name>
+        <name>sys_ux_composite_data_template_predicate_bundle_a8f689cf93c70210d59d385efaba1089</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_template_predicate_bundle"><sys_ux_composite_data_template_predicate_bundle action="INSERT_OR_UPDATE"><active>true</active><name>My Aircraft</name><sys_class_name>sys_ux_composite_data_template_predicate_bundle</sys_class_name><sys_created_by>jason.evans</sys_created_by><sys_created_on>2024-07-01 20:27:57</sys_created_on><sys_id>a8f689cf93c70210d59d385efaba1089</sys_id><sys_mod_count>0</sys_mod_count><sys_name>My Aircraft</sys_name><sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package><sys_policy/><sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope><sys_update_name>sys_ux_composite_data_template_predicate_bundle_a8f689cf93c70210d59d385efaba1089</sys_update_name><sys_updated_by>jason.evans</sys_updated_by><sys_updated_on>2024-07-01 20:27:57</sys_updated_on></sys_ux_composite_data_template_predicate_bundle></record_update>]]></payload>
+        <payload_hash>592877084</payload_hash>
+        <record_name>My Aircraft</record_name>
+        <reverted_from/>
+        <source>274e7bb19343c210d59d385efaba1094</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>jason.evans</sys_created_by>
+        <sys_created_on>2024-07-01 20:27:57</sys_created_on>
+        <sys_id>36f6c9cf93c70210d59d385efaba105b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1906ffb975f0000001</sys_recorded_at>
+        <sys_updated_by>jason.evans</sys_updated_by>
+        <sys_updated_on>2024-07-01 20:27:57</sys_updated_on>
+        <type>EVAM View Config Bundle</type>
+        <update_guid>3af6c9cfddc702104ca708428cfde25a</update_guid>
+        <update_guid_history>3af6c9cfddc702104ca708428cfde25a:592877084</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>jason.evans</sys_created_by>
+        <sys_created_on>2024-07-01 20:28:28</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_composite_data_template_predicate_bundle">sys_ux_composite_data_template_predicate_bundle</sys_db_object>
+        <sys_id>058108430137493591f418917b018c51</sys_id>
+        <sys_metadata>a8f689cf93c70210d59d385efaba1089</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Aircraft</sys_name>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_scope_delete display_value="">52e6fb2b6ff440dcae7286a44d209be1</sys_scope_delete>
+        <sys_update_name>sys_ux_composite_data_template_predicate_bundle_a8f689cf93c70210d59d385efaba1089</sys_update_name>
+        <sys_update_version display_value="sys_ux_composite_data_template_predicate_bundle_a8f689cf93c70210d59d385efaba1089">36f6c9cf93c70210d59d385efaba105b</sys_update_version>
+        <sys_updated_by>jason.evans</sys_updated_by>
+        <sys_updated_on>2024-07-01 20:28:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

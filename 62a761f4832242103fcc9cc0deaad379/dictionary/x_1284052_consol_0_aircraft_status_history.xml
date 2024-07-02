@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="4654159f832e42103fcc9cc0deaad390" label="Aircraft Status History" max_length="40" name="x_1284052_consol_0_aircraft_status_history" text_index="true" type="collection">
-        <element label="Status code" max_length="32" name="status_code" reference="x_1284052_consol_0_aircraft_status" type="reference"/>
         <element label="Duration (hrs)" max_length="38" name="duration_hrs" type="decimal"/>
         <element label="Driver" max_length="32" name="driver" reference="x_1284052_consol_0_discrepancy" type="reference"/>
-        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" display="true" label="Number" max_length="40" name="number" type="string"/>
         <element label="Aircraft" max_length="32" name="aircraft" reference="x_1284052_consol_0_aircraft" type="reference"/>
         <element label="Start date time" max_length="255" name="start_date_time" type="calendar_date_time"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" display="true" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Status end date time" max_length="40" name="status_end_date_time" type="glide_date_time"/>
+        <element label="Status code" max_length="32" name="status_code" reference="x_1284052_consol_0_aircraft_status" type="reference"/>
         <index name="index">
             <element name="aircraft"/>
         </index>

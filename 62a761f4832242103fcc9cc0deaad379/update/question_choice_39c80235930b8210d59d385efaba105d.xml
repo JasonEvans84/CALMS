@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>200</order>
+        <published_ref/>
+        <question display_value="Please select the correct symbol required for this discrepancy.">033846f1930b8210d59d385efaba108c</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>rolando.garza</sys_created_by>
+        <sys_created_on>2024-06-28 04:03:00</sys_created_on>
+        <sys_id>39c80235930b8210d59d385efaba105d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>-</sys_name>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_update_name>question_choice_39c80235930b8210d59d385efaba105d</sys_update_name>
+        <sys_updated_by>rolando.garza</sys_updated_by>
+        <sys_updated_on>2024-06-28 04:03:00</sys_updated_on>
+        <text>-</text>
+        <value>-</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=39c80235930b8210d59d385efaba105d"/>
+</record_update>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="286494dd833a46103fcc9cc0deaad307" label="Component" max_length="40" name="x_1284052_consol_0_component" type="collection">
-        <element label="Nomenclature" max_length="250" name="nomenclature" type="string"/>
         <element label="Subsystem" max_length="32" name="subsystem" reference="x_1284052_consol_0_sub_systems" type="reference"/>
-        <element display="true" label="Component code" max_length="40" name="component_code" type="string"/>
+        <element label="Component code" max_length="40" name="component_code" type="string"/>
+        <element display="true" label="Nomenclature" max_length="250" name="nomenclature" type="string"/>
         <index name="index">
             <element name="subsystem"/>
         </index>

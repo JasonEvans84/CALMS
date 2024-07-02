@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="44352813938b4210d59d385efaba1082" label="Aircraft Visibility m2m" max_length="40" name="x_1284052_consol_0_aircraft_visibility_m2m" type="collection">
+        <element label="Visible unit" max_length="32" name="visible_unit" reference="x_1284052_consol_0_unit" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="CALMS User" max_length="32" name="calms_user" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="calms_user"/>
+        </index>
+        <index name="index2">
+            <element name="visible_unit"/>
+        </index>
+    </element>
+</database>

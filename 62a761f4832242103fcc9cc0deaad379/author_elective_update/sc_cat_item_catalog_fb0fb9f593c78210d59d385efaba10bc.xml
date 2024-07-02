@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Create an Aircraft Discrepancy ">1e6ef9b593c78210d59d385efaba106e</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>rolando.garza</sys_created_by>
+        <sys_created_on>2024-06-28 03:20:32</sys_created_on>
+        <sys_id>fb0fb9f593c78210d59d385efaba10bc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Create an Aircraft Discrepancy </sys_name>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_fb0fb9f593c78210d59d385efaba10bc</sys_update_name>
+        <sys_updated_by>rolando.garza</sys_updated_by>
+        <sys_updated_on>2024-06-28 03:20:32</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</application>
+        <file_path/>
+        <instance_id>69ac493f1b257910ba5ceb9b2d4bcbfb</instance_id>
+        <instance_name>dev181236</instance_name>
+        <name>sc_cat_item_catalog_fb0fb9f593c78210d59d385efaba10bc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Create an Aircraft Discrepancy ">1e6ef9b593c78210d59d385efaba106e</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>rolando.garza</sys_created_by><sys_created_on>2024-06-28 03:20:32</sys_created_on><sys_id>fb0fb9f593c78210d59d385efaba10bc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Create an Aircraft Discrepancy </sys_name><sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package><sys_policy/><sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope><sys_update_name>sc_cat_item_catalog_fb0fb9f593c78210d59d385efaba10bc</sys_update_name><sys_updated_by>rolando.garza</sys_updated_by><sys_updated_on>2024-06-28 03:20:32</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-1651703383</payload_hash>
+        <record_name>Service Catalog.Create an Aircraft Discrepancy </record_name>
+        <reverted_from/>
+        <source>fefbf9bd93438210d59d385efaba1069</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>rolando.garza</sys_created_by>
+        <sys_created_on>2024-06-28 03:20:32</sys_created_on>
+        <sys_id>f30fb9f593c78210d59d385efaba10c1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1905cdbe31f0000001</sys_recorded_at>
+        <sys_updated_by>rolando.garza</sys_updated_by>
+        <sys_updated_on>2024-06-28 03:20:32</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>f30fb9f568c78210eaf4a3050142e4c0</update_guid>
+        <update_guid_history>f30fb9f568c78210eaf4a3050142e4c0:-1651703383</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Create an Aircraft Discrepancy ">c42f3df593c78210d59d385efaba105d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>rolando.garza</sys_created_by>
+        <sys_created_on>2024-06-28 03:20:50</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>0fd505bce24d4440827a3833857c95d1</sys_id>
+        <sys_metadata>fb0fb9f593c78210d59d385efaba10bc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Create an Aircraft Discrepancy </sys_name>
+        <sys_package display_value="Consolidated Aircraft Logistics Management System" source="x_1284052_consol_0">62a761f4832242103fcc9cc0deaad379</sys_package>
+        <sys_parent display_value="">1e6ef9b593c78210d59d385efaba106e</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Consolidated Aircraft Logistics Management System">62a761f4832242103fcc9cc0deaad379</sys_scope>
+        <sys_scope_delete display_value="">52e6fb2b6ff440dcae7286a44d209be1</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_fb0fb9f593c78210d59d385efaba10bc</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_fb0fb9f593c78210d59d385efaba10bc">f30fb9f593c78210d59d385efaba10c1</sys_update_version>
+        <sys_updated_by>rolando.garza</sys_updated_by>
+        <sys_updated_on>2024-06-28 03:20:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
